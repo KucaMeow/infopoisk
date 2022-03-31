@@ -23,6 +23,19 @@ filenames = next(walk('../pages'), (None, None, []))[2]
 N = len(filenames)
 
 for filename in filenames:
+    with open('../pages/' + filename, mode='r', encoding='utf-8') as file:
+        data = file.read()
+        soup = BeautifulSoup(data, features='html.parser')
+        if not soup.find('p'):
+            continue
+        page_tokens = nltk.word_tokenize(' '.join(soup.find('p').stripped_strings).lower())
+        for token in page_tokens:
+            if token not in token_inverted_index.keys():
+                token_inverted_index[token] = []
+            if filename not in token_inverted_index[token]:
+                token_inverted_index[token].append(filename)
+
+for filename in filenames:
     # Массив токенов документа
     cleaned_tokens = []
     # Подсчет лемм в документе
@@ -33,12 +46,8 @@ for filename in filenames:
         if not soup.find('p'):
             continue
         page_tokens = nltk.word_tokenize(' '.join(soup.find('p').stripped_strings).lower())
+        print(len(page_tokens))
         for token in page_tokens:
-            if token not in token_inverted_index:
-                token_inverted_index[token] = []
-            if filename not in token_inverted_index[token]:
-                token_inverted_index[token].append(filename)
-
             parsed_token = morph.parse(token)[0]
             if parsed_token.tag.POS and parsed_token.tag.POS not in invalid_poses:
                 token_lemma = parsed_token.normal_form
