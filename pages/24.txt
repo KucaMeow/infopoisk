@@ -1,0 +1,561 @@
+<!doctype html>
+<html class="client-nojs" lang="ru" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Kimberly-Clark — Википедия</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"2f4e906a-8809-4cf7-9227-04aaf8a0a1ac","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Kimberly-Clark","wgTitle":"Kimberly-Clark","wgCurRevisionId":118856126,"wgRevisionId":118856126,"wgArticleId":1623832,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Статьи со ссылками на элементы Викиданных без русской подписи",
+"Википедия:Предприятия без указанных географических координат","Незавершённые статьи о компаниях и предприятиях США","Компании, имеющие листинг акций на Нью-Йоркской бирже","Компании по алфавиту","Компании, основанные в 1872 году","Компании Ирвинга","Производители предметов гигиены"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Kimberly-Clark","wgRelevantArticleId":1623832,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":107800727,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":
+true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":8000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q1741634","wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":true,"wgGELinkRecommendationsFrontendEnabled":true};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <noscript>
+   <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector">
+  </noscript> 
+  <meta name="generator" content="MediaWiki 1.38.0-wmf.25"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta property="og:title" content="Kimberly-Clark — Википедия"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/Kimberly-Clark"> 
+  <link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=Kimberly-Clark&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://ru.wikipedia.org/wiki/Kimberly-Clark"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Kimberly-Clark rootpage-Kimberly-Clark skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading mw-first-heading">Kimberly-Clark</h1> 
+   <div id="bodyContent" class="vector-body"> 
+    <div id="siteSub" class="noprint">
+     Материал из Википедии — свободной энциклопедии
+    </div> 
+    <div id="contentSub">
+     <div id="mw-fr-reviewnotice" class="plainlinks flaggedrevs_preview">
+      Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Kimberly-Clark&amp;stable=1">версии</a>, проверенной 22 июня 2020; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Kimberly-Clark&amp;oldid=107800727&amp;diff=cur&amp;diffonly=0">7 правок</a>.
+     </div>
+     <div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint">
+      <div class="flaggedrevs_short_basic">
+       <span title="Текущая версия" class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget"></span><span id="mw-fr-revisiontoggle" title="показать/скрыть подробности" class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget"></span>
+      </div> 
+      <div id="mw-fr-revisiondetails-wrapper" style="position:relative;">
+       <div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">
+        Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Kimberly-Clark&amp;stable=1">версии</a>, проверенной 22 июня 2020; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Kimberly-Clark&amp;oldid=107800727&amp;diff=cur&amp;diffonly=0">7 правок</a>.
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Перейти к навигации</a> <a class="mw-jump-link" href="#searchInput">Перейти к поиску</a> 
+    <div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr">
+     <div class="mw-parser-output">
+      <table class="infobox" style="" data-name="Компания">
+       <tbody>
+        <tr>
+         <th colspan="2" scope="colgroup" class="infobox-above" style="">Kimberly-Clark Corporation</th>
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-image" style="padding:.75em 0;"> <span data-wikidata-property-id="P154" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Kimberly-Clark.svg" class="image"><img alt="Изображение логотипа" src="//upload.wikimedia.org/wikipedia/ru/thumb/9/9a/Kimberly-Clark.svg/200px-Kimberly-Clark.svg.png" decoding="async" width="200" height="29" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/9/9a/Kimberly-Clark.svg/300px-Kimberly-Clark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/9/9a/Kimberly-Clark.svg/400px-Kimberly-Clark.svg.png 2x" data-file-width="98" data-file-height="14"></a></span> </td>
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Тип</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P1454" class="no-wikidata"><a href="/wiki/%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Публичная компания">Публичная компания</a></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist"><a href="/wiki/%D0%9B%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%B3_(%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="Листинг (экономика)">Листинг</a> на бирже</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P414" class="no-wikidata"><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D0%BE%D0%BD%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B1%D0%B8%D1%80%D0%B6%D0%B0" title="Нью-Йоркская фондовая биржа">NYSE</a>: <span data-wikidata-qualifier-id="P249"><b><a rel="nofollow" class="external text" href="https://www.nyse.com/quote/XNYS:KMB">KMB</a></b></span></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Основание</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P571" class="no-wikidata"><a href="/wiki/1872" class="mw-redirect" title="1872">1872</a></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Основатели</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P112" class="no-wikidata">Джон Кимберли и Чарльз Кларк</span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Расположение</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P159" class="no-wikidata"><span class="nowrap" data-sort-value="США"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" decoding="async" width="22" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650"></span>&nbsp;<a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки"><span class="wrap">США</span></a></span>: <a href="/wiki/%D0%98%D1%80%D0%B2%D0%B8%D0%BD%D0%B3_(%D0%A2%D0%B5%D1%85%D0%B0%D1%81)" title="Ирвинг (Техас)">Ирвинг</a> (штат <a href="/wiki/%D0%A2%D0%B5%D1%85%D0%B0%D1%81" title="Техас">Техас</a>)</span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Ключевые фигуры</th> 
+         <td class="plainlist"> Томас Дж. Фолк (председатель совета директоров и генеральный директор)</td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Отрасль</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P452" class="no-wikidata">Лёгкая промышленность</span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82_(%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81)" title="Продукт (бизнес)">Продукция</a></th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P1056" class="no-wikidata">Продукция для здравоохранения, личной, профессиональной и промышленной гигиены</span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist"><a href="/wiki/%D0%92%D1%8B%D1%80%D1%83%D1%87%D0%BA%D0%B0" title="Выручка">Оборот</a></th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P2139" class="no-wikidata"><span style="color:#0c0; font-size:larger" aria-label="Рост">▲</span> $19,746 млрд (2010 год)</span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist"><a href="/wiki/%D0%A7%D0%B8%D1%81%D1%82%D0%B0%D1%8F_%D0%BF%D1%80%D0%B8%D0%B1%D1%8B%D0%BB%D1%8C" title="Чистая прибыль">Чистая прибыль</a></th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P2295" class="no-wikidata"><span style="color:red; font-size:larger" aria-label="Падение">▼</span> $1,843 млрд (2010 год)</span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Число сотрудников</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P1128" class="no-wikidata">57 тыс. (2011 год)</span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Дочерние компании</th> 
+         <td class="plainlist"> <span data-wikidata-claim-id="Q1741634$7C69527F-D497-4464-83D6-F67BA8A16B25" class="wikidata-claim" data-wikidata-property-id="P355"><span class="wikidata-snak wikidata-main-snak"><span class="plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Kimberly-Clark+%28Canada%29&amp;action=edit&amp;editintro=T:Нет_статьи/editintro&amp;preload=T:Нет_статьи/preload&amp;preloadparams%5B%5D=Q28999542&amp;preloadparams%5B%5D=Kimberly-Clark+%28Canada%29&amp;preloadparams%5B%5D=Универсальная+карточка"><span style="color: #ba0000; text-decoration: inherit; -moz-text-decoration-color: #ba0000; text-decoration-color: #ba0000;">Kimberly-Clark (Canada)</span></a></span><sup><a href="https://www.wikidata.org/wiki/Q28999542" class="extiw" title="d:Q28999542">[d]</a></sup></span></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Сайт</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P856" class="no-wikidata"><a rel="nofollow" class="external text" href="http://www.kimberly-clark.com">www.kimberly-clark.com</a></span></td> 
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="q1741634$1CF0F4E3-2C0C-4AEF-B831-721586FAE877" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><a href="https://commons.wikimedia.org/wiki/Category:Kimberly-Clark" title="commons:Category:Kimberly-Clark"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a>&nbsp;<a href="https://commons.wikimedia.org/wiki/Category:Kimberly-Clark" class="extiw" title="commons:Category:Kimberly-Clark">Медиафайлы на Викискладе</a></span></span></td>
+        </tr> 
+       </tbody>
+      </table> 
+      <p><b>Kimberly-Clark Corporation</b> (произносится <i>Кимберли-кларк корпорейшн</i>)&nbsp;— <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">американская</a> корпорация, один из лидеров по выпуску продукции для здравоохранения, личной, профессиональной и промышленной гигиены. Штаб-квартира компании расположена в городе <a href="/wiki/%D0%98%D1%80%D0%B2%D0%B8%D0%BD%D0%B3_(%D0%A2%D0%B5%D1%85%D0%B0%D1%81)" title="Ирвинг (Техас)">Ирвинг</a> (штат <a href="/wiki/%D0%A2%D0%B5%D1%85%D0%B0%D1%81" title="Техас">Техас</a>). </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="ru" dir="ltr">
+        <h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#Слияния_и_поглощения"><span class="tocnumber">1.1</span> <span class="toctext">Слияния и поглощения</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Собственники_и_руководство"><span class="tocnumber">2</span> <span class="toctext">Собственники и руководство</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Деятельность"><span class="tocnumber">3</span> <span class="toctext">Деятельность</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-5"><a href="#Кимберли-Кларк_в_России"><span class="tocnumber">3.1</span> <span class="toctext">Кимберли-Кларк в России</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Примечания"><span class="tocnumber">4</span> <span class="toctext">Примечания</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Ссылки"><span class="tocnumber">5</span> <span class="toctext">Ссылки</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kimberly-Clark&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «История»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kimberly-Clark&amp;action=edit&amp;section=1" title="Редактировать раздел «История»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Основана в <a href="/wiki/1872_%D0%B3%D0%BE%D0%B4" title="1872 год">1872&nbsp;году</a> в городе Нина (Neenah), штат <a href="/wiki/%D0%92%D0%B8%D1%81%D0%BA%D0%BE%D0%BD%D1%81%D0%B8%D0%BD" title="Висконсин">Висконсин</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>, Джоном Кимберли (John Kimberly) и Чарльзом Кларком (Charles Clark). </p>
+      <p>В <a href="/wiki/1920_%D0%B3%D0%BE%D0%B4" title="1920 год">1920&nbsp;году</a> изобретен первый продукт компании для потребителей&nbsp;— женские прокладки Kotex. Также в 20-е годы появились салфетки для лица Kleenex. Кроме того, считается, что корпорация первой изобрела <a href="/wiki/%D0%A2%D1%83%D0%B0%D0%BB%D0%B5%D1%82%D0%BD%D0%B0%D1%8F_%D0%B1%D1%83%D0%BC%D0%B0%D0%B3%D0%B0" title="Туалетная бумага">туалетную бумагу</a> в рулонах (1890 год), бумажные полотенца (1907 год) и одноразовую специальную одежду<sup id="cite_ref-вед_08_10_1-0" class="reference"><a href="#cite_note-вед_08_10-1">[1]</a></sup>. </p> 
+      <h3><span id=".D0.A1.D0.BB.D0.B8.D1.8F.D0.BD.D0.B8.D1.8F_.D0.B8_.D0.BF.D0.BE.D0.B3.D0.BB.D0.BE.D1.89.D0.B5.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Слияния_и_поглощения">Слияния и поглощения</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kimberly-Clark&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Слияния и поглощения»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kimberly-Clark&amp;action=edit&amp;section=2" title="Редактировать раздел «Слияния и поглощения»">править код</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>В <a href="/wiki/1995_%D0%B3%D0%BE%D0%B4" title="1995 год">1995&nbsp;году</a> Кимберли-Кларк завершила крупнейшую сделку в своей истории&nbsp;— слияние с компанией <a href="/wiki/Scott_Paper_Company" title="Scott Paper Company">Scott Paper Company</a>. </p>
+      <p>В 2000-х годах компания поглотила несколько компаний, в частности, производителя медицинских масок Tecnol (2000 год), компанию Safeskin (производитель медицинских перчаток), компанию Ballard (производитель устройств, помогающих снизить боль после операций и травм)<sup id="cite_ref-вед_08_10_1-1" class="reference"><a href="#cite_note-вед_08_10-1">[1]</a></sup>. </p> 
+      <h2><span id=".D0.A1.D0.BE.D0.B1.D1.81.D1.82.D0.B2.D0.B5.D0.BD.D0.BD.D0.B8.D0.BA.D0.B8_.D0.B8_.D1.80.D1.83.D0.BA.D0.BE.D0.B2.D0.BE.D0.B4.D1.81.D1.82.D0.B2.D0.BE"></span><span class="mw-headline" id="Собственники_и_руководство">Собственники и руководство</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kimberly-Clark&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Собственники и руководство»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kimberly-Clark&amp;action=edit&amp;section=3" title="Редактировать раздел «Собственники и руководство»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Все акции компании по состоянию на середину 2010 года находились в свободном обращении на бирже; крупнейший институциональный инвестор&nbsp;— компания <a href="/wiki/State_Street_Global_Advisors" title="State Street Global Advisors">State Street Global Advisors</a> (3,72&nbsp;%)<sup id="cite_ref-вед_08_10_1-2" class="reference"><a href="#cite_note-вед_08_10-1">[1]</a></sup>. </p>
+      <p>Председатель совета директоров и генеральный директор компании&nbsp;— Томас Дж. Фолк (<i>Thomas J. Falk</i>). </p> 
+      <h2><span id=".D0.94.D0.B5.D1.8F.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D0.BE.D1.81.D1.82.D1.8C"></span><span class="mw-headline" id="Деятельность">Деятельность</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kimberly-Clark&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Деятельность»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kimberly-Clark&amp;action=edit&amp;section=4" title="Редактировать раздел «Деятельность»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Основные торговые марки компании&nbsp;— <a href="/wiki/Huggies" class="mw-redirect" title="Huggies">Huggies</a>, <a href="/w/index.php?title=Kleenex&amp;action=edit&amp;redlink=1" class="new" title="Kleenex (страница отсутствует)">Kleenex</a>, <a href="/w/index.php?title=Kotex&amp;action=edit&amp;redlink=1" class="new" title="Kotex (страница отсутствует)">Kotex</a>, Scott, Kimcare, Wypall, Kimtech, KleenGuard; продажи продукции компании осуществляются более чем в 150 странах<sup id="cite_ref-about_2-0" class="reference"><a href="#cite_note-about-2">[2]</a></sup>. </p>
+      <p>Численность персонала на 2011 год&nbsp;— 57 тыс. человек. Выручка&nbsp;в 2010 году составила $19,746&nbsp;млрд (рост на 3,3&nbsp;% по сравнению с аналогичным периодом прошлого года), чистая прибыль&nbsp;— $1,843&nbsp;млрд (падение на 2,2&nbsp;%)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>. </p> 
+      <h3><span id=".D0.9A.D0.B8.D0.BC.D0.B1.D0.B5.D1.80.D0.BB.D0.B8-.D0.9A.D0.BB.D0.B0.D1.80.D0.BA_.D0.B2_.D0.A0.D0.BE.D1.81.D1.81.D0.B8.D0.B8"></span><span class="mw-headline" id="Кимберли-Кларк_в_России">Кимберли-Кларк в России</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kimberly-Clark&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Кимберли-Кларк в России»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kimberly-Clark&amp;action=edit&amp;section=5" title="Редактировать раздел «Кимберли-Кларк в России»">править код</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Компания «Кимберли-Кларк» открыла своё представительство в <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">России</a> в 1996 году. В 1997 году компания уже начала осуществлять отгрузки продукции в Казахстан, Грузию и Украину. В 1999 году приступил к работе офис «Кимберли-Кларк» на Украине. С 2001 года компания открыла 5 складов в России и СНГ для хранения продукции, ввозимой из стран Западной Европы и Южной Кореи. В 2007 году «Кимберли-Кларк» вошла в десятку «Лучших работодателей России». Основные конкуренты на российском рынке&nbsp;— <a href="/wiki/P%26G" class="mw-redirect" title="P&amp;G">P&amp;G</a>, <a href="/wiki/Johnson_%26_Johnson" title="Johnson &amp; Johnson">Johnson &amp; Johnson</a>. </p>
+      <p>Летом 2010 года компания запустила завод по производству средств личной гигиены в Московской области, около города <a href="/wiki/%D0%A1%D1%82%D1%83%D0%BF%D0%B8%D0%BD%D0%BE" title="Ступино">Ступино</a>, приблизительно в 100&nbsp;км на юго-восток от Москвы, занимающий площадь около 40 га. Завод производит продукцию для личной гигиены под торговой маркой "Huggies"<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup><sup id="cite_ref-about_2-1" class="reference"><a href="#cite_note-about-2">[2]</a></sup>. </p>
+      <p>Генеральный директор «Кимберли-Кларк» по Восточной Европе&nbsp;— Аарон Пауэл. </p> 
+      <h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kimberly-Clark&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kimberly-Clark&amp;action=edit&amp;section=6" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist columns" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-вед_08_10-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-вед_08_10_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-вед_08_10_1-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-вед_08_10_1-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><i>Мария Дранишникова</i>. «Русские мамочки&nbsp;— большие модницы»,&nbsp;— Томас Дж. Фолк, председатель совета директоров и генеральный директор Kimberly-Clark // Ведомости, 03.08.2010, №&nbsp;142 (2660)</span> </li> 
+         <li id="cite_note-about-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-about_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-about_2-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.kimberly-clark.com/aboutus/company_profile.aspx">Welcome to Kimberly-Clark</a> // kimberly-clark.com &nbsp;<small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 3&nbsp;августа&nbsp;2010)</small></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://money.cnn.com/magazines/fortune/global500/2011/snapshots/249.html">Компания на money.cnn.com</a></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.kimberly-clark.ru/?page=2&amp;part=3">Кто мы</a></span><span class="hidden-ref" style="display:none"><b>&nbsp;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>&nbsp;<small class="ref-info">(недоступная ссылка)</small>. // kimberly-clark.ru. <small>Дата обращения: 14 июня 2012.</small> <small><a rel="nofollow" class="external text" href="https://www.webcitation.org/68kNjZsb2?url=http://www.kimberly-clark.ru/?page=2">Архивировано</a> 28&nbsp;июня 2012&nbsp;года.</small></span></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.unipack.ru/19954/">Корпорация Кимберли-Кларк объявляет о начале строительства первого завода в России</a></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kimberly-Clark&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Kimberly-Clark&amp;action=edit&amp;section=7" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110225011523/http://www.kimberly-clark.com/">Официальный сайт компании </a></li> 
+       <li><a rel="nofollow" class="external text" href="http://blitzair.ru">Официальный дистрибьютор компании&nbsp;<b>Кимберли</b>&nbsp;<b>Кларк - Компания Блиц-АИР</b></a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="База_расчёта_индекса_IPC_Мексиканской_фондовой_биржи" data-name="IPC index">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:IPC_index" title="Перейти к шаблону «IPC index»"><img alt="Перейти к шаблону «IPC index»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;</span>
+           <div id="База_расчёта_индекса_IPC_Мексиканской_фондовой_биржи" style="font-size:114%;margin:0 5em">
+            База расчёта индекса <a href="/w/index.php?title=IPC_(%D0%B1%D0%B8%D1%80%D0%B6%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81)&amp;action=edit&amp;redlink=1" class="new" title="IPC (биржевой индекс) (страница отсутствует)">IPC</a> <a href="/wiki/%D0%9C%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D0%BE%D0%BD%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B1%D0%B8%D1%80%D0%B6%D0%B0" title="Мексиканская фондовая биржа">Мексиканской фондовой биржи</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="NavContent"> 
+             <ul>
+              <li><a href="/w/index.php?title=Grupo_Alfa&amp;action=edit&amp;redlink=1" class="new" title="Grupo Alfa (страница отсутствует)">Alfa</a></li> 
+              <li><a href="/wiki/Am%C3%A9rica_M%C3%B3vil" title="América Móvil">América Móvil</a></li> 
+              <li><a href="/w/index.php?title=Am%C3%A9rica_Telecom&amp;action=edit&amp;redlink=1" class="new" title="América Telecom (страница отсутствует)">América Telecom</a></li> 
+              <li><a href="/w/index.php?title=Apasco&amp;action=edit&amp;redlink=1" class="new" title="Apasco (страница отсутствует)">Apasco</a></li> 
+              <li><a href="/w/index.php?title=Axtel&amp;action=edit&amp;redlink=1" class="new" title="Axtel (страница отсутствует)">Axtel</a></li> 
+              <li><a href="/wiki/Grupo_Carso" title="Grupo Carso">Carso Telekom</a></li> 
+              <li><a href="/w/index.php?title=Iusacell&amp;action=edit&amp;redlink=1" class="new" title="Iusacell (страница отсутствует)">Cel V unit of Iusacell</a></li> 
+              <li><a href="/wiki/Cemex" title="Cemex">Cemex</a></li> 
+              <li><a href="/w/index.php?title=Consorcio_Ara&amp;action=edit&amp;redlink=1" class="new" title="Consorcio Ara (страница отсутствует)">Consorcio Ara</a></li> 
+              <li><a href="/w/index.php?title=Comercial_Mexicana&amp;action=edit&amp;redlink=1" class="new" title="Comercial Mexicana (страница отсутствует)">Controladora Comercial Mexicana</a></li> 
+              <li><a href="/w/index.php?title=Corporaci%C3%B3n_Geo&amp;action=edit&amp;redlink=1" class="new" title="Corporación Geo (страница отсутствует)">Corporación Geo</a></li> 
+              <li><a href="/w/index.php?title=Grupo_CIE&amp;action=edit&amp;redlink=1" class="new" title="Grupo CIE (страница отсутствует)">Corporación Interamericana de Entretenimiento</a></li> 
+              <li><a href="/w/index.php?title=Desc&amp;action=edit&amp;redlink=1" class="new" title="Desc (страница отсутствует)">Desc</a></li> 
+              <li><a href="/w/index.php?title=FEMSA&amp;action=edit&amp;redlink=1" class="new" title="FEMSA (страница отсутствует)">Fomento Económico Mexicano</a></li> 
+              <li><a href="/w/index.php?title=Grupo_Bimbo&amp;action=edit&amp;redlink=1" class="new" title="Grupo Bimbo (страница отсутствует)">Grupo Bimbo</a></li> 
+              <li><a href="/wiki/Grupo_Carso" title="Grupo Carso">Grupo Carso</a></li> 
+              <li><a href="/w/index.php?title=Grupo_Continental&amp;action=edit&amp;redlink=1" class="new" title="Grupo Continental (страница отсутствует)">Grupo Continental</a></li> 
+              <li><a href="/w/index.php?title=Grupo_Elektra&amp;action=edit&amp;redlink=1" class="new" title="Grupo Elektra (страница отсутствует)">Grupo Elektra</a></li> 
+              <li><a href="/wiki/Banorte" title="Banorte">Grupo Financiero Banorte</a></li> 
+              <li><a href="/w/index.php?title=Bancomer&amp;action=edit&amp;redlink=1" class="new" title="Bancomer (страница отсутствует)">Grupo Financiero BBVA Bancomer</a></li> 
+              <li><a href="/w/index.php?title=Grupo_Financiero_Inbursa&amp;action=edit&amp;redlink=1" class="new" title="Grupo Financiero Inbursa (страница отсутствует)">Grupo Financiero Inbursa</a></li> 
+              <li><a href="/w/index.php?title=Grupo_Industrial_Saltillo&amp;action=edit&amp;redlink=1" class="new" title="Grupo Industrial Saltillo (страница отсутствует)">Grupo Industrial Saltillo</a></li> 
+              <li><a href="/w/index.php?title=Grupo_Iusacell&amp;action=edit&amp;redlink=1" class="new" title="Grupo Iusacell (страница отсутствует)">Grupo Iusacell</a></li> 
+              <li><a href="/w/index.php?title=Grupo_M%C3%A9xico&amp;action=edit&amp;redlink=1" class="new" title="Grupo México (страница отсутствует)">Grupo México</a></li> 
+              <li><a href="/w/index.php?title=Grupo_Modelo&amp;action=edit&amp;redlink=1" class="new" title="Grupo Modelo (страница отсутствует)">Grupo Modelo</a></li> 
+              <li><a href="/w/index.php?title=Empresas_ICA_Sociedad_Controladora&amp;action=edit&amp;redlink=1" class="new" title="Empresas ICA Sociedad Controladora (страница отсутствует)">Empresas ICA Sociedad Controladora</a></li> 
+              <li><a href="/w/index.php?title=Industrias_Pe%C3%B1oles&amp;action=edit&amp;redlink=1" class="new" title="Industrias Peñoles (страница отсутствует)">Industrias Peñoles</a></li> 
+              <li><a class="mw-selflink selflink">Kimberly-Clark</a></li> 
+              <li><a href="/w/index.php?title=Soriana&amp;action=edit&amp;redlink=1" class="new" title="Soriana (страница отсутствует)">Organización Soriana</a></li> 
+              <li><a href="/w/index.php?title=Savia&amp;action=edit&amp;redlink=1" class="new" title="Savia (страница отсутствует)">Savia</a></li> 
+              <li><a href="/wiki/Telmex" title="Telmex">Telmex</a></li> 
+              <li><a href="/wiki/Televisa" title="Televisa">Televisa</a></li> 
+              <li><a href="/wiki/TV_Azteca" title="TV Azteca">TV Azteca</a></li> 
+              <li><a href="/w/index.php?title=US_Commercial&amp;action=edit&amp;redlink=1" class="new" title="US Commercial (страница отсутствует)">US Commercial</a></li> 
+              <li><a href="/w/index.php?title=Vitro&amp;action=edit&amp;redlink=1" class="new" title="Vitro (страница отсутствует)">Vitro</a></li> 
+              <li><a href="/w/index.php?title=Walmex&amp;action=edit&amp;redlink=1" class="new" title="Walmex (страница отсутствует)">Walmex</a> C</li> 
+              <li><a href="/w/index.php?title=Walmex&amp;action=edit&amp;redlink=1" class="new" title="Walmex (страница отсутствует)">Walmex</a> V</li>
+             </ul> 
+            </div>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="База_расчёта_индекса_S&amp;amp;P_Latin_America_40" data-name="S&amp;#38;P Latin America 40">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:S%26P_Latin_America_40" title="Перейти к шаблону «S&amp;P Latin America 40»"><img alt="Перейти к шаблону «S&amp;P Latin America 40»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;</span>
+           <div id="База_расчёта_индекса_S&amp;amp;P_Latin_America_40" style="font-size:114%;margin:0 5em">
+            База расчёта индекса <a href="/w/index.php?title=S%26P_Latin_America_40&amp;action=edit&amp;redlink=1" class="new" title="S&amp;P Latin America 40 (страница отсутствует)">S&amp;P Latin America 40</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="NavContent"> 
+             <ul>
+              <li><a href="/w/index.php?title=Grupo_Alfa&amp;action=edit&amp;redlink=1" class="new" title="Grupo Alfa (страница отсутствует)">Alfa</a></li> 
+              <li><a href="/wiki/AmBev" class="mw-redirect" title="AmBev">AmBev</a></li> 
+              <li><a href="/wiki/Am%C3%A9rica_M%C3%B3vil" title="América Móvil">América Móvil</a></li> 
+              <li><a href="/w/index.php?title=Aracruz_Celulose&amp;action=edit&amp;redlink=1" class="new" title="Aracruz Celulose (страница отсутствует)">Aracruz Celulose</a></li> 
+              <li><a href="/wiki/Banco_de_Chile" title="Banco de Chile">Banco de Chile</a></li> 
+              <li><a href="/w/index.php?title=Banco_Santander_Chile&amp;action=edit&amp;redlink=1" class="new" title="Banco Santander Chile (страница отсутствует)">Banco Santander Chile</a></li> 
+              <li><a href="/wiki/Banco_Bradesco" title="Banco Bradesco">Bradesco</a></li> 
+              <li><a href="/w/index.php?title=Brasil_Telecom&amp;action=edit&amp;redlink=1" class="new" title="Brasil Telecom (страница отсутствует)">Brasil Telecom</a></li> 
+              <li><a href="/wiki/Cemex" title="Cemex">Cemex</a></li> 
+              <li><a href="/w/index.php?title=CEMIG&amp;action=edit&amp;redlink=1" class="new" title="CEMIG (страница отсутствует)">CEMIG</a></li> 
+              <li><a href="/w/index.php?title=Compa%C3%B1ia_de_Minas_Buenaventura&amp;action=edit&amp;redlink=1" class="new" title="Compañia de Minas Buenaventura (страница отсутствует)">Compañia de Minas Buenaventura</a></li> 
+              <li><a href="/w/index.php?title=Cencosud_S.A.&amp;action=edit&amp;redlink=1" class="new" title="Cencosud S.A. (страница отсутствует)">Cencosud</a></li> 
+              <li><a href="/w/index.php?title=Copec&amp;action=edit&amp;redlink=1" class="new" title="Copec (страница отсутствует)">Copec</a></li> 
+              <li><a href="/w/index.php?title=Companhia_Sider%C3%BArgica_Nacional&amp;action=edit&amp;redlink=1" class="new" title="Companhia Siderúrgica Nacional (страница отсутствует)">Companhia Siderúrgica Nacional</a></li> 
+              <li><a href="/w/index.php?title=Copel&amp;action=edit&amp;redlink=1" class="new" title="Copel (страница отсутствует)">Copel</a></li> 
+              <li><a href="/w/index.php?title=Cyrela_Brazil_Realty&amp;action=edit&amp;redlink=1" class="new" title="Cyrela Brazil Realty (страница отсутствует)">Cyrela Brazil Realty</a></li> 
+              <li><a href="/w/index.php?title=Eletrobr%C3%A1s&amp;action=edit&amp;redlink=1" class="new" title="Eletrobrás (страница отсутствует)">Eletrobrás</a></li> 
+              <li><a href="/wiki/Embraer" title="Embraer">Embraer</a></li> 
+              <li><a href="/w/index.php?title=Empresa&amp;action=edit&amp;redlink=1" class="new" title="Empresa (страница отсутствует)">Empresa</a></li> 
+              <li><a href="/w/index.php?title=Endesa_(%D0%A7%D0%B8%D0%BB%D0%B8)&amp;action=edit&amp;redlink=1" class="new" title="Endesa (Чили) (страница отсутствует)">Endesa-Chile</a></li> 
+              <li><a href="/w/index.php?title=Enersis&amp;action=edit&amp;redlink=1" class="new" title="Enersis (страница отсутствует)">Enersis</a></li> 
+              <li><a href="/w/index.php?title=FEMSA&amp;action=edit&amp;redlink=1" class="new" title="FEMSA (страница отсутствует)">FEMSA</a></li> 
+              <li><a href="/wiki/Gerdau" title="Gerdau">Gerdau</a></li> 
+              <li><a href="/wiki/Grupo_Carso" title="Grupo Carso">Grupo Carso</a></li> 
+              <li><a href="/w/index.php?title=Grupo_Modelo&amp;action=edit&amp;redlink=1" class="new" title="Grupo Modelo (страница отсутствует)">Grupo Modelo</a></li> 
+              <li><a href="/wiki/Televisa" title="Televisa">Grupo Televisa</a></li> 
+              <li><a href="/wiki/Ita%C3%BA_Unibanco" title="Itaú Unibanco">Itaú Unibanco</a></li> 
+              <li><a href="/wiki/Ita%C3%BAsa" title="Itaúsa">Itaúsa</a></li> 
+              <li><a class="mw-selflink selflink">Kimberly-Clark de Mexico</a></li> 
+              <li><a href="/wiki/LAN_Airlines" class="mw-redirect" title="LAN Airlines">LAN Airlines</a></li> 
+              <li><a href="/wiki/Petrobras" title="Petrobras">Petrobras</a></li> 
+              <li><a href="/wiki/Petrobras" title="Petrobras">Petrobras Energia</a></li> 
+              <li><a href="/w/index.php?title=Falabella&amp;action=edit&amp;redlink=1" class="new" title="Falabella (страница отсутствует)">S.A.C.I. Falabella</a></li> 
+              <li><a href="/w/index.php?title=Sociedad_Qu%C3%ADmica_y_Minera_de_Chile&amp;action=edit&amp;redlink=1" class="new" title="Sociedad Química y Minera de Chile (страница отсутствует)">SQM</a></li> 
+              <li><a href="/w/index.php?title=Telemar_Norte_Leste&amp;action=edit&amp;redlink=1" class="new" title="Telemar Norte Leste (страница отсутствует)">Telemar Norte Leste</a></li> 
+              <li><a href="/wiki/Telmex" title="Telmex">Telmex</a></li> 
+              <li><a href="/wiki/Tenaris" title="Tenaris">Tenaris</a></li> 
+              <li><a href="/w/index.php?title=Vale_(mining_company)&amp;action=edit&amp;redlink=1" class="new" title="Vale (mining company) (страница отсутствует)">Vale</a></li> 
+              <li><a href="/w/index.php?title=Walmex&amp;action=edit&amp;redlink=1" class="new" title="Walmex (страница отсутствует)">Wal-Mart de Mexico</a></li>
+             </ul> 
+            </div>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <table class="plainlinks metadata ambox ambox-style" role="presentation" style="border:0; background:none; margin:0; font-style:italic;">
+       <tbody>
+        <tr>
+         <td class="mbox-image">
+          <div style="width:52px">
+           <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Factory_USA.svg" class="image"><img alt="Factory USA.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Factory_USA.svg/30px-Factory_USA.svg.png" decoding="async" width="30" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Factory_USA.svg/45px-Factory_USA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Factory_USA.svg/60px-Factory_USA.svg.png 2x" data-file-width="465" data-file-height="390"></a>
+          </div></td>
+         <td class="mbox-text">
+          <div class="mbox-text-div">
+           Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Заготовка статьи">заготовка статьи</a> о компании <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>. Вы можете помочь проекту, дополнив её.
+          </div>
+          <div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"></div></td>
+        </tr>
+       </tbody>
+      </table> <!-- 
+NewPP limit report
+Parsed by mw1352
+Cached time: 20220228052230
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.556 seconds
+Real time usage: 0.699 seconds
+Preprocessor visited node count: 1893/1000000
+Post‐expand include size: 45887/2097152 bytes
+Template argument size: 8351/2097152 bytes
+Highest expansion depth: 15/100
+Expensive parser function count: 10/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3616/5000000 bytes
+Lua time usage: 0.302/10.000 seconds
+Lua memory usage: 5324624/52428800 bytes
+Number of Wikibase entities loaded: 11/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  613.894      1 -total
+ 70.91%  435.303      1 Шаблон:Карточка_компании
+ 65.19%  400.176      1 Шаблон:Карточка
+ 25.68%  157.674      7 Шаблон:Wikidata
+ 16.62%  102.045      1 Шаблон:Карточка/оригинал_названия
+ 10.19%   62.550      1 Шаблон:Примечания
+  9.84%   60.410      1 Шаблон:US-manufacturing-company-stub
+  9.12%   55.961      1 Шаблон:Stub-meta
+  8.64%   53.016      1 Шаблон:Ambox
+  6.99%   42.909      1 Шаблон:Cite_web
+--> <!-- Saved in parser cache with key ruwiki:pcache:idhash:1623832-0!canonical and timestamp 20220228052229 and revision id 118856126. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Kimberly-Clark&amp;oldid=118856126">https://ru.wikipedia.org/w/index.php?title=Kimberly-Clark&amp;oldid=118856126</a>
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8,_%D0%B8%D0%BC%D0%B5%D1%8E%D1%89%D0%B8%D0%B5_%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%B3_%D0%B0%D0%BA%D1%86%D0%B8%D0%B9_%D0%BD%D0%B0_%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA%D1%81%D0%BA%D0%BE%D0%B9_%D0%B1%D0%B8%D1%80%D0%B6%D0%B5" title="Категория:Компании, имеющие листинг акций на Нью-Йоркской бирже">Компании, имеющие листинг акций на Нью-Йоркской бирже</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Компании по алфавиту">Компании по алфавиту</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8,_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_1872_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Компании, основанные в 1872 году">Компании, основанные в 1872 году</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8_%D0%98%D1%80%D0%B2%D0%B8%D0%BD%D0%B3%D0%B0" title="Категория:Компании Ирвинга">Компании Ирвинга</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B8_%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BE%D0%B2_%D0%B3%D0%B8%D0%B3%D0%B8%D0%B5%D0%BD%D1%8B" title="Категория:Производители предметов гигиены">Производители предметов гигиены</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Скрытые категории: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B1%D0%B5%D0%B7_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9_%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8" title="Категория:Википедия:Статьи со ссылками на элементы Викиданных без русской подписи">Википедия:Статьи со ссылками на элементы Викиданных без русской подписи</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F_%D0%B1%D0%B5%D0%B7_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82" title="Категория:Википедия:Предприятия без указанных географических координат">Википедия:Предприятия без указанных географических координат</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE_%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%D1%85_%D0%B8_%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F%D1%85_%D0%A1%D0%A8%D0%90" title="Категория:Незавершённые статьи о компаниях и предприятиях США">Незавершённые статьи о компаниях и предприятиях США</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Навигация</h2> 
+   <div id="mw-head"> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"> <label id="p-personal-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Персональные инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage" class="mw-list-item"><span>Вы не представились системе</span></li>
+       <li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li>
+       <li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li>
+       <li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=Kimberly-Clark" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li>
+       <li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=Kimberly-Clark" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> <label id="p-namespaces-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Пространства имён</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Kimberly-Clark" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li>
+        <li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Kimberly-Clark" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> <label id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading"> <span class="vector-menu-heading-label">русский</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> <label id="p-views-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Просмотры</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="mw-list-item"><a href="/w/index.php?title=Kimberly-Clark&amp;stable=1"><span>Читать</span></a></li>
+        <li id="ca-current" class="collapsible selected mw-list-item"><a href="/w/index.php?title=Kimberly-Clark&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v"><span>Текущая версия</span></a></li>
+        <li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=Kimberly-Clark&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li>
+        <li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=Kimberly-Clark&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li>
+        <li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Kimberly-Clark&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" title="Больше возможностей"> 
+      <input type="checkbox" id="p-cactions-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-cactions" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> <label id="p-cactions-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Ещё</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box"> 
+      <div> 
+       <h3> <label for="searchInput">Поиск</label> </h3> 
+       <form action="/w/index.php" id="searchform" class="vector-search-box-form"> 
+        <div id="simpleSearch" class="vector-search-box-inner" data-search-loc="header-navigation"> 
+         <input class="vector-search-box-input" type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"> 
+         <input type="hidden" name="title" value="Служебная:Поиск"> 
+         <input id="mw-searchButton" class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти"> 
+         <input id="searchButton" class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти"> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a> 
+    </div> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> <label id="p-navigation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Навигация</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li>
+       <li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li>
+       <li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li>
+       <li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li>
+       <li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li>
+       <li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"> <label id="p-participation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Участие</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об&nbsp;ошибке</span></a></li>
+       <li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li>
+       <li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li>
+       <li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li>
+       <li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li>
+       <li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li>
+       <li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> <label id="p-tb-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/Kimberly-Clark" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li>
+       <li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/Kimberly-Clark" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li>
+       <li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+       <li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Kimberly-Clark&amp;oldid=118856126" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li>
+       <li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Kimberly-Clark&amp;action=info" title="Подробнее об этой странице"><span>Сведения о&nbsp;странице</span></a></li>
+       <li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=Kimberly-Clark&amp;id=118856126&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li>
+       <li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1741634" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> <label id="p-coll-print_export-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Печать/экспорт</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=Kimberly-Clark" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li>
+       <li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=Kimberly-Clark&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li>
+       <li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Kimberly-Clark&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> <label id="p-wikibase-otherprojects-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">В других проектах</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Kimberly-Clark" hreflang="en"><span>Викисклад</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> <label id="p-lang-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">На других языках</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%83%D9%85%D8%A8%D8%B1%D9%84%D9%8A-%D9%83%D9%84%D8%A7%D8%B1%D9%83" title="كمبرلي-كلارك — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li>
+       <li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Kimberly-Clark" title="Kimberly-Clark — себуано" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li>
+       <li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Kimberly-Clark" title="Kimberly-Clark — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li>
+       <li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Kimberly-Clark" title="Kimberly-Clark — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li>
+       <li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Kimberly-Clark" title="Kimberly-Clark — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li>
+       <li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Kimberly-Clark" title="Kimberly-Clark — баскский" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li>
+       <li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%DA%A9%DB%8C%D9%85%D8%A8%D8%B1%D9%84%DB%8C-%DA%A9%D9%84%D8%A7%D8%B1%DA%A9" title="کیمبرلی-کلارک — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li>
+       <li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Kimberly-Clark" title="Kimberly-Clark — финский" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li>
+       <li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Kimberly-Clark" title="Kimberly-Clark — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li>
+       <li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%9E%D7%91%D7%A8%D7%9C%D7%99_%D7%A7%D7%9C%D7%90%D7%A8%D7%A7" title="קימברלי קלארק — иврит" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li>
+       <li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Kimberly-Clark" title="Kimberly-Clark — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li>
+       <li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Kimberly-Clark" title="Kimberly-Clark — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li>
+       <li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%ED%82%B4%EB%B2%8C%EB%A6%AC-%ED%81%B4%EB%9D%BC%ED%81%AC" title="킴벌리-클라크 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li>
+       <li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Kimberly-Clark" title="Kimberly-Clark — малайский" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li>
+       <li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Kimberly-Clark" title="Kimberly-Clark — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li>
+       <li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Kimberly-Clark" title="Kimberly-Clark — румынский" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li>
+       <li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Kimberly-Clark" title="Kimberly-Clark — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li>
+       <li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%DA%A9%D9%85%D8%A8%D8%B1%D9%84%DB%92_%DA%A9%D9%84%D8%A7%D8%B1%DA%A9" title="کمبرلے کلارک — урду" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li>
+       <li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Kimberly-Clark" title="Kimberly-Clark — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li>
+       <li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E9%87%91%E7%99%BE%E5%88%A9%E5%85%8B%E6%8B%89%E5%85%8B%E5%85%AC%E5%8F%B8" title="金百利克拉克公司 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1741634#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 25 декабря 2021 в 00:01.</li> 
+    <li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия. <span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br> Wikipedia®&nbsp;— зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li> 
+    <li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li> 
+    <li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li> 
+    <li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=Kimberly-Clark&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.556","walltime":"0.699","ppvisitednodes":{"value":1893,"limit":1000000},"postexpandincludesize":{"value":45887,"limit":2097152},"templateargumentsize":{"value":8351,"limit":2097152},"expansiondepth":{"value":15,"limit":100},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3616,"limit":5000000},"entityaccesscount":{"value":11,"limit":400},"timingprofile":["100.00%  613.894      1 -total"," 70.91%  435.303      1 Шаблон:Карточка_компании"," 65.19%  400.176      1 Шаблон:Карточка"," 25.68%  157.674      7 Шаблон:Wikidata"," 16.62%  102.045      1 Шаблон:Карточка/оригинал_названия"," 10.19%   62.550      1 Шаблон:Примечания","  9.84%   60.410      1 Шаблон:US-manufacturing-company-stub","  9.12%   55.961      1 Шаблон:Stub-meta","  8.64%   53.016      1 Шаблон:Ambox","  6.99%   42.909      1 Шаблон:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.302","limit":"10.000"},"limitreport-memusage":{"value":5324624,"limit":52428800},"limitreport-logs":"Loaded datatype commonsMedia of P154 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P1454 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P414 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P1366 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P112 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P452 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P1056 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P749 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P355 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw1352","timestamp":"20220228052230","ttl":1814400,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Kimberly-Clark","url":"https:\/\/ru.wikipedia.org\/wiki\/Kimberly-Clark","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1741634","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1741634","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-02-10T05:48:11Z","dateModified":"2021-12-25T00:01:15Z"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":177,"wgHostname":"mw1331"});});</script>  
+ </body>
+</html>

@@ -1,0 +1,639 @@
+<!doctype html>
+<html class="client-nojs" lang="ru" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Русская неоготика — Википедия</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"015f397c-f173-44c3-afb8-9f4178c96c3c","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Русская_неоготика","wgTitle":"Русская неоготика","wgCurRevisionId":119269789,"wgRevisionId":119269789,"wgArticleId":1764943,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Страницы, использующие волшебные ссылки ISBN",
+"Википедия:Ссылка на Викисклад в шаблоне Навигация непосредственно в статье","Википедия:Ссылка на Викисклад в шаблоне Навигация отличается от Викиданных","Википедия:Ссылка на Викисклад в шаблоне Commonscat отличается от Викиданных","Неоготическая архитектура России"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Русская_неоготика","wgRelevantArticleId":1764943,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":119269789,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,
+"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":40000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q942123","wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":true,"wgGELinkRecommendationsFrontendEnabled":true};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <noscript>
+   <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector">
+  </noscript> 
+  <meta name="generator" content="MediaWiki 1.38.0-wmf.25"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Spb_06-2012_Chesme_Church.jpg/1200px-Spb_06-2012_Chesme_Church.jpg"> 
+  <meta property="og:image:width" content="1200"> 
+  <meta property="og:image:height" content="1109"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Spb_06-2012_Chesme_Church.jpg/800px-Spb_06-2012_Chesme_Church.jpg"> 
+  <meta property="og:image:width" content="800"> 
+  <meta property="og:image:height" content="739"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Spb_06-2012_Chesme_Church.jpg/640px-Spb_06-2012_Chesme_Church.jpg"> 
+  <meta property="og:image:width" content="640"> 
+  <meta property="og:image:height" content="591"> 
+  <meta property="og:title" content="Русская неоготика — Википедия"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0"> 
+  <link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Русская_неоготика rootpage-Русская_неоготика skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading mw-first-heading">Русская неоготика</h1> 
+   <div id="bodyContent" class="vector-body"> 
+    <div id="siteSub" class="noprint">
+     Материал из Википедии — свободной энциклопедии
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Перейти к навигации</a> <a class="mw-jump-link" href="#searchInput">Перейти к поиску</a> 
+    <div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr">
+     <div class="mw-parser-output">
+      <dl>
+       <dd>
+        <i>О неоготической архитектуре за пределами России см. <a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Неоготика">неоготика</a>.</i>
+       </dd>
+      </dl> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Spb_06-2012_Chesme_Church.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Spb_06-2012_Chesme_Church.jpg/220px-Spb_06-2012_Chesme_Church.jpg" decoding="async" width="220" height="203" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Spb_06-2012_Chesme_Church.jpg/330px-Spb_06-2012_Chesme_Church.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Spb_06-2012_Chesme_Church.jpg/440px-Spb_06-2012_Chesme_Church.jpg 2x" data-file-width="3175" data-file-height="2933"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Spb_06-2012_Chesme_Church.jpg" class="internal" title="Увеличить"></a>
+         </div><a href="/wiki/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" title="Чесменская церковь">Чесменская церковь</a> (1777—1780)&nbsp;— пример свойственной екатерининской эпохе условной стилизации под готику.
+        </div>
+       </div>
+      </div> 
+      <p><b>Ру́сская неого́тика</b> или <b>ру́сская го́тика</b> (устар.&nbsp;— <i>псевдоготика</i>, <i>ложная готика</i>) — ретроспективное течение в <a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Русская архитектура">архитектуре</a> и <a href="/wiki/%D0%94%D0%B5%D0%BA%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE-%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%BE%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE" title="Декоративно-прикладное искусство">декоративно-прикладном искусстве</a> <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">России</a> XVIII — начала XX века<sup id="cite_ref-_b5617997b4278a5b_1-0" class="reference"><a href="#cite_note-_b5617997b4278a5b-1">[1]</a></sup>. </p>
+      <p>Понятие «готический вкус» возникло в Российской империи в середине XVIII века и обозначало все художественные явления, противопоставлявшие себя <a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%86%D0%B8%D0%B7%D0%BC" title="Русский классицизм">классицизму</a> (термин обозначал самый широкий круг явлений <a href="/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE_%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D0%B2%D0%B5%D0%BA%D0%BE%D0%B2%D1%8C%D1%8F" title="Искусство Средневековья">средневековой культуры</a>, не обязательно только <a href="/wiki/%D0%93%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Готика">готического искусства</a>). Для архитектуры русской «готики» второй половины XVIII века были характерны как элементы готического, так и <a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%BE%D0%B4%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Древнерусское зодчество">древнерусского зодчества</a><sup id="cite_ref-_b5617997b4278a5b_1-1" class="reference"><a href="#cite_note-_b5617997b4278a5b-1">[1]</a></sup>. </p>
+      <p>В период <a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%B7%D0%BC" title="Романтизм">романтизма</a> начала XIX века, с развитием исторических знаний о Средневековье, отношение к его искусству стало более дифференцированным: постепенно происходит разделение <a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C" title="Русский стиль">русского</a> и неоготического стилей. В архитектуре неоготические постройки зачастую точно соотносят с историческими образцами, иногда напрямую копируют произведения прошлого<sup id="cite_ref-_b5617997b4278a5b_1-2" class="reference"><a href="#cite_note-_b5617997b4278a5b-1">[1]</a></sup>. </p>
+      <p>В период <a href="/wiki/%D0%AD%D0%BA%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Эклектика в России">эклектики</a> и историзма 1840—1880-х годов неоготика в России характеризовалась буквальным подражанием готике в фасадах и интерьерах культовых, общественных и жилых зданий<sup id="cite_ref-_b5617997b4278a5b_1-3" class="reference"><a href="#cite_note-_b5617997b4278a5b-1">[1]</a></sup>. </p>
+      <p>Новое развитие неоготика получила в период <a href="/wiki/%D0%9C%D0%BE%D0%B4%D0%B5%D1%80%D0%BD" title="Модерн">модерна</a> начала XX века<sup id="cite_ref-_b5617997b4278a5b_1-4" class="reference"><a href="#cite_note-_b5617997b4278a5b-1">[1]</a></sup>. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="ru" dir="ltr">
+        <h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Терминология"><span class="tocnumber">1</span> <span class="toctext">Терминология</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Екатерининская_псевдоготика:_романтическое_течение_в_русской_архитектуре_XVIII_века"><span class="tocnumber">2</span> <span class="toctext">Екатерининская псевдоготика: романтическое течение в русской архитектуре XVIII века</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#«Русская_готика»_в_эпоху_романтизма"><span class="tocnumber">3</span> <span class="toctext">«Русская готика» в эпоху романтизма</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#«Русская_готика»_в_период_историзма_и_эклектики"><span class="tocnumber">4</span> <span class="toctext">«Русская готика» в период историзма и эклектики</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Неоготический_стиль_в_архитектуре_модерна"><span class="tocnumber">5</span> <span class="toctext">Неоготический стиль в архитектуре модерна</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#См._также"><span class="tocnumber">6</span> <span class="toctext">См. также</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Примечания"><span class="tocnumber">7</span> <span class="toctext">Примечания</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#Литература"><span class="tocnumber">8</span> <span class="toctext">Литература</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span id=".D0.A2.D0.B5.D1.80.D0.BC.D0.B8.D0.BD.D0.BE.D0.BB.D0.BE.D0.B3.D0.B8.D1.8F"></span><span class="mw-headline" id="Терминология">Терминология</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Терминология»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=1" title="Редактировать раздел «Терминология»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Терминами <i>псевдоготика</i>, <i>ложная готика</i>, <i>русская готика</i> в разное время обозначали условные наименования различных межстилевых и внутристилевых <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B4%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%B7%D0%BC" title="Предромантизм">предромантических</a> и <a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D0%B7%D0%BC" title="Романтизм">романтических</a> течений в <a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Русская архитектура">русской архитектуре</a> <a href="/wiki/%D0%9F%D1%91%D1%82%D1%80_I" title="Пётр I">петровской</a>, <a href="/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0_II" title="Екатерина II">екатерининской</a>, николаевской и александровской эпох, основанных на свободном сочетании элементов <a href="/wiki/%D0%93%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Готическая архитектура">западноевропейской готики</a>, <a href="/wiki/%D0%92%D0%B8%D0%B7%D0%B0%D0%BD%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" class="mw-redirect" title="Византийская архитектура">византийской архитектуры</a> и <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE" title="Московское барокко">московского барокко</a> с новациями работавших в этих стилях архитекторов. Русская готика появилась позднее становления <a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Неоготика">неоготического направления</a> в архитектуре стран Западной Европы (с середины, а в ряде случаев с начала XVIII века), и, в отличие от неоготики, с <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%BA%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B3%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%8B" title="Каркасная система готической архитектуры">подлинным средневековым зодчеством</a> русская готика имеет мало общего. Термин «псевдоготика» возник по причине необходимости различать возрождение готического стиля в странах Западной Европы и различные романтические стилизации в русской архитектуре, не имеющие ренессансного содержания, поскольку в России не было подлинной средневековой готики. Термин «псевдоготика» неудовлетворителен, поскольку имеет пренебрежительно-негативный оттенок. В отечественной историографии конца XX&nbsp;— начала XXI века в связи с развитием общей теории стиля вместо термина «псевдоготика» исследователи предпочитают названия типа: романтическое внутристилевое течение такого-то стиля<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>. Согласно концепции С.&nbsp;В.&nbsp;Хачатурова «русская готика» является «оттеняющим» романтическим течением архитектуры русского классицизма конца XVIII века<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>. </p> 
+      <h2><span id=".D0.95.D0.BA.D0.B0.D1.82.D0.B5.D1.80.D0.B8.D0.BD.D0.B8.D0.BD.D1.81.D0.BA.D0.B0.D1.8F_.D0.BF.D1.81.D0.B5.D0.B2.D0.B4.D0.BE.D0.B3.D0.BE.D1.82.D0.B8.D0.BA.D0.B0:_.D1.80.D0.BE.D0.BC.D0.B0.D0.BD.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.BE.D0.B5_.D1.82.D0.B5.D1.87.D0.B5.D0.BD.D0.B8.D0.B5_.D0.B2_.D1.80.D1.83.D1.81.D1.81.D0.BA.D0.BE.D0.B9_.D0.B0.D1.80.D1.85.D0.B8.D1.82.D0.B5.D0.BA.D1.82.D1.83.D1.80.D0.B5_XVIII_.D0.B2.D0.B5.D0.BA.D0.B0"></span><span class="mw-headline" id="Екатерининская_псевдоготика:_романтическое_течение_в_русской_архитектуре_XVIII_века">Екатерининская псевдоготика: романтическое течение в русской архитектуре XVIII века</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Екатерининская псевдоготика: романтическое течение в русской архитектуре XVIII века»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=2" title="Редактировать раздел «Екатерининская псевдоготика: романтическое течение в русской архитектуре XVIII века»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:152px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Kolomna_04-2014_img17_Staro-Golutvin_Monastery.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kolomna_04-2014_img17_Staro-Golutvin_Monastery.jpg/150px-Kolomna_04-2014_img17_Staro-Golutvin_Monastery.jpg" decoding="async" width="150" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kolomna_04-2014_img17_Staro-Golutvin_Monastery.jpg/225px-Kolomna_04-2014_img17_Staro-Golutvin_Monastery.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kolomna_04-2014_img17_Staro-Golutvin_Monastery.jpg/300px-Kolomna_04-2014_img17_Staro-Golutvin_Monastery.jpg 2x" data-file-width="2097" data-file-height="3146"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Kolomna_04-2014_img17_Staro-Golutvin_Monastery.jpg" class="internal" title="Увеличить"></a>
+         </div>Башня <a href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE-%D0%93%D0%BE%D0%BB%D1%83%D1%82%D0%B2%D0%B8%D0%BD_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C" title="Старо-Голутвин монастырь">Голутвина монастыря</a> (1778)
+        </div>
+       </div>
+      </div> 
+      <p>В России ХVIII—XIX вв. готическими называли любые старые памятники — древнерусской архитектуры XV—XVI вв., здания XVI—XVII вв., например колокольный храм «Иван Великий» в Московском Кремле (1505—1532) или храм Покрова, что на рву (собор Василия Блаженного, 1555—1561). Основателем романтического течения в эпоху Екатерины Великой многие историки архитектуры считают Василия Ивановича Баженова. Выдающийся русский зодчий завершал образование во Франции. По возвращении в Россию потерпел неудачу с «Проектом Кремлевской перестройки» (превращения Московского Кремля в «Новый Форум» в классицистическом стиле). </p>
+      <p>По проекту В. И. Баженова построена церковь в селе <a href="/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_(%D0%91%D1%8B%D0%BA%D0%BE%D0%B2%D0%BE)" title="Владимирская церковь (Быково)"> Быково</a> под Москвой (1789). Овальная в плане, с двумя симметричными башнями со шпилями и стрельчатыми арками, она отражает новые романтические тенденции в русской архитектуре екатерининского времени. Таковы же «готические фантазии» Баженова и причудливая архитектура Петровского подъездного дворца близ Москвы (1775—1782) работы последователя Баженова, М. Ф. Казакова. Петровский дворец в плане представляет собой типично классицистическое сооружение, восходящее к типу палладианской виллы, но одетое в фантастический костюм из сочетания древнерусских и готических элементов. В том же 1775 г. Екатерина II поручила Баженову устроить её загородную резиденцию к югу от Москвы «в мавритано-готическом вкусе». Баженов в проекте усадьбы <a href="/wiki/%D0%A6%D0%B0%D1%80%D0%B8%D1%86%D1%8B%D0%BD%D0%BE_(%D0%B4%D0%B2%D0%BE%D1%80%D1%86%D0%BE%D0%B2%D0%BE-%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B0%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C)" title="Царицыно (дворцово-парковый ансамбль)">Царицыно</a> как бы фильтрует «готику» сквозь классицизм, добиваясь эффекта сказочного миража, декорации, изящной метафоры (аналогично «сельскому стилю» в итальянской архитектуре XVI в.). Баженовская архитектура действительно «прозрачна», сочетание красного кирпича и белокаменного узорочья роднит её и с древнерусским зодчеством, и с венецианскими зданиями XV—XVI вв. (Баженов побывал в Венеции в 1764 г.). В «псевдоготике» XVIII в. не было и открытой оппозиции классицизму; с екатерининского времени это течение развивалось внутри классицистического стиля и имело «оттеняющую функцию». Аналогичным образом постройки Ю. М. Фельтена, Адмиралтейство В. И. Неелова в Царском Селе, баженовский дворец в Царицыно, «готические» парковые сооружения в российской провинции демонстрируют не готический стиль, а некую игровую декорацию без ясной стилевой ориентации. В. И. Баженов античную (классическую ордерную) архитектуру называл «прямой» и противопоставлял её «готической» (древнерусской, романской и византийской), а в XVI-XVII веках, по мнению архитектора, возникает «изящная и легкая смесь прямой архитектуры и готической». Следовательно, баженовскую и фельтеновскую «неоготику» правильно рассматривать не в качестве самостоятельного неостиля, а как развитие и одновременно «внутристилевое противопоставление»<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>. </p>
+      <p>В июле 1785 г. императрица прибыла с инспекцией, осмотрела почти законченный Баженовым дворец и приказала его разрушить. Она быстро покинула Царицыно и отбыла из Москвы. Позднее в письме Ф. М. Гримму объяснила свой гнев тем, что комнаты дворца были слишком «низки, залы темны, а лестницы узки». Решение Екатерины II объясняют и тем, что архитектор уравнял императрицу и наследника, нелюбимого сына Павла Петровича, сделав два дворцовых корпуса одинаковыми по размерам и отделке. Логично предположить, что на самом деле государыню насторожил архитектурный стиль (хотя ей понравились постройки на Ходынском поле и она сама «апробировала их чертежи»). В элементах декора царицынских зданий можно усмотреть масонскую символику. Политическая обстановка была такова, что в необычной архитектуре императрица почувствовала свободомыслие, опасность заговора, проявление духовной оппозиции. В это время российская самодержица была напугана последствиями французской революции и распространением масонских идей<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>. </p>
+      <p>После того, как императрица забраковала баженовский проект, строительные работы в Царицыно продолжил в 1787—1793 гг. <a href="/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BA%D0%BE%D0%B2,_%D0%9C%D0%B0%D1%82%D0%B2%D0%B5%D0%B9_%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Казаков, Матвей Фёдорович">М.&nbsp;Ф.&nbsp;Казаков</a>. В 1796 г., заняв престол, император Павел I распорядился прекратить все работы, и дворцы остались недостроенными. Казаков также является автором «<a href="/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86" title="Петровский путевой дворец">Петровского подъездного дворца</a>». Его ученикам <a href="/wiki/%D0%A0%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BA%D0%BE%D0%B2" class="mw-redirect" title="Родион Казаков">Родиону Казакову</a> и <a href="/wiki/%D0%91%D0%B0%D0%BA%D0%B0%D1%80%D0%B5%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B8%D1%87" title="Бакарев, Алексей Никитич">Алексею Бакареву</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>&nbsp;— принадлежат ранние попытки наложения готического декора на традиционную для православия форму <a href="/wiki/%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE-%D0%BA%D1%83%D0%BF%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%85%D1%80%D0%B0%D0%BC" title="Крестово-купольный храм">крестово-купольного храма</a>&nbsp;— соборный храм <a href="/wiki/%D0%97%D0%B0%D1%87%D0%B0%D1%82%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C" title="Зачатьевский монастырь">Зачатьевского монастыря</a> и <a href="/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9C%D0%BE%D0%B6%D0%B0%D0%B9%D1%81%D0%BA)" title="Никольский собор (Можайск)">Ново-Никольский собор</a> в <a href="/wiki/%D0%9C%D0%BE%D0%B6%D0%B0%D0%B9%D1%81%D0%BA" title="Можайск">Можайске</a>. В конце 1780-х мода на готические мотивы проникает всё дальше в глубинку, на что указывают их неожиданные интерпретации в усадьбах <a href="/wiki/%D0%A0%D1%8F%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D1%8F" title="Рязанская губерния">Рязанской губернии</a>&nbsp;— <a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B5_(%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0)" title="Красное (усадьба)">Красном</a>, <a href="/wiki/%D0%91%D0%B0%D0%BB%D0%BE%D0%B2%D0%BD%D0%B5%D0%B2%D0%BE" class="mw-redirect" title="Баловнево">Баловневе</a> и <a href="/wiki/%D0%92%D0%B5%D1%88%D0%B0%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0" title="Вешаловка">Вешаловке</a>. </p> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A0%D1%83%D1%81%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/%D0%A0%D1%83%D1%81%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0.jpg/220px-%D0%A0%D1%83%D1%81%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/%D0%A0%D1%83%D1%81%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0.jpg/330px-%D0%A0%D1%83%D1%81%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/%D0%A0%D1%83%D1%81%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0.jpg/440px-%D0%A0%D1%83%D1%81%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0.jpg 2x" data-file-width="800" data-file-height="534"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A0%D1%83%D1%81%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0.jpg" class="internal" title="Увеличить"></a>
+         </div>Скотный двор усадьбы <a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B5_(%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0)" title="Красное (усадьба)">Красное</a> в <a href="/wiki/%D0%A0%D1%8F%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D1%8F" title="Рязанская губерния">Рязанской губернии</a> (конец 1780-х) был стилизован под миниатюрную крепость, чтобы напоминать хозяину о военных подвигах его молодости.
+        </div>
+       </div>
+      </div> 
+      <p>При петербургском дворе в одно время с Баженовым мотивы готического зодчества разрабатывал <a href="/wiki/%D0%AE%D1%80%D0%B8%D0%B9_%D0%A4%D0%B5%D0%BB%D1%8C%D1%82%D0%B5%D0%BD" class="mw-redirect" title="Юрий Фельтен">Ю.&nbsp;М.&nbsp;Фельтен</a>. Постройки Фельтена в северной столице&nbsp;— <a href="/wiki/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86" title="Чесменский дворец">Чесменский дворец</a> и <a href="/wiki/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" title="Чесменская церковь">церковь при нём</a>, <a href="/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B0_%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%B0_%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B8_%D0%BD%D0%B0_%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B5" title="Церковь Рождества Иоанна Предтечи на Каменном острове">церковь Рождества Иоанна Предтечи на Каменном острове</a>&nbsp;— далеки от московского барокко и ближе к ранним образцам западноевропейской неоготики. Но и они представляют собой, скорее, обобщенный образ некой идеальной романтической архитектуры. </p> 
+      <h2><span id=".C2.AB.D0.A0.D1.83.D1.81.D1.81.D0.BA.D0.B0.D1.8F_.D0.B3.D0.BE.D1.82.D0.B8.D0.BA.D0.B0.C2.BB_.D0.B2_.D1.8D.D0.BF.D0.BE.D1.85.D1.83_.D1.80.D0.BE.D0.BC.D0.B0.D0.BD.D1.82.D0.B8.D0.B7.D0.BC.D0.B0"></span><span class="mw-headline" id="«Русская_готика»_в_эпоху_романтизма">«Русская готика» в эпоху романтизма</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел ««Русская готика» в эпоху романтизма»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=3" title="Редактировать раздел ««Русская готика» в эпоху романтизма»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>С вступлением на престол <a href="/wiki/%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_I" title="Павел I">Павла I</a> стилизации в готическом духе получили новый импульс, ибо, став главой <a href="/wiki/%D0%9C%D0%B0%D0%BB%D1%8C%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%80%D0%B4%D0%B5%D0%BD" title="Мальтийский орден">Мальтийского ордена</a> этот монарх стремился возродить в России идеалы средневекового рыцарства. Свою резиденцию в Санкт-Петербурге он назвал «Замком Св. Михаила», хотя архитектурный стиль этого сооружения соответствует эстетике романтического <a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%86%D0%B8%D0%B7%D0%BC" title="Классицизм">классицизма</a>. Из построек павловской эпохи наиболее «готичен» <a href="/wiki/%D0%9F%D1%80%D0%B8%D0%BE%D1%80%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86" title="Приоратский дворец">Приоратский дворец</a> — летняя резиденция <a href="/wiki/%D0%9F%D1%80%D0%B8%D0%BE%D1%80" title="Приор">приора</a> Мальтийского ордена <a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5,_%D0%9B%D1%8E%D0%B4%D0%BE%D0%B2%D0%B8%D0%BA-%D0%96%D0%BE%D0%B7%D0%B5%D1%84_%D0%B4%D0%B5_%D0%91%D1%83%D1%80%D0%B1%D0%BE%D0%BD" title="Конде, Людовик-Жозеф де Бурбон">принца Конде</a>, стилизация под средневековый католический монастырь. Дворец в <a href="/wiki/%D0%93%D0%B0%D1%82%D1%87%D0%B8%D0%BD%D0%B0" title="Гатчина">Гатчине</a>, подобный английскому замку,&nbsp;— загородная резиденция Павла I — был построен в предыдущую эпоху, но его облик также соответствует настроениям павловской эпохи. </p> 
+      <div class="thumb tleft">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:M1n08b.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/M1n08b.jpg/220px-M1n08b.jpg" decoding="async" width="220" height="183" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/M1n08b.jpg/330px-M1n08b.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/M1n08b.jpg/440px-M1n08b.jpg 2x" data-file-width="1001" data-file-height="834"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:M1n08b.jpg" class="internal" title="Увеличить"></a>
+         </div>Екатеринская церковь в Московском Кремле (1808-1818, архитектор К.&nbsp;И.&nbsp;Росси).
+        </div>
+       </div>
+      </div> 
+      <p>Романтическая идеология и эстетика распространялась в России позднее, чем в странах Западной Европы и по этой причине не противопоставлялась «запоздалому классицизму» и академическому искусству. При <a href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_I" title="Александр I">Александре I</a> <a href="/wiki/%D0%93%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5_%D0%9D%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8" class="mw-redirect" title="Готическое направление в искусстве Нового времени">интерес к готике</a> впервые распространяется за пределы узкого круга придворных: <a href="/wiki/%D0%96%D1%83%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Жуковский, Василий Андреевич">В.&nbsp;А.&nbsp;Жуковский</a> знакомит русских читателей со страшными <a href="/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B0%D0%B4%D0%B0" title="Баллада">балладами</a> в готическом духе, а <a href="/wiki/%D0%91%D0%B5%D1%81%D1%82%D1%83%D0%B6%D0%B5%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Бестужев, Александр Александрович">А.&nbsp;А.&nbsp;Марлинский</a> воспевает в прозе рыцарские турниры. Романтической литературой зачитывается вся дворянская Россия<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>. </p>
+      <p>В 1804—1814 гг. в городе Можайске, к юго-западу от Москвы, строили новый собор в причудливом романтическом стиле по проекту архитектора А. Н. Бакарева. Красный фон стен собора с белокаменными деталями воспроизводит традиционное русское узорочье конца XVII в. Колокольня имеет ярусный древнерусский характер. В то же время в этом здании присутствуют элементы классицизма и готики. В 1809—1817 гг. также по проекту А. Н. Бакарева в Московском Кремле <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8,_%D0%9A%D0%B0%D1%80%D0%BB_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Росси, Карл Иванович">Карл&nbsp;Росси</a> строил церковь Св. Екатерины Александрийской Вознесенского монастыря (1808, снесена в 1932 г.). Облик церкви кажется готическим, но это, скорее, результат фантазии, родившейся в результате стремления расширить границы традиционной классицистической архитектуры </p>
+      <p>Подобный характер получает «готика» в трактовке московского архитектора Михаила Доримедонтовича Быковского (1801—1885). В 1831—1839 гг. он перестраивал усадьбу Марфино под Москвой (имение Паниных, ранее Орловых). Архитектор возвел «готический» мост с крытой галереей, «готический» конный двор, похожий на сказочный замок. В основе проекта лежат не формы определенного стиля, а принцип живописной, «картинной» композиции, последовательно разворачивающейся в пространстве и раскрывающей элементы разных неостилей, восходящих к романике, английской готике, итальянскому Возрождению. Стиль усадьбы Марфино можно именовать и неоготическим, и неоренессансным, и русским. Сочетание древнерусского узорочья, славянского орнамента, килевидных и стрельчатых арок не выглядит эклектикой, поскольку они объединены единым композиционным пространством романтического мышления художника. Такие памятники демонстрируют не готический стиль, а некую игровую декорацию без ясной стилевой ориентации. </p>
+      <p>Проектируя собор и колокольню для Ниловой пустыни (на острове Столбный, озеро Селигер) Росси, создатель «русского ампира», обратился к средневековой архитектуре. В храме классицистический портик сочетался с шатрами и стрельчатыми окнами, напоминающими одновременно и западноевропейскую готику, и древнерусские шатровые храмы, и царицынские фантазии В. И. Баженова (проект не осуществлен). В 1822 г. стрелку Елагина острова в Петербурге Росси планировал завершить в готическом стиле, притом, что главное сооружение острова, Елагин дворец, незадолго до этого построен им же в палладианском стиле (проект не был осуществлен). О. Монферран несколько позднее, проектируя увеселительные сооружения в Екатерингофе, также сознательно выбрал «готический стиль и легкий тип постройки». Однако при этом он стремился использовать узнаваемые формы готики ради художественной игры, превращения массы стены в некий мираж, легкую и воздушную ширму между внутренним и внешним пространством здания. Эта особенность станет впоследствии одной из основных в архитектуре эклектики середины и второй половины XIX в.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>. </p> 
+      <h2><span id=".C2.AB.D0.A0.D1.83.D1.81.D1.81.D0.BA.D0.B0.D1.8F_.D0.B3.D0.BE.D1.82.D0.B8.D0.BA.D0.B0.C2.BB_.D0.B2_.D0.BF.D0.B5.D1.80.D0.B8.D0.BE.D0.B4_.D0.B8.D1.81.D1.82.D0.BE.D1.80.D0.B8.D0.B7.D0.BC.D0.B0_.D0.B8_.D1.8D.D0.BA.D0.BB.D0.B5.D0.BA.D1.82.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="«Русская_готика»_в_период_историзма_и_эклектики">«Русская готика» в период историзма и эклектики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел ««Русская готика» в период историзма и эклектики»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=4" title="Редактировать раздел ««Русская готика» в период историзма и эклектики»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>В 1829 г. берлинский архитектор К. Ф. Шинкель по заказу императора Николая I создал проект церкви (домовой капеллы), также в готическом стиле. Здание на эффектном перепаде высот в парке Александрия возводили в 1829—1832 гг. А. Менелас и И. И. Шарлемань 1-й, ранее работавший с К.&nbsp;И.&nbsp;Росси. Готическая капелла в Александрии построена в виде замкнутого кубического объема с плоским перекрытием и восьмигранными башнями по углам. Такая композиция типична для английской готики; возможно, Шинкель выбирал прототип, ориентируясь на английский стиль «пейзажного» парка и Коттеджа. </p>
+      <p>В Зимнем дворце после пожара 1837 г. архитектор Александр Павлович Брюллов, брат знаменитого живописца, создал <a href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BB_%D0%97%D0%B8%D0%BC%D0%BD%D0%B5%D0%B3%D0%BE_%D0%B4%D0%B2%D0%BE%D1%80%D1%86%D0%B0" title="Александровский зал Зимнего дворца">Александровский зал</a> (проект 1838 г.), посвященный победе в Отечественной войне 1812 г. В его архитектуре сочетаются элементы западноевропейской готики, ампира и русской национальной символики. В 1831—1833 гг. А. И. Штакеншнейдер построил для графа А. Х. Бенкендорфа усадьбу Фалль под Ревелем (Таллинном) в подражание петергофскому Коттеджу (в том же 1831 г. началась перестройка усадьбы Марфино в «готическом стиле» архитектором М. Д. Быковским). В Парголове, к северу от Петербурга (с 1746 г. эта местность была во владении графов Шуваловых), Александр Павлович Брюллов в 1831—1840 гг. возвел церковь Св. Екатерины Александрийской (позднее освящена в честь Свв. апостолов Петра и Павла). Заказчица, владелица усадьбы, в память о своем втором супруге, швейцарце-кальвинисте графе Адольфе Полье, скончавшемся в 1830 г., выбрала готический стиль. </p>
+      <p>В 1847—1855 гг. архитектор Н. Л. Бенуа, назначенный в 1850 г. главным архитектором Петергофского дворцового правления, возвел в Петергофе здание дворцовых конюшен в «готическом стиле». До этого, в 1842—1846 гг. выпускники петербургской Академии художеств Н. Л. Бенуа, А. И. Кракау и А. И. Резанов занимались изучением и обмерами готического собора в Орвьето (Италия), который был ими выбран вместо обычных в те годы классицистических зданий как «ближайший» к русскому церковному зодчеству. В 1854—1857 гг. по проекту Н. Л. Бенуа возвели здание вокзала (ныне станция Новый Петергоф)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>. Неоготический стиль входил в моду и в помещичьих усадьбах. Так, в усадьбе Марьино, к юго-востоку от Петербурга, в помещичьем доме, построенном в 1814—1819 гг. в классицистическом стиле (проект А. Н. Воронихина), в 1830-х гг. для новой хозяйки С. В. Строгановой архитектор П. С. Садовников оформил «готический кабинет» (не сохранился). Для этого интерьера в мастерской Э. Г. Гамбса, сына знаменитого мебельщика, изготовили «готический гарнитур» (ныне в экспозиции петербургского Эрмитажа). Там же, в усадьбе, по проекту Садовникова в 1828—1831 гг. возвели церковь Святой Троицы в неоготическом стиле. </p>
+      <p>В 1846 г. А. И. Штакеншнейдер построил в Знаменке (около парка Александрия в Петергофе) Готический домик, или Ренеллу (итал. аrenella – золотой песок). Дача, предназначавшаяся для великих князей Михаила Николаевича и Николая Николаевича (младших сыновей Николая I), располагалась на побережье Финского залива (не сохранилась). За образец по желанию заказчицы, императрицы Александры Федоровны, был взят замок «Четыре шпиля» (итал. Quattro Pizzi) в Палермо (о. Сицилия), где царская семья проводила зиму 1845 года. Оригинал ближе к мавританской архитектуре, но в России того времени считался «готическим»<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>. </p>
+      <p>Особенно часто в неоготическом стиле оформляли интерьеры кабинетов, библиотек, ассоциирующихся с «древностью и таинственностью». В 1857 г. архитекторы И. И. Горностаев и В. И. Собольщиков оформили в средневековом стиле «Кабинет Фауста» в здании Публичной библиотеки в Санкт-Петербурге<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>. </p> 
+      <h2><span id=".D0.9D.D0.B5.D0.BE.D0.B3.D0.BE.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B9_.D1.81.D1.82.D0.B8.D0.BB.D1.8C_.D0.B2_.D0.B0.D1.80.D1.85.D0.B8.D1.82.D0.B5.D0.BA.D1.82.D1.83.D1.80.D0.B5_.D0.BC.D0.BE.D0.B4.D0.B5.D1.80.D0.BD.D0.B0"></span><span class="mw-headline" id="Неоготический_стиль_в_архитектуре_модерна">Неоготический стиль в архитектуре модерна</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Неоготический стиль в архитектуре модерна»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=5" title="Редактировать раздел «Неоготический стиль в архитектуре модерна»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Sevastjanov_House.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sevastjanov_House.jpg/220px-Sevastjanov_House.jpg" decoding="async" width="220" height="144" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sevastjanov_House.jpg/330px-Sevastjanov_House.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sevastjanov_House.jpg/440px-Sevastjanov_House.jpg 2x" data-file-width="2669" data-file-height="1741"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Sevastjanov_House.jpg" class="internal" title="Увеличить"></a>
+         </div><a href="/wiki/%D0%94%D0%BE%D0%BC_%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B0" title="Дом Севастьянова">Дом Севастьянова</a> в <a href="/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3" title="Екатеринбург">Екатеринбурге</a> (1860—1866)— пример влияния баженовской псевдоготики на провинциальных архитекторов периода <a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%BC_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" class="mw-redirect" title="Историзм (архитектура)">историзма</a>.
+        </div>
+       </div>
+      </div> 
+      <p>Увлечение неоготикой продолжалось и в период модерна, что объясняется усилением романтических настроений «на повороте столетий». В Зимнем дворце в 1894—1896 гг. по проекту А. Ф. Красовского для императора Николая II создали «готическую» библиотеку. В оформлении этого интерьера принимали участие мастера фирмы «Мельцер и К0». Роман (Роберт Фридрих) Федорович Мельцер, сын немецкого каретного мастера, был архитектором, рисовальщиком, проектировщиком мебели в разных неостилях. Мебель и шкафы резной работы, тисненую кожу для обивки стен библиотеки поставлял брат архитектора и совладелец фирмы Федор (Фридрих) Федорович Мельцер. </p>
+      <p>В 1890-х годах в Москве выдающийся архитектор русского модерна <a href="/wiki/%D0%A8%D0%B5%D1%85%D1%82%D0%B5%D0%BB%D1%8C,_%D0%A4%D1%91%D0%B4%D0%BE%D1%80_%D0%9E%D1%81%D0%B8%D0%BF%D0%BE%D0%B2%D0%B8%D1%87" title="Шехтель, Фёдор Осипович">Ф.&nbsp;О.&nbsp;Шехтель</a> осуществил ряд проектов в готическом стиле, в числе которых был необычный «готический особняк» <a href="/wiki/%D0%9E%D1%81%D0%BE%D0%B1%D0%BD%D1%8F%D0%BA_%D0%97%D0%B8%D0%BD%D0%B0%D0%B8%D0%B4%D1%8B_%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9" title="Особняк Зинаиды Морозовой">особняк З.&nbsp;Г.&nbsp;Морозовой</a> на <a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%A1%D0%BF%D0%B8%D1%80%D0%B8%D0%B4%D0%BE%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0" title="Улица Спиридоновка">Спиридоновке</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>. Для оформления интерьеров архитектор пригласил М. А. Врубеля. Интерьеры впечатляют «подлинностью Средневековья», хотя мы чувствуем, что это всего лишь игра. </p> 
+      <h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «См. также»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=6" title="Редактировать раздел «См. также»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r113275216">.mw-parser-output .ts-Родственные_проекты{width:19em;box-sizing:border-box;margin:0 0 .5em 1em;padding:.4em;background:#f8f9fa;border:1px solid #a2a9b1;font-size:90%}.mw-parser-output .ts-Родственные_проекты-header{margin-bottom:.2em;padding:.2em .6em;font-size:110%}.mw-parser-output .ts-Родственные_проекты-item{display:flex;padding:.2em .6em}.mw-parser-output .ts-Родственные_проекты-image{min-width:24px;display:inline-block;margin-right:.4em;flex:none;vertical-align:top;text-align:center}.mw-parser-output .ts-Родственные_проекты-image img{vertical-align:middle}.mw-parser-output .ts-Родственные_проекты-label{align-self:center}@media(max-width:719px){.mw-parser-output .ts-Родственные_проекты{width:auto;margin-left:0;margin-right:0}}</style>
+      <div class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation" aria-label="В родственных проектах">
+       <ul>
+        <li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" decoding="async" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" data-file-width="30" data-file-height="30"></span><span class="ts-Родственные_проекты-label commons-ref"><a href="https://commons.wikimedia.org/wiki/Category:Bazhenov_Style" class="extiw" title="commons:Category:Bazhenov Style">Медиафайлы на&nbsp;Викискладе</a></span></li>
+       </ul>
+      </div> 
+      <ul>
+       <li><a href="/wiki/%D0%A6%D0%B0%D1%80%D0%B8%D1%86%D1%8B%D0%BD%D0%BE_(%D0%B4%D0%B2%D0%BE%D1%80%D1%86%D0%BE%D0%B2%D0%BE-%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B0%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C)" title="Царицыно (дворцово-парковый ансамбль)">Дворцово-парковый ансамбль Царицыно</a></li> 
+       <li><a href="/wiki/%D0%A1%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%B8,_%D0%AF%D0%BD" title="Сантини, Ян">Ян Сантини</a>&nbsp;— родственный пример сочетания барокко и готики в архитектуре Центральной Европы</li>
+      </ul> 
+      <h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=7" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist columns" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-_b5617997b4278a5b-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_b5617997b4278a5b_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_b5617997b4278a5b_1-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_b5617997b4278a5b_1-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-_b5617997b4278a5b_1-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-_b5617997b4278a5b_1-4"><sup><i><b>5</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFБРЭ2017">БРЭ, 2017</a>.</span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"> Устюгова Е.&nbsp;Н.&nbsp;Стиль и культура: Опыт построения общей теории стиля.&nbsp;— СПб.&nbsp;: Изд-во СПб. Ун-та, 2006.&nbsp;— 257 с. </span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"> Хачатуров С. В. «Готический вкус» в русской художественной культуре XVIII века.&nbsp;— М.: Институт искусствознания м-ва культ-ры РФ, Прогресс-Традиция, 1999.— С.5—16 </span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"> Хачатуров С. В. «Готический вкус» в русской художественной культуре XVIII века. - М.: Прогресс-Традиция, 1999. - С. 14 </span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"> Герчук Ю.Я. Проблемы русской псевдоготики XVIII века // Русский классицизм второй половины XVIII - начала XIX века. М.: Изобр-е искусство, 1994. С. 153-157 </span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"> <span class="citation no-wikidata" data-wikidata-property-id="P1343">Московская энциклопедия / <a href="/wiki/%D0%A8%D0%BC%D0%B8%D0%B4%D1%82,_%D0%A1%D0%B8%D0%B3%D1%83%D1%80%D0%B4_%D0%9E%D1%82%D1%82%D0%BE%D0%B2%D0%B8%D1%87" title="Шмидт, Сигурд Оттович">С. О. Шмидт</a>.&nbsp;— <abbr title="Москва">М.</abbr>: Издательский центр «Москвоведение», 2007.&nbsp;— Т.&nbsp;I, Книга 1.&nbsp;— С.&nbsp;116—117.&nbsp;— 639&nbsp;с.&nbsp;— <span class="nowrap">10&nbsp;000 экз.</span>&nbsp;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785903633012" class="internal mw-magiclink-isbn">ISBN 978-5-903633-01-2</a>.</span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Бакарев В. А.</i> Где найдешь Москву другую?.&nbsp;— <abbr title="Москва">М.</abbr>: Контакт-Культура, 2012.&nbsp;— С.&nbsp;6—9.&nbsp;— 960&nbsp;с.&nbsp;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785903406326" class="internal mw-magiclink-isbn">ISBN 978-5-903406-32-6</a>.</span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"> Файбисович В. М. Об идеологических истоках александровской и николаевской неоготики // В тени "больших стилей". Материалы VIII Царскосельской научной конференции. СПб., 2002. С. 96-106 </span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"> <a href="/wiki/%D0%92%D0%BB%D0%B0%D1%81%D0%BE%D0%B2,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B8%D1%87" title="Власов, Виктор Георгиевич"> Власов В. Г.</a>. Неоготика / "Николаевская готика" // Власов В. Г. Новый энциклопедический словарь изобразительного искусства. В 10 т. — СПб.: Азбука-Классика. — Т. VI, 2007. — С. 140-152,244-250 </span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"> Бартенева М. И. Николай Бенуа. - Л.: Стройиздат, 1985. С.45-78 </span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"> Кириченко Е. И. Русская архитектура 1830—1910-х годов. — М.: Искусство, 1982 </span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"> Борисова Е. А. Русская архитектура второй половины XIX века. — М.: Наука, 1979 </span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFНащокина2005"><i><a href="/wiki/%D0%9D%D0%B0%D1%89%D0%BE%D0%BA%D0%B8%D0%BD%D0%B0,_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BD%D0%B0" title="Нащокина, Мария Владимировна">Нащокина М. В.</a></i> <a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D1%8B_%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B0_(%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0)" class="mw-redirect" title="Архитекторы московского модерна (книга)">Архитекторы московского модерна. Творческие портреты</a>.&nbsp;— 3-е.&nbsp;— <abbr title="Москва">М.</abbr>: Жираф, 2005.&nbsp;— С.&nbsp;451, 468—469.&nbsp;— 536&nbsp;с.&nbsp;— <span class="nowrap">2500 экз.</span>&nbsp;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5898320431" class="internal mw-magiclink-isbn">ISBN 5-89832-043-1</a>.</span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Редактировать раздел «Литература»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;section=8" title="Редактировать раздел «Литература»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><span class="citation" id="CITEREFБРЭ2017"><a rel="nofollow" class="external text" href="https://bigenc.ru/fine_art/text/2259452">Неого́тика</a>&nbsp;/ <a href="/wiki/%D0%A5%D0%B0%D1%87%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Хачатуров, Сергей Валерьевич">Хачатуров С. В.</a>, Осовский О. Е.&nbsp;// <a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F" title="Большая российская энциклопедия">Большая российская энциклопедия</a> [Электронный ресурс].&nbsp;— 2017.</span></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Русская_и_советская_архитектура" data-name="Русская архитектура">
+       <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Перейти к шаблону «Русская архитектура»"><img alt="Перейти к шаблону «Русская архитектура»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;</span>
+           <div id="Русская_и_советская_архитектура" style="font-size:114%;margin:0 5em">
+            <a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Русская архитектура">Русская</a> и <a href="/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Советская архитектура">советская архитектура</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">Народная архитектура</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D1%82%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B6%D0%B8%D0%BB%D0%B8%D1%89%D0%B5" title="Русское традиционное жилище">Русское традиционное жилище</a></li> 
+             <li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B7%D0%BE%D0%B4%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Русское деревянное зодчество">Русское деревянное зодчество</a></li> 
+             <li><a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B7%D0%BE%D0%B4%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Карельское деревянное зодчество">Карельское деревянное зодчество</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">Средневековая Русь<br>(X—XVII века)</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%BE%D0%B4%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="Древнерусское зодчество">Древнерусское зодчество</a></li> 
+             <li><a href="/w/index.php?title=%D0%9A%D0%B8%D0%B5%D0%B2%D0%BE-%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B3%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D0%BA%D0%BE%D0%BB%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Киево-черниговская школа (страница отсутствует)">Киево-черниговская школа</a></li> 
+             <li><a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D0%BA%D0%BE%D0%BB%D0%B0_(%D0%B4%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE)" title="Новгородская школа (древнерусское искусство)">Новгородская школа</a></li> 
+             <li><a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%9F%D0%BE%D0%BB%D0%BE%D1%86%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BD%D1%8F%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Архитектура Полоцкого княжества">Полоцкая школа</a></li> 
+             <li><a href="/wiki/%D0%93%D0%B0%D0%BB%D0%B8%D1%86%D0%BA%D0%BE-%D0%B2%D0%BE%D0%BB%D1%8B%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D0%BA%D0%BE%D0%BB%D0%B0_(%D0%B4%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE)" title="Галицко-волынская школа (древнерусское искусство)">Галицко-волынская школа</a></li> 
+             <li><a href="/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE-%D1%81%D1%83%D0%B7%D0%B4%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D0%BA%D0%BE%D0%BB%D0%B0_(%D0%B4%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE)" title="Владимиро-суздальская школа (древнерусское искусство)">Владимиро-суздальская школа</a></li> 
+             <li><a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%B4%D0%BE%D0%BC%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0" title="Архитектура домонгольского Смоленска">Смоленская школа</a></li> 
+             <li><a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BD%D1%8F%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Архитектура Городенского княжества">Гродненская школа</a></li> 
+             <li><a href="/wiki/%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D0%BA%D0%BE%D0%BB%D0%B0_(%D0%B4%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE)" title="Псковская школа (древнерусское искусство)">Псковская школа</a></li> 
+             <li><a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%88%D0%BA%D0%BE%D0%BB%D0%B0_(%D0%B4%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE)" title="Московская школа (древнерусское искусство)">Московская школа</a></li> 
+             <li><a href="/wiki/%D0%A8%D0%B0%D1%82%D1%80%D0%BE%D0%B2%D1%8B%D0%B5_%D1%85%D1%80%D0%B0%D0%BC%D1%8B" title="Шатровые храмы">Шатровое зодчество</a></li> 
+             <li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D1%83%D0%B7%D0%BE%D1%80%D0%BE%D1%87%D1%8C%D0%B5" title="Русское узорочье">Русское узорочье</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE" title="Русское барокко">Русское барокко</a><br>и <a href="/wiki/%D0%A0%D0%BE%D0%BA%D0%BE%D0%BA%D0%BE_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Рококо в России">рококо</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE" title="Московское барокко">Московское барокко</a></li> 
+             <li><a href="/wiki/%D0%9D%D0%B0%D1%80%D1%8B%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C" title="Нарышкинский стиль">Нарышкинский стиль</a></li> 
+             <li><a href="/wiki/%D0%A1%D1%82%D1%80%D0%BE%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE" title="Строгановское барокко">Строгановское барокко</a></li> 
+             <li><a href="/wiki/%D0%93%D0%BE%D0%BB%D0%B8%D1%86%D1%8B%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE" title="Голицынское барокко">Голицынское барокко</a></li> 
+             <li><a href="/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE" title="Петровское барокко">Петровское барокко</a></li> 
+             <li><a href="/w/index.php?title=%D0%90%D0%BD%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Аннинское барокко (страница отсутствует)">Аннинское барокко</a></li> 
+             <li><a href="/wiki/%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE" title="Елизаветинское барокко">Елизаветинское барокко</a></li> 
+             <li><a href="/w/index.php?title=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Екатерининское барокко (страница отсутствует)">Екатерининское барокко</a></li> 
+             <li><a href="/wiki/%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE" title="Сибирское барокко">Сибирское барокко</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%86%D0%B8%D0%B7%D0%BC" title="Русский классицизм">Русский классицизм</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%86%D0%B8%D0%B7%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="Екатерининский классицизм (страница отсутствует)">Екатерининский классицизм</a></li> 
+             <li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BC%D0%BF%D0%B8%D1%80" title="Русский ампир">Русский ампир</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%AD%D0%BA%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Эклектика в России">Эклектика</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li>Академическая эклектика 
+              <ul>
+               <li><a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%B1%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE" title="Необарокко">Необарокко</a></li> 
+               <li><a href="/wiki/%D0%9D%D0%B5%D0%BE%D1%80%D0%B5%D0%BD%D0%B5%D1%81%D1%81%D0%B0%D0%BD%D1%81" title="Неоренессанс">Неоренессанс</a></li> 
+               <li><a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C" title="Неогреческий стиль">Неогреческий стиль</a></li>
+              </ul></li> 
+             <li>Романтическое направление 
+              <ul>
+               <li><a class="mw-selflink selflink">Русская неоготика</a></li> 
+               <li><a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%BC%D0%B0%D0%B2%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C" title="Неомавританский стиль">Неомавританский стиль</a></li>
+              </ul></li> 
+             <li>Национальное направление 
+              <ul>
+               <li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE-%D0%B2%D0%B8%D0%B7%D0%B0%D0%BD%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C" class="mw-redirect" title="Русско-византийский стиль">Русско-византийский (Тоновский) стиль</a></li> 
+               <li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C" title="Русский стиль">Русский стиль</a></li> 
+               <li><a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D0%BD%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Неовизантийский стиль в России">Неовизантийский стиль</a></li>
+              </ul></li> 
+             <li>Рационалистическое направление 
+              <ul>
+               <li><a href="/wiki/%D0%9A%D0%B8%D1%80%D0%BF%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C" title="Кирпичный стиль">Кирпичный стиль</a></li>
+              </ul></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B0" title="Архитектура русского модерна">Русский модерн</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD" title="Северный модерн">Северный модерн</a></li> 
+             <li><a href="/w/index.php?title=%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Деревянный модерн (страница отсутствует)">Деревянный модерн</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%A0%D0%B5%D1%82%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC" title="Ретроспективизм">Ретроспективизм</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B5%D0%BE%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%86%D0%B8%D0%B7%D0%BC" title="Русский неоклассицизм">Русский неоклассицизм</a></li> 
+             <li><a href="/wiki/%D0%A0%D0%B5%D1%82%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC" title="Ретроспективизм">Неорусский стиль</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%B2%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B4%D0%B0" title="Архитектура советского авангарда">Советский авангард</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="Протоконструктивизм (страница отсутствует)">Протоконструктивизм</a></li> 
+             <li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC_(%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE)" title="Конструктивизм (искусство)">Конструктивизм</a></li> 
+             <li><a href="/wiki/%D0%A0%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Рационализм (архитектура)">Рационализм</a></li> 
+             <li><a href="/wiki/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Функционализм (архитектура)">Функционализм</a></li> 
+             <li><a href="/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC" title="Постконструктивизм">Постконструктивизм</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Сталинская архитектура">Сталинская архитектура</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5_%D0%B0%D1%80-%D0%B4%D0%B5%D0%BA%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Советское ар-деко (страница отсутствует)">Советское ар-деко</a></li> 
+             <li><a href="/w/index.php?title=%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BD%D0%B5%D0%BE%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%86%D0%B8%D0%B7%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="Советский неоклассицизм (страница отсутствует)">Советский неоклассицизм</a></li> 
+             <li><a href="/w/index.php?title=%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BA%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Советская эклектика (страница отсутствует)">Советская эклектика</a></li> 
+             <li><a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BC%D0%BF%D0%B8%D1%80" title="Сталинский ампир">Сталинский ампир</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B8%D0%B7%D0%BC" title="Советский архитектурный модернизм">Советский модернизм</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B5%D0%BA%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="Советский декоративизм (страница отсутствует)">Советский декоративизм</a></li> 
+             <li><a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D0%B7%D0%BC" title="Неоконструктивизм">Неоконструктивизм</a></li> 
+             <li><a href="/wiki/%D0%A0%D0%B5%D0%B3%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Регионализм (архитектура)">Регионализм</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">С конца XX века</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BF%D0%BE%D1%81%D1%82%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B8%D0%B7%D0%BC%D0%B0_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Архитектура постмодернизма в России">Постмодернизм</a> 
+              <ul>
+               <li><a href="/wiki/%D0%9A%D0%B0%D0%BF%D1%80%D0%BE%D0%BC" title="Капром">Капром</a></li> 
+               <li><a href="/wiki/%D0%9B%D1%83%D0%B6%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C" title="Лужковский стиль">Лужковский стиль</a></li> 
+               <li><a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B7%D0%BC" title="Неоисторизм">Неоисторизм</a></li> 
+               <li><a href="/w/index.php?title=%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D0%B0%D1%8F_%D1%88%D0%BA%D0%BE%D0%BB%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Нижегородская архитектурная школа (страница отсутствует)">Нижегородская архитектурная школа</a></li>
+              </ul></li> 
+             <li><a href="/w/index.php?title=%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BD%D0%B5%D0%BE%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B8%D0%B7%D0%BC%D0%B0_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Архитектура неомодернизма в России (страница отсутствует)">Неомодернизм</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Стили_готической_архитектуры" data-name="Стили готической архитектуры">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A1%D1%82%D0%B8%D0%BB%D0%B8_%D0%B3%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D1%8B" title="Перейти к шаблону «Стили готической архитектуры»"><img alt="Перейти к шаблону «Стили готической архитектуры»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;</span>
+           <div id="Стили_готической_архитектуры" style="font-size:114%;margin:0 5em">
+            Стили <a href="/wiki/%D0%93%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Готическая архитектура">готической архитектуры</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%93%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%B2%D0%BE_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Готическая архитектура во Франции">Французская</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%A0%D0%B0%D0%BD%D0%BD%D1%8F%D1%8F_%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Ранняя готика">Ранняя</a></li> 
+             <li><a href="/wiki/%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%B0%D1%8F_%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Высокая готика">Высокая</a></li> 
+             <li><a href="/wiki/%D0%9B%D1%83%D1%87%D0%B8%D1%81%D1%82%D0%B0%D1%8F_%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Лучистая готика">Лучистая</a></li> 
+             <li><a href="/wiki/%D0%9F%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D1%8E%D1%89%D0%B0%D1%8F_%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Пламенеющая готика">Пламенеющая</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Английская готика">Английская</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0#Раннеанглийская_готика" title="Английская готика">Ранняя</a></li> 
+             <li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0#Украшенная_готика" title="Английская готика">Украшенная (декоративная)</a></li> 
+             <li><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%BF%D0%B5%D0%BD%D0%B4%D0%B8%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F_%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Перпендикулярная готика">Перпендикулярная</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Неоготика">Неоготика</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0#Неоготика_в_Европе" title="Неоготика">Континентальная</a></li> 
+             <li><a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8" title="Неоготическая архитектура Великобритании">Английская</a></li> 
+             <li><a href="/wiki/%D0%A1%D1%82%D0%B8%D0%BB%D1%8C_%D1%88%D0%BE%D1%82%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D1%85_%D0%B1%D0%B0%D1%80%D0%BE%D0%BD%D0%BE%D0%B2" title="Стиль шотландских баронов">Шотландская</a></li> 
+             <li><a class="mw-selflink selflink">Русская</a></li> 
+             <li><a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%B3%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Коллегиальная готика">Университетская</a></li> 
+             <li><a href="/wiki/%D0%9F%D0%BB%D0%BE%D1%82%D0%BD%D0%B8%D1%86%D0%BA%D0%B0%D1%8F_%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Плотницкая готика">Плотницкая</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1399
+Cached time: 20220228083604
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.459 seconds
+Real time usage: 0.535 seconds
+Preprocessor visited node count: 2960/1000000
+Post‐expand include size: 45312/2097152 bytes
+Template argument size: 3067/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8532/5000000 bytes
+Lua time usage: 0.142/10.000 seconds
+Lua memory usage: 2803424/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  409.878      1 -total
+ 26.53%  108.754      1 Шаблон:Commonscat
+ 25.17%  103.166      1 Шаблон:Навигация
+ 22.34%   91.564      5 Шаблон:Sfn
+ 19.76%   80.987      1 Шаблон:Примечания
+ 18.39%   75.364      1 Шаблон:БРЭ
+ 17.39%   71.286      1 Шаблон:Публикация
+ 15.12%   61.965      5 Шаблон:Sfn-текст
+ 13.74%   56.312      3 Шаблон:Книга
+  9.59%   39.294      1 Шаблон:Русская_архитектура
+--> <!-- Saved in parser cache with key ruwiki:pcache:idhash:1764943-0!canonical and timestamp 20220228083604 and revision id 119269789. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Русская_неоготика&amp;oldid=119269789">https://ru.wikipedia.org/w/index.php?title=Русская_неоготика&amp;oldid=119269789</a>
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Неоготическая архитектура России">Неоготическая архитектура России</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Скрытые категории: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4_%D0%B2_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B5_%D0%9D%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F_%D0%BD%D0%B5%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE_%D0%B2_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5" title="Категория:Википедия:Ссылка на Викисклад в шаблоне Навигация непосредственно в статье">Википедия:Ссылка на Викисклад в шаблоне Навигация непосредственно в статье</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4_%D0%B2_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B5_%D0%9D%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F_%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B0%D0%B5%D1%82%D1%81%D1%8F_%D0%BE%D1%82_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Ссылка на Викисклад в шаблоне Навигация отличается от Викиданных">Википедия:Ссылка на Викисклад в шаблоне Навигация отличается от Викиданных</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4_%D0%B2_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B5_Commonscat_%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B0%D0%B5%D1%82%D1%81%D1%8F_%D0%BE%D1%82_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Ссылка на Викисклад в шаблоне Commonscat отличается от Викиданных">Википедия:Ссылка на Викисклад в шаблоне Commonscat отличается от Викиданных</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Навигация</h2> 
+   <div id="mw-head"> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"> <label id="p-personal-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Персональные инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage" class="mw-list-item"><span>Вы не представились системе</span></li>
+       <li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li>
+       <li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li>
+       <li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li>
+       <li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> <label id="p-namespaces-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Пространства имён</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li>
+        <li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> <label id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading"> <span class="vector-menu-heading-label">русский</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> <label id="p-views-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Просмотры</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0"><span>Читать</span></a></li>
+        <li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li>
+        <li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li>
+        <li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" title="Больше возможностей"> 
+      <input type="checkbox" id="p-cactions-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-cactions" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> <label id="p-cactions-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Ещё</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box"> 
+      <div> 
+       <h3> <label for="searchInput">Поиск</label> </h3> 
+       <form action="/w/index.php" id="searchform" class="vector-search-box-form"> 
+        <div id="simpleSearch" class="vector-search-box-inner" data-search-loc="header-navigation"> 
+         <input class="vector-search-box-input" type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"> 
+         <input type="hidden" name="title" value="Служебная:Поиск"> 
+         <input id="mw-searchButton" class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти"> 
+         <input id="searchButton" class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти"> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a> 
+    </div> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> <label id="p-navigation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Навигация</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li>
+       <li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li>
+       <li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li>
+       <li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li>
+       <li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li>
+       <li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"> <label id="p-participation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Участие</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об&nbsp;ошибке</span></a></li>
+       <li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li>
+       <li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li>
+       <li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li>
+       <li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li>
+       <li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li>
+       <li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> <label id="p-tb-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li>
+       <li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li>
+       <li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+       <li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;oldid=119269789" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li>
+       <li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;action=info" title="Подробнее об этой странице"><span>Сведения о&nbsp;странице</span></a></li>
+       <li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;id=119269789&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li>
+       <li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q942123" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> <label id="p-coll-print_export-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Печать/экспорт</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F+%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li>
+       <li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li>
+       <li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> <label id="p-wikibase-otherprojects-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">В других проектах</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Gothic_Revival_in_Russia" hreflang="en"><span>Викисклад</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> <label id="p-lang-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">На других языках</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%81%D0%B5%D1%9E%D0%B4%D0%B0%D0%B3%D0%BE%D1%82%D1%8B%D0%BA%D0%B0" title="Руская псеўдаготыка — белорусский" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li>
+       <li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Style_pseudo-gothique_russe" title="Style pseudo-gothique russe — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li>
+       <li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Russische_pseudo-gotiek" title="Russische pseudo-gotiek — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li>
+       <li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_%D0%BF%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" title="Російська псевдоготика — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q942123#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 10 января 2022 в 13:16.</li> 
+    <li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия. <span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br> Wikipedia®&nbsp;— зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li> 
+    <li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li> 
+    <li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li> 
+    <li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.459","walltime":"0.535","ppvisitednodes":{"value":2960,"limit":1000000},"postexpandincludesize":{"value":45312,"limit":2097152},"templateargumentsize":{"value":3067,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8532,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  409.878      1 -total"," 26.53%  108.754      1 Шаблон:Commonscat"," 25.17%  103.166      1 Шаблон:Навигация"," 22.34%   91.564      5 Шаблон:Sfn"," 19.76%   80.987      1 Шаблон:Примечания"," 18.39%   75.364      1 Шаблон:БРЭ"," 17.39%   71.286      1 Шаблон:Публикация"," 15.12%   61.965      5 Шаблон:Sfn-текст"," 13.74%   56.312      3 Шаблон:Книга","  9.59%   39.294      1 Шаблон:Русская_архитектура"]},"scribunto":{"limitreport-timeusage":{"value":"0.142","limit":"10.000"},"limitreport-memusage":{"value":2803424,"limit":52428800}},"cachereport":{"origin":"mw1399","timestamp":"20220228083604","ttl":1814400,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u043d\u0435\u043e\u0433\u043e\u0442\u0438\u043a\u0430","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q942123","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q942123","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-05-06T08:09:25Z","dateModified":"2022-01-10T13:16:23Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d7\/Spb_06-2012_Chesme_Church.jpg"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":193,"wgHostname":"mw1349"});});</script>  
+ </body>
+</html>

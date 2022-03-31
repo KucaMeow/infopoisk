@@ -1,0 +1,469 @@
+<!doctype html>
+<html class="client-nojs" lang="ru" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Идол (картина Гогена) — Википедия</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"88aa6f8d-52f3-4119-9c47-917c8f4dda0c","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Идол_(картина_Гогена)","wgTitle":"Идол (картина Гогена)","wgCurRevisionId":120660266,"wgRevisionId":120660266,"wgArticleId":9140471,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Страницы, использующие волшебные ссылки ISBN","Картины по алфавиту","Картины 1898 года",
+"Картины Поля Гогена","Картины из собраний Государственного Эрмитажа","Картины из собрания Сергея Щукина"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Идол_(картина_Гогена)","wgRelevantArticleId":9140471,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":120660266,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true
+,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q21725228","wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":true,"wgGELinkRecommendationsFrontendEnabled":true};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.gallery","ext.scribunto.logs","site","mediawiki.page.ready",
+"skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.page.gallery.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <noscript>
+   <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector">
+  </noscript> 
+  <meta name="generator" content="MediaWiki 1.38.0-wmf.25"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gauguin_Rave_te_iti_aamu.jpg/1200px-Gauguin_Rave_te_iti_aamu.jpg"> 
+  <meta property="og:image:width" content="1200"> 
+  <meta property="og:image:height" content="949"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gauguin_Rave_te_iti_aamu.jpg/800px-Gauguin_Rave_te_iti_aamu.jpg"> 
+  <meta property="og:image:width" content="800"> 
+  <meta property="og:image:height" content="632"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gauguin_Rave_te_iti_aamu.jpg/640px-Gauguin_Rave_te_iti_aamu.jpg"> 
+  <meta property="og:image:width" content="640"> 
+  <meta property="og:image:height" content="506"> 
+  <meta property="og:title" content="Идол (картина Гогена) — Википедия"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)"> 
+  <link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Идол_картина_Гогена rootpage-Идол_картина_Гогена skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading mw-first-heading">Идол (картина Гогена)</h1> 
+   <div id="bodyContent" class="vector-body"> 
+    <div id="siteSub" class="noprint">
+     Материал из Википедии — свободной энциклопедии
+    </div> 
+    <div id="contentSub">
+     <div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint">
+      <div class="flaggedrevs_short_basic">
+       <span title="Правки этой страницы требуют проверки." class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-articleSearch oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget"></span><span title="Это отпатрулированная версия страницы" class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-eye oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget"></span><span id="mw-fr-revisiontoggle" title="показать/скрыть подробности" class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget"></span>
+      </div> 
+      <div id="mw-fr-revisiondetails-wrapper" style="position:relative;">
+       <div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">
+        Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Патрулирование">стабильная версия</a>, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B&amp;type=review&amp;page=%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)">отпатрулированная</a> <i>15 марта 2022</i>.
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Перейти к навигации</a> <a class="mw-jump-link" href="#searchInput">Перейти к поиску</a> 
+    <div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr">
+     <div class="mw-parser-output">
+      <table class="infobox" style="background:#FBF5DF;" data-name="Произведение искусства">
+       <tbody>
+        <tr>
+         <td colspan="2" class="infobox-image" style="text-align:center;"> <span data-wikidata-property-id="P18" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gauguin_Rave_te_iti_aamu.jpg" class="image"><img alt="Gauguin Rave te iti aamu.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gauguin_Rave_te_iti_aamu.jpg/250px-Gauguin_Rave_te_iti_aamu.jpg" decoding="async" width="250" height="198" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gauguin_Rave_te_iti_aamu.jpg/375px-Gauguin_Rave_te_iti_aamu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gauguin_Rave_te_iti_aamu.jpg/500px-Gauguin_Rave_te_iti_aamu.jpg 2x" data-file-width="1919" data-file-height="1517"></a></span> </td>
+        </tr> 
+        <tr> 
+         <td colspan="2" class="plainlist" style="text-align:center;font-weight: bold;"> <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8C_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD" class="mw-redirect" title="Поль Гоген">Поль Гоген</a></td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" class="plainlist" style="text-align:center;"> <b>Идол</b>. <span data-wikidata-property-id="P571" class="no-wikidata">1898 год</span></td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" class="plainlist" style="text-align:center;"> <span data-wikidata-property-id="P1705" class="no-wikidata"><a href="/wiki/%D0%A2%D0%B0%D0%B8%D1%82%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Таитянский язык">таит.</a> <span lang="ty" style="font-style:italic;">Rave te hiti aamu</span>, <br> <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&nbsp;<span lang="fr" style="font-style:italic;">L’Idole</span></span></td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" class="plainlist" style="text-align:center;"> Холст, <a href="/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D1%8F%D0%BD%D0%B0%D1%8F_%D0%B6%D0%B8%D0%B2%D0%BE%D0%BF%D0%B8%D1%81%D1%8C" title="Масляная живопись">масло</a>.&nbsp;73,5&nbsp;×&nbsp;92&nbsp;см</td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" class="plainlist" style="text-align:center;"> <span data-wikidata-property-id="P195" class="no-wikidata"><a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%AD%D1%80%D0%BC%D0%B8%D1%82%D0%B0%D0%B6" class="mw-redirect" title="Государственный Эрмитаж">Государственный Эрмитаж</a>, <a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" title="Санкт-Петербург">Санкт-Петербург</a></span></td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" class="plainlist" style="text-align:center;"> (<a href="/wiki/%D0%98%D0%BD%D0%B2%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80" title="Инвентарный номер">инв.</a> <span data-wikidata-property-id="P217" class="no-wikidata">ГЭ-9121</span>)</td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <p><b>«Идол»</b>&nbsp;— картина французского художника-<a href="/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%B8%D0%BC%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC" title="Постимпрессионизм">постимпрессиониста</a> <a href="/wiki/%D0%93%D0%BE%D0%B3%D0%B5%D0%BD,_%D0%9F%D0%BE%D0%BB%D1%8C" title="Гоген, Поль">Поля Гогена</a> из собрания <a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%AD%D1%80%D0%BC%D0%B8%D1%82%D0%B0%D0%B6" class="mw-redirect" title="Государственный Эрмитаж">Государственного Эрмитажа</a>. </p>
+      <p>На картине изображён идол в виде женской фигуры на фоне пейзажа, которая прижимает к себе какого-то зверька с пушистым хвостом. Слева внизу подпись художника, дата и название на таитянском языке: <i>P. Gauguin, 98, Rave te hiti aamu</i>. Картина написана <a href="/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D1%8F%D0%BD%D0%B0%D1%8F_%D0%B6%D0%B8%D0%B2%D0%BE%D0%BF%D0%B8%D1%81%D1%8C" title="Масляная живопись">масляными красками</a> на холсте и имеет размеры 73,5&nbsp;×&nbsp;92&nbsp;см. </p>
+      <p>Картина написана в 1898 году на <a href="/wiki/%D0%A2%D0%B0%D0%B8%D1%82%D0%B8" title="Таити">Таити</a> во время второй поездки Гогена в <a href="/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F" title="Полинезия">Полинезию</a>. 9 декабря того же года она была отправлена Гогеном среди прочих работ в <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D0%B6" title="Париж">Париж</a> в галерею <a href="/wiki/%D0%92%D0%BE%D0%BB%D0%BB%D0%B0%D1%80,_%D0%90%D0%BC%D0%B1%D1%80%D1%83%D0%B0%D0%B7" title="Воллар, Амбруаз">Амбруаза Воллара</a>, в описи значилась под своим таитянским названием<sup id="cite_ref-_853b52ab898fbd96_1-0" class="reference"><a href="#cite_note-_853b52ab898fbd96-1">[1]</a></sup>. </p>
+      <p>В 1906 году картина была выставлена в <a href="/wiki/%D0%9E%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B9_%D1%81%D0%B0%D0%BB%D0%BE%D0%BD" title="Осенний салон">Осеннем салоне</a>, где была устроена большая посмертная выставка Гогена. На этой выставке на картину обратил внимание московский промышленник и коллекционер <a href="/wiki/%D0%A9%D1%83%D0%BA%D0%B8%D0%BD,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Щукин, Сергей Иванович">С.&nbsp;И.&nbsp;Щукин</a>&nbsp;— в принадлежавшем ему выставочном каталоге возле описания картины проставлена пометка. Неизвестно, когда Щукин купил картину у Воллара, но 5 ноября он с этой выставки приобрёл три другие картины Гогена: «Младенец», «Таитяне в комнате» и «<a href="/wiki/%D0%90,_%D1%82%D1%8B_%D1%80%D0%B5%D0%B2%D0%BD%D1%83%D0%B5%D1%88%D1%8C%3F" title="А, ты ревнуешь?">А, ты ревнуешь?</a>». <a href="/wiki/%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2%D0%B0,_%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D0%B8%D1%8F_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0" title="Семёнова, Наталия Юрьевна">Н.&nbsp;Ю.&nbsp;Семёнова</a> предполагает, что покупка состоялась осенью того же 1906 года<sup id="cite_ref-_7b65f280e48fa068_2-0" class="reference"><a href="#cite_note-_7b65f280e48fa068-2">[2]</a></sup>. Первоначально в собрании Щукина картина значилась под названием «Нагая сидящая женщина». Название «Идол» впервые возникло в 1903 году&nbsp;— так картина была впервые продемонстрирована публике на посмертной выставке Гогена, проходившей в галерее Воллара<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>. В 1914 году в статье <a href="/wiki/%D0%A2%D1%83%D0%B3%D0%B5%D0%BD%D0%B4%D1%85%D0%BE%D0%BB%D1%8C%D0%B4,_%D0%AF%D0%BA%D0%BE%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Тугендхольд, Яков Александрович">Я.&nbsp;А.&nbsp;Тугендхольда</a> о щукинской коллекции, опубликованной в журнале «<a href="/wiki/%D0%90%D0%BF%D0%BE%D0%BB%D0%BB%D0%BE%D0%BD_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)" title="Аполлон (журнал)">Аполлон</a>» картина вновь была названа «Идол»<sup id="cite_ref-_459a2e1baebc2d99_4-0" class="reference"><a href="#cite_note-_459a2e1baebc2d99-4">[4]</a></sup>. П.&nbsp;П.&nbsp;Перцов в каталоге щукинского собрания назвал картину «Бог чумы»<sup id="cite_ref-_aad437f317f86bb1_5-0" class="reference"><a href="#cite_note-_aad437f317f86bb1-5">[5]</a></sup>. Впоследствии название 1903 года устоялось и картина публиковалась преимущественно под ним. После <a href="/wiki/%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F" title="Октябрьская революция">Октябрьской революции</a> собрание Щукина было национализировано, и с 1923 года картина находилась в <a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0" title="Государственный музей нового западного искусства">Государственном музее нового западного искусства</a>. В 1948 году ГМНЗИ был расформирован и картина была передана в <a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%AD%D1%80%D0%BC%D0%B8%D1%82%D0%B0%D0%B6" class="mw-redirect" title="Государственный Эрмитаж">Государственный Эрмитаж</a><sup id="cite_ref-_459a2e1baebc2d96_6-0" class="reference"><a href="#cite_note-_459a2e1baebc2d96-6">[6]</a></sup>. С конца 2014 года выставляется на четвёртом этаже <a href="/wiki/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE_%D1%88%D1%82%D0%B0%D0%B1%D0%B0" title="Здание Главного штаба">здания Главного штаба</a>, зал 413<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>. </p>
+      <p>О том, что за идол изображён на картине, существовало несколько мнений. Первоначально считалось, что изображён маркизский божок <a href="/wiki/%D0%A2%D0%B8%D0%BA%D0%B8" title="Тики">Тики</a>, или Такайа. Однако А.&nbsp;Г.&nbsp;Барская отмечает, что изображение на картине совершенно не походит на изображения Тики и других богов Полинезии. По её мнению, истукан с мертвенно неподвижным лицом и женским телом имеет другое иконографическое происхождение<sup id="cite_ref-_459a2e1baebc2d99_4-1" class="reference"><a href="#cite_note-_459a2e1baebc2d99-4">[4]</a></sup>. В литературе упоминается, что в качестве прототипа головы идола Гоген использовал мумию вождя с Маркизских островов, прошедшего через смерть, чтобы стать богом. Впервые общее композиционное решение фигуры идола появилось в 1892 году в изображении женщины на картине «Куда ты идёшь? (E haere oe i hia)» из собрания <a href="https://de.wikipedia.org/wiki/Staatsgalerie_Stuttgart" class="extiw" title="de:Staatsgalerie Stuttgart"><span title="Staatsgalerie Stuttgart — версия статьи «Государственная галерея Штутгарта» на немецком языке">Государственной галереи Штутгарта</span></a><span class="noprint" style="font-style:normal; font-weight:normal;"><sup style="margin-left:2px; position:relative; top:-1px;"><span data-interwiki-lang="de" data-interwiki-article="Staatsgalerie Stuttgart"><a href="/w/index.php?title=%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%D0%A8%D1%82%D1%83%D1%82%D0%B3%D0%B0%D1%80%D1%82%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Государственная галерея Штутгарта (страница отсутствует)"><span title="Статья «Государственная галерея Штутгарта» в русском разделе отсутствует">ru</span></a></span></sup><sub style="margin-left:-0.94em;" title="По ссылке доступна статья на немецком языке">de</sub></span> (холст, масло; 92&nbsp;×&nbsp;69&nbsp;см; инв. №&nbsp;3065)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>. Барская допускает возможность того, что этот образ ведёт происхождение от яванской скульптуры или близкого таитянского изображения<sup id="cite_ref-_459a2e1baebc2d96_6-1" class="reference"><a href="#cite_note-_459a2e1baebc2d96-6">[6]</a></sup>. </p>
+      <p>В конце своей первой поездки на Таити Гоген создал большую статую <a href="https://en.wikipedia.org/wiki/Oviri" class="extiw" title="en:Oviri"><span title="Oviri — версия статьи «Oviri» на английском языке">«Oviri» («Дикарь»)</span></a><span class="noprint" style="font-style:normal; font-weight:normal;"><sup style="margin-left:2px; position:relative; top:-1px;"><span data-interwiki-lang="en" data-interwiki-article="Oviri"><a href="/w/index.php?title=Oviri&amp;action=edit&amp;redlink=1" class="new" title="Oviri (страница отсутствует)"><span title="Статья «Oviri» в русском разделе отсутствует">ru</span></a></span></sup><sub style="margin-left:-0.94em;" title="По ссылке доступна статья на английском языке">en</sub></span> в виде обнажённой женской фигуры с большой шевелюрой на затылке и с голым черепом впереди. Примерно тогда же он исполнил две <a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%BE%D1%82%D0%B8%D0%BF%D0%B8%D1%8F_(%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE)" title="Монотипия (искусство)">монотипии</a> (одна из них находится в частной коллекции, другая в <a href="/wiki/%D0%93%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9" title="Гарвардский художественный музей">Гарвардском художественном музее</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>) и несколько <a href="/wiki/%D0%9A%D1%81%D0%B8%D0%BB%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Ксилография">ксилографий</a> с аналогичным изображением. Две ксилографии были наклеены на один картонный лист, на котором Гоген сделал посвятительную надпись <i>«<a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%BB%D0%B0%D1%80%D0%BC%D0%B5,_%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD" title="Малларме, Стефан">Стефану Малларме</a> эта странная фигура жестокая загадка. П. Гоген 1895»</i> (20,5&nbsp;×&nbsp;11,9 см и 20,7&nbsp;×&nbsp;12&nbsp;см, общий размер листа 23&nbsp;×&nbsp;31,6&nbsp;см; Чикагский институт искусств; инв. №&nbsp;1947.686.1-2)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>. Один из других оттисков-ксилографий был вклеен Гогеном в рукопись своей книги «Ноа-Ноа», хранящейся в <a href="/wiki/%D0%9B%D1%83%D0%B2%D1%80" title="Лувр">Лувре</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup> (ещё несколько авторских оттисков имеется в различных музеях мира). Скульптуру же Гоген в письме Воллару назвал «La Tueuse» («Убийца»). И, наконец, этот же образ он воспроизвёл на щукинском холсте. Сама скульптура находится в собрании музея <a href="/wiki/%D0%9E%D1%80%D1%81%D0%B5" class="mw-redirect" title="Орсе">Орсе</a> в Париже (частично эмалированный керамогранит, размеры 75&nbsp;×&nbsp;19&nbsp;×&nbsp;27&nbsp;см, инв. № OAO 1114)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>, а её бронзовая копия установлена на могиле Гогена в <a href="/w/index.php?title=%D0%90%D1%82%D1%83%D0%BE%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Атуона (страница отсутствует)">Атуоне</a> на острове <a href="/wiki/%D0%A5%D0%B8%D0%B2%D0%B0-%D0%9E%D0%B0" title="Хива-Оа">Хива-Оа</a> <a href="/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%B8%D0%B7%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0" title="Маркизские острова">Маркизского архипелага</a>. А.&nbsp;Г.&nbsp;Костеневич одно из названий скульптуры «Убийца» трактовал как мысль Гогена о том, что жизнь и смерть неразделимы. Он считает, что в виде зверька, прижимаемого идолом к животу, изображён щенок&nbsp;— плод союза собаки и волка, и это очень важный личный мотив: Гогену нравилось, что некогда <a href="/wiki/%D0%94%D0%B5%D0%B3%D0%B0,_%D0%AD%D0%B4%D0%B3%D0%B0%D1%80" title="Дега, Эдгар">Дега</a> отозвался о нём как о волке из басни Лафонтена «Собака и волк» <sup id="cite_ref-_4b816106a60c5894_13-0" class="reference"><a href="#cite_note-_4b816106a60c5894-13">[13]</a></sup>. По мнению <a href="/wiki/%D0%91%D0%BE%D0%B3%D0%B5%D0%BC%D1%81%D0%BA%D0%B0%D1%8F,_%D0%9A%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%BD%D0%B0" title="Богемская, Ксения Георгиевна">К. Г. Богемской</a> эта фигура стала одним из основных скульптурных образов на картинах Гогена: «сюжетная связь между идолами и таитянами представляется более расплывчатой, идолы обрели большую независимость»<sup id="cite_ref-_6ca7eaef5cc7eeda_14-0" class="reference"><a href="#cite_note-_6ca7eaef5cc7eeda-14">[14]</a></sup>. </p>
+      <p>Поскольку Гоген плохо владел <a href="/wiki/%D0%A2%D0%B0%D0%B8%D1%82%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Таитянский язык">таитянским языком</a>, к тому же в его время ещё не имевшим устоявшейся письменности, то названия своих картин он писал на слух и зачастую его записанные таитянские выражения не поддаются понятному переводу. На этой картине таитянское название сначала было неверно переведено как «Присутствие злого духа»<sup id="cite_ref-_853b52ab898fbd96_1-1" class="reference"><a href="#cite_note-_853b52ab898fbd96-1">[1]</a></sup>. <a href="/wiki/%D0%94%D0%B0%D0%BD%D0%B8%D0%B5%D0%BB%D1%8C%D1%81%D1%81%D0%BE%D0%BD,_%D0%91%D0%B5%D0%BD%D0%B3%D1%82" title="Даниельссон, Бенгт">Б. Даниельссон</a> попытался перевести надпись заново, но смог установить лишь значение отдельных слов, не складывающихся в осмысленную фразу: <i>rave</i>&nbsp;— схватить, <i>te hiti</i>&nbsp;— чудовище, <i>aamu</i>&nbsp;— обжора<sup id="cite_ref-_4b816106a60c5894_13-1" class="reference"><a href="#cite_note-_4b816106a60c5894-13">[13]</a></sup>. К. Г. Богемская, суммируя вариации переводов, сочла что в названии картины «есть что-то вроде страшилки „вот он тебя съест!”»<sup id="cite_ref-_6ca7eaef5cc7eed4_15-0" class="reference"><a href="#cite_note-_6ca7eaef5cc7eed4-15">[15]</a></sup>. </p>
+      <p>А.&nbsp;Г.&nbsp;Барская сопоставила таитянское название картины с надписью Гогена на рисунке «Oviri» 1899 года: <i>«И чудовище, прижимая к себе своё творение, оплодотворяет своим семенем плодородное древо, чтобы породить Серафита Серафиту»</i>. По её мнению, сам идол и его авторское описание раскрываются следующим образом: <style data-mw-deduplicate="TemplateStyles:r117903712">.mw-parser-output .ts-Начало_цитаты-quote{padding:0.25em 1em}.mw-parser-output .ts-Начало_цитаты-source{margin:1em 0 0 5%}.mw-parser-output .ts-Начало_цитаты-quote .ts-oq{margin:0 -1em -0.25em}body.skin-minerva .mw-parser-output .ts-Начало_цитаты-quote .ts-oq{margin-left:0}.mw-parser-output .ts-Начало_цитаты-quote .ts-oq .ts-oq-header.ts-oq-header,.mw-parser-output .ts-Начало_цитаты-quote .ts-oq .ts-oq-content{padding-left:1.052632em;padding-right:1.052632em}</style> </p> 
+      <blockquote class="ts-Начало_цитаты-quote"> 
+       <p> «Это чудовище, которое несёт в себе уничтожение, смерть и одновременно порождает Seraphitus (мужской род) и Seraphita (женский род), то есть высшее, гармонически единое существо, лишённое противоречий, разрывающих мир. Имя Серафитус&nbsp;— заимствовано из одноимённой повести <a href="/wiki/%D0%91%D0%B0%D0%BB%D1%8C%D0%B7%D0%B0%D0%BA,_%D0%9E%D0%BD%D0%BE%D1%80%D0%B5_%D0%B4%D0%B5" title="Бальзак, Оноре де">О. де Бальзака</a>, где главная героиня трактуется как совершенное ангельское существо, в котором соединились два противоположных начала&nbsp;— мужское и женское»<sup id="cite_ref-_459a2e1baebc2d96_6-2" class="reference"><a href="#cite_note-_459a2e1baebc2d96-6">[6]</a></sup>. </p> 
+      </blockquote> 
+      <p>Главный научный сотрудник Отдела западноевропейского изобразительного искусства Государственного Эрмитажа, доктор искусствоведения А.&nbsp;Г.&nbsp;Костеневич в своём анализе «Идола» писал: 
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r117903712"> </p> 
+      <blockquote class="ts-Начало_цитаты-quote"> 
+       <p> «Идол»&nbsp;— одно их самых тревожных и таинственных созданий Гогена. Перекличка очертаний изваяния с контурами деревьев делает его присутствие почти навязчивым. &lt;…&gt; Идол здесь не столько творение туземных скульпторов, сколько живое существо, так что трудно сказать, из какого материала он сделан. &lt;…&gt; Вероятно, именно стремление создавать живопись, исполненную глубоких душевных переживаний и неотделимую от тайны духовности, побуждало Гогена снова и снова обращаться к вечерним состояниям натуры, что отвечало также его колористическим влечениям<sup id="cite_ref-_10824fa18549caa2_16-0" class="reference"><a href="#cite_note-_10824fa18549caa2-16">[16]</a></sup>. </p> 
+      </blockquote> 
+      <p>К. А. Богемская, полемизируя с Костеневичем, утверждала, что с «Овири Гоген идентифицировал самого себя», и поэтому идол должен рассматриваться не как творение туземцев, а как воплощение образа-персонификации художника<sup id="cite_ref-_6ca7eaef5cc7eed4_15-1" class="reference"><a href="#cite_note-_6ca7eaef5cc7eed4-15">[15]</a></sup>. </p> 
+      <ul class="gallery mw-gallery-packed"> 
+       <li class="gallerybox" style="width: 180.66666666667px">
+        <div style="width: 180.66666666667px"> 
+         <div class="thumb" style="width: 178.66666666667px;">
+          <div style="margin:0px auto;">
+           <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Paul_Gauguin_143.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Paul_Gauguin_143.jpg/268px-Paul_Gauguin_143.jpg" decoding="async" width="179" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Paul_Gauguin_143.jpg/403px-Paul_Gauguin_143.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Paul_Gauguin_143.jpg/537px-Paul_Gauguin_143.jpg 2x" data-file-width="2536" data-file-height="3544"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p>«Куда ты идёшь?» из Штутгартской галереи </p> 
+         </div> 
+        </div></li> 
+       <li class="gallerybox" style="width: 129.33333333333px">
+        <div style="width: 129.33333333333px"> 
+         <div class="thumb" style="width: 127.33333333333px;">
+          <div style="margin:0px auto;">
+           <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Paul_Gauguin,_Oviri_(Sauvage),_1894,_partially_glazed_stoneware,_75_x_19_x_27_cm,_Mus%C3%A9e_d%27Orsay,_Paris.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Paul_Gauguin%2C_Oviri_%28Sauvage%29%2C_1894%2C_partially_glazed_stoneware%2C_75_x_19_x_27_cm%2C_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg/191px-Paul_Gauguin%2C_Oviri_%28Sauvage%29%2C_1894%2C_partially_glazed_stoneware%2C_75_x_19_x_27_cm%2C_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg" decoding="async" width="128" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Paul_Gauguin%2C_Oviri_%28Sauvage%29%2C_1894%2C_partially_glazed_stoneware%2C_75_x_19_x_27_cm%2C_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg/287px-Paul_Gauguin%2C_Oviri_%28Sauvage%29%2C_1894%2C_partially_glazed_stoneware%2C_75_x_19_x_27_cm%2C_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Paul_Gauguin%2C_Oviri_%28Sauvage%29%2C_1894%2C_partially_glazed_stoneware%2C_75_x_19_x_27_cm%2C_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg/382px-Paul_Gauguin%2C_Oviri_%28Sauvage%29%2C_1894%2C_partially_glazed_stoneware%2C_75_x_19_x_27_cm%2C_Mus%C3%A9e_d%27Orsay%2C_Paris.jpg 2x" data-file-width="2184" data-file-height="4280"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p>Статуя «Oviri» из Орсе </p> 
+         </div> 
+        </div></li> 
+       <li class="gallerybox" style="width: 348px">
+        <div style="width: 348px"> 
+         <div class="thumb" style="width: 346px;">
+          <div style="margin:0px auto;">
+           <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Paul_Gauguin_-_Oviri_presentation_mount_for_St%C3%A9phane_Mallarm%C3%A9_-_AIC_1947.686.1_%26_1947.686.2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Paul_Gauguin_-_Oviri_presentation_mount_for_St%C3%A9phane_Mallarm%C3%A9_-_AIC_1947.686.1_%26_1947.686.2.jpg/519px-Paul_Gauguin_-_Oviri_presentation_mount_for_St%C3%A9phane_Mallarm%C3%A9_-_AIC_1947.686.1_%26_1947.686.2.jpg" decoding="async" width="346" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Paul_Gauguin_-_Oviri_presentation_mount_for_St%C3%A9phane_Mallarm%C3%A9_-_AIC_1947.686.1_%26_1947.686.2.jpg/778px-Paul_Gauguin_-_Oviri_presentation_mount_for_St%C3%A9phane_Mallarm%C3%A9_-_AIC_1947.686.1_%26_1947.686.2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Paul_Gauguin_-_Oviri_presentation_mount_for_St%C3%A9phane_Mallarm%C3%A9_-_AIC_1947.686.1_%26_1947.686.2.jpg/1037px-Paul_Gauguin_-_Oviri_presentation_mount_for_St%C3%A9phane_Mallarm%C3%A9_-_AIC_1947.686.1_%26_1947.686.2.jpg 2x" data-file-width="1616" data-file-height="1169"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p>Парная ксилография «Oviri» с посвящением Малларме </p> 
+         </div> 
+        </div></li> 
+       <li class="gallerybox" style="width: 210px">
+        <div style="width: 210px"> 
+         <div class="thumb" style="width: 208px;">
+          <div style="margin:0px auto;">
+           <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Paul_Gauguin_-_Idole_polyn%C3%A9sienne_-_NoaNoa_album_-_Louvre.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Paul_Gauguin_-_Idole_polyn%C3%A9sienne_-_NoaNoa_album_-_Louvre.jpg/312px-Paul_Gauguin_-_Idole_polyn%C3%A9sienne_-_NoaNoa_album_-_Louvre.jpg" decoding="async" width="208" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Paul_Gauguin_-_Idole_polyn%C3%A9sienne_-_NoaNoa_album_-_Louvre.jpg/468px-Paul_Gauguin_-_Idole_polyn%C3%A9sienne_-_NoaNoa_album_-_Louvre.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/2/29/Paul_Gauguin_-_Idole_polyn%C3%A9sienne_-_NoaNoa_album_-_Louvre.jpg 2x" data-file-width="492" data-file-height="592"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p>Ксилография «Полинезийский идол» из рукописи «Ноа-Ноа» </p> 
+         </div> 
+        </div></li> 
+       <li class="gallerybox" style="width: 199.33333333333px">
+        <div style="width: 199.33333333333px"> 
+         <div class="thumb" style="width: 197.33333333333px;">
+          <div style="margin:0px auto;">
+           <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Paul_Gauguin_-_Oviri_-_Watercolor_monotype_F_30.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Paul_Gauguin_-_Oviri_-_Watercolor_monotype_F_30.jpg/296px-Paul_Gauguin_-_Oviri_-_Watercolor_monotype_F_30.jpg" decoding="async" width="198" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Paul_Gauguin_-_Oviri_-_Watercolor_monotype_F_30.jpg/445px-Paul_Gauguin_-_Oviri_-_Watercolor_monotype_F_30.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/8/82/Paul_Gauguin_-_Oviri_-_Watercolor_monotype_F_30.jpg 2x" data-file-width="512" data-file-height="648"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p>Монотипия из частной коллекции </p> 
+         </div> 
+        </div></li> 
+      </ul> 
+      <h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)&amp;action=edit&amp;section=1" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist columns" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-_853b52ab898fbd96-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_853b52ab898fbd96_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_853b52ab898fbd96_1-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFWildenstein1964">Wildenstein, 1964</a>, p.&nbsp;238.</span> </li> 
+         <li id="cite_note-_7b65f280e48fa068-2"><span class="mw-cite-backlink"><a href="#cite_ref-_7b65f280e48fa068_2-0">↑</a></span> <span class="reference-text"><a href="#CITEREFСемёнова2019">Семёнова, 2019</a>, с.&nbsp;228.</span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://digitalprojects.wpi.art/artworks/gauguin/detail/71743-rave-te-hiti-aamu">Wildenstein Plattner Institute.&nbsp;— Gauguin. Rave te hiti aamu.</a></span> </li> 
+         <li id="cite_note-_459a2e1baebc2d99-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_459a2e1baebc2d99_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_459a2e1baebc2d99_4-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFБарская,_Костеневич1991">Барская, Костеневич, 1991</a>, с.&nbsp;167.</span> </li> 
+         <li id="cite_note-_aad437f317f86bb1-5"><span class="mw-cite-backlink"><a href="#cite_ref-_aad437f317f86bb1_5-0">↑</a></span> <span class="reference-text"><a href="#CITEREFПерцов1921">Перцов, 1921</a>, с.&nbsp;108.</span> </li> 
+         <li id="cite_note-_459a2e1baebc2d96-6"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_459a2e1baebc2d96_6-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_459a2e1baebc2d96_6-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_459a2e1baebc2d96_6-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFБарская,_Костеневич1991">Барская, Костеневич, 1991</a>, с.&nbsp;168.</span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://hermitagemuseum.org/wps/portal/hermitage/digital-collection/01.+paintings/28184">Государственный Эрмитаж.&nbsp;— Гоген, Поль. «Идол».</a></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.staatsgalerie.de/en/g/collection/digital-collection/einzelansicht/sgs/werk/einzelansicht/AFCD265041FD433A85A06E8715EDB69E.html">Staatsgalerie Stuttgart.&nbsp;— Paul Gauguin. E Haere oe i hia (Where Are You Going?).</a></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://harvardartmuseums.org/art/186076">Harvard Art Museum.&nbsp;— Paul Gauguin. Oviri.</a></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.artic.edu/artworks/61353/oviri">Art Institute Chicago.&nbsp;— Paul Gauguin. Oviri.</a></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://collections.louvre.fr/ark:/53355/cl020115337">Louvre.&nbsp;— Paul Gauguin. Idole polynésienne.</a></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.musee-orsay.fr/fr/oeuvres/oviri-19409">Orsay.&nbsp;— Paul Gauguin. Oviri.</a></span> </li> 
+         <li id="cite_note-_4b816106a60c5894-13"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_4b816106a60c5894_13-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_4b816106a60c5894_13-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFКостеневич,_т._22008">Костеневич, т. 2, 2008</a>, с.&nbsp;35.</span> </li> 
+         <li id="cite_note-_6ca7eaef5cc7eeda-14"><span class="mw-cite-backlink"><a href="#cite_ref-_6ca7eaef5cc7eeda_14-0">↑</a></span> <span class="reference-text"><a href="#CITEREFБогемская2017">Богемская, 2017</a>, с.&nbsp;37.</span> </li> 
+         <li id="cite_note-_6ca7eaef5cc7eed4-15"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_6ca7eaef5cc7eed4_15-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_6ca7eaef5cc7eed4_15-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFБогемская2017">Богемская, 2017</a>, с.&nbsp;39.</span> </li> 
+         <li id="cite_note-_10824fa18549caa2-16"><span class="mw-cite-backlink"><a href="#cite_ref-_10824fa18549caa2_16-0">↑</a></span> <span class="reference-text"><a href="#CITEREFКостеневич,_т._12008">Костеневич, т. 1, 2008</a>, с.&nbsp;265, 268.</span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span><span class="mw-headline" id="Литература">Литература</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Литература»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)&amp;action=edit&amp;section=2" title="Редактировать раздел «Литература»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFБарская,_Костеневич1991"><i><style data-mw-deduplicate="TemplateStyles:r113275842">.mw-parser-output .ts-comment-commentedText{border-bottom:1px dotted;cursor:help}@media(hover:none){.mw-parser-output .ts-comment-commentedText:not(.rt-commentedText){border-bottom:0;cursor:auto}}</style><span class="ts-comment-commentedText" title="Барская, Анна Григорьевна">Барская А. Г.</span>, <a href="/w/index.php?title=%D0%9A%D0%BE%D1%81%D1%82%D0%B5%D0%BD%D0%B5%D0%B2%D0%B8%D1%87,_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" class="new" title="Костеневич, Альберт Григорьевич (страница отсутствует)">Костеневич А. Г.</a></i> Французская живопись. Вторая половина XIX — XX век. Каталог (Государственный Эрмитаж. Собрание западноевропейской живописи).&nbsp;— <abbr title="Ленинград">Л.</abbr>: Искусство, 1991.&nbsp;— 473&nbsp;с.</span></li> 
+       <li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFБогемская2017"><i><a href="/wiki/%D0%91%D0%BE%D0%B3%D0%B5%D0%BC%D1%81%D0%BA%D0%B0%D1%8F,_%D0%9A%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%BD%D0%B0" title="Богемская, Ксения Георгиевна">Богемская К. Г.</a></i> Искусство вне норм.&nbsp;— <abbr title="Москва">М.</abbr>: БуксМАрт, 2017.&nbsp;— 416&nbsp;с.&nbsp;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785906190239" class="internal mw-magiclink-isbn">ISBN 978-5-906190-23-9</a>.</span></li> 
+       <li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFКостеневич,_т._12008"><i>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842"><span class="ts-comment-commentedText" title="Костеневич, Альберт Григорьевич">Костеневич А. Г.</span></i> Искусство Франции. Живопись. Рисунок. Скульптура: в двух томах.&nbsp;— <abbr title="Санкт-Петербург">СПб.</abbr>: Изд-во Государственного Эрмитажа, 2008.&nbsp;— Т.&nbsp;I.&nbsp;— 532&nbsp;с.&nbsp;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785935722951" class="internal mw-magiclink-isbn">ISBN 978-5-93572-295-1</a>.&nbsp;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785935723088" class="internal mw-magiclink-isbn">ISBN 978-5-93572-308-8</a>.</span></li> 
+       <li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFКостеневич,_т._22008"><i>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842"><span class="ts-comment-commentedText" title="Костеневич, Альберт Григорьевич">Костеневич А. Г.</span></i> Искусство Франции. Живопись. Рисунок. Скульптура: в двух томах.&nbsp;— <abbr title="Санкт-Петербург">СПб.</abbr>: Изд-во Государственного Эрмитажа, 2008.&nbsp;— Т.&nbsp;II.&nbsp;— 204&nbsp;с.&nbsp;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785935722975" class="internal mw-magiclink-isbn">ISBN 978-5-93572-297-5</a>.&nbsp;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785935723088" class="internal mw-magiclink-isbn">ISBN 978-5-93572-308-8</a>.</span></li> 
+       <li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFПерцов1921"><i><a href="/wiki/%D0%9F%D0%B5%D1%80%D1%86%D0%BE%D0%B2,_%D0%9F%D1%91%D1%82%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Перцов, Пётр Петрович">Перцов П.</a></i> Щукинское собрание французской живописи. Музей новой западной живописи.&nbsp;— <abbr title="Москва">М.</abbr>: Издание М. и С. Сабашниковых, 1921.&nbsp;— 120&nbsp;с.</span></li> 
+       <li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFСемёнова2019"><i><a href="/wiki/%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2%D0%B0,_%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D0%B8%D1%8F_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0" title="Семёнова, Наталия Юрьевна">Семёнова Н. Ю.</a></i> Щукин. Биография коллекции.&nbsp;— <abbr title="Москва">М.</abbr>: Слово, 2019.&nbsp;— 528&nbsp;с.&nbsp;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785387015540" class="internal mw-magiclink-isbn">ISBN 978-5-387-01554-0</a>.</span></li> 
+       <li><span class="citation no-wikidata" data-wikidata-property-id="P1343" id="CITEREFWildenstein1964"><i>
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842"><span class="ts-comment-commentedText" title="Вильденштейн, Жорж">Wildenstein G.</span></i> Gauguin. I. Catalogue.&nbsp;— Paris, 1964.&nbsp;— 283&nbsp;p.</span></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Поль_Гоген" data-name="Гоген">
+       <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="colgroup" class="navbox-title" colspan="2" style="background:#FBF5DF;"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%93%D0%BE%D0%B3%D0%B5%D0%BD" title="Перейти к шаблону «Гоген»"><img alt="Перейти к шаблону «Гоген»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;</span>
+           <div id="Поль_Гоген" style="font-size:114%;margin:0 5em">
+            <a href="/wiki/%D0%93%D0%BE%D0%B3%D0%B5%D0%BD,_%D0%9F%D0%BE%D0%BB%D1%8C" title="Гоген, Поль">Поль Гоген</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#FBF5DF;;width:1px"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD_%D0%9F%D0%BE%D0%BB%D1%8F_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0" title="Список картин Поля Гогена">Картины</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%A8%D1%8C%D1%8E%D1%89%D0%B0%D1%8F_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%B0" title="Шьющая женщина">Шьющая женщина</a> (1880)</li> 
+             <li><a href="/wiki/%D0%A3_%D0%BE%D0%BA%D0%BD%D0%B0" title="У окна">У окна</a> (1882)</li> 
+             <li><a href="/wiki/%D0%91%D1%83%D0%BA%D0%B5%D1%82_%D1%80%D1%8F%D0%B1%D0%B8%D0%BD%D1%8B" title="Букет рябины">Букет рябины</a> (1884)</li> 
+             <li><a href="/wiki/%D0%92%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D0%BE%D1%81%D0%BB%D0%B5_%D0%BF%D1%80%D0%BE%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B8" title="Видение после проповеди">Видение после проповеди</a> (1888)</li> 
+             <li><a href="/wiki/%D0%96%D1%91%D0%BB%D1%82%D1%8B%D0%B9_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81" title="Жёлтый Христос">Жёлтый Христос</a> (1889)</li> 
+             <li><a href="/wiki/Ia_Orana_Maria" title="Ia Orana Maria">Ia Orana Maria</a> (1891)</li> 
+             <li><a href="/wiki/%D0%96%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%B0_%D1%81_%D1%86%D0%B2%D0%B5%D1%82%D0%BA%D0%BE%D0%BC" title="Женщина с цветком">Женщина с цветком</a> (1891)</li> 
+             <li><a href="/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D1%8B_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Цветы Франции">Цветы Франции</a> (1891)</li> 
+             <li><a href="/wiki/%D0%A2%D0%B0%D0%B8%D1%82%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D1%8B_%D0%BD%D0%B0_%D0%BF%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D1%8C%D0%B5" title="Таитянские женщины на побережье">Таитянские женщины на побережье</a> (1891)</li> 
+             <li><a href="/wiki/%D0%91%D0%B5%D1%81%D0%B5%D0%B4%D0%B0_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)" title="Беседа (картина Гогена)">Беседа</a> (1891)</li> 
+             <li><a href="/wiki/%D0%A3_%D0%BF%D0%BE%D0%B4%D0%BD%D0%BE%D0%B6%D0%B8%D1%8F_%D0%B3%D0%BE%D1%80%D1%8B" title="У подножия горы">У подножия горы</a> (1892)</li> 
+             <li><a href="/wiki/%D0%90,_%D1%82%D1%8B_%D1%80%D0%B5%D0%B2%D0%BD%D1%83%D0%B5%D1%88%D1%8C%3F" title="А, ты ревнуешь?">А, ты ревнуешь?</a> (1892)</li> 
+             <li><a href="/wiki/%D0%94%D1%83%D1%85_%D0%BC%D1%91%D1%80%D1%82%D0%B2%D1%8B%D1%85_%D0%BD%D0%B5_%D0%B4%D1%80%D0%B5%D0%BC%D0%BB%D0%B5%D1%82" title="Дух мёртвых не дремлет">Дух мёртвых не дремлет</a> (1892)</li> 
+             <li><a href="/wiki/%D0%95%D1%91_%D0%B7%D0%B2%D0%B0%D0%BB%D0%B8_%D0%92%D0%B0%D0%B9%D1%80%D0%B0%D1%83%D0%BC%D0%B0%D1%82%D0%B8" title="Её звали Вайраумати">Её звали Вайраумати</a> (1892)</li> 
+             <li><a href="/wiki/%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0_%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%3F" title="Когда свадьба?">Когда свадьба?</a> (1892)</li> 
+             <li><a href="/wiki/%D0%94%D0%B2%D0%B5_%D1%81%D0%B5%D1%81%D1%82%D1%80%D1%8B_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)" title="Две сестры (картина Гогена)">Две сестры</a> (1892)</li> 
+             <li><a href="/wiki/%D0%9F%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6_%D1%81_%D0%BF%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8" title="Пейзаж с павлинами">Пейзаж с павлинами</a> (1892)</li> 
+             <li><a href="/wiki/%D0%A0%D0%B0%D0%BD%D0%BD%D0%B8%D0%B9_%D0%B2%D0%B5%D1%87%D0%B5%D1%80" title="Ранний вечер">Ранний вечер</a> (1892)</li> 
+             <li><a href="/wiki/%D0%92_%D0%BF%D1%80%D0%B5%D0%B6%D0%BD%D0%B8%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0" title="В прежние времена">В прежние времена</a> (1892)</li> 
+             <li><a href="/wiki/%D0%A2%D0%B0%D0%B8%D1%82%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B0%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BB%D0%B8" title="Таитянские пасторали">Таитянские пасторали</a> (1892)</li> 
+             <li><a href="/wiki/%D0%96%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D0%B0,_%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%89%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D0%B4" title="Женщина, держащая плод">Женщина, держащая плод</a> (1893)</li> 
+             <li><a href="/wiki/%D0%A7%D1%83%D0%B4%D0%B5%D1%81%D0%BD%D1%8B%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA" title="Чудесный источник">Чудесный источник</a> (1894)</li> 
+             <li><a href="/wiki/%D0%97%D0%B0%D0%B1%D0%B0%D0%B2%D0%B0_%D0%B7%D0%BB%D0%BE%D0%B3%D0%BE_%D0%B4%D1%83%D1%85%D0%B0" title="Забава злого духа">Забава злого духа</a> (1894)</li> 
+             <li><a href="/wiki/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0_%D0%B8%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D1%82%D0%B0%D0%B8%D1%82%D1%8F%D0%BD" title="Сцена из жизни таитян">Сцена из жизни таитян</a> (1896)</li> 
+             <li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0)" title="Королева (картина)">Королева</a> (1896)</li> 
+             <li><a href="/wiki/%D0%9F%D0%B8%D1%80%D0%BE%D0%B3%D0%B0_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)" title="Пирога (картина Гогена)">Пирога</a> (1896)</li> 
+             <li><a href="/wiki/%D0%9F%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6_%D1%81_%D0%B4%D0%B2%D1%83%D0%BC%D1%8F_%D0%BA%D0%BE%D0%B7%D0%B0%D0%BC%D0%B8" title="Пейзаж с двумя козами">Пейзаж с двумя козами</a> (1897)</li> 
+             <li><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B5_%D0%BD%D0%B8%D0%BA%D0%BE%D0%B3%D0%B4%D0%B0_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0)" title="Больше никогда (картина)">Больше никогда</a> (1897)</li> 
+             <li><a href="/wiki/%D0%9C%D1%83%D0%B6%D1%87%D0%B8%D0%BD%D0%B0,_%D1%81%D0%BE%D0%B1%D0%B8%D1%80%D0%B0%D1%8E%D1%89%D0%B8%D0%B9_%D0%BF%D0%BB%D0%BE%D0%B4%D1%8B_%D1%81_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B0" title="Мужчина, собирающий плоды с дерева">Мужчина, собирающий плоды с дерева</a> (1897)</li> 
+             <li><a href="/wiki/%D0%9E%D1%82%D0%BA%D1%83%D0%B4%D0%B0_%D0%BC%D1%8B_%D0%BF%D1%80%D0%B8%D1%88%D0%BB%D0%B8%3F_%D0%9A%D1%82%D0%BE_%D0%BC%D1%8B%3F_%D0%9A%D1%83%D0%B4%D0%B0_%D0%BC%D1%8B_%D0%B8%D0%B4%D1%91%D0%BC%3F" title="Откуда мы пришли? Кто мы? Куда мы идём?">Откуда мы пришли? Кто мы? Куда мы идём?</a> (1897—1898)</li> 
+             <li><a class="mw-selflink selflink">Идол</a> (1898)</li> 
+             <li><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%91%D1%83%D0%B4%D0%B4%D0%B0" title="Великий Будда">Великий Будда</a> (1899)</li> 
+             <li><a href="/wiki/%D0%A2%D1%80%D0%B8_%D1%82%D0%B0%D0%B8%D1%82%D1%8F%D0%BD%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B6%D1%91%D0%BB%D1%82%D0%BE%D0%BC_%D1%84%D0%BE%D0%BD%D0%B5" title="Три таитянки на жёлтом фоне">Три таитянки на жёлтом фоне</a> (1899)</li> 
+             <li><a href="/wiki/%D0%9B%D0%BE%D1%88%D0%B0%D0%B4%D1%8C_%D0%BD%D0%B0_%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B5" title="Лошадь на дороге">Лошадь на дороге</a> (1899)</li> 
+             <li><a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)" title="Подсолнечники (картина Гогена)">Подсолнечники</a> (1901)</li> 
+             <li><a href="/wiki/%D0%9D%D0%B0%D1%82%D1%8E%D1%80%D0%BC%D0%BE%D1%80%D1%82_%D1%81_%D0%BF%D0%BE%D0%BF%D1%83%D0%B3%D0%B0%D1%8F%D0%BC%D0%B8" title="Натюрморт с попугаями">Натюрморт с попугаями</a> (1902)</li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#FBF5DF;;width:1px">Другие работы</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%9A%D1%83%D0%B2%D1%88%D0%B8%D0%BD-%D0%B0%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_(%D0%93%D0%BE%D0%B3%D0%B5%D0%BD)" title="Кувшин-автопортрет (Гоген)">Кувшин-автопортрет</a> (1889)</li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#FBF5DF;;width:1px">Друзья и соратники</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%91%D0%B5%D1%80%D0%BD%D0%B0%D1%80,_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C" title="Бернар, Эмиль">Эмиль Бернар</a></li> 
+             <li><a href="/wiki/%D0%92%D0%B0%D0%BD_%D0%93%D0%BE%D0%B3,_%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82" title="Ван Гог, Винсент">Винсент ван Гог</a></li> 
+             <li><a href="/wiki/%D0%94%D0%B5_%D0%A5%D0%B0%D0%BD,_%D0%9C%D0%B5%D0%B9%D0%B5%D1%80" title="Де Хан, Мейер">Мейер де Хан</a></li> 
+             <li><a href="/wiki/%D0%9B%D0%B0%D0%B2%D0%B0%D0%BB%D1%8C,_%D0%A8%D0%B0%D1%80%D0%BB%D1%8C" title="Лаваль, Шарль">Шарль Лаваль</a></li> 
+             <li><a href="/w/index.php?title=%D0%9C%D0%BE%D0%BD%D1%84%D1%80%D0%B5%D0%B9%D0%B4,_%D0%96%D0%BE%D1%80%D0%B6-%D0%94%D0%B0%D0%BD%D1%8D%D0%BB%D1%8C&amp;action=edit&amp;redlink=1" class="new" title="Монфрейд, Жорж-Данэль (страница отсутствует)">Жорж-Даниэль Монфрейд</a></li> 
+             <li><a href="/wiki/%D0%9F%D0%B8%D1%81%D1%81%D0%B0%D1%80%D1%80%D0%BE,_%D0%9A%D0%B0%D0%BC%D0%B8%D0%BB%D1%8C" title="Писсарро, Камиль">Камиль Писсарро</a></li> 
+             <li><a href="/wiki/%D0%A2%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BD,_%D0%A4%D0%BB%D0%BE%D1%80%D0%B0" title="Тристан, Флора">Флора Тристан</a></li> 
+             <li><a href="/w/index.php?title=%D0%A8%D1%83%D1%84%D1%84%D0%B5%D0%BD%D0%B5%D0%BA%D0%B5%D1%80,_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C&amp;action=edit&amp;redlink=1" class="new" title="Шуффенекер, Эмиль (страница отсутствует)">Эмиль Шуффенекер</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div>
+     </div>
+     <noscript>
+      <img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Идол_(картина_Гогена)&amp;oldid=120660266">https://ru.wikipedia.org/w/index.php?title=Идол_(картина_Гогена)&amp;oldid=120660266</a>
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Картины по алфавиту">Картины по алфавиту</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D1%8B_1898_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Картины 1898 года">Картины 1898 года</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D1%8B_%D0%9F%D0%BE%D0%BB%D1%8F_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0" title="Категория:Картины Поля Гогена">Картины Поля Гогена</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D1%8B_%D0%B8%D0%B7_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B9_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%AD%D1%80%D0%BC%D0%B8%D1%82%D0%B0%D0%B6%D0%B0" title="Категория:Картины из собраний Государственного Эрмитажа">Картины из собраний Государственного Эрмитажа</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D1%8B_%D0%B8%D0%B7_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D1%8F_%D0%A9%D1%83%D0%BA%D0%B8%D0%BD%D0%B0" title="Категория:Картины из собрания Сергея Щукина">Картины из собрания Сергея Щукина</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Скрытая категория: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Навигация</h2> 
+   <div id="mw-head"> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"> <label id="p-personal-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Персональные инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage" class="mw-list-item"><span>Вы не представились системе</span></li>
+       <li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li>
+       <li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li>
+       <li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%98%D0%B4%D0%BE%D0%BB+%28%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0+%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li>
+       <li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%98%D0%B4%D0%BE%D0%BB+%28%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0+%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> <label id="p-namespaces-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Пространства имён</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li>
+        <li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> <label id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading"> <span class="vector-menu-heading-label">русский</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> <label id="p-views-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Просмотры</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)"><span>Читать</span></a></li>
+        <li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li>
+        <li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li>
+        <li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" title="Больше возможностей"> 
+      <input type="checkbox" id="p-cactions-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-cactions" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> <label id="p-cactions-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Ещё</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box"> 
+      <div> 
+       <h3> <label for="searchInput">Поиск</label> </h3> 
+       <form action="/w/index.php" id="searchform" class="vector-search-box-form"> 
+        <div id="simpleSearch" class="vector-search-box-inner" data-search-loc="header-navigation"> 
+         <input class="vector-search-box-input" type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"> 
+         <input type="hidden" name="title" value="Служебная:Поиск"> 
+         <input id="mw-searchButton" class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти"> 
+         <input id="searchButton" class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти"> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a> 
+    </div> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> <label id="p-navigation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Навигация</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li>
+       <li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li>
+       <li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li>
+       <li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li>
+       <li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li>
+       <li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"> <label id="p-participation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Участие</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об&nbsp;ошибке</span></a></li>
+       <li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li>
+       <li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li>
+       <li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li>
+       <li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li>
+       <li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li>
+       <li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> <label id="p-tb-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li>
+       <li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li>
+       <li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+       <li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)&amp;oldid=120660266" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li>
+       <li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о&nbsp;странице</span></a></li>
+       <li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%98%D0%B4%D0%BE%D0%BB_%28%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0%29&amp;id=120660266&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li>
+       <li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21725228" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> <label id="p-coll-print_export-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Печать/экспорт</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%98%D0%B4%D0%BE%D0%BB+%28%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0+%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0%29" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li>
+       <li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%98%D0%B4%D0%BE%D0%BB_%28%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0%29&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li>
+       <li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> <label id="p-lang-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">На других языках</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list"></ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21725228#sitelinks-wikipedia" title="Добавить интервики-ссылки" class="wbc-editpage">Добавить ссылки</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 15 марта 2022 в 11:32.</li> 
+    <li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия. <span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br> Wikipedia®&nbsp;— зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li> 
+    <li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li> 
+    <li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li> 
+    <li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.459","walltime":"0.616","ppvisitednodes":{"value":5705,"limit":1000000},"postexpandincludesize":{"value":48908,"limit":2097152},"templateargumentsize":{"value":13556,"limit":2097152},"expansiondepth":{"value":17,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":16485,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  560.026      1 -total"," 33.51%  187.638      1 Шаблон:Произведение_искусства"," 30.78%  172.398      1 Шаблон:Карточка"," 22.94%  128.495     15 Шаблон:Sfn"," 21.73%  121.720      7 Шаблон:Книга"," 18.15%  101.644      6 Шаблон:Wikidata"," 13.03%   72.947     15 Шаблон:Sfn-текст","  6.21%   34.778     12 Шаблон:Replace","  6.07%   33.968      4 Шаблон:Comment","  6.01%   33.685      1 Шаблон:Гоген"]},"scribunto":{"limitreport-timeusage":{"value":"0.174","limit":"10.000"},"limitreport-memusage":{"value":4725482,"limit":52428800},"limitreport-logs":"Loaded datatype string of P217 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P217 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P195 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw1453","timestamp":"20220315114721","ttl":1814400,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0418\u0434\u043e\u043b (\u043a\u0430\u0440\u0442\u0438\u043d\u0430 \u0413\u043e\u0433\u0435\u043d\u0430)","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%98%D0%B4%D0%BE%D0%BB_(%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D0%B3%D0%B5%D0%BD%D0%B0)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q21725228","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q21725228","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2021-12-27T18:08:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/23\/Gauguin_Rave_te_iti_aamu.jpg"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":145,"wgHostname":"mw1395"});});</script>  
+ </body>
+</html>

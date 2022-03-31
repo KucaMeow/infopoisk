@@ -1,0 +1,328 @@
+<!doctype html>
+<html class="client-nojs" lang="ru" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Поиск — Википедия</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"88599077-992f-4feb-9fa3-95b9c37ac401","wgCSPNonce":false,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Search","wgNamespaceNumber":-1,"wgPageName":"Служебная:Поиск","wgTitle":"Поиск","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":false,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Служебная:Поиск","wgRelevantArticleId":0,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,
+"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":0,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","advancedSearch.mimeTypes":{"tiff":"image/tiff","png":"image/png","gif":"image/gif","jpg":"image/jpeg","webp":"image/webp","xcf":"image/x-xcf","pdf":"application/pdf","mid":"audio/midi","ogg":"application/ogg","svg":"image/svg+xml","djvu":"image/vnd.djvu","flac":"audio/x-flac","wav":"audio/x-wav","webm":"video/webm","mp3":"audio/mpeg","mpg":"video/mpeg"},"advancedSearch.tooltips":{"advancedsearch-help-plain":
+"\u003Cdl\u003E\u003Cdt\u003EОписание\u003C/dt\u003E\n\u003Cdd\u003EИщет эти слова в заголовке или тексте.\u003C/dd\u003E\n\u003Cdd\u003EУчтите следующее\n\u003Cul\u003E\u003Cli\u003EЗдесь можно ввести несколько слов.\u003C/li\u003E\n\u003Cli\u003EЗнаки препинания и другие не-буквенно-цифровые символы (за исключением двоеточия и запятой) будут игнорироваться.\u003C/li\u003E\n\u003Cli\u003EМогут быть результаты, которые не содержат одного или нескольких условий поиска.\u003C/li\u003E\n\u003Cli\u003EИспользуется словосочетание. Пример: Если введен «автомобиль», поиск будет также рассматривать «автомобили». Слово, связанное с языком, зависит от языка.\u003C/li\u003E\u003C/ul\u003E\u003C/dd\u003E\u003C/dl\u003E\n\u003Cdl\u003E\u003Cdt\u003EСтраница справки\u003C/dt\u003E\n\u003Cdd\u003E\u003Ca class=\"external text\" href=\"https://www.mediawiki.org/wiki/Special:MyLanguage/Help:CirrusSearch#Full_text_search\"\u003EПолнотекстовый поиск\u003C/a\u003E\u003C/dd\u003E\n\u003Cdt\u003EСинтаксический эквивалент в обычном поиске\u003C/dt\u003E\n\u003Cdd\u003E\u003Ccode\u003Eкунжутный уличный автомобиль\u003C/code\u003E\u003C/dd\u003E\u003C/dl\u003E"
+,"advancedsearch-help-phrase":
+"\u003Cdl\u003E\u003Cdt\u003EОписание\u003C/dt\u003E\n\u003Cdd\u003EИщет определённую последовательность символов. Знаки препинания игнорируются.\u003C/dd\u003E\n\u003Cdt\u003EУчтите следующее\u003C/dt\u003E\n\u003Cdd\u003E(действует только при использовании кавычек, см. пример ниже)\n\u003Cul\u003E\u003Cli\u003EРазделяйте поисковые фразы запятыми или пробелом, например \u003Ccode\u003E\"доброе утро\"\u003C/code\u003E, \u003Ccode\u003E\"здравствуй, друг!\"\u003C/code\u003E.\u003C/li\u003E\n\u003Cli\u003EЗнаки препинания и другие не-буквенно-цифровые символы (за исключением двоеточия и запятой) будут игнорироваться.\u003C/li\u003E\n\u003Cli\u003EПоиск не чувствителен к регистру.\u003C/li\u003E\n\u003Cli\u003EСловосочетание здесь не работает.\u003C/li\u003E\u003C/ul\u003E\u003C/dd\u003E\u003C/dl\u003E\n\u003Cdl\u003E\u003Cdt\u003EСтраница справки\u003C/dt\u003E\n\u003Cdd\u003E\u003Ca class=\"external text\" href=\"https://www.mediawiki.org/wiki/Special:MyLanguage/Help:CirrusSearch#Words.2C_phrases.2C_and_modifiers\"\u003EСлова, фразы и модификаторы\u003C/a\u003E\u003C/dd\u003E\n\u003Cdt\u003EСинтаксический эквивалент в обычном поиске\u003C/dt\u003E\n\u003Cdd\u003EСлова в двойных кавычках, например \u003Ccode\u003E\"Начните с самого начала\"\u003C/code\u003E.\u003C/dd\u003E\u003C/dl\u003E"
+,"advancedsearch-help-or":"\u003Cdl\u003E\u003Cdt\u003EОписание\u003C/dt\u003E\n\u003Cdd\u003EПо крайней мере одно из условий поиска должно быть включено в страницу.\u003C/dd\u003E\n\u003Cdt\u003EСтраница справки\u003C/dt\u003E\n\u003Cdd\u003E\u003Ca class=\"external text\" href=\"https://www.mediawiki.org/wiki/Special:MyLanguage/Help:CirrusSearch#Words.2C_phrases.2C_and_modifiers\"\u003EСлова, фразы и модификаторы\u003C/a\u003E\u003C/dd\u003E\n\u003Cdt\u003EСинтаксический эквивалент в обычном поиске\u003C/dt\u003E\n\u003Cdd\u003EСлова с \u003Ccode\u003EOR\u003C/code\u003E между ними, например \u003Ccode\u003ELaptop OR Notebook\u003C/code\u003E.\u003C/dd\u003E\u003C/dl\u003E","advancedsearch-help-not":
+"\u003Cdl\u003E\u003Cdt\u003EОписание\u003C/dt\u003E\n\u003Cdd\u003EИсключает страницы, содержащие эти слова из поиска.\u003C/dd\u003E\n\u003Cdt\u003EУчтите следующее\u003C/dt\u003E\n\u003Cdd\u003E\n\u003Cul\u003E\u003Cli\u003EИспользуется словосочетание. Пример: Если введен «автомобиль», поиск будет также рассматривать «автомобили». Слово, связанное с языком, зависит от языка.\u003C/li\u003E\u003C/ul\u003E\u003C/dd\u003E\u003C/dl\u003E\n\u003Cdl\u003E\u003Cdt\u003EСтраница справки\u003C/dt\u003E\n\u003Cdd\u003E\u003Ca class=\"external text\" href=\"https://www.mediawiki.org/wiki/Special:MyLanguage/Help:CirrusSearch#Words.2C_phrases.2C_and_modifiers\"\u003EСлова, фразы и модификаторы\u003C/a\u003E\u003C/dd\u003E\n\u003Cdt\u003EСинтаксический эквивалент в обычном поиске\u003C/dt\u003E\n\u003Cdd\u003E\u003C/dd\u003E\n\u003Cdd\u003EСлова с \u003Ccode\u003E-\u003C/code\u003E перед ними, например \u003Ccode\u003E-слон\u003C/code\u003E.\u003C/dd\u003E\u003C/dl\u003E"
+,"advancedsearch-help-deepcategory":
+"\u003Cdl\u003E\u003Cdt\u003EОписание\u003C/dt\u003E\n\u003Cdd\u003EИщет страницы, которые находятся в этих категориях и подкатегориях.\u003C/dd\u003E\n\u003Cdt\u003EУчтите следующее\u003C/dt\u003E\n\u003Cdd\u003E\n\u003Cul\u003E\u003Cli\u003EТолько первые 5 уровней подкатегорий будут учтены в вашем поиске.\u003C/li\u003E\n\u003Cli\u003EКоличество категорий ограничено 256.\u003C/li\u003E\n\u003Cli\u003EВы можете искать страницы в нескольких категориях.\u003C/li\u003E\u003C/ul\u003E\u003C/dd\u003E\u003C/dl\u003E\n\u003Cdl\u003E\u003Cdt\u003EСтраница справки\u003C/dt\u003E\n\u003Cdd\u003E\u003Ca class=\"external text\" href=\"https://www.mediawiki.org/wiki/Special:MyLanguage/Help:CirrusSearch#Deepcategory\"\u003EDeepcategory\u003C/a\u003E\u003C/dd\u003E\n\u003Cdt\u003EСинтаксический эквивалент в обычном поиске\u003C/dt\u003E\n\u003Cdd\u003E\u003Ccode\u003Edeepcategory:\u003C/code\u003E за которым следует название категории, например \u003Ccode\u003Edeepcategory:Помощь\u003C/code\u003E. Используйте двойные кавычки, если имя содержит пробелы: \u003Ccode\u003Edeepcategory:\"Скрытые категории\"\u003C/code\u003E.\u003C/dd\u003E\u003C/dl\u003E"
+,"advancedsearch-help-hastemplate":
+"\u003Cdl\u003E\u003Cdt\u003EОписание\u003C/dt\u003E\n\u003Cdd\u003EИщет страницы, которые содержат именно эти шаблоны.\u003C/dd\u003E\n\u003Cdt\u003EУчтите следующее\u003C/dt\u003E\n\u003Cdd\u003E\n\u003Cul\u003E\u003Cli\u003EВы можете искать только один шаблон за один запрос.\u003C/li\u003E\u003C/ul\u003E\u003C/dd\u003E\u003C/dl\u003E\n\u003Cdl\u003E\u003Cdt\u003EСтраница справки\u003C/dt\u003E\n\u003Cdd\u003E\u003Ca class=\"external text\" href=\"https://www.mediawiki.org/wiki/Special:MyLanguage/Help:CirrusSearch/ru#Hastemplate\"\u003EHastemplate\u003C/a\u003E\u003C/dd\u003E\n\u003Cdt\u003EСинтаксический эквивалент в обычном поиске\u003C/dt\u003E\n\u003Cdd\u003EСлова в кавычках с \u003Ccode\u003Ehastemplate:\u003C/code\u003E перед ними; пример — \u003Ccode\u003Ehastemplate:\"недостающая информация\"\u003C/code\u003E.\u003C/dd\u003E\u003C/dl\u003E"
+,"advancedsearch-help-inlanguage":
+"\u003Cdl\u003E\u003Cdt\u003EОписание\u003C/dt\u003E\n\u003Cdd\u003E\u003C/dd\u003E\u003C/dl\u003E\n\u003Cp\u003EБудет произведён поиск только на выбранном вами языке.\n\u003C/p\u003E\n\u003Cdl\u003E\u003Cdt\u003EУчтите следующее\u003C/dt\u003E\n\u003Cdd\u003E\n\u003Cul\u003E\u003Cli\u003EВы можете искать страницы только на одном языке.\u003C/li\u003E\n\u003Cli\u003EЭто поле будет отображаться только в вики-проектах с включённым расширением translatewiki.\u003C/li\u003E\u003C/ul\u003E\u003C/dd\u003E\u003C/dl\u003E\n\u003Cdl\u003E\u003Cdt\u003EСтраница справки\u003C/dt\u003E\n\u003Cdd\u003E\u003Ca class=\"external text\" href=\"https://www.mediawiki.org/wiki/Special:MyLanguage/Help:CirrusSearch#Inlanguage\"\u003EНаЯзыке\u003C/a\u003E\u003C/dd\u003E\n\u003Cdt\u003EСинтаксический эквивалент в обычном поиске\u003C/dt\u003E\n\u003Cdd\u003E\u003Ccode\u003Einlanguage:\u003C/code\u003Eза которым следует код языка, например \u003Ccode\u003Einlanguage:es\u003C/code\u003E. Вы можете исключить языки, добавив \u003Ccode\u003E-\u003C/code\u003E перед ключевым словом, например \u003Ccode\u003E-inlanguage:en\u003C/code\u003E.\u003C/dd\u003E\u003C/dl\u003E"
+,"advancedsearch-help-intitle":
+"\u003Cdl\u003E\u003Cdt\u003EОписание\u003C/dt\u003E\n\u003Cdd\u003EИщет страницы с заголовками, содержащими это слово\u003C/dd\u003E\n\u003Cdt\u003EУчтите следующее\u003C/dt\u003E\n\u003Cdd\u003E\n\u003Cul\u003E\u003Cli\u003EПоиск включает перенаправления\u003C/li\u003E\n\u003Cli\u003EИспользуется стемминг слов. Пример: Если введён «автомобиль», поиск будет также рассматривать «автомобили». Стемминг слов зависит от языка.\u003C/li\u003E\u003C/ul\u003E\u003C/dd\u003E\u003C/dl\u003E\n\u003Cdl\u003E\u003Cdt\u003EСтраница справки\u003C/dt\u003E\n\u003Cdd\u003E\u003Ca class=\"external text\" href=\"https://www.mediawiki.org/wiki/Special:MyLanguage/Help:CirrusSearch#Intitle_and_incategory\"\u003EИспользование \"intitle\" и \"incategory\"\u003C/a\u003E\u003C/dd\u003E\n\u003Cdt\u003EСинтаксический эквивалент в обычном поиске\u003C/dt\u003E\n\u003Cdd\u003EСлова с префиксом \u003Ccode\u003Eintitle:\u003C/code\u003E, например, \u003Ccode\u003Eintitle:queen\u003C/code\u003E.\u003C/dd\u003E\u003C/dl\u003E"
+,"advancedsearch-help-subpageof":
+"\u003Cdl\u003E\u003Cdt\u003EОписание\u003C/dt\u003E\n\u003Cdd\u003EИщет страницы, которые являются подстраницами заданной.\u003C/dd\u003E\n\u003Cdt\u003EУчтите следующее\u003C/dt\u003E\n\u003Cdd\u003E\n\u003Cul\u003E\u003Cli\u003EВы можете искать только подстраницы одной страницы за один запрос.\u003C/li\u003E\n\u003Cli\u003EНе забудьте включить пространства имён, которые вы хотите ограничить поиском, в фильтре пространства имён.\u003C/li\u003E\n\u003Cli\u003EНе указывайте пространство имён перед именем страницы следующим образом: \u003Cdel\u003E\u003Ccode\u003EВикипедия:Перенаправление\u003C/code\u003E\u003C/del\u003E.\u003C/li\u003E\u003C/ul\u003E\u003C/dd\u003E\u003C/dl\u003E\n\u003Cdl\u003E\u003Cdt\u003EСтраница справки\u003C/dt\u003E\n\u003Cdd\u003E\u003Ca class=\"external text\" href=\"https://www.mediawiki.org/wiki/Special:MyLanguage/Help:CirrusSearch/ru#subpageof\"\u003Esubpageof\u003C/a\u003E\u003C/dd\u003E\n\u003Cdt\u003EСинтаксический эквивалент в обычном поиске\u003C/dt\u003E\n\u003Cdd\u003E\u003Ccode\u003Esubpageof:\u003C/code\u003E за которым следует имя страницы, например \u003Ccode\u003Esubpageof:Перенаправление\u003C/code\u003E. Используйте двойные кавычки, если родительская страница содержит пробелы: \u003Ccode\u003Esubpageof:\"Запросы для комментариев\"\u003C/code\u003E.\u003C/dd\u003E\u003C/dl\u003E"
+,"advancedsearch-help-filetype":
+"\u003Cdl\u003E\u003Cdt\u003EОписание\u003C/dt\u003E\n\u003Cdd\u003EИщет только файлы выбранного типа.\u003C/dd\u003E\n\u003Cdt\u003EУчтите следующее\u003C/dt\u003E\n\u003Cdd\u003E\n\u003Cul\u003E\u003Cli\u003EВы можете искать только один тип файла.\u003C/li\u003E\n\u003Cli\u003EВы можете выбрать только выбранные типы файлов из раскрывающегося меню.\u003C/li\u003E\u003C/ul\u003E\u003C/dd\u003E\u003C/dl\u003E\n\u003Cdl\u003E\u003Cdt\u003EСтраницы справки\u003C/dt\u003E\n\u003Cdd\u003E\u003Ca class=\"external text\" href=\"https://www.mediawiki.org/wiki/Special:MyLanguage/Help:CirrusSearch#filetype\"\u003Efiletype\u003C/a\u003E и \u003Ca class=\"external text\" href=\"https://www.mediawiki.org/wiki/Special:MyLanguage/Help:CirrusSearch#filemime\"\u003Efilemime\u003C/a\u003E\u003C/dd\u003E\n\u003Cdt\u003EСинтаксический эквивалент в обычном поиске\u003C/dt\u003E\n\u003Cdd\u003EСлова с \u003Ccode\u003Efiletype:\u003C/code\u003E перед ними, как \u003Ccode\u003Efiletype:ogg\u003C/code\u003E.\u003C/dd\u003E\u003C/dl\u003E"
+,"advancedsearch-help-filew":
+"\u003Cdl\u003E\u003Cdt\u003EОписание\u003C/dt\u003E\n\u003Cdd\u003EЭти поля позволяют указать ширину файла.\u003C/dd\u003E\n\u003Cdt\u003EУчтите следующее\u003C/dt\u003E\n\u003Cdd\u003E\n\u003Cul\u003E\u003Cli\u003EЭто применимо только к типам файлов, которые имеют ширину и высоту, например видео и изображения.\u003C/li\u003E\u003C/ul\u003E\u003C/dd\u003E\u003C/dl\u003E\n\u003Cdl\u003E\u003Cdt\u003EСтраница справки\u003C/dt\u003E\n\u003Cdd\u003E\u003Ca class=\"external text\" href=\"https://www.mediawiki.org/wiki/Special:MyLanguage/Help:CirrusSearch#File_measures\"\u003EFilemeasures\u003C/a\u003E\u003C/dd\u003E\n\u003Cdt\u003EСинтаксический эквивалент в обычном поиске\u003C/dt\u003E\n\u003Cdd\u003EНомера с \u003Ccode\u003Efilew\u003C/code\u003E перед ними вроде \u003Ccode\u003Efilew:\u0026gt;800\u003C/code\u003E.\u003C/dd\u003E\u003C/dl\u003E"
+,"advancedsearch-help-fileh":
+"\u003Cdl\u003E\u003Cdt\u003EОписание\u003C/dt\u003E\n\u003Cdd\u003EЭти поля позволяют указать высоту файла.\u003C/dd\u003E\n\u003Cdt\u003EУчтите следующее\u003C/dt\u003E\n\u003Cdd\u003E\n\u003Cul\u003E\u003Cli\u003EЭто применимо только к типам файлов, которые имеют ширину и высоту, например, видео и изображения.\u003C/li\u003E\u003C/ul\u003E\u003C/dd\u003E\u003C/dl\u003E\n\u003Cdl\u003E\u003Cdt\u003EСтраница справки\u003C/dt\u003E\n\u003Cdd\u003E\u003Ca class=\"external text\" href=\"https://www.mediawiki.org/wiki/Special:MyLanguage/Help:CirrusSearch#File_measures\"\u003EFilemeasures\u003C/a\u003E\u003C/dd\u003E\n\u003Cdt\u003EСинтаксический эквивалент в обычном поиске\u003C/dt\u003E\n\u003Cdd\u003EЧисла с \u003Ccode\u003Efileh\u003C/code\u003E перед ними, например, \u003Ccode\u003Efileh:\u0026gt;600\u003C/code\u003E.\u003C/dd\u003E\u003C/dl\u003E"
+,"advancedsearch-help-sort":"\u003Cdl\u003E\u003Cdt\u003EОписание\u003C/dt\u003E\n\u003Cdd\u003EИзменение порядка сортировки результатов. По умолчанию наиболее подходящие страницы возвращаются сверху.\u003C/dd\u003E\n\u003Cdt\u003EСправка\u003C/dt\u003E\n\u003Cdd\u003E\u003Ca class=\"external text\" href=\"https://www.mediawiki.org/wiki/Special:MyLanguage/Help:CirrusSearch#Explicit_sort_orders\"\u003EЯвно указанный порядок сортировки\u003C/a\u003E\u003C/dd\u003E\n\u003Cdt\u003EСинтаксический эквивалент в обычном поиске\u003C/dt\u003E\n\u003Cdd\u003EЭта функция не имеет ключевого слова, которое вы могли бы указать в поле поиска, поскольку она задаётся через параметр в URL-адресе.\u003C/dd\u003E\u003C/dl\u003E"},
+"advancedSearch.namespacePresets":{"defaultNamespaces":{"enabled":true,"provider":"defaultNamespaces","label":"advancedsearch-namespaces-preset-default"},"discussion":{"enabled":true,"provider":"discussion","label":"advancedsearch-namespaces-preset-discussion"},"generalHelp":{"enabled":true,"namespaces":["4","12"],"label":"advancedsearch-namespaces-preset-general-help"},"all":{"enabled":true,"provider":"all","label":"advancedsearch-namespaces-preset-all"}},"advancedSearch.deepcategoryEnabled":true,"advancedSearch.searchableNamespaces":{"0":"(Основное)","1":"Обсуждение","2":"Участник","3":"Обсуждение_участника","4":"Википедия","5":"Обсуждение_Википедии","6":"Файл","7":"Обсуждение_файла","8":"MediaWiki","9":"Обсуждение_MediaWiki","10":"Шаблон","11":"Обсуждение_шаблона","12":"Справка","13":"Обсуждение_справки","14":"Категория","15":
+"Обсуждение_категории","100":"Портал","101":"Обсуждение_портала","102":"Инкубатор","103":"Обсуждение_Инкубатора","104":"Проект","105":"Обсуждение_проекта","106":"Арбитраж","107":"Обсуждение_арбитража","828":"Модуль","829":"Обсуждение_модуля","2300":"Гаджет","2301":"Обсуждение_гаджета","2302":"Определение_гаджета","2303":"Обсуждение_определения_гаджета"},"searchTerm":"","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":true,"wgGELinkRecommendationsFrontendEnabled":true};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.advancedSearch.searchtoken":"loading","ext.globalCssJs.user":
+"ready","user":"ready","user.options":"loading","ext.advancedSearch.initialstyles":"ready","mediawiki.helplink":"ready","mediawiki.special":"ready","mediawiki.special.search.styles":"ready","mediawiki.ui":"ready","mediawiki.ui.button":"ready","mediawiki.ui.input":"ready","mediawiki.widgets.SearchInputWidget.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","ext.tmh.thumbnail.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["ext.advancedSearch.init","mediawiki.special.search","site","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated",
+"ext.gadget.navboxNavigation","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement( "ext.advancedSearch.searchtoken@1vhat", function ( $, jQuery, require, module ) {
+/*@nomin*/mw.user.tokens.set("searchnamespaceToken","+\\");
+
+} );mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.advancedSearch.initialstyles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.helplink%2Cspecial%2Cui%7Cmediawiki.special.search.styles%7Cmediawiki.ui.button%2Cinput%7Cmediawiki.widgets.SearchInputWidget.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <noscript>
+   <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector">
+  </noscript> 
+  <meta name="generator" content="MediaWiki 1.38.0-wmf.25"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta name="robots" content="noindex,nofollow"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta property="og:title" content="Поиск — Википедия"> 
+  <meta property="og:type" content="website"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Search page-Служебная_Поиск rootpage-Служебная_Поиск skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+    <div id="mw-indicator-0-keywords-popup" class="mw-indicator">
+     <div class="mw-parser-output"> 
+      <div id="keywords-popup-pseudolink-wrapper">
+       <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA#Дополнительные_возможности" title="Википедия:Поиск">Ключевые слова<span class="dropdown-icon"><span style="display:none;">&nbsp;</span></span></a>
+      </div> 
+      <div id="keywords-popup"> 
+       <div id="keywords-popup-tail-part1"></div> 
+       <table id="keywords-table"> 
+        <tbody>
+         <tr> 
+          <td colspan="2">Для улучшения результатов поиска используйте ключевые слова: </td>
+         </tr> 
+         <tr> 
+          <td><span class="keywords-popup-keyword" data-keyword="&quot;&quot;">кавычки ("")</span> </td> 
+          <td>Поиск точной строки. </td>
+         </tr> 
+         <tr> 
+          <td><span class="keywords-popup-keyword" data-keyword="&nbsp;AND&nbsp;">AND</span> </td> 
+          <td>Поиск двух выражений (по умолчанию). </td>
+         </tr> 
+         <tr> 
+          <td><span class="keywords-popup-keyword" data-keyword="&nbsp;OR&nbsp;">OR</span> </td> 
+          <td>Поиск одного из выражений. </td>
+         </tr> 
+         <tr> 
+          <td><span class="keywords-popup-keyword" data-keyword="-">минус (-)</span> </td> 
+          <td>Исключить страницы, содержащие следующее за ним без пробелов слово (в середине запроса должен отделяться пробелом от предыдущего слова). Можно использовать вместе с ключевыми словами. </td>
+         </tr> 
+         <tr> 
+          <td><span class="keywords-popup-keyword" data-keyword="*">звёздочка&nbsp;(*)</span> </td> 
+          <td>В конце слова, чтобы расширить поиск (<a href="https://ru.wiktionary.org/wiki/en:wildcard" class="extiw" title="wikt:en:wildcard">wildcard</a>). </td>
+         </tr> 
+         <tr> 
+          <td><span class="keywords-popup-keyword" data-keyword="~">тильда (~)</span> </td> 
+          <td>В начале запроса&nbsp;— гарантирует именно поиск, а не автоматический переход на точный результат.<br>В конце слова&nbsp;— включит в результаты поиска похожие по написанию слова. </td>
+         </tr> 
+         <tr> 
+          <td><span class="keywords-popup-keyword" data-keyword="intitle:">intitle:</span> </td> 
+          <td>Поиск слова только в названиях страниц. </td>
+         </tr> 
+         <tr> 
+          <td><span class="keywords-popup-keyword" data-keyword="prefix:">prefix:</span> </td> 
+          <td>Поиск только на страницах, названия которых начинаются с указанных слов. Эта инструкция должна стоять в конце. </td>
+         </tr> 
+         <tr> 
+          <td><span class="keywords-popup-keyword" data-keyword="incategory:">incategory:</span> </td> 
+          <td>Поиск только на страницах, входящих в указанную <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F" title="Википедия:Категория">категорию</a>. </td>
+         </tr> 
+         <tr> 
+          <td><span class="keywords-popup-keyword" data-keyword="linksto:">linksto:</span> </td> 
+          <td>Поиск только на страницах, ссылающихся на указанную страницу. </td>
+         </tr> 
+         <tr> 
+          <td><span class="keywords-popup-keyword" data-keyword="hastemplate:">hastemplate:</span> </td> 
+          <td>Поиск только на страницах, содержащих указанный <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B" title="Википедия:Шаблоны">шаблон</a>. </td>
+         </tr> 
+         <tr> 
+          <td><span class="keywords-popup-keyword" data-keyword="insource:">insource:</span> </td> 
+          <td>Поиск в <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B0" title="Вики-разметка">вики-тексте</a>, а не в тексте, выводимом в браузере. </td>
+         </tr> 
+         <tr> 
+          <td style="" colspan="2"> <p>При поиске фразы в intitle:, incategory: и т. п. возьмите её в кавычки. </p> <p style="margin-bottom:0;"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA#Дополнительные_возможности" title="Википедия:Поиск">Исчерпывающий список ключевых слов с примерами</a></p> </td>
+         </tr>
+        </tbody>
+       </table> 
+       <div id="keywords-popup-tail-part2"></div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="mw-indicator-mw-helplink" class="mw-indicator">
+     <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" target="_blank" class="mw-helplink">Помощь</a>
+    </div> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading mw-first-heading">Поиск</h1> 
+   <div id="bodyContent" class="vector-body"> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Перейти к навигации</a> <a class="mw-jump-link" href="#searchInput">Перейти к поиску</a> 
+    <div id="mw-content-text" class="mw-body-content">
+     <div class="mw-specialpage-summary"> 
+      <style data-mw-deduplicate="TemplateStyles:r118386582">.mw-parser-output #keywords-popup-pseudolink-wrapper{display:none;margin-bottom:0.5em;margin-right:0.67em}.mw-parser-output #keywords-popup{display:none;position:absolute;z-index:1;right:0;color:#202122;background-color:#ffffff;padding:6px 8px;width:28em;border-radius:2px;box-shadow:rgba(0,0,0,0.3)0px 30px 90px -20px,rgba(0,0,0,0.5)0px 0px 1px;margin-bottom:30px}.mw-parser-output #keywords-popup-tail-part1{z-index:111;position:absolute;border:9px solid transparent;border-top:0;border-bottom:9px solid #bbbbbb;top:-9px;left:162px}.mw-parser-output #keywords-popup-tail-part2{z-index:112;position:absolute;border:12px solid transparent;border-top:0;border-bottom:12px solid #ffffff;top:-8px;left:159px}.mw-parser-output #keywords-table{border-collapse:collapse}.mw-parser-output #keywords-table td{padding:0.2em 0.4em;vertical-align:top}.mw-parser-output .dropdown-icon{width:0;height:0;border-top:5px solid #0645ad;border-left:4px solid transparent;border-right:4px solid transparent;border-bottom:none;display:inline-block;position:relative;top:-1px;margin-left:4px}</style> 
+     </div>
+     <div class="mw-search-spinner">
+      <div class="mw-search-spinner-bounce"></div>
+     </div>
+     <div class="mw-search-form-wrapper">
+      <form id="search" method="get" action="/w/index.php">
+       <div id="mw-search-top-table">
+        <div class="oo-ui-layout oo-ui-fieldLayout oo-ui-fieldLayout-align-top oo-ui-actionFieldLayout">
+         <div class="oo-ui-fieldLayout-body">
+          <span class="oo-ui-fieldLayout-header"><label for="ooui-php-1" class="oo-ui-labelElement-label"></label></span>
+          <div class="oo-ui-fieldLayout-field">
+           <div class="oo-ui-actionFieldLayout-input">
+            <div id="searchText" class="oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-iconElement oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php mw-widget-titleInputWidget mw-widget-searchInputWidget" data-ooui="{&quot;_&quot;:&quot;mw.widgets.SearchInputWidget&quot;,&quot;performSearchOnClick&quot;:true,&quot;dataLocation&quot;:&quot;content&quot;,&quot;$overlay&quot;:true,&quot;highlightFirst&quot;:false,&quot;validateTitle&quot;:false,&quot;autofocus&quot;:true,&quot;name&quot;:&quot;search&quot;,&quot;inputId&quot;:&quot;ooui-php-1&quot;,&quot;title&quot;:&quot;\u0418\u0441\u043a\u0430\u0442\u044c \u0432 \u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u0438&quot;,&quot;icon&quot;:&quot;search&quot;,&quot;required&quot;:false}">
+             <input type="search" tabindex="0" title="Искать в Википедии" name="search" value="" autofocus id="ooui-php-1" class="oo-ui-inputWidget-input"><span class="oo-ui-iconElement-icon oo-ui-icon-search"></span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator"></span>
+            </div>
+           </div><span class="oo-ui-actionFieldLayout-button"><span class="oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-flaggedElement-primary oo-ui-buttonInputWidget"><button type="submit" tabindex="0" value="" class="oo-ui-inputWidget-input oo-ui-buttonElement-button"><span class="oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert"></span><span class="oo-ui-labelElement-label">Найти</span><span class="oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert"></span></button></span></span>
+          </div>
+         </div>
+        </div>
+        <input type="hidden" value="Служебная:Поиск" name="title">
+        <input type="hidden" value="default" name="profile">
+        <input type="hidden" value="1" name="fulltext">
+       </div>
+       <div class="mw-search-visualclear"></div>
+       <div class="mw-search-profile-tabs">
+        <div class="search-types">
+         <ul>
+          <li class="current"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&amp;profile=default&amp;search=&amp;fulltext=1" title="Поиск в (Основное)">Статьи</a></li>
+          <li class="normal"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&amp;profile=images&amp;search=&amp;fulltext=1" title="Поиск файлов">Мультимедиа</a></li>
+          <li class="normal"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&amp;profile=all&amp;search=&amp;fulltext=1" title="Поиск на всех страницах (включая страницы обсуждений)">Везде</a></li>
+          <li class="normal"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&amp;profile=advanced&amp;search=&amp;fulltext=1" title="Искать в заданных пространствах имён">Выборочно</a></li>
+         </ul>
+        </div>
+        <div style="clear:both"></div>
+       </div>
+      </form>
+     </div>
+     <noscript>
+      <img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Источник — <a dir="ltr" href="https://ru.wikipedia.org/wiki/Служебная:Поиск">https://ru.wikipedia.org/wiki/Служебная:Поиск</a>
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Навигация</h2> 
+   <div id="mw-head"> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"> <label id="p-personal-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Персональные инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage" class="mw-list-item"><span>Вы не представились системе</span></li>
+       <li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li>
+       <li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li>
+       <li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F%3A%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li>
+       <li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F%3A%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> <label id="p-namespaces-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Пространства имён</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-special" class="selected mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA" title="Это служебная страница, она недоступна для редактирования"><span>Служебная страница</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> <label id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading"> <span class="vector-menu-heading-label">русский</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views emptyPortlet vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> <label id="p-views-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Просмотры</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" title="Больше возможностей"> 
+      <input type="checkbox" id="p-cactions-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-cactions" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> <label id="p-cactions-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Ещё</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box"> 
+      <div> 
+       <h3> <label for="searchInput">Поиск</label> </h3> 
+       <form action="/w/index.php" id="searchform" class="vector-search-box-form"> 
+        <div id="simpleSearch" class="vector-search-box-inner" data-search-loc="header-navigation"> 
+         <input class="vector-search-box-input" type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"> 
+         <input type="hidden" name="title" value="Служебная:Поиск"> 
+         <input id="mw-searchButton" class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти"> 
+         <input id="searchButton" class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти"> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a> 
+    </div> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> <label id="p-navigation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Навигация</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li>
+       <li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li>
+       <li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li>
+       <li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li>
+       <li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li>
+       <li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"> <label id="p-participation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Участие</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об&nbsp;ошибке</span></a></li>
+       <li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li>
+       <li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li>
+       <li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li>
+       <li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li>
+       <li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li>
+       <li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> <label id="p-tb-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+       <li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export emptyPortlet vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> <label id="p-coll-print_export-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Печать/экспорт</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list"></ul> 
+     </div> 
+    </nav> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> <label id="p-lang-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">На других языках</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list"></ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="uls-after-portlet-link"></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li> 
+    <li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li> 
+    <li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li> 
+    <li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9F%D0%BE%D0%B8%D1%81%D0%BA&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"mediawiki.ui\".\nPlease use OOUI instead.");mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.042","walltime":"0.049","ppvisitednodes":{"value":34,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":3,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1180,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"origin":"mw1454","timestamp":"20220317161258","ttl":1814400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":177,"wgHostname":"mw1454"});});</script>  
+ </body>
+</html>

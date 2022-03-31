@@ -1,0 +1,678 @@
+<!doctype html>
+<html class="client-nojs" lang="ru" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>My Dress-Up Darling — Википедия</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"2281f58f-6851-4a95-b268-5db7eaf15efd","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"My_Dress-Up_Darling","wgTitle":"My Dress-Up Darling","wgCurRevisionId":120656598,"wgRevisionId":120656598,"wgArticleId":9126196,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["ПРО:АИМ:Последняя правка: в текущем месяце","Страницы, использующие волшебные ссылки ISBN",
+"Аниме и манга в жанре романтическая комедия","Аниме и манга о повседневной жизни","Аниме и манга для мужчин","Манга 2018 года","Манги","Аниме 2022 года","Аниме-сериалы","Мультсериалы по алфавиту","CloverWorks"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"My_Dress-Up_Darling","wgRelevantArticleId":9126196,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":120656598,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia",
+"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q65235036","wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":true,"wgGELinkRecommendationsFrontendEnabled":true};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=[
+"ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <noscript>
+   <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector">
+  </noscript> 
+  <meta name="generator" content="MediaWiki 1.38.0-wmf.25"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/ru/8/88/Sono_Bisque_Doll_wa_Koi_wo_Suru.jpg"> 
+  <meta property="og:image:width" content="1200"> 
+  <meta property="og:image:height" content="1706"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/ru/8/88/Sono_Bisque_Doll_wa_Koi_wo_Suru.jpg"> 
+  <meta property="og:image:width" content="800"> 
+  <meta property="og:image:height" content="1137"> 
+  <meta property="og:image:width" content="640"> 
+  <meta property="og:image:height" content="910"> 
+  <meta property="og:title" content="My Dress-Up Darling — Википедия"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/My_Dress-Up_Darling"> 
+  <link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=My_Dress-Up_Darling&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://ru.wikipedia.org/wiki/My_Dress-Up_Darling"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-My_Dress-Up_Darling rootpage-My_Dress-Up_Darling skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading mw-first-heading"><i>My Dress-Up Darling</i></h1> 
+   <div id="bodyContent" class="vector-body"> 
+    <div id="siteSub" class="noprint">
+     Материал из Википедии — свободной энциклопедии
+    </div> 
+    <div id="contentSub">
+     <div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_stable_synced plainlinks noprint">
+      <div class="flaggedrevs_short_basic">
+       <span title="Правки этой страницы требуют проверки." class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-articleSearch oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget"></span><span title="Это отпатрулированная версия страницы" class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-eye oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget"></span><span id="mw-fr-revisiontoggle" title="показать/скрыть подробности" class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget"></span>
+      </div> 
+      <div id="mw-fr-revisiondetails-wrapper" style="position:relative;">
+       <div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">
+        Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%B0%D1%82%D1%80%D1%83%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Патрулирование">стабильная версия</a>, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%8B&amp;type=review&amp;page=My_Dress-Up_Darling">отпатрулированная</a> <i>15 марта 2022</i>.
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Перейти к навигации</a> <a class="mw-jump-link" href="#searchInput">Перейти к поиску</a> 
+    <div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr">
+     <div class="mw-parser-output">
+      <table class="infobox" data-name="Карточка аниманга"> 
+       <tbody>
+        <tr> 
+         <th scope="colgroup" class="infobox-above" colspan="2"><i>My Dress-Up Darling</i> </th>
+        </tr>
+        <tr>
+         <td class="infobox-image" colspan="2"><span data-wikidata-property-id="P18" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Sono_Bisque_Doll_wa_Koi_wo_Suru.jpg" class="image" title="Обложка первого тома с изображением Марин Китагавы"><img alt="Обложка первого тома с изображением Марин Китагавы" src="//upload.wikimedia.org/wikipedia/ru/thumb/8/88/Sono_Bisque_Doll_wa_Koi_wo_Suru.jpg/230px-Sono_Bisque_Doll_wa_Koi_wo_Suru.jpg" decoding="async" width="230" height="327" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/8/88/Sono_Bisque_Doll_wa_Koi_wo_Suru.jpg/345px-Sono_Bisque_Doll_wa_Koi_wo_Suru.jpg 1.5x, //upload.wikimedia.org/wikipedia/ru/8/88/Sono_Bisque_Doll_wa_Koi_wo_Suru.jpg 2x" data-file-width="422" data-file-height="600"></a><br><span data-wikidata-qualifier-id="P2096" class="media-caption" style="display:block">Обложка первого тома с изображением Марин Китагавы</span></span></td>
+        </tr>
+        <tr>
+         <td colspan="2" style="background: #dcebff; text-align: center;"><span lang="ja">その<ruby style="ruby-align: center;" lang="ja">
+            <rb>
+             <span class="largeJapanese">着せ替え人形</span>
+            </rb><rp>(</rp><rt class="furigana" style="font-family  :inherit;"><span style="font-size: xx-small;">ビスク・ドール</span></rt><rp>)</rp></ruby>は恋をする</span><br><i>(Соно бисуку до:ру ва кой о суру)</i><br>Любовь с иголочки<br>Эта фарфоровая кукла влюбилась<br></td>
+        </tr>
+        <tr>
+         <th scope="row">Жанр / тематика</th>
+         <td><a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F" title="Романтическая комедия">романтическая комедия</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup><sup id="cite_ref-AUKN_2-0" class="reference"><a href="#cite_note-AUKN-2">[2]</a></sup>, <a href="/wiki/%D0%9B%D0%BE%D0%BC%D1%82%D0%B8%D0%BA_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8" title="Ломтик жизни">повседневность</a><sup id="cite_ref-AUKN_2-1" class="reference"><a href="#cite_note-AUKN-2">[2]</a></sup></td>
+        </tr> 
+        <tr> 
+         <th colspan="2" scope="colgroup" class="infobox-header" style=""><a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B3%D0%B0" title="Манга">Манга</a></th> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Автор</th> 
+         <td class="plainlist"> Синъити Фукуда</td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Издатель</th> 
+         <td class="plainlist"> <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a></td> 
+        </tr>
+        <tr>
+         <td colspan="2" style="padding: 0;"> 
+          <table class="collapsible collapsed" style="background: transparent; width: 100%;" cellspacing="0"> 
+           <tbody>
+            <tr>
+             <th style="background: #dcebff;">Прочие&nbsp;издатели:</th>
+            </tr> 
+            <tr>
+             <td style="background: transparent;">
+              <div style="overflow:hidden; width:100%;">
+               <div style="width:1.7em; float:left;">
+                <small><sup style="font-style:normal;"><a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0" title="Северная Америка">СА</a></sup></small>
+               </div> 
+               <div style="margin-left:2em;">
+                Square Enix
+               </div>
+              </div></td>
+            </tr> 
+           </tbody>
+          </table> </td>
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Публикуется&nbsp;в</th> 
+         <td class="plainlist"> <i>Young Gangan</i></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Аудитория</th> 
+         <td class="plainlist"> <a href="/wiki/%D0%A1%D1%8D%D0%B9%D0%BD%D1%8D%D0%BD" title="Сэйнэн">сэйнэн</a></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Публикация</th> 
+         <td class="plainlist"> <span class="nowrap"><a href="/wiki/19_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="19 января">19 января</a> <a href="/wiki/2018_%D0%B3%D0%BE%D0%B4" title="2018 год">2018 года</a></span> — <abbr title="настоящее время" class="nowrap">н. в.</abbr></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist"><a href="/wiki/%D0%A2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B1%D0%BE%D0%BD" title="Танкобон">Томов</a></th> 
+         <td class="plainlist"> 8</td> 
+        </tr> 
+        <tr> 
+         <th colspan="2" scope="colgroup" class="infobox-header" style=""><a href="/wiki/%D0%90%D0%BD%D0%B8%D0%BC%D0%B5" title="Аниме">Аниме</a>-сериал</th> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Режиссёр</th> 
+         <td class="plainlist"> Кэйсукэ Синохара</td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Сценарист</th> 
+         <td class="plainlist"> Ёрико Томита</td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Композитор</th> 
+         <td class="plainlist"> Такэси Накацука</td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Студия</th> 
+         <td class="plainlist"> <a href="/wiki/CloverWorks" title="CloverWorks">CloverWorks</a></td> 
+        </tr>
+        <tr>
+         <td colspan="2" style="padding: 0;"> 
+          <table class="collapsible collapsed" style="background: transparent; width: 100%;" cellspacing="0"> 
+           <tbody>
+            <tr>
+             <th style="background: #dcebff;">Прочие лицензиаты:</th>
+            </tr> 
+            <tr>
+             <td style="background: transparent;">
+              <div style="overflow:hidden; width:100%;">
+               <div style="width:1.7em; float:left;">
+                <small><sup style="font-style:normal;"><a href="/wiki/%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%90%D0%B7%D0%B8%D1%8F" title="Южная Азия">ЮАЗ</a></sup></small>
+               </div> 
+               <div style="margin-left:2em;">
+                Muse Communication
+               </div>
+              </div>
+              <div style="overflow:hidden; width:100%;">
+               <div style="width:1.7em; float:left;">
+                <small><sup style="font-style:normal;"><a href="/wiki/%D0%AE%D0%B3%D0%BE-%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%90%D0%B7%D0%B8%D1%8F" title="Юго-Восточная Азия">ЮВА</a></sup></small>
+               </div> 
+               <div style="margin-left:2em;">
+                Muse Communication
+               </div>
+              </div></td>
+            </tr> 
+           </tbody>
+          </table> </td>
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Телесеть</th> 
+         <td class="plainlist"> <a href="/wiki/Tokyo_MX" class="mw-redirect" title="Tokyo MX">Tokyo MX</a>, GYT, GTV, BS11, ytv, Mētele, <a href="/wiki/AT-X" title="AT-X">AT-X</a></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Премьерный&nbsp;показ</th> 
+         <td class="plainlist"> <span class="nowrap"><a href="/wiki/9_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="9 января">9 января</a> <a href="/wiki/2022_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2022 год в кино">2022 года</a></span> — <abbr title="настоящее время" class="nowrap">н. в.</abbr></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Длительность</th> 
+         <td class="plainlist"> 24 мин.</td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Серий</th> 
+         <td class="plainlist"> 10/12</td> 
+        </tr>
+       </tbody>
+      </table> 
+      <p><i><b>My Dress-Up Darling</b></i> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">その<ruby style="ruby-align: center;" lang="ja">
+          <rb>
+           <span class="largeJapanese">着せ替え人形</span>
+          </rb><rp>(</rp><rt class="furigana" style="font-family  :inherit;"><span style="font-size: xx-small;">ビスク・ドール</span></rt><rp>)</rp></ruby>は恋をする</span> <i>Соно бисуку до:ру ва кой о суру</i>, букв. «Эта фарфоровая кукла влюбилась»)</span>&nbsp;— <a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B3%D0%B0" title="Манга">манга</a>, написанная и проиллюстрированная Синъити Фукудой. Выпускается в журнале <i>Young Gangan</i> издательства <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a> с января 2018 года и по состоянию на октябрь 2021 года издана в восьми <a href="/wiki/%D0%A2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B1%D0%BE%D0%BD" title="Танкобон">томах-танкобонах</a>. Премьера аниме-сериала от студии <a href="/wiki/CloverWorks" title="CloverWorks">CloverWorks</a> состоялась в январе 2022 года. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="ru" dir="ltr">
+        <h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Сюжет"><span class="tocnumber">1</span> <span class="toctext">Сюжет</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Персонажи"><span class="tocnumber">2</span> <span class="toctext">Персонажи</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Медиа"><span class="tocnumber">3</span> <span class="toctext">Медиа</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-4"><a href="#Манга"><span class="tocnumber">3.1</span> <span class="toctext">Манга</span></a> 
+           <ul> 
+            <li class="toclevel-3 tocsection-5"><a href="#Список_томов"><span class="tocnumber">3.1.1</span> <span class="toctext">Список томов</span></a></li> 
+           </ul> </li> 
+          <li class="toclevel-2 tocsection-6"><a href="#Аниме"><span class="tocnumber">3.2</span> <span class="toctext">Аниме</span></a> 
+           <ul> 
+            <li class="toclevel-3 tocsection-7"><a href="#Список_серий"><span class="tocnumber">3.2.1</span> <span class="toctext">Список серий</span></a></li> 
+           </ul> </li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-8"><a href="#Восприятие"><span class="tocnumber">4</span> <span class="toctext">Восприятие</span></a></li> 
+        <li class="toclevel-1 tocsection-9"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-10"><a href="#Комментарии"><span class="tocnumber">5.1</span> <span class="toctext">Комментарии</span></a></li> 
+          <li class="toclevel-2 tocsection-11"><a href="#Источники"><span class="tocnumber">5.2</span> <span class="toctext">Источники</span></a></li> 
+         </ul> </li> 
+        <li class="toclevel-1 tocsection-12"><a href="#Ссылки"><span class="tocnumber">6</span> <span class="toctext">Ссылки</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span id=".D0.A1.D1.8E.D0.B6.D0.B5.D1.82"></span><span class="mw-headline" id="Сюжет">Сюжет</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Сюжет»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;action=edit&amp;section=1" title="Редактировать раздел «Сюжет»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Вакана Годзё&nbsp;— первокурсник старшей школы, мечтающий стать мастером кукол <a href="/wiki/%D0%A5%D0%B8%D0%BD%D0%B0%D0%BC%D0%B0%D1%86%D1%83%D1%80%D0%B8" title="Хинамацури">хина</a>. Однажды во время первого семестра его популярная одноклассница Марин Китагава видит, как он шьёт костюмы для кукол в классе домоводства. Марин хочет заняться <a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BF%D0%BB%D0%B5%D0%B9" title="Косплей">косплеем</a> и уже сшила костюм любимого персонажа видеоигры, но сама шьёт плохо и в итоге просит Вакану, которому это удаётся лучше, перекроить костюм. Несмотря на то, что Вакана ещё никогда не шил полноразмерные костюмы, он был вдохновлён упорством Марин и согласился. </p> 
+      <h2><span id=".D0.9F.D0.B5.D1.80.D1.81.D0.BE.D0.BD.D0.B0.D0.B6.D0.B8"></span><span class="mw-headline" id="Персонажи">Персонажи</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Персонажи»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;action=edit&amp;section=2" title="Редактировать раздел «Персонажи»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p><b>Вакана Годзё</b> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">五条 新菜</span> <i>Годзё: Вакана</i>)</span>&nbsp;— ученик первого класса старшей школы. Будучи сиротой, он был воспитан своим дедушкой, мастером кукол хина, который также вдохновил его стать <i>касира-си</i> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">頭 師</span>)</span>, мастером, который делает голову куклы хина. У Ваканы крупное телосложение и рост более 180&nbsp;см, но низкая самооценка, он затворник из-за горьких воспоминаний о критике со стороны своей подруги детства, которая считала, что мальчику не следует играть в куклы. Он скрывал своё увлечение и не имел настоящих друзей, пока не встретил Марин. </p> 
+      <dl>
+       <dd>
+        Сэйю: Сёя Исигэ<sup id="cite_ref-ANN01_3-0" class="reference"><a href="#cite_note-ANN01-3">[3]</a></sup>
+       </dd>
+      </dl> 
+      <p><b>Марин Китагава</b> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">喜多川 海夢</span> <i>Китагава Марин</i>)</span>&nbsp;— девушка с внешностью <a href="/wiki/%D0%93%D1%8F%D1%80%D1%83" title="Гяру">гяру</a> и <a href="/wiki/%D0%98%D0%BD%D1%82%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F_%E2%80%94_%D1%8D%D0%BA%D1%81%D1%82%D1%80%D0%B0%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F" title="Интроверсия — экстраверсия">экстравертным</a> типом личности, одноклассница Ваканы. Она довольно энергична и инициативна, но неуклюжа в деталях и не особо искусна в работе. Она увлечённая <a href="/wiki/%D0%9E%D1%82%D0%B0%D0%BA%D1%83" title="Отаку">отаку</a> с широким спектром предпочтений, от аниме в жанре <a href="/wiki/%D0%9C%D0%B0%D1%85%D0%BE-%D1%81%D1%91%D0%B4%D0%B7%D1%91" title="Махо-сёдзё">махо-сёдзё</a> до <a href="/wiki/%D0%AD%D1%80%D0%BE%D0%B3%D0%B5" title="Эроге">видеоигр для взрослых</a>. </p> 
+      <dl>
+       <dd>
+        Сэйю: Хина Сугута<sup id="cite_ref-ANN01_3-1" class="reference"><a href="#cite_note-ANN01-3">[3]</a></sup>
+       </dd>
+      </dl> 
+      <p><b>Садзюна Инуй</b> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">乾 紗寿叶</span> <i>Инуй Садзюна</i>)</span>&nbsp;— косплеер, представляющаяся именем «Дзюдзю» <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">ジュジュ</span>)</span>. Она учится на втором классе старшей школы для девочек. Тем не менее её телосложение не соответствует её возрасту, отчего Вакана и Марин изначально полагали, что Садзюна учится в средней или начальной школе. Тем не менее, как и Марин, она откровенный и активный человек, который пойдёт на всё, чтобы добиться своих целей. </p> 
+      <dl>
+       <dd>
+        Сэйю: Ацуми Танэдзаки<sup id="cite_ref-ANN02_4-0" class="reference"><a href="#cite_note-ANN02-4">[4]</a></sup>
+       </dd>
+      </dl> 
+      <p><b>Синдзю Инуй</b> <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">乾 心寿</span> <i>Инуй Синдзю</i>)</span>&nbsp;— застенчивая и сдержанная младшая сестра Садзюны. Синдзю&nbsp;— ученица средней школы, но по сравнению с миниатюрной сестрой она настолько велика, что униформа Ваканы пришлась ей почти впору. Её рост 178&nbsp;см, у неё пышные формы. Синдзю близка со своей сестрой и очень уважает её. Когда Садзюна занимается косплеем, Синдзю берёт на себя роль фотографа, используя камеру, позаимствованную у их отца. Она также умеет пользоваться компьютером, обрабатывать и загружать сделанные снимки. Тем не менее она втайне хотела заняться косплеем самостоятельно, но боялась уступить по внешнему виду своей сестре. </p> 
+      <dl>
+       <dd>
+        Сэйю: Хина Ёмия<sup id="cite_ref-ANN02_4-1" class="reference"><a href="#cite_note-ANN02-4">[4]</a></sup>
+       </dd>
+      </dl> 
+      <h2><span id=".D0.9C.D0.B5.D0.B4.D0.B8.D0.B0"></span><span class="mw-headline" id="Медиа">Медиа</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Медиа»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;action=edit&amp;section=3" title="Редактировать раздел «Медиа»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span id=".D0.9C.D0.B0.D0.BD.D0.B3.D0.B0"></span><span class="mw-headline" id="Манга">Манга</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Манга»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;action=edit&amp;section=4" title="Редактировать раздел «Манга»">править код</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Написанная и проиллюстрированная Синъити Фукудой, манга начала выпускаться в журнале <i>Young Gangan</i> издательства <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a> 19 января 2018 года<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>. Отдельно от журнала манга была издана по состоянию на октябрь 2021 года в восьми томах-<a href="/wiki/%D0%A2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B1%D0%BE%D0%BD" title="Танкобон">танкобонах</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>. </p>
+      <p>Во время выставки <a href="/wiki/Anime_Expo" title="Anime Expo">Anime Expo</a> в июле 2019 года Square Enix анонсировала перевод манги на английский язык под названием <i>My Dress-Up Darling</i> и опубликовала её под своим новым импринтом <i>Square Enix Manga &amp; Books</i><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>. </p> 
+      <h4><span id=".D0.A1.D0.BF.D0.B8.D1.81.D0.BE.D0.BA_.D1.82.D0.BE.D0.BC.D0.BE.D0.B2"></span><span class="mw-headline" id="Список_томов">Список томов</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Список томов»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;action=edit&amp;section=5" title="Редактировать раздел «Список томов»">править код</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <table class="wikitable" style="width: 98%; margin: auto;"> 
+       <tbody>
+        <tr style="border-bottom: 3px solid #CCF">
+         <th style="width: 4%;">№</th>
+         <th style="width: 48%;">Дата публикации </th>
+         <th style="width: 48%;">ISBN</th>
+        </tr> 
+        <tr style="text-align: center;">
+         <td id="vol01">01</td> 
+         <td>24 ноября 2018 г.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup></td> 
+         <td><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9784757559202" class="internal mw-magiclink-isbn">ISBN 978-4-7575-5920-2</a></td>
+        </tr> 
+        <tr style="text-align: center;">
+         <td id="vol02">02</td> 
+         <td>24 ноября 2018 г.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup></td> 
+         <td><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9784757559219" class="internal mw-magiclink-isbn">ISBN 978-4-7575-5921-9</a></td>
+        </tr> 
+        <tr style="text-align: center;">
+         <td id="vol03">03</td> 
+         <td>25 мая 2019 г.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></td> 
+         <td><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9784757561380" class="internal mw-magiclink-isbn">ISBN 978-4-7575-6138-0</a></td>
+        </tr> 
+        <tr style="text-align: center;">
+         <td id="vol04">04</td> 
+         <td>25 октября 2019 г.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></td> 
+         <td><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9784757563551" class="internal mw-magiclink-isbn">ISBN 978-4-7575-6355-1</a></td>
+        </tr> 
+        <tr style="text-align: center;">
+         <td id="vol05">05</td> 
+         <td>25 мая 2020 г.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></td> 
+         <td><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9784757566576" class="internal mw-magiclink-isbn">ISBN 978-4-7575-6657-6</a><br><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/978-4-7575-6658-3" title="Служебная:Источники книг/978-4-7575-6658-3">ISBN <span class="nowrap">978-4-7575-6658-3</span></a> (<style data-mw-deduplicate="TemplateStyles:r113275842">.mw-parser-output .ts-comment-commentedText{border-bottom:1px dotted;cursor:help}@media(hover:none){.mw-parser-output .ts-comment-commentedText:not(.rt-commentedText){border-bottom:0;cursor:auto}}</style><span class="ts-comment-commentedText" title="специальное издание">СИ</span>)</td>
+        </tr> 
+        <tr style="text-align: center;">
+         <td id="vol06">06</td> 
+         <td>25 ноября 2020 г.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup></td> 
+         <td><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9784757569591" class="internal mw-magiclink-isbn">ISBN 978-4-7575-6959-1</a></td>
+        </tr> 
+        <tr style="text-align: center;">
+         <td id="vol07">07</td> 
+         <td>24 апреля 2021 г.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup></td> 
+         <td><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9784757572126" class="internal mw-magiclink-isbn">ISBN 978-4-7575-7212-6</a><br><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/978-4-7575-7213-3" title="Служебная:Источники книг/978-4-7575-7213-3">ISBN <span class="nowrap">978-4-7575-7213-3</span></a> (
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842"><span class="ts-comment-commentedText" title="специальное издание">СИ</span>)</td>
+        </tr> 
+        <tr style="text-align: center;">
+         <td id="vol08">08</td> 
+         <td>25 октября 2021 г.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup></td> 
+         <td><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9784757573444" class="internal mw-magiclink-isbn">ISBN 978-4-7575-7344-4</a><br><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/978-4-7575-7345-1" title="Служебная:Источники книг/978-4-7575-7345-1">ISBN <span class="nowrap">978-4-7575-7345-1</span></a> (
+          <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113275842"><span class="ts-comment-commentedText" title="специальное издание">СИ</span>)</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h3><span id=".D0.90.D0.BD.D0.B8.D0.BC.D0.B5"></span><span class="mw-headline" id="Аниме">Аниме</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «Аниме»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;action=edit&amp;section=6" title="Редактировать раздел «Аниме»">править код</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <p>Об адаптации манги в виде аниме-сериала было объявлено в девятом выпуске <i>Young Gangan</i>, вышедшем 16 апреля 2021 года<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>. Производством аниме-сериала занялась студия <a href="/wiki/CloverWorks" title="CloverWorks">CloverWorks</a>, в качестве режиссёра выступает Кэйсукэ Синохара, в качестве сценариста&nbsp;— Ёрико Томита, а Кадзумаса Исида отвечает за дизайн персонажей и является главным режиссёром анимации. Композитором сериала выступил Такэси Накацука<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>. Премьера состоялась 9 января 2022 года на <a href="/wiki/Tokyo_MX" class="mw-redirect" title="Tokyo MX">Tokyo MX</a> и других телеканалах<sup id="cite_ref-ANN01_3-2" class="reference"><a href="#cite_note-ANN01-3">[3]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[a]</a></sup>. Открывающая музыкальная тема аниме-сериала&nbsp;— «Sansan Days» <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">燦々デイズ</span> <i>Сансан дэйдзу</i>, «Ослепительные дни»)</span> группы <a href="/wiki/Spira_Spica" title="Spira Spica">Spira Spica</a>, закрывающая тема&nbsp;— «Koi no Yukue» <span style="font-weight: normal;">(<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Японский язык">яп.</a> <span lang="ja" style="font-size: 110%; font-style: normal;">恋ノ行方</span> <i>Кой но юкуэ</i>, «Местонахождение любви»)</span> Акари Акасэ<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[21]</a></sup>. <span data-interwiki-lang="en" data-interwiki-article="Muse Communication"><a href="/w/index.php?title=Muse_Communication&amp;action=edit&amp;redlink=1" class="new" title="Muse Communication (страница отсутствует)">Muse Communication</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/Muse_Communication" class="extiw" title="en:Muse Communication"><span title="Muse Communication — версия статьи «Muse Communication» на английском языке">[en]</span></a></sup></span> лицензировала аниме-сериал в Южной и Юго-Восточной Азии. </p>
+      <p>На русском языке аниме-сериал доступен в стриминговых сервисах <a href="/wiki/Wakanim" title="Wakanim">Wakanim</a> и <a href="/wiki/Crunchyroll" title="Crunchyroll">Crunchyroll</a> под названием «Любовь с иголочки»<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[22]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[23]</a></sup>. </p> 
+      <h4><span id=".D0.A1.D0.BF.D0.B8.D1.81.D0.BE.D0.BA_.D1.81.D0.B5.D1.80.D0.B8.D0.B9"></span><span class="mw-headline" id="Список_серий">Список серий</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Редактировать раздел «Список серий»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;action=edit&amp;section=7" title="Редактировать раздел «Список серий»">править код</a><span class="mw-editsection-bracket">]</span></span></h4> 
+      <table class="wikitable" width="60%"> 
+       <tbody>
+        <tr> 
+         <th width="2%">№ </th> 
+         <th>Название</th> 
+         <th width="10%">Режиссёр </th> 
+         <th width="9%">Премьера в&nbsp;Японии </th>
+        </tr>
+        <tr style="text-align: center; background:#F2F2F2">
+         <td id="ep01" rowspan="">01</td>
+         <td style="text-align: left;"><b>Наши с ней миры отличаются как небо и земля</b><br><i>«Дзибун то ва магяку но сэкай дэ икитэиру хито»</i> <span class="t_nihongo_kanji" lang="ja">(自分とは真逆の世界で生きている人)</span>&nbsp;</td>
+         <td rowspan="">Кэйсукэ Синохара</td>
+         <td rowspan="">9 января 2022 г.</td>
+        </tr> 
+        <tr style="text-align: center; background:#F2F2F2">
+         <td id="ep02" rowspan="">02</td>
+         <td style="text-align: left;"><b>Ну так что, начнём?</b><br><i>«Сассоку, сиёкка?»</i> <span class="t_nihongo_kanji" lang="ja">(さっそく、しよっか？)</span>&nbsp;</td>
+         <td rowspan="">Ёсихиро Хираминэ</td>
+         <td rowspan="">16 января 2022 г.</td>
+        </tr> 
+        <tr style="text-align: center; background:#F2F2F2">
+         <td id="ep03" rowspan="">03</td>
+         <td style="text-align: left;"><b>Тогда давай встречаться!</b><br><i>«Дзя, цукиаттяу?»</i> <span class="t_nihongo_kanji" lang="ja">(じゃ、付き合っちゃう？)</span>&nbsp;</td>
+         <td rowspan="">Хидэюки Сатакэ</td>
+         <td rowspan="">23 января 2022 г.</td>
+        </tr> 
+        <tr style="text-align: center; background:#F2F2F2">
+         <td id="ep04" rowspan="">04</td>
+         <td style="text-align: left;"><b>У тебя что, есть девушка?</b><br><i>«Корэ, канодзё но то ка?»</i> <span class="t_nihongo_kanji" lang="ja">(これ、彼女のとか？)</span>&nbsp;</td>
+         <td rowspan="">Юитиро Комуро</td>
+         <td rowspan="">30 января 2022 г.</td>
+        </tr> 
+        <tr style="text-align: center; background:#F2F2F2">
+         <td id="ep05" rowspan="">05</td>
+         <td style="text-align: left;"><b>Может, просто они впервые увидели такой офигенный лиф?</b><br><i>«Коно нака дэ итибан ий тибукуро дакара дзян?»</i> <span class="t_nihongo_kanji" lang="ja">(この中で一番いい乳袋だからじゃん？)</span>&nbsp;</td>
+         <td rowspan="">Такаси Сакума</td>
+         <td rowspan="">6 февраля 2022 г.</td>
+        </tr> 
+        <tr style="text-align: center; background:#F2F2F2">
+         <td id="ep06" rowspan="">06</td>
+         <td style="text-align: left;"><b>Чё?!</b><br><i>«Ма!?»</i> <span class="t_nihongo_kanji" lang="ja">(マ！？)</span>&nbsp;</td>
+         <td rowspan="">Синъитиро Усидзима</td>
+         <td rowspan="">13 февраля 2022 г.</td>
+        </tr> 
+        <tr style="text-align: center; background:#F2F2F2">
+         <td id="ep07" rowspan="">07</td>
+         <td style="text-align: left;"><b>Да, свидание дома — это тема!</b><br><i>«Сюкипи то оути дэ:то, яба»</i> <span class="t_nihongo_kanji" lang="ja">(しゅきぴとおうちデート、やばっ)</span>&nbsp;</td>
+         <td rowspan="">Кэн Санума</td>
+         <td rowspan="">20 февраля 2022 г.</td>
+        </tr> 
+        <tr style="text-align: center; background:#F2F2F2">
+         <td id="ep08" rowspan="">08</td>
+         <td style="text-align: left;"><b>Контровый свет — это здорово!</b><br><i>«Гякко:, осусумэ дэсу»</i> <span class="t_nihongo_kanji" lang="ja">(逆光、オススメです)</span>&nbsp;</td>
+         <td rowspan="">Юсукэ Каваками</td>
+         <td rowspan="">27 февраля 2022 г.</td>
+        </tr> 
+        <tr style="text-align: center; background:#F2F2F2">
+         <td id="ep09" rowspan="">09</td>
+         <td style="text-align: left;"><b>У меня сразу же возникло неотложное дело</b><br><i>«Сясин о митара, иройро атта кара дэсу»</i> <span class="t_nihongo_kanji" lang="ja">(写真を見たら、色々あったからです)</span>&nbsp;</td>
+         <td rowspan="">Юта Ямадзаки</td>
+         <td rowspan="">6 марта 2022 г.</td>
+        </tr> 
+        <tr style="text-align: center; background:#F2F2F2">
+         <td id="ep10" rowspan="">10</td>
+         <td style="text-align: left;"><b>У каждого душа полна тревог</b><br><i>«Дарэ ни дэмо иройро арун дэсу»</i> <span class="t_nihongo_kanji" lang="ja">(誰にでも色々あるんです)</span>&nbsp;</td>
+         <td rowspan="">Кэнто Накагоми</td>
+         <td rowspan="">13 марта 2022 г.</td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h2><span id=".D0.92.D0.BE.D1.81.D0.BF.D1.80.D0.B8.D1.8F.D1.82.D0.B8.D0.B5"></span><span class="mw-headline" id="Восприятие">Восприятие</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Редактировать раздел «Восприятие»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;action=edit&amp;section=8" title="Редактировать раздел «Восприятие»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>В августе 2019 года манга заняла шестое место в категории «Лучшая серия печатной манги» по результатам голосования, организованном журналом <i>Da Vinci</i> издательства <a href="/wiki/Media_Factory" title="Media Factory">Media Factory</a> и сайтом <a href="/wiki/Niconico" class="mw-redirect" title="Niconico">Niconico</a> к пятой премии <a href="/wiki/Next_Manga_Award" title="Next Manga Award">Next Manga Award</a><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[24]</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[25]</a></sup>. В декабре этого же года заняла 16-е место в списке лучшей манги 2020 года для читателей-мужчин по версии издания <i><a href="/wiki/Kono_Manga_ga_Sugoi!" title="Kono Manga ga Sugoi!">Kono Manga ga Sugoi!</a></i><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[26]</a></sup>. Также заняла третье место в рейтинге «Комиксы 2020 года, рекомендованные сотрудниками национальных книжных магазинов» интернет-магазина Honya Club<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[27]</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[28]</a></sup>. В июне 2020 года манга заняла шестое место на четвёртой ежегодной премии Tsutaya Comic Awards<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[29]</a></sup>. </p>
+      <p>Обозреватель Иэн Вульф с сайта Anime UK News поставил первому тому манги шесть звёзд из десяти, отнеся к её недостаткам чрезмерный фансервис, и отметил внимание к деталям для косплееров<sup id="cite_ref-AUKN_2-2" class="reference"><a href="#cite_note-AUKN-2">[2]</a></sup>. Ребекка Сильверман с сайта <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> в обзоре на два первых тома манги отнесла к достоинствам главную героиню, «смешные и немного трогательные» моменты, но критически отнеслась к фансервису и «анатомическим проблемам в рисунке»<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">[30]</a></sup>. </p>
+      <p>К началу февраля 2022 года общий тираж манги составил 4,5 миллионов проданных копий<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">[31]</a></sup>. 22 февраля тираж манги достиг 5 миллионов проданных копий<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">[32]</a></sup>. </p> 
+      <h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;action=edit&amp;section=9" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span id=".D0.9A.D0.BE.D0.BC.D0.BC.D0.B5.D0.BD.D1.82.D0.B0.D1.80.D0.B8.D0.B8"></span><span class="mw-headline" id="Комментарии">Комментарии</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Редактировать раздел «Комментарии»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;action=edit&amp;section=10" title="Редактировать раздел «Комментарии»">править код</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div class="reflist columns reflist-wide" style="list-style-type: lower-alpha;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text">Премьера сериала на Tokyo MX состоялась в 24:00 JST 8 января 2022 года, фактически 9 января в полночь.</span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h3><span id=".D0.98.D1.81.D1.82.D0.BE.D1.87.D0.BD.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Источники">Источники</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Редактировать раздел «Источники»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;action=edit&amp;section=11" title="Редактировать раздел «Источники»">править код</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <div class="reflist columns" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="ja"><a rel="nofollow" class="external text" href="https://natalie.mu/comic/news/331548">「その着せ替え人形は恋をする」新刊発売記念、福田晋一が秋葉原でサイン会</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small>. <a href="/wiki/Natalie" title="Natalie">Natalie</a> (17 мая 2019). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-AUKN-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-AUKN_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-AUKN_2-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-AUKN_2-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Wolf, Ian.</i> <span lang="en"><a rel="nofollow" class="external text" href="https://animeuknews.net/2020/05/my-dress-up-darling-volume-1-review/">My Dress-Up Darling Volume 1 Review</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. Anime UK News (16 мая 2020). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-ANN01-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ANN01_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ANN01_3-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-ANN01_3-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Pineda, Rafael Antonio.</i> <span lang="en"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/news/2021-10-24/my-dress-up-darling-anime-video-unveils-cast-january-debut/.178795">My Dress-Up Darling Anime’s Video Unveils Cast, January Debut</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> (24 октября 2021). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-ANN02-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ANN02_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ANN02_4-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Hodgkins, Crystalyn.</i> <span lang="en"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/news/2021-11-14/my-dress-up-darling-tv-anime-reveals-2-more-cast-members/.179535">My Dress-Up Darling TV Anime Reveals 2 More Cast Members</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> (14 ноября 2021). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="ja"><a rel="nofollow" class="external text" href="https://natalie.mu/comic/news/265854">「桃色メロイック」の福田晋一、ひと癖あるギャル×和裁男子のラブコメをYGで</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small>. <a href="/wiki/Natalie" title="Natalie">Natalie</a> (19 января 2018). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="ja"><a rel="nofollow" class="external text" href="https://natalie.mu/comic/news/351802">福田晋一「その着せ替え人形は恋をする」4巻発売でサイン会、20日よりWeb予約開始</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small>. <a href="/wiki/Natalie" title="Natalie">Natalie</a> (18 октября 2019). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Loo, Egan.</i> <span lang="en"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/news/2019-07-05/square-enix-to-publish-6-new-manga-in-english/.148696">Square Enix to Publish 6 New Manga in English</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> (5 июля 2019). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="ja"><a rel="nofollow" class="external text" href="https://magazine.jp.square-enix.com/top/comics/detail/9784757559202/">その着せ替え人形は恋をする 1</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small>. <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>. <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="ja"><a rel="nofollow" class="external text" href="https://magazine.jp.square-enix.com/top/comics/detail/9784757559219/">その着せ替え人形は恋をする 2</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small>. <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>. <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="ja"><a rel="nofollow" class="external text" href="https://magazine.jp.square-enix.com/top/comics/detail/9784757561380/">その着せ替え人形は恋をする 3</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small>. <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>. <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="ja"><a rel="nofollow" class="external text" href="https://magazine.jp.square-enix.com/top/comics/detail/9784757563551/">その着せ替え人形は恋をする 4</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small>. <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>. <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="ja"><a rel="nofollow" class="external text" href="https://magazine.jp.square-enix.com/top/comics/detail/9784757566576/">その着せ替え人形は恋をする 5</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small>. <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>. <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="ja"><a rel="nofollow" class="external text" href="https://magazine.jp.square-enix.com/top/comics/detail/9784757566583/">その着せ替え人形は恋をする 5 特装版</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small>. <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>. <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="ja"><a rel="nofollow" class="external text" href="https://magazine.jp.square-enix.com/top/comics/detail/9784757569591/">その着せ替え人形は恋をする 6</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small>. <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>. <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="ja"><a rel="nofollow" class="external text" href="https://magazine.jp.square-enix.com/top/comics/detail/9784757572126/">その着せ替え人形は恋をする 7</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small>. <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>. <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="ja"><a rel="nofollow" class="external text" href="https://magazine.jp.square-enix.com/top/comics/detail/9784757572133/">その着せ替え人形は恋をする 7　特装版 オリジナルビッグアクリルキーホルダー</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small>. <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>. <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="ja"><a rel="nofollow" class="external text" href="https://magazine.jp.square-enix.com/top/comics/detail/9784757573444/">その着せ替え人形は恋をする 8</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small>. <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>. <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="ja"><a rel="nofollow" class="external text" href="https://magazine.jp.square-enix.com/top/comics/detail/9784757573451/">その着せ替え人形は恋をする 8 小冊子付き特装版</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small>. <a href="/wiki/Square_Enix" title="Square Enix">Square Enix</a>. <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Pineda, Rafael Antonio.</i> <span lang="en"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/news/2021-04-15/my-dress-up-darling-cosplay-tv-anime-confirmed/.171753">My Dress-Up Darling Cosplay TV Anime Confirmed</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> (15 апреля 2021). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Pineda, Rafael Antonio.</i> <span lang="en"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/news/2021-10-14/my-dress-up-darling-anime-reveals-staff-at-cloverworks/.178398">My Dress-Up Darling Anime Reveals Staff at CloverWorks</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> (14 октября 2021). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Loo, Egan.</i> <span lang="en"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/news/2021-12-04/my-dress-up-darling-anime-2nd-video-unveils-song-artists-january-8-debut/.180281">My Dress-Up Darling Anime’s 2nd Video Unveils Song Artists, January 8 Debut</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> (4 декабря 2021). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.wakanim.tv/ru/v2/catalogue/show/1648/lyubov-s-igolochki">Любовь с иголочки</a></span><span class="hidden-ref" style="display:none"><b>&nbsp;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>. <a href="/wiki/Wakanim" title="Wakanim">Wakanim</a>. <small>Дата обращения: 20 января 2022.</small></span></span></span> </li> 
+         <li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.crunchyroll.com/ru/my-dress-up-darling">Любовь с иголочки</a></span><span class="hidden-ref" style="display:none"><b>&nbsp;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>. <a href="/wiki/Crunchyroll" title="Crunchyroll">Crunchyroll</a>. <small>Дата обращения: 20 января 2022.</small></span></span></span> </li> 
+         <li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Loveridge, Lynzee.</i> <span lang="en"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/interest/2019-08-22/spy-family-kusuriya-no-hitorigoto-win-tsugi-ni-kuru-manga-award-2019/.150311">SPY × FAMILY, Kusuriya no Hitorigoto Win Tsugi ni Kuru Manga Award 2019</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> (22 августа 2019). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="ja"><a rel="nofollow" class="external text" href="https://natalie.mu/comic/news/344600">次にくるマンガ大賞2019、コミックス部門1位はねこクラゲ作画「薬屋のひとりごと」</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small>. <a href="/wiki/Natalie" title="Natalie">Natalie</a> (22 августа 2019). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Pineda, Rafael Antonio.</i> <span lang="en"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/news/2019-12-11/kono-manga-ga-sugoi-editors-unveil-2020-rankings/.154203">Kono Manga ga Sugoi! Editors Unveil 2020 Rankings</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> (11 декабря 2019). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Mateo, Alex.</i> <span lang="en"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/news/2020-02-01/japanese-bookstores-recommend-15-top-manga-for-2020/.156006">Japanese Bookstores Recommend 15 Top Manga for 2020</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> (1 февраля 2020). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="ja"><a rel="nofollow" class="external text" href="https://natalie.mu/comic/news/365345">全国書店員が選んだおすすめコミック2020、1位は「SPY×FAMILY」</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small>. <a href="/wiki/Natalie" title="Natalie">Natalie</a> (31 января 2020). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Loveridge, Lynzee.</i> <span lang="en"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/interest/2020-06-17/spy-family-a-man-and-his-cat-win-4th-annual-tsutaya-comic-awards/.160742">Spy×Family, A Man and His Cat Win 4th Annual Tsutaya Comic Awards</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> (17 июня 2020). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Silverman, Rebecca.</i> <span lang="en"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/review/my-dress-up-darling/gn-1/.164421">My Dress-Up Darling GN 1 &amp; 2 Review</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> (31 октября 2020). <small>Дата обращения: 17 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Pineda, Rafael Antonio.</i> <span lang="en"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/news/2022-02-02/my-dress-up-darling-manga-puts-1-million-more-copies-in-circulation-since-anime-premiered/.182182">My Dress-Up Darling Manga Puts 1 Million More Copies in Circulation Since Anime Premiered</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> (2 февраля 2022). <small>Дата обращения: 5 февраля 2022.</small></span></span></span> </li> 
+         <li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Pineda, Rafael Antonio.</i> <span lang="en"><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/news/2022-02-22/my-dress-up-darling-manga-adds-1.5-million-more-copies-since-anime-premiered/.182905">My Dress-Up Darling Manga Adds 1.5 Million More Copies Since Anime Premiered</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a> (22 февраля 2022). <small>Дата обращения: 26 февраля 2022.</small></span></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=My_Dress-Up_Darling&amp;action=edit&amp;section=12" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://magazine.jp.square-enix.com/yg/introduction/sonobisque/">Страница манги на официальном сайте <i>Young Gangan</i></a>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small></li> 
+       <li><a rel="nofollow" class="external text" href="https://squareenixmangaandbooks.square-enix-games.com/en-us/series/my-dress-up-darling">Страница манги на официальном сайте Square Enix</a>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li> 
+       <li><a rel="nofollow" class="external text" href="https://bisquedoll-anime.com/">Официальный сайт аниме</a>&nbsp;<small class="ref-info" style="cursor:help;" title="на японском языке">(яп.)</small></li>
+      </ul> 
+      <ul>
+       <li><a href="https://www.imdb.com/title/tt15765670/" class="extiw" title="imdbtitle:15765670">Аниме «My Dress-Up Darling»</a>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> в базе данных <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.cc/encyclopedia/anime.php?id=24306">Аниме «My Dress-Up Darling»</a>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> в энциклопедии сайта <a href="/wiki/Anime_News_Network" title="Anime News Network">Anime News Network</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://anidb.net/perl-bin/animedb.pl?show=anime&amp;aid=16250">Аниме «My Dress-Up Darling»</a>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> в базе данных AniDB</li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-label="Навигационный шаблон" data-name="External links">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">
+           <div style="padding: 0 35px 0 0; width: 100%;">
+            <div style="float: left;">
+             <a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;&nbsp;<a href="https://www.wikidata.org/wiki/Q65235036#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a>
+            </div>&nbsp;&nbsp;Тематические сайты
+           </div></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a rel="nofollow" class="external text" href="https://www.animenewsnetwork.com/encyclopedia/manga.php?id=22520">Anime News Network</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+     </div>
+     <noscript>
+      <img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=My_Dress-Up_Darling&amp;oldid=120656598">https://ru.wikipedia.org/w/index.php?title=My_Dress-Up_Darling&amp;oldid=120656598</a>
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B8%D0%BC%D0%B5_%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B3%D0%B0_%D0%B2_%D0%B6%D0%B0%D0%BD%D1%80%D0%B5_%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F" title="Категория:Аниме и манга в жанре романтическая комедия">Аниме и манга в жанре романтическая комедия</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B8%D0%BC%D0%B5_%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B3%D0%B0_%D0%BE_%D0%BF%D0%BE%D0%B2%D1%81%D0%B5%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%BE%D0%B9_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8" title="Категория:Аниме и манга о повседневной жизни">Аниме и манга о повседневной жизни</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B8%D0%BC%D0%B5_%D0%B8_%D0%BC%D0%B0%D0%BD%D0%B3%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD" title="Категория:Аниме и манга для мужчин">Аниме и манга для мужчин</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B0%D0%BD%D0%B3%D0%B0_2018_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Манга 2018 года">Манга 2018 года</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B0%D0%BD%D0%B3%D0%B8" title="Категория:Манги">Манги</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B8%D0%BC%D0%B5_2022_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Аниме 2022 года">Аниме 2022 года</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D0%B8%D0%BC%D0%B5-%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B" title="Категория:Аниме-сериалы">Аниме-сериалы</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Мультсериалы по алфавиту">Мультсериалы по алфавиту</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:CloverWorks" title="Категория:CloverWorks">CloverWorks</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Скрытые категории: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%90%D0%98%D0%9C:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B5%D0%BC_%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5" title="Категория:ПРО:АИМ:Последняя правка: в текущем месяце">ПРО:АИМ:Последняя правка: в текущем месяце</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Навигация</h2> 
+   <div id="mw-head"> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"> <label id="p-personal-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Персональные инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage" class="mw-list-item"><span>Вы не представились системе</span></li>
+       <li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li>
+       <li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li>
+       <li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=My+Dress-Up+Darling" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li>
+       <li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=My+Dress-Up+Darling" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> <label id="p-namespaces-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Пространства имён</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/My_Dress-Up_Darling" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li>
+        <li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:My_Dress-Up_Darling" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> <label id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading"> <span class="vector-menu-heading-label">русский</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> <label id="p-views-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Просмотры</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected mw-list-item"><a href="/wiki/My_Dress-Up_Darling"><span>Читать</span></a></li>
+        <li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=My_Dress-Up_Darling&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li>
+        <li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=My_Dress-Up_Darling&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li>
+        <li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=My_Dress-Up_Darling&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" title="Больше возможностей"> 
+      <input type="checkbox" id="p-cactions-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-cactions" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> <label id="p-cactions-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Ещё</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box"> 
+      <div> 
+       <h3> <label for="searchInput">Поиск</label> </h3> 
+       <form action="/w/index.php" id="searchform" class="vector-search-box-form"> 
+        <div id="simpleSearch" class="vector-search-box-inner" data-search-loc="header-navigation"> 
+         <input class="vector-search-box-input" type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"> 
+         <input type="hidden" name="title" value="Служебная:Поиск"> 
+         <input id="mw-searchButton" class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти"> 
+         <input id="searchButton" class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти"> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a> 
+    </div> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> <label id="p-navigation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Навигация</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li>
+       <li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li>
+       <li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li>
+       <li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li>
+       <li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li>
+       <li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"> <label id="p-participation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Участие</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об&nbsp;ошибке</span></a></li>
+       <li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li>
+       <li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li>
+       <li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li>
+       <li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li>
+       <li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li>
+       <li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> <label id="p-tb-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/My_Dress-Up_Darling" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li>
+       <li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/My_Dress-Up_Darling" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li>
+       <li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+       <li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=My_Dress-Up_Darling&amp;oldid=120656598" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li>
+       <li id="t-info" class="mw-list-item"><a href="/w/index.php?title=My_Dress-Up_Darling&amp;action=info" title="Подробнее об этой странице"><span>Сведения о&nbsp;странице</span></a></li>
+       <li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=My_Dress-Up_Darling&amp;id=120656598&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li>
+       <li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q65235036" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> <label id="p-coll-print_export-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Печать/экспорт</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=My+Dress-Up+Darling" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li>
+       <li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=My_Dress-Up_Darling&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li>
+       <li id="t-print" class="mw-list-item"><a href="/w/index.php?title=My_Dress-Up_Darling&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> <label id="p-lang-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">На других языках</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%A7%D9%8A_%D8%AF%D8%B1%D9%8A%D8%B3-%D8%A3%D8%A8_%D8%AF%D8%A7%D8%B1%D9%84%D9%8A%D9%86%D8%BA" title="ماي دريس-أب دارلينغ — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li>
+       <li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Sexy_Cosplay_Doll" title="Sexy Cosplay Doll — бретонский" lang="br" hreflang="br" class="interlanguage-link-target"><span>Brezhoneg</span></a></li>
+       <li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/More_Than_a_Doll" title="More Than a Doll — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li>
+       <li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/My_Dress-Up_Darling" title="My Dress-Up Darling — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li>
+       <li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Sono_Bisque_Doll_wa_Koi_o_Suru" title="Sono Bisque Doll wa Koi o Suru — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li>
+       <li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Sexy_Cosplay_Doll" title="Sexy Cosplay Doll — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li>
+       <li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Sono_Bisque_Doll_wa_Koi_o_Suru" title="Sono Bisque Doll wa Koi o Suru — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li>
+       <li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/My_Dress-Up_Darling" title="My Dress-Up Darling — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li>
+       <li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%81%9D%E3%81%AE%E7%9D%80%E3%81%9B%E6%9B%BF%E3%81%88%E4%BA%BA%E5%BD%A2%E3%81%AF%E6%81%8B%E3%82%92%E3%81%99%E3%82%8B" title="その着せ替え人形は恋をする — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li>
+       <li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EA%B7%B8_%EB%B9%84%EC%8A%A4%ED%81%AC_%EB%8F%8C%EC%9D%80_%EC%82%AC%EB%9E%91%EC%9D%84_%ED%95%9C%EB%8B%A4" title="그 비스크 돌은 사랑을 한다 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li>
+       <li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Projekt:_cosplay" title="Projekt: cosplay — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li>
+       <li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Sono_Bisque_Doll_wa_Koi_o_Suru" title="Sono Bisque Doll wa Koi o Suru — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li>
+       <li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/My_Dress-Up_Darling" title="My Dress-Up Darling — таджикский" lang="tg" hreflang="tg" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li>
+       <li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B9%80%E0%B8%A2%E0%B9%87%E0%B8%9A%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%84%E0%B8%AD%E0%B8%AA%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%A2%E0%B9%8C" title="หนุ่มเย็บผ้ากับสาวนักคอสเพลย์ — тайский" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li>
+       <li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Sono_Bisque_Doll_wa_Koi_o_suru" title="Sono Bisque Doll wa Koi o suru — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li>
+       <li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%88%80%E4%B8%8A%E6%8F%9B%E8%A3%9D%E5%A8%83%E5%A8%83" title="戀上換裝娃娃 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q65235036#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 15 марта 2022 в 09:06.</li> 
+    <li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия. <span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br> Wikipedia®&nbsp;— зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li> 
+    <li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li> 
+    <li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li> 
+    <li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=My_Dress-Up_Darling&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.068","walltime":"1.346","ppvisitednodes":{"value":22189,"limit":1000000},"postexpandincludesize":{"value":138885,"limit":2097152},"templateargumentsize":{"value":60458,"limit":2097152},"expansiondepth":{"value":22,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":26008,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1223.860      1 -total"," 32.72%  400.478      2 Шаблон:Примечания"," 29.86%  365.484     32 Шаблон:Cite_web"," 19.01%  232.628      1 Шаблон:Карточка_аниманга/Заголовок"," 11.95%  146.225      1 Шаблон:Внешние_ссылки","  9.19%  112.515      2 Шаблон:Карточка/блок","  8.15%   99.716     38 Шаблон:Str_≠_len","  8.09%   98.994      8 Шаблон:Graphic_novel_list","  7.57%   92.636      8 Шаблон:Graphic_novel_list/Base","  7.25%   88.680      3 Шаблон:Жанр"]},"scribunto":{"limitreport-timeusage":{"value":"0.267","limit":"10.000"},"limitreport-memusage":{"value":4057849,"limit":52428800}},"cachereport":{"origin":"mw1454","timestamp":"20220315090648","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"My Dress-Up Darling","url":"https:\/\/ru.wikipedia.org\/wiki\/My_Dress-Up_Darling","sameAs":"http:\/\/www.wikidata.org\/entity\/Q65235036","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q65235036","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2021-12-17T04:59:20Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/ru\/8\/88\/Sono_Bisque_Doll_wa_Koi_wo_Suru.jpg"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":189,"wgHostname":"mw1456"});});</script>  
+ </body>
+</html>

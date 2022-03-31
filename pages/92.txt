@@ -1,0 +1,384 @@
+<!doctype html>
+<html class="client-nojs" lang="ru" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Обсуждение шаблона:Знаете ли вы — Википедия</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"81535edc-47a5-4a21-9948-db02a228c901","wgCSPNonce":false,"wgCanonicalNamespace":"Template_talk","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":11,"wgPageName":"Обсуждение_шаблона:Знаете_ли_вы","wgTitle":"Знаете ли вы","wgCurRevisionId":120539638,"wgRevisionId":120539638,"wgArticleId":151372,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Проект:Знаете ли вы"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Обсуждение_шаблона:Знаете_ли_вы","wgRelevantArticleId":151372,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":800,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":true,"wgGELinkRecommendationsFrontendEnabled":true};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":
+"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.discussionTools.init.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.discussionTools.init.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <noscript>
+   <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector">
+  </noscript> 
+  <meta name="generator" content="MediaWiki 1.38.0-wmf.25"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta property="og:title" content="Обсуждение шаблона:Знаете ли вы — Википедия"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B"> 
+  <link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-11 ns-talk mw-editable page-Обсуждение_шаблона_Знаете_ли_вы rootpage-Обсуждение_шаблона_Знаете_ли_вы skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading mw-first-heading">Обсуждение шаблона:Знаете ли вы</h1> 
+   <div id="bodyContent" class="vector-body"> 
+    <div id="siteSub" class="noprint">
+     Материал из Википедии — свободной энциклопедии
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Перейти к навигации</a> <a class="mw-jump-link" href="#searchInput">Перейти к поиску</a> 
+    <div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr">
+     <div class="mw-parser-output">
+      <table class="plainlinks tmbox tmbox-notice" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Filing_cabinet_icon.svg" class="image" title="archive"><img alt="archive" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Filing_cabinet_icon.svg/20px-Filing_cabinet_icon.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Filing_cabinet_icon.svg/30px-Filing_cabinet_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Filing_cabinet_icon.svg/40px-Filing_cabinet_icon.svg.png 2x" data-file-width="128" data-file-height="128"></a></td>
+         <td class="mbox-text" style="font-size:90%">
+          <div class="mbox-text-div">
+           <div class="hlist" style="margin-left: 0em;"> 
+            <dl>
+             <dt>
+              Архив
+             </dt> 
+             <dd>
+              <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2/1" title="Обсуждение шаблона:Знаете ли вы/Архив/1"> до 2009</a>
+             </dd> 
+             <dd>
+              <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2/2" title="Обсуждение шаблона:Знаете ли вы/Архив/2"> 2009—2010</a>
+             </dd> 
+             <dd>
+              <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2/3" title="Обсуждение шаблона:Знаете ли вы/Архив/3"> 2011</a>
+             </dd> 
+             <dd>
+              <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2/4" title="Обсуждение шаблона:Знаете ли вы/Архив/4"> 2012</a>
+             </dd> 
+             <dd>
+              <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2/5" title="Обсуждение шаблона:Знаете ли вы/Архив/5"> 2013</a>
+             </dd> 
+             <dd>
+              <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2/6" title="Обсуждение шаблона:Знаете ли вы/Архив/6"> 2014</a>
+             </dd> 
+             <dd>
+              <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2/7" title="Обсуждение шаблона:Знаете ли вы/Архив/7"> 2015</a>
+             </dd> 
+             <dd>
+              <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2/8" title="Обсуждение шаблона:Знаете ли вы/Архив/8"> 2016</a>
+             </dd> 
+             <dd>
+              <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2/9" title="Обсуждение шаблона:Знаете ли вы/Архив/9"> 2017</a>
+             </dd> 
+             <dd>
+              <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2/10" title="Обсуждение шаблона:Знаете ли вы/Архив/10"> 2018</a>
+             </dd> 
+             <dd>
+              <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2/11" title="Обсуждение шаблона:Знаете ли вы/Архив/11"> 2019</a>
+             </dd> 
+             <dd>
+              <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2/12" title="Обсуждение шаблона:Знаете ли вы/Архив/12"> 2020</a>
+             </dd> 
+             <dd>
+              <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2/13" title="Обсуждение шаблона:Знаете ли вы/Архив/13"> 2021</a>
+             </dd> 
+             <dd>
+              <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2/14" title="Обсуждение шаблона:Знаете ли вы/Архив/14"> 2022</a>
+             </dd>
+            </dl> 
+           </div>
+          </div>
+          <div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"></div></td>
+        </tr>
+       </tbody>
+      </table> 
+      <div style="margin-top:1em"></div> 
+      <style data-mw-deduplicate="TemplateStyles:r113770215">.mw-parser-output .ts-Box{width:100%;padding:1em 1.6em;box-sizing:border-box;box-shadow:0 0 .2em #a2a9b1;background-color:white;border-radius:2px}.mw-parser-output .ts-Box::after{display:block;clear:both;content:""}.mw-parser-output .ts-Box-header{font-size:220%;color:#54595d}.mw-parser-output .ts-Box-image{float:right}.mw-parser-output .ts-Box-subheader{padding:.5em 0;font-size:120%;color:#54595d}.mw-parser-output .ts-Box-tools{margin-top:.5em;margin-bottom:.5em;text-align:center}.mw-parser-output .ts-Box-newtopic{margin-bottom:2em}@media(min-width:720px){.mw-parser-output .ts-Box-tools{float:right;margin-left:2em}}@media(max-width:719px){.mw-parser-output .ts-Box-header{font-size:140%}.mw-parser-output .ts-Box-tools{margin-bottom:1.6em}.mw-parser-output .ts-Box-search .searchbox .searchboxInput{width:100%}}</style> 
+      <div class="ts-Box" style="">
+       <div class="ts-Box-description"> 
+        <div class="tright" style="background:#fff; margin-top:0; margin-bottom:1em; border:1px solid #afcff2; border-spacing:0; width:238px;"> 
+         <table style="padding:4px;border-spacing:0;border:0" role="presentation"> 
+          <tbody>
+           <tr> 
+            <td style="padding:0 16px 0 5px"><span style="font:14pt Arial Bold,sans-serif;color:Gray"><span class="nowrap">Знаете ли вы</span></span> </td> 
+            <td><img alt="Знаете ли вы?" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gray_book_question.png/50px-Gray_book_question.png" decoding="async" title="Знаете ли вы?" width="50" height="46" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gray_book_question.png/75px-Gray_book_question.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Gray_book_question.png/100px-Gray_book_question.png 2x" data-file-width="250" data-file-height="231"> </td>
+           </tr>
+          </tbody>
+         </table> 
+         <div style="padding:2px;text-align:center;background-color:#e8f5ff;font-weight:bold">
+          <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B" title="Проект:Знаете ли вы">Проект</a>
+         </div> 
+         <table style="margin:1em auto;" role="presentation"> 
+          <tbody>
+           <tr style="vertical-align:top"> 
+            <td style="text-align:right"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B" title="Шаблон:Знаете ли вы">Шаблон</a><br><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%B8%D0%BA" title="Проект:Знаете ли вы/Черновик">Черновик</a><br><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D0%B5%D0%B3%D0%BE_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0" title="Проект:Знаете ли вы/Подготовка следующего выпуска">Подготовка</a><br><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D0%B5%D0%B3%D0%BE_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0/%D0%9F%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2" title="Проект:Знаете ли вы/Подготовка следующего выпуска/Предпросмотр черновиков">Предпросмотр</a><br><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%90%D1%80%D1%85%D0%B8%D0%B2_%D1%80%D1%83%D0%B1%D1%80%D0%B8%D0%BA%D0%B8" title="Проект:Знаете ли вы/Архив рубрики">Архив</a><br><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%9A_%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8E" title="Проект:Знаете ли вы/К созданию">К созданию</a><br><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%A4%D0%B0%D0%BA%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B0%D0%BC" title="Проект:Знаете ли вы/Факты по авторам">Статистика</a> </td> 
+            <td>•<br>•<br>•<br>•<br>•<br>•<br>• </td> 
+            <td style="text-align:left" class="nowrap"><i><a class="mw-selflink selflink">Обсуждение</a></i><br><i><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%B8%D0%BA" title="Обсуждение проекта:Знаете ли вы/Черновик">Обсуждение</a></i><br><i><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D0%BB%D0%B5%D0%B4%D1%83%D1%8E%D1%89%D0%B5%D0%B3%D0%BE_%D0%B2%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%B0" title="Обсуждение проекта:Знаете ли вы/Подготовка следующего выпуска">Обсуждение</a></i><br><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%A0%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Проект:Знаете ли вы/Расписание">Расписание</a><br><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B" title="Портал:Знаете ли вы">Портал</a><br><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%9D%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D1%8B" title="Проект:Знаете ли вы/Награды">Награды</a><br><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%AE%D0%BC%D0%BE%D1%80" title="Проект:Знаете ли вы/Юмор">Юмор</a> </td>
+           </tr>
+          </tbody>
+         </table> 
+         <div style="padding:2px;text-align:center;background-color:#e8f5ff;font-weight:bold">
+          <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE" title="Проект:Знаете ли вы/Руководство">Руководство</a> • <i><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE" title="Обсуждение проекта:Знаете ли вы/Руководство">Обсуждение</a></i>
+         </div> 
+        </div> 
+        <div class="nocolbreak tright" style="border: solid #a0e0ff 1px; margin: 1px; width: 238px;"> 
+         <table cellspacing="0" style="width: 100%; margin: 0; display: table;"> 
+          <tbody>
+           <tr style="height: 45px;"> 
+            <td style="width: 45px; text-align: center; background: #a0e0ff; color: #000000; font-size: 24pt; font-weight: bold;">
+             <div style="margin-top:-0.2em; padding:0.1em;">
+              ↓
+             </div> </td> 
+            <td style="padding: 2pt 4pt; line-height: 1.25em; text-align: left; background: #f0faff; color: #000000; font-size: 8pt;">Пожалуйста, <b><span class="plainlinks ruwiki-addTopicLink" style=""><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B&amp;action=edit&amp;section=new"><span class="plainlinks" style="">добавляйте</span></a></span></b> новые темы <b>снизу</b> </td>
+           </tr>
+          </tbody>
+         </table>
+        </div> 
+        <p>На этой странице обсуждается текущий выпуск рубрики <b>«Знаете ли вы»</b>, отображаемый на главной странице. Подробнее см. <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B" title="Проект:Знаете ли вы">Проект:Знаете ли вы</a>. </p> 
+        <hr style="margin:1em 0;"> 
+        <p>Коллеги! Помните, что разница между всеми проектами на заглавной странице и «Знаете ли вы» похожа на разницу между научными и научно-популярными журналами. Научные журналы увеличивают сумму знаний, <a href="/wiki/%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Научно-популярная литература">научпоп</a> призван развлечь и заинтересовать читателей. Пожалуйста: </p> 
+        <ul>
+         <li>Не будьте <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D1%80%D1%83%D1%81%D1%82" title="Прокруст">Прокрустом</a>, разрешите избирающим некоторую <a href="/wiki/%D0%9F%D0%BE%D1%8D%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Поэтическая вольность">энциклопедическую вольность</a>.</li> 
+         <li><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%B8%D0%BA" title="Проект:Знаете ли вы/Черновик">Черновик</a> выпуска <a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%B8%D0%BA" title="Обсуждение проекта:Знаете ли вы/Черновик">обсуждается несколько недель</a>, это — консенсусный вариант. Не нужно выступать от имени большинства; выдвигайте аргументы, основанные на правилах Википедии и <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%98" class="mw-redirect" title="Википедия:АИ">авторитетных источниках</a>.</li> 
+         <li>Полезно перечитать <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E%D0%A2%D0%95%D0%A1%D0%A2" class="mw-redirect" title="Википедия:ПРОТЕСТ">ВП:ПРОТЕСТ</a>.</li>
+        </ul> 
+       </div>
+      </div>
+      <div style="margin-top:1em"></div>
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="ru" dir="ltr">
+        <h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Выпуск_9_марта"><span class="tocnumber">1</span> <span class="toctext">Выпуск 9 марта</span></a> 
+         <ul> 
+          <li class="toclevel-2 tocsection-2"><a href="#1985_(роман,_1982)"><span class="tocnumber">1.1</span> <span class="toctext">1985 (роман, 1982)</span></a></li> 
+         </ul> </li> 
+       </ul> 
+      </div> 
+      <p><br> </p> 
+      <h2><span id=".D0.92.D1.8B.D0.BF.D1.83.D1.81.D0.BA_9_.D0.BC.D0.B0.D1.80.D1.82.D0.B0"></span><span class="mw-headline" id="Выпуск_9_марта" data-mw-comment="{&quot;type&quot;:&quot;heading&quot;,&quot;level&quot;:0,&quot;id&quot;:&quot;h-\u0412\u044b\u043f\u0443\u0441\u043a_9_\u043c\u0430\u0440\u0442\u0430&quot;,&quot;replies&quot;:[&quot;h-1985_(\u0440\u043e\u043c\u0430\u043d,_1982)-\u0412\u044b\u043f\u0443\u0441\u043a_9_\u043c\u0430\u0440\u0442\u0430-2022-03-09T05:51:00.000Z&quot;],&quot;headingLevel&quot;:2,&quot;placeholderHeading&quot;:false}"><span data-mw-comment-start="" id="h-Выпуск_9_марта"></span>Выпуск 9 марта<span data-mw-comment-end="h-Выпуск_9_марта"></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B&amp;action=edit&amp;section=1" title="Редактировать раздел «Выпуск 9 марта»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <h3><span id="1985_.28.D1.80.D0.BE.D0.BC.D0.B0.D0.BD.2C_1982.29"></span><span class="mw-headline" id="1985_(роман,_1982)" data-mw-comment="{&quot;type&quot;:&quot;heading&quot;,&quot;level&quot;:0,&quot;id&quot;:&quot;h-1985_(\u0440\u043e\u043c\u0430\u043d,_1982)-\u0412\u044b\u043f\u0443\u0441\u043a_9_\u043c\u0430\u0440\u0442\u0430-2022-03-09T05:51:00.000Z&quot;,&quot;replies&quot;:[&quot;c-Timur_Maisak-2022-03-09T05:51:00.000Z-1985_(\u0440\u043e\u043c\u0430\u043d,_1982)&quot;],&quot;headingLevel&quot;:3,&quot;placeholderHeading&quot;:false}"><span data-mw-comment-start="" id="h-1985_(роман,_1982)-Выпуск_9_марта-2022-03-09T05:51:00.000Z"></span><a href="/wiki/1985_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD,_1982)" title="1985 (роман, 1982)">1985 (роман, 1982)</a><span data-mw-comment-end="h-1985_(роман,_1982)-Выпуск_9_марта-2022-03-09T05:51:00.000Z"></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B&amp;action=edit&amp;section=2" title="Редактировать раздел «1985 (роман, 1982)»">править код</a><span class="mw-editsection-bracket">]</span></span></h3> 
+      <ul>
+       <li><span data-mw-comment-start="" id="c-Timur_Maisak-2022-03-09T05:51:00.000Z-1985_(роман,_1982)"></span>Я бы викифицировал <a href="/wiki/%D0%9E%D0%BA%D0%B5%D0%B0%D0%BD%D0%B8%D1%8F_(%C2%AB1984%C2%BB)" title="Океания («1984»)">Океанию</a>, т.к. это не просто Океания. - <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Timur_Maisak" title="Участник:Timur Maisak">tm</a> (<a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Timur_Maisak" title="Обсуждение участника:Timur Maisak">обс.</a>) 05:51, 9 марта 2022 (UTC)<span class="ext-discussiontools-init-replylink-buttons"><span class="ext-discussiontools-init-replylink-bracket"><!--__DTREPLYBRACKETOPEN__--></span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" data-mw-comment="{&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:2,&quot;id&quot;:&quot;c-Timur_Maisak-2022-03-09T05:51:00.000Z-1985_(\u0440\u043e\u043c\u0430\u043d,_1982)&quot;,&quot;replies&quot;:[&quot;c-Victoria-2022-03-09T09:05:00.000Z-Timur_Maisak-2022-03-09T05:51:00.000Z&quot;],&quot;timestamp&quot;:&quot;2022-03-09T05:51:00.000Z&quot;,&quot;author&quot;:&quot;Timur Maisak&quot;}" href=""><!--__DTREPLY__--></a><span class="ext-discussiontools-init-replylink-bracket"><!--__DTREPLYBRACKETCLOSE__--></span></span><span data-mw-comment-end="c-Timur_Maisak-2022-03-09T05:51:00.000Z-1985_(роман,_1982)"></span> 
+        <ul>
+         <li><span data-mw-comment-start="" id="c-Victoria-2022-03-09T09:05:00.000Z-Timur_Maisak-2022-03-09T05:51:00.000Z"></span><span class="nowrap"><img alt="✔" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600"> <b>Сделано</b></span> — <a href="/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Victoria" title="Участник:Victoria">Victoria</a> (<a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B0:Victoria" title="Обсуждение участника:Victoria">обс.</a>) 09:05, 9 марта 2022 (UTC)<span class="ext-discussiontools-init-replylink-buttons"><span class="ext-discussiontools-init-replylink-bracket"><!--__DTREPLYBRACKETOPEN__--></span><a class="ext-discussiontools-init-replylink-reply" role="button" tabindex="0" data-mw-comment="{&quot;type&quot;:&quot;comment&quot;,&quot;level&quot;:3,&quot;id&quot;:&quot;c-Victoria-2022-03-09T09:05:00.000Z-Timur_Maisak-2022-03-09T05:51:00.000Z&quot;,&quot;replies&quot;:[],&quot;timestamp&quot;:&quot;2022-03-09T09:05:00.000Z&quot;,&quot;author&quot;:&quot;Victoria&quot;}" href=""><!--__DTREPLY__--></a><span class="ext-discussiontools-init-replylink-bracket"><!--__DTREPLYBRACKETCLOSE__--></span></span><span data-mw-comment-end="c-Victoria-2022-03-09T09:05:00.000Z-Timur_Maisak-2022-03-09T05:51:00.000Z"></span></li>
+        </ul></li>
+      </ul> <!-- 
+NewPP limit report
+Parsed by mw1428
+Cached time: 20220316210246
+Cache expiry: 864000
+Reduced expiry: true
+Complications: []
+DiscussionTools time usage: 0.012 seconds
+CPU time usage: 0.153 seconds
+Real time usage: 0.202 seconds
+Preprocessor visited node count: 556/1000000
+Post‐expand include size: 25243/2097152 bytes
+Template argument size: 11608/2097152 bytes
+Highest expansion depth: 15/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 925/5000000 bytes
+Lua time usage: 0.038/10.000 seconds
+Lua memory usage: 1432435/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  145.291      1 -total
+ 88.09%  127.980      1 Обсуждение_шаблона:Знаете_ли_вы/Шапка
+ 46.18%   67.100      1 Шаблон:Архивы
+ 43.92%   63.816      1 Шаблон:Tmbox
+ 38.04%   55.273      1 Шаблон:Шапка
+ 20.11%   29.211      1 Шаблон:Новые_снизу
+ 18.97%   27.563      1 Шаблон:Userbox
+ 17.05%   24.772      1 Шаблон:Добавить_тему
+ 11.78%   17.119      1 Шаблон:Done
+  9.67%   14.052      4 Шаблон:Ifempty
+--> <!-- Saved in parser cache with key ruwiki:pcache:idhash:151372-0!canonical and timestamp 20220316210246 and revision id 120539638. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Обсуждение_шаблона:Знаете_ли_вы&amp;oldid=120539638">https://ru.wikipedia.org/w/index.php?title=Обсуждение_шаблона:Знаете_ли_вы&amp;oldid=120539638</a>
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B" title="Категория:Проект:Знаете ли вы">Проект:Знаете ли вы</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Навигация</h2> 
+   <div id="mw-head"> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"> <label id="p-personal-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Персональные инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage" class="mw-list-item"><span>Вы не представились системе</span></li>
+       <li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li>
+       <li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li>
+       <li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5+%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%3A%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5+%D0%BB%D0%B8+%D0%B2%D1%8B" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li>
+       <li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5+%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%3A%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5+%D0%BB%D0%B8+%D0%B2%D1%8B" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> <label id="p-namespaces-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Пространства имён</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-template" class="mw-list-item"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B" title="Страница шаблона [c]" accesskey="c"><span>Шаблон</span></a></li>
+        <li id="ca-talk" class="selected mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> <label id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading"> <span class="vector-menu-heading-label">русский</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> <label id="p-views-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Просмотры</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B"><span>Читать</span></a></li>
+        <li id="ca-edit" class="istalk mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B&amp;action=edit" title="Эту страницу можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li>
+        <li id="ca-addsection" class="mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B&amp;action=edit&amp;section=new" title="Создать новый раздел [+]" accesskey="+"><span>Добавить тему</span></a></li>
+        <li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" title="Больше возможностей"> 
+      <input type="checkbox" id="p-cactions-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-cactions" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> <label id="p-cactions-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Ещё</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box"> 
+      <div> 
+       <h3> <label for="searchInput">Поиск</label> </h3> 
+       <form action="/w/index.php" id="searchform" class="vector-search-box-form"> 
+        <div id="simpleSearch" class="vector-search-box-inner" data-search-loc="header-navigation"> 
+         <input class="vector-search-box-input" type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"> 
+         <input type="hidden" name="title" value="Служебная:Поиск"> 
+         <input id="mw-searchButton" class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти"> 
+         <input id="searchButton" class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти"> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a> 
+    </div> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> <label id="p-navigation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Навигация</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li>
+       <li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li>
+       <li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li>
+       <li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li>
+       <li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li>
+       <li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"> <label id="p-participation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Участие</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об&nbsp;ошибке</span></a></li>
+       <li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li>
+       <li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li>
+       <li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li>
+       <li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li>
+       <li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li>
+       <li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> <label id="p-tb-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li>
+       <li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li>
+       <li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+       <li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+       <li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B&amp;oldid=120539638" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li>
+       <li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B&amp;action=info" title="Подробнее об этой странице"><span>Сведения о&nbsp;странице</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> <label id="p-coll-print_export-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Печать/экспорт</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="electron-print_pdf" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%3A%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B&amp;action=show-download-screen"><span>Скачать как PDF</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> <label id="p-lang-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">На других языках</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list"></ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="uls-after-portlet-link"></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 9 марта 2022 в 21:29.</li> 
+    <li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия. <span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br> Wikipedia®&nbsp;— зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li> 
+    <li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li> 
+    <li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li> 
+    <li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0:%D0%97%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_%D0%BB%D0%B8_%D0%B2%D1%8B&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"discussiontools":{"limitreport-timeusage":"0.012"},"limitreport":{"cputime":"0.153","walltime":"0.202","ppvisitednodes":{"value":556,"limit":1000000},"postexpandincludesize":{"value":25243,"limit":2097152},"templateargumentsize":{"value":11608,"limit":2097152},"expansiondepth":{"value":15,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":925,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  145.291      1 -total"," 88.09%  127.980      1 Обсуждение_шаблона:Знаете_ли_вы/Шапка"," 46.18%   67.100      1 Шаблон:Архивы"," 43.92%   63.816      1 Шаблон:Tmbox"," 38.04%   55.273      1 Шаблон:Шапка"," 20.11%   29.211      1 Шаблон:Новые_снизу"," 18.97%   27.563      1 Шаблон:Userbox"," 17.05%   24.772      1 Шаблон:Добавить_тему"," 11.78%   17.119      1 Шаблон:Done","  9.67%   14.052      4 Шаблон:Ifempty"]},"scribunto":{"limitreport-timeusage":{"value":"0.038","limit":"10.000"},"limitreport-memusage":{"value":1432435,"limit":52428800}},"cachereport":{"origin":"mw1428","timestamp":"20220316210246","ttl":864000,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":121,"wgHostname":"mw1417"});});</script>  
+ </body>
+</html>

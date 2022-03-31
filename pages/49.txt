@@ -1,0 +1,913 @@
+<!doctype html>
+<html class="client-nojs" lang="ru" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Аве Мария — Википедия</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"cbd898f9-9209-47ac-a7bd-4fbf92a75f78","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Аве_Мария","wgTitle":"Аве Мария","wgCurRevisionId":119043055,"wgRevisionId":119043055,"wgArticleId":6261,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","Страницы, использующие волшебные ссылки ISBN","Статьи со ссылками на Викисловарь",
+"Википедия:Ссылка на Викитеку непосредственно в статье","Статьи со ссылками на Викисклад","Статьи со ссылками на портал","Католические молитвы","Богородица","Песни на латыни","Благовещение"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Аве_Мария","wgRelevantArticleId":6261,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":111474381,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,
+"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q42203","wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":true,"wgGELinkRecommendationsFrontendEnabled":true};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=[
+"ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <noscript>
+   <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector">
+  </noscript> 
+  <meta name="generator" content="MediaWiki 1.38.0-wmf.25"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Duccio_di_Buoninsegna_048.jpg/1200px-Duccio_di_Buoninsegna_048.jpg"> 
+  <meta property="og:image:width" content="1200"> 
+  <meta property="og:image:height" content="925"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Duccio_di_Buoninsegna_048.jpg/800px-Duccio_di_Buoninsegna_048.jpg"> 
+  <meta property="og:image:width" content="800"> 
+  <meta property="og:image:height" content="617"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Duccio_di_Buoninsegna_048.jpg/640px-Duccio_di_Buoninsegna_048.jpg"> 
+  <meta property="og:image:width" content="640"> 
+  <meta property="og:image:height" content="493"> 
+  <meta property="og:title" content="Аве Мария — Википедия"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F"> 
+  <link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Аве_Мария rootpage-Аве_Мария skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading mw-first-heading">Аве Мария</h1> 
+   <div id="bodyContent" class="vector-body"> 
+    <div id="siteSub" class="noprint">
+     Материал из Википедии — свободной энциклопедии
+    </div> 
+    <div id="contentSub">
+     <div id="mw-fr-reviewnotice" class="plainlinks flaggedrevs_preview">
+      Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;stable=1">версии</a>, проверенной 3 января 2021; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;oldid=111474381&amp;diff=cur&amp;diffonly=0">4 правки</a>.
+     </div>
+     <div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint">
+      <div class="flaggedrevs_short_basic">
+       <span title="Текущая версия" class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget"></span><span id="mw-fr-revisiontoggle" title="показать/скрыть подробности" class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget"></span>
+      </div> 
+      <div id="mw-fr-revisiondetails-wrapper" style="position:relative;">
+       <div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">
+        Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;stable=1">версии</a>, проверенной 3 января 2021; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;oldid=111474381&amp;diff=cur&amp;diffonly=0">4 правки</a>.
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Перейти к навигации</a> <a class="mw-jump-link" href="#searchInput">Перейти к поиску</a> 
+    <div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable noprint dabhide">
+       У этого термина существуют и другие значения, см. <a href="/wiki/%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" class="mw-disambig" title="Аве Мария (значения)">Аве Мария (значения)</a>.
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:302px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Duccio_di_Buoninsegna_048.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Duccio_di_Buoninsegna_048.jpg/300px-Duccio_di_Buoninsegna_048.jpg" decoding="async" width="300" height="231" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Duccio_di_Buoninsegna_048.jpg/450px-Duccio_di_Buoninsegna_048.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Duccio_di_Buoninsegna_048.jpg/600px-Duccio_di_Buoninsegna_048.jpg 2x" data-file-width="2024" data-file-height="1560"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Duccio_di_Buoninsegna_048.jpg" class="internal" title="Увеличить"></a>
+         </div>Благовещение (<a href="/wiki/%D0%94%D1%83%D1%87%D1%87%D0%BE_%D0%B4%D0%B8_%D0%91%D1%83%D0%BE%D0%BD%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%8C%D1%8F" title="Дуччо ди Буонинсенья">Дуччо ди Буонинсенья</a>)
+        </div>
+       </div>
+      </div> 
+      <p><b>А́ве Мария</b> (<a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык">лат.</a>&nbsp;<span lang="la" style="font-style:italic;"><a href="/wiki/Ave" title="Ave">Ave</a> Maria</span> — [ˈavɛ mɐˈrʲiɪ̯ə]<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>&nbsp;— «радуйся, Мария!»)&nbsp;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B7%D0%BC" title="Католицизм">католическая</a> <a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%B0" title="Молитва">молитва</a> к <a href="/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B0" title="Богородица">Деве Марии</a>. Эту молитву называют также «ангельским приветствием» (<a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык">лат.</a>&nbsp;<span lang="la" style="font-style:italic;">angelica salutatio</span>), так как её первая фраза представляет собой приветствие <a href="/wiki/%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB" title="Архангел">архангела</a> <a href="/wiki/%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB_%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%B8%D0%BB" class="mw-redirect" title="Архангел Гавриил">Гавриила</a>, сказанное им Марии в момент <a href="/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Благовещение Пресвятой Богородицы">Благовещения</a>. </p>
+      <p>В <a href="/wiki/%D0%92%D0%B8%D0%B7%D0%B0%D0%BD%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%B1%D1%80%D1%8F%D0%B4" title="Византийский обряд">византийском обряде</a> молитве Аве Мария соответствует <a href="/wiki/%D0%9F%D0%B5%D1%81%D0%BD%D1%8C_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5" title="Песнь Пресвятой Богородице">песнь Пресвятой Богородице</a>. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="ru" dir="ltr">
+        <h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Текст_молитвы"><span class="tocnumber">1</span> <span class="toctext">Текст молитвы</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#История"><span class="tocnumber">2</span> <span class="toctext">История</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Чтение"><span class="tocnumber">3</span> <span class="toctext">Чтение</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Ave_Maria_в_музыке"><span class="tocnumber">4</span> <span class="toctext">Ave Maria в музыке</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Исполнители"><span class="tocnumber">5</span> <span class="toctext">Исполнители</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#См._также"><span class="tocnumber">6</span> <span class="toctext">См. также</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Примечания"><span class="tocnumber">7</span> <span class="toctext">Примечания</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#Ссылки"><span class="tocnumber">8</span> <span class="toctext">Ссылки</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span id=".D0.A2.D0.B5.D0.BA.D1.81.D1.82_.D0.BC.D0.BE.D0.BB.D0.B8.D1.82.D0.B2.D1.8B"></span><span class="mw-headline" id="Текст_молитвы">Текст молитвы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Текст молитвы»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;action=edit&amp;section=1" title="Редактировать раздел «Текст молитвы»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <div class="mediaContainer" style="width:220px">
+         <audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin thumbimage" data-durationhint="39.212108843537" data-startoffset="0" data-mwtitle="Ave-maria-pron.ogg" data-mwprovider="wikimediacommons">
+          <source src="//upload.wikimedia.org/wikipedia/commons/f/f4/Ave-maria-pron.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Оригинальный Ogg-файл (111 Кб/с)" data-shorttitle="Источник Ogg" data-width="0" data-height="0" data-bandwidth="111089">
+          <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/f/f4/Ave-maria-pron.ogg/Ave-maria-pron.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="143488">
+         </audio>
+        </div> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ave-maria-pron.ogg" class="internal" title="Увеличить"></a>
+         </div>Латинский текст
+        </div>
+       </div>
+      </div> 
+      <table class="toccolours" cellpadding="10" rules="cols"> 
+       <tbody>
+        <tr> 
+         <th>Латинский текст</th> 
+         <th>Русский текст </th>
+        </tr> 
+        <tr> 
+         <td> 
+          <div class="poem"> 
+           <p>Áve, María, grátia pléna;<br> Dóminus técum:<br> benedícta tu in muliéribus,<br> et benedíctus frúctus véntris túi, Iésus.<br> Sáncta María, Máter Déi,<br> óra pro nóbis peccatóribus<br> nunc et in hóra mórtis nóstrae.<br> Ámen.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup><sup id="cite_ref-молитвы_3-0" class="reference"><a href="#cite_note-молитвы-3">[3]</a></sup> </p> 
+          </div> </td> 
+         <td>
+          <div class="poem"> 
+           <p>Радуйся, Мария, благодати полная!<br> Господь с Тобою;<br> благословенна Ты между женами,<br> и благословен плод чрева Твоего Иисус.<br> Святая Мария, Матерь Божия,<br> молись о нас, грешных,<br> ныне и в час смерти нашей.<br> Аминь.<sup id="cite_ref-молитвы_3-1" class="reference"><a href="#cite_note-молитвы-3">[3]</a></sup> </p> 
+          </div> </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «История»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;action=edit&amp;section=2" title="Редактировать раздел «История»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Folio_26r_-_The_Annunciation.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Folio_26r_-_The_Annunciation.jpg/220px-Folio_26r_-_The_Annunciation.jpg" decoding="async" width="220" height="307" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Folio_26r_-_The_Annunciation.jpg/330px-Folio_26r_-_The_Annunciation.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Folio_26r_-_The_Annunciation.jpg/440px-Folio_26r_-_The_Annunciation.jpg 2x" data-file-width="3043" data-file-height="4247"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Folio_26r_-_The_Annunciation.jpg" class="internal" title="Увеличить"></a>
+         </div>Благовещение в <i>«<a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%BB%D0%B5%D0%BF%D0%BD%D1%8B%D0%B9_%D1%87%D0%B0%D1%81%D0%BE%D1%81%D0%BB%D0%BE%D0%B2_%D0%B3%D0%B5%D1%80%D1%86%D0%BE%D0%B3%D0%B0_%D0%91%D0%B5%D1%80%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE" title="Великолепный часослов герцога Беррийского">Великолепном часослове герцога Беррийского</a>»</i>
+        </div>
+       </div>
+      </div> 
+      <p>Источником молитвы послужили два стиха из <a href="/wiki/%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D0%B5_%D0%BE%D1%82_%D0%9B%D1%83%D0%BA%D0%B8" title="Евангелие от Луки">Евангелия от Луки</a>: </p> 
+      <table class="standard"> 
+       <tbody>
+        <tr> 
+         <th><a href="/wiki/%D0%A1%D0%B8%D0%BD%D0%BE%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4" title="Синодальный перевод">Синодальный перевод</a> </th> 
+         <th><a href="/wiki/%D0%92%D1%83%D0%BB%D1%8C%D0%B3%D0%B0%D1%82%D0%B0" title="Вульгата">Вульгата</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup> </th> 
+         <th><a href="/wiki/%D0%92%D1%83%D0%BB%D1%8C%D0%B3%D0%B0%D1%82%D0%B0#Новая_Вульгата" title="Вульгата">Новая Вульгата</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </th>
+        </tr> 
+        <tr> 
+         <th colspan="3">Приветствие <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%B5%D0%BB" title="Ангел">Ангела</a> (<a href="/wiki/%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D0%B5_%D0%BE%D1%82_%D0%9B%D1%83%D0%BA%D0%B8" title="Евангелие от Луки">Лк.</a>&nbsp;<a href="https://ru.wikisource.org/wiki/%D0%9E%D1%82_%D0%9B%D1%83%D0%BA%D0%B8_%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B5_%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5#1:28" class="extiw" title="s:От Луки святое благовествование">1:28</a>) </th>
+        </tr> 
+        <tr> 
+         <td>Ангел, войдя к Ней, сказал:<br>радуйся, Благодатная! Господь с Тобою;<br>благословенна Ты между женами. </td> 
+         <td>et ingressus angelus ad eam dixit<br>ave gratia plena Dominus tecum<br>benedicta tu in mulieribus </td> 
+         <td>Et ingressus ad eam dixit:<br>"Ave, gratia plena, Dominus tecum". </td>
+        </tr> 
+        <tr> 
+         <th colspan="3">и приветствие <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B0" class="mw-redirect" title="Праведная Елизавета">Елизаветы</a> (<a href="/wiki/%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D0%B5_%D0%BE%D1%82_%D0%9B%D1%83%D0%BA%D0%B8" title="Евангелие от Луки">Лк.</a>&nbsp;<a href="https://ru.wikisource.org/wiki/%D0%9E%D1%82_%D0%9B%D1%83%D0%BA%D0%B8_%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B5_%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5#1:42" class="extiw" title="s:От Луки святое благовествование">1:42</a>) </th>
+        </tr> 
+        <tr> 
+         <td>И воскликнула громким голосом, и сказала:<br>благословенна Ты между женами,<br>и благословен плод чрева Твоего! </td> 
+         <td>et exclamavit voce magna et dixit<br>benedicta tu inter mulieres<br>et benedictus fructus ventris tui </td> 
+         <td>et exclamavit voce magna et dixit:<br>"Benedicta tu inter mulieres,<br>et benedictus fructus ventris tui". </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>Молитва «Ave Maria» вошла в употребление у католиков со второй половины <a href="/wiki/XI_%D0%B2%D0%B5%D0%BA" title="XI век">XI века</a>. В 1495 году в своём толковании этой молитвы <a href="/wiki/%D0%A1%D0%B0%D0%B2%D0%BE%D0%BD%D0%B0%D1%80%D0%BE%D0%BB%D0%B0,_%D0%94%D0%B6%D0%B8%D1%80%D0%BE%D0%BB%D0%B0%D0%BC%D0%BE" title="Савонарола, Джироламо">Дж. Савонарола</a> (Иероним Феррарский) впервые напечатал дополнение «Sancta Maria mater Dei ora pro nobis peccatoribus nunc et in hora mortis. Amen»<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>, которое (с добавлением «nostrae» в конце) в XVI веке было официально утверждено <a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80" title="Тридентский собор">Тридентским собором</a>. </p> 
+      <h2><span id=".D0.A7.D1.82.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Чтение">Чтение</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Чтение»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;action=edit&amp;section=3" title="Редактировать раздел «Чтение»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Кроме самостоятельного значения, Ave Maria входит в состав молитвы «<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%B5%D0%BB_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B5%D0%BD%D1%8C_(%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%B0)" title="Ангел Господень (молитва)">Ангел Господень</a>», которая согласно предписанию папы <a href="/wiki/%D0%98%D0%BE%D0%B0%D0%BD%D0%BD_XXII" title="Иоанн XXII">Иоанна XXII</a>, изданному в <a href="/wiki/1326_%D0%B3%D0%BE%D0%B4" title="1326 год">1326 году</a>, читается трижды в день, по звону колоколов. </p>
+      <p>Также она входит в состав <a href="/wiki/%D0%A0%D0%BE%D0%B7%D0%B0%D1%80%D0%B8%D0%B9_(%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F)" title="Розарий (религия)">Розария</a>, где читается по малым бусинам <a href="/wiki/%D0%A7%D1%91%D1%82%D0%BA%D0%B8" title="Чётки">чёток</a>, тогда как большие бусины посвящены «<a href="/wiki/%D0%9E%D1%82%D1%87%D0%B5_%D0%BD%D0%B0%D1%88" title="Отче наш">Отче наш</a>». </p> 
+      <h2><span id="Ave_Maria_.D0.B2_.D0.BC.D1.83.D0.B7.D1.8B.D0.BA.D0.B5"></span><span class="mw-headline" id="Ave_Maria_в_музыке">Ave Maria в музыке</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Ave Maria в музыке»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;action=edit&amp;section=4" title="Редактировать раздел «Ave Maria в музыке»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:402px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ave-maria-antiphon.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/ru/thumb/3/30/Ave-maria-antiphon.jpg/400px-Ave-maria-antiphon.jpg" decoding="async" width="400" height="256" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/ru/3/30/Ave-maria-antiphon.jpg 1.5x" data-file-width="540" data-file-height="345"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ave-maria-antiphon.jpg" class="internal" title="Увеличить"></a>
+         </div>Антифон «Ave Maria» в версии XVI века (<a href="/wiki/Liber_usualis" title="Liber usualis">LU</a>, p. 1861)
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <div class="mediaContainer" style="width:220px">
+         <audio id="mwe_player_1" controls="" preload="none" style="width:220px" class="kskin thumbimage" data-durationhint="70.626666666667" data-startoffset="0" data-mwtitle="Schola_Gregoriana-Ave_Maria.ogg" data-mwprovider="wikimediacommons">
+          <source src="//upload.wikimedia.org/wikipedia/commons/2/23/Schola_Gregoriana-Ave_Maria.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Оригинальный Ogg-файл (109 Кб/с)" data-shorttitle="Источник Ogg" data-width="0" data-height="0" data-bandwidth="108966">
+          <source src="//upload.wikimedia.org/wikipedia/commons/transcoded/2/23/Schola_Gregoriana-Ave_Maria.ogg/Schola_Gregoriana-Ave_Maria.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="191616">
+         </audio>
+        </div> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Schola_Gregoriana-Ave_Maria.ogg" class="internal" title="Увеличить"></a>
+         </div>Антифон «Ave Maria» (аудиозапись)
+        </div>
+       </div>
+      </div> 
+      <p>В традиционном католическом богослужении известны несколько монодических распевов (т.&nbsp;н. <a href="/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%BF%D0%B5%D0%BD%D0%B8%D0%B5" title="Григорианское пение">григорианских хоралов</a>). Наиболее старые распевы не содержат позднейшей части (начиная со строки «Sancta Maria»)&nbsp;— это <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BA%D1%82_(%D0%B6%D0%B0%D0%BD%D1%80)" title="Тракт (жанр)">тракт</a> <a href="/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5_%D1%82%D0%BE%D0%BD%D1%8B" title="Церковные тоны">II тона</a> (<a href="/wiki/Liber_usualis" title="Liber usualis">LU</a>, 1412), два <a href="/wiki/%D0%9E%D1%84%D1%84%D0%B5%D1%80%D1%82%D0%BE%D1%80%D0%B8%D0%B9_(%D0%B6%D0%B0%D0%BD%D1%80)" title="Офферторий (жанр)">оффертория</a> VIII тона (<a href="/wiki/Liber_usualis" title="Liber usualis">LU</a>, 355 и 1318) и <a href="/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%84%D0%BE%D0%BD" title="Антифон">антифон</a> I тона (<a href="/wiki/Liber_usualis" title="Liber usualis">LU</a>, 1416; датируется X веком<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>). В XVI веке мелодия последнего была дописана, чтобы охватить «тридентское» расширение молитвы, при этом <a href="/wiki/%D0%90%D0%BC%D0%B1%D0%B8%D1%82%D1%83%D1%81_(%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0)" title="Амбитус (музыка)">амбитус</a> увеличился (антифон опубликован в приложении к <a href="/wiki/Liber_usualis" title="Liber usualis">LU</a>, p. 1861; см. нотный пример). </p>
+      <p>Начиная с эпохи Возрождения текст молитвы стали использовать профессиональные композиторы&nbsp;— в различных жанрах новосочинённой многоголосной музыки. Среди них <a href="/wiki/%D0%96%D0%BE%D1%81%D0%BA%D0%B5%D0%BD_%D0%94%D0%B5%D0%BF%D1%80%D0%B5" title="Жоскен Депре">Жоскен Депре</a>, <a href="/wiki/%D0%9E%D0%BA%D0%B5%D0%B3%D0%B5%D0%BC,_%D0%99%D0%BE%D1%85%D0%B0%D0%BD%D0%BD%D0%B5%D1%81" title="Окегем, Йоханнес">Й. Окегем</a>, <a href="/wiki/%D0%9C%D1%83%D1%82%D0%BE%D0%BD,_%D0%96%D0%B0%D0%BD" title="Мутон, Жан">Ж. Мутон</a>, <a href="/wiki/%D0%92%D0%B8%D0%BB%D0%BB%D0%B0%D1%80%D1%82,_%D0%90%D0%B4%D1%80%D0%B8%D0%B0%D0%BD" title="Вилларт, Адриан">А. Вилларт</a>, <a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D1%80%D0%B8%D0%BD%D0%B0,_%D0%94%D0%B6%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B8_%D0%9F%D1%8C%D0%B5%D1%80%D0%BB%D1%83%D0%B8%D0%B4%D0%B6%D0%B8" title="Палестрина, Джованни Пьерлуиджи">Дж. П. Палестрина</a>, <a href="/wiki/%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81_%D0%9B%D1%83%D0%B8%D1%81_%D0%B4%D0%B5" title="Виктория, Томас Луис де">Т. Л. де Виктория</a>. У ренессансных композиторов использован, как правило, только текст, реже&nbsp;— традиционная григорианская мелодия (как в мессах <a href="/wiki/%D0%9F%D1%8C%D0%B5%D1%80_%D0%B4%D0%B5_%D0%BB%D0%B0_%D0%A0%D1%8E" class="mw-redirect" title="Пьер де ла Рю">Пьера де ла Рю</a>, <a href="/wiki/%D0%9C%D0%BE%D1%80%D0%B0%D0%BB%D0%B5%D1%81,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C_%D0%B4%D0%B5" title="Моралес, Кристобаль де">К. Моралеса</a>, <a href="/wiki/%D0%9F%D0%B5%D0%BD%D1%8C%D1%8F%D0%BB%D0%BE%D1%81%D0%B0,_%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D0%B8%D1%81%D0%BA%D0%BE_%D0%B4%D0%B5" title="Пеньялоса, Франсиско де">Ф. Пеньялосы</a>). В эпоху барокко интерес к тексту снизился, в эпоху романтизма возрос с новой силой. Музыкальные интерпретации молитвы в XIX веке создали <a href="/wiki/%D0%93%D1%83%D0%BD%D0%BE,_%D0%A8%D0%B0%D1%80%D0%BB%D1%8C_%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D1%83%D0%B0" title="Гуно, Шарль Франсуа">Ш. Гуно</a> (на основе прелюдии <a href="/wiki/%D0%91%D0%B0%D1%85,_%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD_%D0%A1%D0%B5%D0%B1%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD" title="Бах, Иоганн Себастьян">И.&nbsp;С.&nbsp;Баха</a>), <a href="/wiki/%D0%91%D1%80%D1%83%D0%BA%D0%BD%D0%B5%D1%80,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD" title="Брукнер, Антон">А. Брукнер</a>, <a href="/wiki/%D0%92%D0%B5%D1%80%D0%B4%D0%B8,_%D0%94%D0%B6%D1%83%D0%B7%D0%B5%D0%BF%D0%BF%D0%B5" title="Верди, Джузеппе">Дж. Верди</a>, <a href="/wiki/%D0%9B%D0%B8%D1%81%D1%82,_%D0%A4%D0%B5%D1%80%D0%B5%D0%BD%D1%86" title="Лист, Ференц">Лист</a>, <a href="/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B6%D0%B0%D0%BA,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BD" title="Дворжак, Антонин">А. Дворжак</a>, <a href="/wiki/%D0%9C%D0%B0%D1%81%D0%BA%D0%B0%D0%BD%D1%8C%D0%B8,_%D0%9F%D1%8C%D0%B5%D1%82%D1%80%D0%BE" title="Масканьи, Пьетро">П. Масканьи</a>, <a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%A1%D0%B0%D0%BD%D1%81,_%D0%9A%D0%B0%D0%BC%D0%B8%D0%BB%D1%8C" title="Сен-Санс, Камиль">К. Сен-Санс</a> и многие другие. Особенную популярность приобрела «Ave Maria» <a href="/wiki/%D0%A8%D1%83%D0%B1%D0%B5%D1%80%D1%82,_%D0%A4%D1%80%D0%B0%D0%BD%D1%86" title="Шуберт, Франц">Ф. Шуберта</a>. В оригинале песня, именуемая «<a href="/wiki/%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F_%D0%BF%D0%B5%D1%81%D0%BD%D1%8F_%D0%AD%D0%BB%D0%BB%D0%B5%D0%BD" title="Третья песня Эллен">Третья песня Эллен</a>», написана на немецкий текст, в котором используются лишь первые два слова католической молитвы. Полный латинский текст (по принципу <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D1%84%D0%B0%D0%BA%D1%82%D1%83%D1%80%D0%B0" title="Контрафактура">контрафактуры</a>) был приспособлен к музыке Шуберта после его смерти. </p> 
+      <h2><span id=".D0.98.D1.81.D0.BF.D0.BE.D0.BB.D0.BD.D0.B8.D1.82.D0.B5.D0.BB.D0.B8"></span><span class="mw-headline" id="Исполнители">Исполнители</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Исполнители»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;action=edit&amp;section=5" title="Редактировать раздел «Исполнители»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>«Ave Maria» Шуберта исполняли многие оперные и камерные певцы, среди которых <a href="/wiki/%D0%9A%D0%BE%D0%B7%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Козловский, Иван Семёнович">Иван Козловский</a>, Иван Петров, Александр Огнивцев, Зара Долуханова, Ирина Архипова, Виргилиус Норейка, <a href="/wiki/%D0%9F%D0%B0%D0%B2%D0%B0%D1%80%D0%BE%D1%82%D1%82%D0%B8,_%D0%9B%D1%83%D1%87%D0%B0%D0%BD%D0%BE" title="Паваротти, Лучано">Лучано Паваротти</a>. </p>
+      <p>Песню Шуберта (на разных языках) включали в свои программы Михаил Александрович, Гоар Гаспарян, Женни Сиймон, Вера Фирсова, <a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD,_%D0%90%D0%BD%D0%BD%D0%B0" title="Герман, Анна">Анна Герман</a>, <a href="/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%B9%D0%B7%D0%B0%D0%BD%D0%B4,_%D0%91%D0%B0%D1%80%D0%B1%D1%80%D0%B0" title="Стрейзанд, Барбра">Барбара Стрейзенд</a>, <a href="/wiki/%D0%9B%D0%BE%D1%80%D0%B5%D1%82%D1%82%D0%B8,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D0%B8%D0%BD%D0%BE" class="mw-redirect" title="Лоретти, Робертино">Roberto Loreti</a>, <a href="/wiki/Il_Divo" title="Il Divo">Il Divo</a>, <a href="/wiki/%D0%90%D1%82%D0%BA%D0%B8%D0%BD%D1%81,_%D0%A7%D0%B5%D1%82" title="Аткинс, Чет">Чет Аткинс</a>, <a href="/wiki/%D0%A2%D1%83%D1%80%D1%83%D0%BD%D0%B5%D0%BD,_%D0%A2%D0%B0%D1%80%D1%8C%D1%8F" title="Турунен, Тарья">Тарья Турунен</a>, <a href="/wiki/%D0%91%D0%B5%D0%B9%D0%BE%D0%BD%D1%81%D0%B5" title="Бейонсе">Бейонсе</a>, <a href="/wiki/%D0%A4%D0%B0%D1%80%D0%BC%D0%B5%D1%80,_%D0%9C%D0%B8%D0%BB%D0%B5%D0%BD" title="Фармер, Милен">Милен Фармер</a>, <a href="/wiki/%D0%94%D0%B8%D0%BE%D0%BD,_%D0%A1%D0%B5%D0%BB%D0%B8%D0%BD" title="Дион, Селин">Селин Дион</a>, <a href="/wiki/Blondie" title="Blondie">Blondie</a>, <a href="/wiki/%D0%A5%D0%B0%D0%B3%D0%B5%D0%BD,_%D0%9D%D0%B8%D0%BD%D0%B0" title="Хаген, Нина">Нина Хаген</a>, <a href="/wiki/%D0%9D%D0%BE%D0%B3%D1%83_%D1%81%D0%B2%D0%B5%D0%BB%D0%BE!" title="Ногу свело!">Ногу свело!</a>, <a href="/wiki/The_Cranberries" title="The Cranberries">The Cranberries</a>, <a href="/wiki/%D0%93%D1%80%D0%B8%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Грин, Александр Викторович">Александр Грин</a>, <a href="/wiki/In_Extremo" title="In Extremo">In Extremo</a>, <a href="/wiki/Gregorian" title="Gregorian">Gregorian</a>, <a href="/wiki/%D0%A1%D0%BB%D0%BE%D1%82_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)" title="Слот (группа)">Слот</a>, <a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D0%BE%D1%80_%D0%92%D1%81%D0%B5%D1%81%D0%BE%D1%8E%D0%B7%D0%BD%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D0%B4%D0%B8%D0%BE_%D0%B8_%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F" title="Большой детский хор Всесоюзного радио и Центрального телевидения">Большой детский хор Всесоюзного радио и Центрального телевидения</a>, <a href="/wiki/%D0%93%D1%83%D1%80%D0%B0%D0%BB%D0%B8%D0%B0,_%D0%93%D0%B5%D0%BB%D0%B0" title="Гуралиа, Гела">Гела Гуралиа</a>, <a href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%8B_%D0%9E%D0%BB%D1%8C%D1%81%D0%B0" title="Стары Ольса">Стары Ольса</a> и др. У оперной певицы <a href="/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0,_%D0%A1%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%B0_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0" title="Масленникова, Станислава Юрьевна">Станиславы Масленниковой</a> есть духовно-светская концертная программа «Сквозь Ave Maria»<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>, в которую включены 3 Ave Maria: <a href="/wiki/%D0%9A%D0%B0%D1%87%D1%87%D0%B8%D0%BD%D0%B8,_%D0%94%D0%B6%D1%83%D0%BB%D0%B8%D0%BE" title="Каччини, Джулио">Каччини</a>, <a href="/wiki/%D0%93%D1%83%D0%BD%D0%BE,_%D0%A8%D0%B0%D1%80%D0%BB%D1%8C_%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D1%83%D0%B0" title="Гуно, Шарль Франсуа">Гуно</a> (на основе прелюдии <a href="/wiki/%D0%91%D0%B0%D1%85,_%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD_%D0%A1%D0%B5%D0%B1%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD" title="Бах, Иоганн Себастьян">И.&nbsp;С.&nbsp;Баха</a>) и Шуберта («<a href="/wiki/%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F_%D0%BF%D0%B5%D1%81%D0%BD%D1%8F_%D0%AD%D0%BB%D0%BB%D0%B5%D0%BD" title="Третья песня Эллен">Третья песня Эллен</a>»). </p>
+      <p>У немецкой <a href="/wiki/%D0%A4%D0%BE%D0%BB%D0%BA-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB" title="Фолк-метал">фолк-метал</a>-группы <a href="/wiki/In_Extremo" title="In Extremo">In Extremo</a> в альбоме «7» есть песня на <a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык">латыни</a> под названием Ave Maria, в ней поётся о <a href="/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Благовещение Пресвятой Богородицы">Благовещении</a>, однако других библейских слов Гавриила, кроме «Радуйся, Мария» там нет. </p> 
+      <h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «См. также»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;action=edit&amp;section=6" title="Редактировать раздел «См. также»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/%D0%9F%D0%B5%D1%81%D0%BD%D1%8C_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5" title="Песнь Пресвятой Богородице">Песнь Пресвятой Богородице</a></li> 
+       <li><a href="/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Благовещение Пресвятой Богородицы">Благовещение Пресвятой Богородицы</a></li> 
+       <li><a href="/wiki/%D0%A2%D1%80%D0%B8_%C2%AB%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F%C2%BB" title="Три «Аве Мария»">Три «Аве Мария»</a></li> 
+       <li><a href="/wiki/Ave_Satani" title="Ave Satani">Ave Satani</a></li>
+      </ul> 
+      <h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;action=edit&amp;section=7" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist columns" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i><a href="/wiki/%D0%90%D0%B3%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%A4%D0%BB%D0%BE%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0" title="Агеенко, Флоренция Леонидовна">Агеенко Ф. Л.</a></i> <span data-wikidata-qualifier-id="P248"><a rel="nofollow" class="external text" href="http://gramota.ru/slovari/dic/?ag=x&amp;word=%D0%90%D0%B2%D0%B5+%D0%9C%D0%B0%D1%80%D0%B8%D1%8F">Аве Мария</a></span> // <a rel="nofollow" class="external text" href="http://gramota.ru/slovari/info/ag/">Словарь собственных имён русского языка. Ударение. Произношение. Словоизменение</a>.&nbsp;— <abbr title="Москва">М.</abbr>: Мир и Образование; Оникс, 2010.&nbsp;— С.&nbsp;57.&nbsp;— 880&nbsp;с.&nbsp;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/594666588X" class="internal mw-magiclink-isbn">ISBN 5-94666-588-X</a>, 978-5-94666-588-9.</span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">«Молитвенник для русских католиков». С.-Петербургъ. Типографія М.&nbsp;М.&nbsp;Стасюлевича, В.о., 5л., 28 Datum Petropoli die 4 Maii 1912a. Vincentius Archiepiscopus</span> </li> 
+         <li id="cite_note-молитвы-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-молитвы_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-молитвы_3-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Clara Schumann.</i> <span lang="und"><a rel="nofollow" class="external text" href="http://kazan.katolik.ru/prayers/prayers.html">Приход "Воздвижение Святого Креста": основные молитвы</a></span><span class="hidden-ref" style="display:none"><b>&nbsp;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>&nbsp;<small class="ref-info">(недоступная ссылка)</small>. <i>Казанский римско-католический приход «Воздвижение Святого Креста»</i>. <small>Дата обращения: 14 ноября 2017.</small> <small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20171115015358/http://kazan.katolik.ru/prayers/prayers.html">Архивировано</a> 15&nbsp;ноября 2017&nbsp;года.</small></span></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.latinvulgate.com/verse.aspx?t=1&amp;b=3">Vulgata: Evangelium secundum Lucam</a></span><span class="hidden-ref" style="display:none"><b>&nbsp;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>. <i>Latin Vulgate Bible with Douay-Rheims and King James Version Side-by-Side+Complete Sayings of Jesus Christ</i>. <small>Дата обращения: 14 ноября 2017.</small></span></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="la"><a rel="nofollow" class="external text" href="http://www.vatican.va/archive/bible/nova_vulgata/documents/nova-vulgata_nt_evang-lucam_lt.html">Nova Vulgata, Novum Testamentum</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на латинском языке">(лат.)</small>. <i>EVANGELIUM SECUNDUM LUCAM</i>. <small>Дата обращения: 14 ноября 2017.</small></span></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Savonarole Jérôme (1452-1498).</i> <a rel="nofollow" class="external text" href="http://gallica.bnf.fr/ark:/12148/bpt6k602927">Expositione del reverendissimo in Christo padre frate Hieronymo da Ferrara... sopra la oratione della Vergine gloriosa&nbsp;: composta da lui in lingua vulgare ad instantia dicerte devote suore Ferrarese ([Reprod.</a>)].&nbsp;— 1495.</span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><a class="external text" href="https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C">Harvard Dictionary of Music</a>.&nbsp;— 4th ed..&nbsp;— <a href="/wiki/%D0%9A%D0%B5%D0%BC%D0%B1%D1%80%D0%B8%D0%B4%D0%B6" title="Кембридж">Cambridge</a>, 2003.&nbsp;— С.&nbsp;69.&nbsp;— 1008&nbsp;с.&nbsp;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/0674011635" class="internal mw-magiclink-isbn">ISBN 0-674-01163-5</a>.</span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.dbiblio.org/index.php?id=140">Сквозь Аве Мария</a></span><span class="hidden-ref" style="display:none"><b>&nbsp;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>&nbsp;<small class="ref-info">(недоступная ссылка)</small>. <i>Покровские Ворота</i>. <small>Дата обращения: 14 ноября 2017.</small> <small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20171115085957/http://www.dbiblio.org/index.php?id=140">Архивировано</a> 15&nbsp;ноября 2017&nbsp;года.</small></span></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;action=edit&amp;section=8" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r113275216">.mw-parser-output .ts-Родственные_проекты{width:19em;box-sizing:border-box;margin:0 0 .5em 1em;padding:.4em;background:#f8f9fa;border:1px solid #a2a9b1;font-size:90%}.mw-parser-output .ts-Родственные_проекты-header{margin-bottom:.2em;padding:.2em .6em;font-size:110%}.mw-parser-output .ts-Родственные_проекты-item{display:flex;padding:.2em .6em}.mw-parser-output .ts-Родственные_проекты-image{min-width:24px;display:inline-block;margin-right:.4em;flex:none;vertical-align:top;text-align:center}.mw-parser-output .ts-Родственные_проекты-image img{vertical-align:middle}.mw-parser-output .ts-Родственные_проекты-label{align-self:center}@media(max-width:719px){.mw-parser-output .ts-Родственные_проекты{width:auto;margin-left:0;margin-right:0}}</style>
+      <div class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation" aria-labelledby="В_родственных_проектах">
+       <div class="ts-Родственные_проекты-header" id="В_родственных_проектах">
+        <b>В родственных проектах</b>
+       </div>
+       <ul>
+        <li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notification-icon-Wiktionary-logo.svg/24px-Notification-icon-Wiktionary-logo.svg.png" decoding="async" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notification-icon-Wiktionary-logo.svg/36px-Notification-icon-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Notification-icon-Wiktionary-logo.svg/48px-Notification-icon-Wiktionary-logo.svg.png 2x" data-file-width="30" data-file-height="30"></span><span class="ts-Родственные_проекты-label wiktionary-ref"><a href="https://ru.wiktionary.org/wiki/%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F" class="extiw" title="wikt:Аве Мария">Значения в&nbsp;Викисловаре</a></span></li>
+        <li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikisource-logo.svg/24px-Notification-icon-Wikisource-logo.svg.png" decoding="async" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikisource-logo.svg/36px-Notification-icon-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikisource-logo.svg/48px-Notification-icon-Wikisource-logo.svg.png 2x" data-file-width="30" data-file-height="30"></span><span class="ts-Родственные_проекты-label wikisource-ref"><a href="https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F" class="extiw" title="s:ЭСБЕ/Аве Мария">Тексты в&nbsp;Викитеке</a></span></li>
+        <li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" decoding="async" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" data-file-width="30" data-file-height="30"></span><span class="ts-Родственные_проекты-label commons-ref"><a href="https://commons.wikimedia.org/wiki/Category:Ave_Maria" class="extiw" title="commons:Category:Ave Maria">Медиафайлы на&nbsp;Викискладе</a></span></li>
+       </ul>
+       <hr>
+       <ul>
+        <li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9A%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B7%D0%BC" title="Портал:Католицизм"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_the_Papacy_SE.svg/18px-Emblem_of_the_Papacy_SE.svg.png" decoding="async" width="18" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_the_Papacy_SE.svg/26px-Emblem_of_the_Papacy_SE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_the_Papacy_SE.svg/35px-Emblem_of_the_Papacy_SE.svg.png 2x" data-file-width="815" data-file-height="1105"></a></span><span class="ts-Родственные_проекты-label portal-box"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9A%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B7%D0%BC" title="Портал:Католицизм">Портал «Католицизм»</a></span></li>
+       </ul>
+      </div> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://youtube.com/watch?v=_6Qu15k24SA">Аве Мария на музыку Франца Шуберта, в исполнении Андреа Бочелли</a> на <a href="/wiki/YouTube" title="YouTube">YouTube</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://almirena.narod.ru/music/avemaria.htm">Ave Maria на сайте Almirena’s Home</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-label="Навигационный шаблон" data-name="External links">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">
+           <div style="padding: 0 35px 0 0; width: 100%;">
+            <div style="float: left;">
+             <a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;&nbsp;<a href="https://www.wikidata.org/wiki/Q42203#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a>
+            </div>&nbsp;&nbsp;Словари и энциклопедии
+           </div></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a rel="nofollow" class="external text" href="https://snl.no/Ave_Maria">Большая норвежская</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://bigenc.ru/text/1798285">Большая российская</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://vue.gov.ua/Богородице_Діво,_радуйся">Большая украинская</a></li> 
+             <li><a href="https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F" class="extiw" title="s:ЭСБЕ/Аве Мария">Брокгауза и Ефрона</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://www.krugosvet.ru/enc/kultura_i_obrazovanie/religiya/AVE_MARIYA.html">Кругосвет</a></li> 
+             <li><a href="https://ru.wikisource.org/wiki/%D0%9C%D0%A1%D0%A0/%D0%92%D0%A2/Ave" class="extiw" title="s:МСР/ВТ/Ave">Музыкальный Римана</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://www.pravenc.ru/text/82438.html">Православная</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://www.britannica.com/topic/Hail-Mary-prayer">Britannica (онлайн)</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://www.newadvent.org/cathen/07110b.htm">Catholic (1997—…)</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Ave_Maria" data-name="Ave Maria">
+       <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="colgroup" class="navbox-title" colspan="3"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Ave_Maria" title="Перейти к шаблону «Ave Maria»"><img alt="Перейти к шаблону «Ave Maria»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;</span>
+           <div id="Ave_Maria" style="font-size:114%;margin:0 5em">
+            <a class="mw-selflink selflink">Ave Maria</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px"><a class="mw-selflink selflink">Молитва</a></th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a class="mw-selflink selflink">Аве Мария</a></li> 
+             <li>Приветствие <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%B5%D0%BB" title="Ангел">Ангела</a> (<a href="/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Благовещение Пресвятой Богородицы">Благовещение</a> — <a href="/wiki/%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D0%B5_%D0%BE%D1%82_%D0%9B%D1%83%D0%BA%D0%B8" title="Евангелие от Луки">Лк.</a>&nbsp;<a href="https://ru.wikisource.org/wiki/%D0%9E%D1%82_%D0%9B%D1%83%D0%BA%D0%B8_%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B5_%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5#1:28" class="extiw" title="s:От Луки святое благовествование">1:28</a>) и <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D0%95%D0%BB%D0%B8%D1%81%D0%B0%D0%B2%D0%B5%D1%82%D0%B0" title="Праведная Елисавета">Елисаветы</a> (<a href="/wiki/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8_%D0%B8_%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D1%8B" title="Встреча Марии и Елизаветы">Посещение Марии</a> — <a href="/wiki/%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D0%B5_%D0%BE%D1%82_%D0%9B%D1%83%D0%BA%D0%B8" title="Евангелие от Луки">Лк.</a>&nbsp;<a href="https://ru.wikisource.org/wiki/%D0%9E%D1%82_%D0%9B%D1%83%D0%BA%D0%B8_%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B5_%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5#1:42" class="extiw" title="s:От Луки святое благовествование">1:42</a>)</li>
+            </ul> 
+           </div></td>
+          <td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 7px">
+           <div>
+            <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Sassoferrato_-_Jungfrun_i_b%C3%B6n.jpg" class="image"><img alt="Sassoferrato - Jungfrun i bön.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sassoferrato_-_Jungfrun_i_b%C3%B6n.jpg/130px-Sassoferrato_-_Jungfrun_i_b%C3%B6n.jpg" decoding="async" width="130" height="164" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sassoferrato_-_Jungfrun_i_b%C3%B6n.jpg/195px-Sassoferrato_-_Jungfrun_i_b%C3%B6n.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sassoferrato_-_Jungfrun_i_b%C3%B6n.jpg/260px-Sassoferrato_-_Jungfrun_i_b%C3%B6n.jpg 2x" data-file-width="3360" data-file-height="4226"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/Ave_Maria_(%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0)" class="mw-disambig" title="Ave Maria (музыка)">Музыка</a></th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F_%D0%BF%D0%B5%D1%81%D0%BD%D1%8F_%D0%AD%D0%BB%D0%BB%D0%B5%D0%BD#Ave_Maria_Шуберта" title="Третья песня Эллен">Ave Maria</a> <a href="/wiki/%D0%A8%D1%83%D0%B1%D0%B5%D1%80%D1%82,_%D0%A4%D1%80%D0%B0%D0%BD%D1%86" title="Шуберт, Франц">Шуберта</a></li> 
+             <li><a href="/wiki/Ave_Maria_(%D0%92%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%D0%B2)" title="Ave Maria (Вавилов)">Ave Maria</a> <a href="/wiki/%D0%92%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Вавилов, Владимир Фёдорович">Вавилова</a></li> 
+             <li><a href="/w/index.php?title=Ave_Maria_%D0%91%D0%B0%D1%85%D0%B0_%E2%80%94_%D0%93%D1%83%D0%BD%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Ave Maria Баха — Гуно (страница отсутствует)">Ave Maria</a> <a href="/wiki/%D0%91%D0%B0%D1%85,_%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD_%D0%A1%D0%B5%D0%B1%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD" title="Бах, Иоганн Себастьян">Баха</a> — <a href="/wiki/%D0%93%D1%83%D0%BD%D0%BE,_%D0%A8%D0%B0%D1%80%D0%BB%D1%8C_%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D1%83%D0%B0" title="Гуно, Шарль Франсуа">Гуно</a></li> 
+             <li><a href="/w/index.php?title=Ave_Maria_%D0%A1%D0%B5%D0%BD-%D0%A1%D0%B0%D0%BD%D1%81%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Ave Maria Сен-Санса (страница отсутствует)">Ave Maria</a> <a href="/wiki/%D0%A1%D0%B5%D0%BD-%D0%A1%D0%B0%D0%BD%D1%81,_%D0%9A%D0%B0%D0%BC%D0%B8%D0%BB%D1%8C" title="Сен-Санс, Камиль">Сен-Санса</a></li> 
+             <li><a href="/w/index.php?title=Ave_Maria_%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D1%80%D0%B8%D0%BD%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Ave Maria Палестрины (страница отсутствует)">Ave Maria</a> <a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D1%80%D0%B8%D0%BD%D0%B0,_%D0%94%D0%B6%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B8_%D0%9F%D1%8C%D0%B5%D1%80%D0%BB%D1%83%D0%B8%D0%B4%D0%B6%D0%B8" title="Палестрина, Джованни Пьерлуиджи">Палестрины</a></li> 
+             <li><a href="/w/index.php?title=Ave_Maria_%D0%92%D0%B5%D1%80%D0%B4%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Ave Maria Верди (страница отсутствует)">Ave Maria</a> <a href="/wiki/%D0%92%D0%B5%D1%80%D0%B4%D0%B8,_%D0%94%D0%B6%D1%83%D0%B7%D0%B5%D0%BF%D0%BF%D0%B5" title="Верди, Джузеппе">Верди</a></li> 
+             <li><a href="/w/index.php?title=Ave_Maria_%D0%9B%D0%B8%D1%81%D1%82%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Ave Maria Листа (страница отсутствует)">Ave Maria</a> <a href="/wiki/%D0%9B%D0%B8%D1%81%D1%82,_%D0%A4%D0%B5%D1%80%D0%B5%D0%BD%D1%86" title="Лист, Ференц">Листа</a></li> 
+             <li><a href="/w/index.php?title=Ave_Maria_%D0%91%D1%80%D0%B0%D0%BC%D1%81%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Ave Maria Брамса (страница отсутствует)">Ave Maria</a> <a href="/wiki/%D0%91%D1%80%D0%B0%D0%BC%D1%81,_%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD%D0%B5%D1%81" title="Брамс, Иоганнес">Брамса</a></li> 
+             <li><a href="/w/index.php?title=Ave_Maria_%D0%A1%D0%BC%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Ave Maria Смарельи (страница отсутствует)">Ave Maria</a> <a href="/wiki/%D0%A1%D0%BC%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%D1%8F,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE" title="Смарелья, Антонио">Смарельи</a></li> 
+             <li><a href="/w/index.php?title=Ave_Maria_%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Ave Maria Морриконе (страница отсутствует)">Ave Maria</a> <a href="/wiki/%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B5,_%D0%AD%D0%BD%D0%BD%D0%B8%D0%BE" title="Морриконе, Эннио">Морриконе</a></li> 
+             <li><a href="/w/index.php?title=Ave_Maria_%D0%A8%D0%BF%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Ave Maria Шпилевского (страница отсутствует)">Ave Maria</a> <a href="/w/index.php?title=%D0%A8%D0%BF%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" class="new" title="Шпилевский, Михаил Эдуардович (страница отсутствует)">Шпилевского</a></li> 
+             <li><a href="/wiki/Ave_Maria_(%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0)" class="mw-disambig" title="Ave Maria (музыка)">…</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">Графика</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li>«<a href="/w/index.php?title=%D0%90%D0%B2%D0%B5,_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F_(%D0%98%D0%B0_%D0%9E%D1%80%D0%B0%D0%BD%D0%B0_%D0%9C%D0%B0%D1%80%D0%B8%D0%B0)&amp;action=edit&amp;redlink=1" class="new" title="Аве, Мария (Иа Орана Мариа) (страница отсутствует)">Аве, Мария (Иа Орана Мариа)</a>» <a href="/wiki/%D0%93%D0%BE%D0%B3%D0%B5%D0%BD,_%D0%9F%D0%BE%D0%BB%D1%8C" title="Гоген, Поль">Гогена</a></li> 
+             <li>«<a href="/w/index.php?title=%D0%A0%D0%B0%D0%B4%D1%83%D0%B9%D1%81%D1%8F,_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F_(%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B8)&amp;action=edit&amp;redlink=1" class="new" title="Радуйся, Мария (Арсени) (страница отсутствует)">Радуйся, Мария (Арсени)</a>» <a href="/w/index.php?title=%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B8,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" class="new" title="Арсени, Виктор Фёдорович (страница отсутствует)">Арсени</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">Молитвы</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%A2%D1%80%D0%B8_%C2%AB%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F%C2%BB" title="Три «Аве Мария»">Три «Аве Мария»</a></li> 
+             <li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%B5%D0%BB_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B5%D0%BD%D1%8C_(%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%B0)" title="Ангел Господень (молитва)">Ангел Господень</a></li> 
+             <li><a href="/wiki/%D0%A0%D0%BE%D0%B7%D0%B0%D1%80%D0%B8%D0%B9_(%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F)" title="Розарий (религия)">Розарий</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">Персоны</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B0" title="Богородица">Дева Мария</a></li> 
+             <li><a href="/wiki/%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB_%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%B8%D0%BB" class="mw-redirect" title="Архангел Гавриил">Архангел Гавриил</a></li> 
+             <li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D0%95%D0%BB%D0%B8%D1%81%D0%B0%D0%B2%D0%B5%D1%82%D0%B0" title="Праведная Елисавета">Праведная Елисавета</a></li> 
+             <li><a href="/wiki/%D0%9B%D1%83%D0%BA%D0%B0_(%D0%B5%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D1%81%D1%82)" title="Лука (евангелист)">Лука</a></li> 
+             <li><a href="/wiki/%D0%A3%D1%80%D0%B1%D0%B0%D0%BD_IV" title="Урбан IV">Урбан IV</a></li> 
+             <li><a href="/wiki/%D0%98%D0%B8%D1%81%D1%83%D1%81_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81" title="Иисус Христос">Иисус Христос</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Богородица" data-name="Богородица">
+       <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="colgroup" class="navbox-title" colspan="3" style="background:#cfe3ff"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B0" title="Перейти к шаблону «Богородица»"><img alt="Перейти к шаблону «Богородица»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;</span>
+           <div id="Богородица" style="font-size:114%;margin:0 5em">
+            <a href="/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B0" title="Богородица">Богородица</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#cfe3ff;width:1px">События</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%97%D0%B0%D1%87%D0%B0%D1%82%D0%B8%D0%B5_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Зачатие Богородицы">Зачатие Богородицы</a></li> 
+             <li><a href="/wiki/%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Рождество Пресвятой Богородицы">Рождество Пресвятой Богородицы</a></li> 
+             <li><a href="/wiki/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%BE_%D1%85%D1%80%D0%B0%D0%BC_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Введение во храм Пресвятой Богородицы">Введение во храм</a></li> 
+             <li><a href="/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Благовещение Пресвятой Богородицы">Благовещение</a></li> 
+             <li><a href="/wiki/%D0%92%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8_%D0%B8_%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D1%8B" title="Встреча Марии и Елизаветы">Встреча Марии и Елизаветы</a></li> 
+             <li><a href="/wiki/%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%BE" title="Рождество Христово">Рождество Христово</a></li> 
+             <li><a href="/wiki/%D0%91%D0%B5%D0%B3%D1%81%D1%82%D0%B2%D0%BE_%D0%B2_%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82" title="Бегство в Египет">Бегство в Египет</a></li> 
+             <li><a href="/wiki/%D0%91%D1%80%D0%B0%D0%BA_%D0%B2_%D0%9A%D0%B0%D0%BD%D0%B5_%D0%93%D0%B0%D0%BB%D0%B8%D0%BB%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B9" title="Брак в Кане Галилейской">Брак в Кане Галилейской</a></li> 
+             <li><a href="/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%8F%D1%82%D0%B8%D0%B5_%D0%98%D0%B8%D1%81%D1%83%D1%81%D0%B0_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B0" title="Распятие Иисуса Христа">Распятие Иисуса Христа</a></li> 
+             <li><a href="/wiki/%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D0%B5_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D0%B5" title="Вознесение Господне">Вознесение Господне</a></li> 
+             <li><a href="/wiki/%D0%94%D1%83%D1%85%D0%BE%D0%B2_%D0%B4%D0%B5%D0%BD%D1%8C" title="Духов день">Пятидесятница</a></li> 
+             <li><a href="/wiki/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Успение Пресвятой Богородицы">Успение</a></li> 
+             <li><a href="/wiki/%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D0%B8%D0%B5_%D0%94%D0%B5%D0%B2%D1%8B_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8" title="Вознесение Девы Марии">Вознесение</a></li> 
+             <li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%91%D0%BE%D0%B3%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8" title="Коронование Богоматери">Коронование</a></li>
+            </ul> 
+           </div></td>
+          <td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 7px">
+           <div>
+            <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Vladimirskaya.jpg" class="image"><img alt="Vladimirskaya.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Vladimirskaya.jpg/120px-Vladimirskaya.jpg" decoding="async" width="120" height="179" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Vladimirskaya.jpg/180px-Vladimirskaya.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Vladimirskaya.jpg/240px-Vladimirskaya.jpg 2x" data-file-width="456" data-file-height="681"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#cfe3ff;width:1px">Персоналии</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%98%D0%BE%D0%B0%D0%BA%D0%B8%D0%BC" title="Святой Иоаким">Святой Иоаким</a> и <a href="/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B0%D1%8F_%D0%90%D0%BD%D0%BD%D0%B0" title="Святая Анна">Святая Анна</a></li> 
+             <li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D0%95%D0%BB%D0%B8%D1%81%D0%B0%D0%B2%D0%B5%D1%82%D0%B0" title="Праведная Елисавета">Праведная Елисавета</a></li> 
+             <li><a href="/wiki/%D0%98%D0%BE%D1%81%D0%B8%D1%84_%D0%9E%D0%B1%D1%80%D1%83%D1%87%D0%BD%D0%B8%D0%BA" title="Иосиф Обручник">Иосиф Обручник</a></li> 
+             <li><a href="/wiki/%D0%98%D0%B8%D1%81%D1%83%D1%81_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81" title="Иисус Христос">Иисус Христос</a></li> 
+             <li><a href="/wiki/%D0%98%D0%BE%D0%B0%D0%BD%D0%BD_%D0%91%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D0%BE%D0%B2" title="Иоанн Богослов">Иоанн Богослов</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#cfe3ff;width:1px">Места и предметы</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%98%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC" title="Иерусалим">Иерусалим</a></li> 
+             <li><a href="/wiki/%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B#Место_Рождества" title="Рождество Пресвятой Богородицы">Дом Иоакима и Анны</a> 
+              <ul>
+               <li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%90%D0%BD%D0%BD%D1%8B_(%D0%98%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC)" title="Монастырь Святой Анны (Иерусалим)">православный</a>, <a href="/wiki/%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%BA%D0%B0_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%90%D0%BD%D0%BD%D1%8B_(%D0%98%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC)" title="Базилика Святой Анны (Иерусалим)">католический</a></li>
+              </ul></li> 
+             <li><a href="/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B9_%D0%A5%D1%80%D0%B0%D0%BC" title="Второй Храм">Второй Храм</a></li> 
+             <li><a href="/wiki/%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D1%82" title="Назарет">Назарет</a></li> 
+             <li><a href="/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%B0%D1%8F_%D1%85%D0%B8%D0%B6%D0%B8%D0%BD%D0%B0" title="Святая хижина">Дом Богородицы в Лорето</a></li> 
+             <li><a href="/wiki/%D0%AD%D0%B9%D0%BD-%D0%9A%D0%B5%D1%80%D0%B5%D0%BC" title="Эйн-Керем">Город Иудин</a></li> 
+             <li><a href="/w/index.php?title=%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D0%94%D0%B5%D0%B2%D1%8B_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8_(%D0%AD%D0%B9%D0%BD-%D0%9A%D0%B0%D1%80%D0%B5%D0%BC)&amp;action=edit&amp;redlink=1" class="new" title="Источник Девы Марии (Эйн-Карем) (страница отсутствует)">Источник Девы Марии</a></li> 
+             <li><a href="/wiki/%D0%92%D0%B8%D1%84%D0%BB%D0%B5%D0%B5%D0%BC" title="Вифлеем">Вифлеем</a></li> 
+             <li><a href="/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Пещера Рождества">Пещера Рождества</a></li> 
+             <li><a href="/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0" title="Молочная пещера">Молочная пещера</a></li> 
+             <li><a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B0%D1%80%D0%B8%D1%8F" title="Матария">Матария</a></li> 
+             <li><a href="/wiki/%D0%AD%D0%BB%D1%8C-%D0%9C%D0%B8%D0%BD%D1%8C%D1%8F" title="Эль-Минья">Эль-Минья</a></li> 
+             <li><a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0_%D0%93%D0%B0%D0%BB%D0%B8%D0%BB%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F" title="Кана Галилейская">Кана Галилейская</a></li> 
+             <li><a href="/wiki/%D0%A1%D0%B8%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%BE%D1%80%D0%BD%D0%B8%D1%86%D0%B0" title="Сионская горница">Сионская горница</a></li> 
+             <li><a href="/wiki/%D0%94%D0%BE%D0%BC_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B_(%D0%AD%D1%84%D0%B5%D1%81)" title="Дом Богородицы (Эфес)">Дом Богородицы в Эфесе</a></li> 
+             <li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B_(%D0%B3%D0%BE%D1%80%D0%B0_%D0%A1%D0%B8%D0%BE%D0%BD)" title="Монастырь Успения Пресвятой Богородицы (гора Сион)">Дом Иоанна Богослова</a></li> 
+             <li><a href="/wiki/%D0%93%D1%80%D0%BE%D0%B1%D0%BD%D0%B8%D1%86%D0%B0_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Гробница Богородицы">Гробница Богородицы</a></li> 
+             <li><a href="/wiki/%D0%A0%D0%B8%D0%B7%D0%B0_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Риза Богородицы">Риза Богородицы</a></li> 
+             <li><a href="/wiki/%D0%9F%D0%BE%D1%8F%D1%81_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Пояс Пресвятой Богородицы">Пояс Пресвятой Богородицы</a></li> 
+             <li><a href="/wiki/%D0%A3%D0%B4%D0%B5%D0%BB_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Удел Богородицы">Удел Богородицы</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#cfe3ff;width:1px">Иконография</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B8%D0%BA%D0%BE%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Православная иконография Богородицы">Православная</a></li> 
+             <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BA%D0%BE%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Католическая иконография Богородицы">Католическая</a></li> 
+             <li><a href="/w/index.php?title=%D0%98%D0%BA%D0%BE%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F_%D0%B6%D0%B8%D1%82%D0%B8%D1%8F_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Иконография жития Богородицы (страница отсутствует)">Иконография жития Богородицы</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#cfe3ff;width:1px">Догматы <br>и праздники</th>
+          <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8" title="Богородичные праздники">Богородичные праздники</a></li> 
+             <li><a href="/wiki/%D0%9D%D0%B5%D0%BF%D0%BE%D1%80%D0%BE%D1%87%D0%BD%D0%BE%D0%B5_%D0%B7%D0%B0%D1%87%D0%B0%D1%82%D0%B8%D0%B5_%D0%94%D0%B5%D0%B2%D1%8B_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8" title="Непорочное зачатие Девы Марии">Непорочное зачатие Девы Марии</a></li> 
+             <li><a href="/wiki/%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%B0_%D0%90%D0%BA%D0%B0%D1%84%D0%B8%D1%81%D1%82%D0%B0" title="Суббота Акафиста">Похвала Пресвятой Богородицы</a></li> 
+             <li><a href="/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Покров Пресвятой Богородицы">Покров Пресвятой Богородицы</a></li> 
+             <li><a href="/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Собор Пресвятой Богородицы">Собор Пресвятой Богородицы</a></li> 
+             <li><a href="/wiki/%D0%A2%D0%BE%D1%80%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B" title="Торжество Пресвятой Богородицы">Торжество Пресвятой Богородицы</a></li> 
+             <li><a href="/wiki/%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%B0%D1%8F_%D0%94%D0%B5%D0%B2%D0%B0_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F,_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8" title="Пресвятая Дева Мария, королева Польши">Пресвятая Дева Мария, королева Польши</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="background:#cfe3ff;width:1px">Молитвы</th>
+          <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a class="mw-selflink selflink">Аве Мария</a></li> 
+             <li><a href="/wiki/%D0%9F%D0%B5%D1%81%D0%BD%D1%8C_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5" title="Песнь Пресвятой Богородице">Песнь Пресвятой Богородице</a></li> 
+             <li><a href="/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BD%D1%82%D0%B8%D1%84%D0%BE%D0%BD%D1%8B" title="Богородичные антифоны">Богородичные антифоны</a></li> 
+             <li><a href="/wiki/%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B9%D0%BD%D0%BE_%D0%B5%D1%81%D1%82%D1%8C" title="Достойно есть">Достойно есть</a></li> 
+             <li><a href="/wiki/%D0%9E_%D0%A2%D0%B5%D0%B1%D0%B5_%D1%80%D0%B0%D0%B4%D1%83%D0%B5%D1%82%D1%81%D1%8F" title="О Тебе радуется">О Тебе радуется</a></li> 
+             <li><a href="/wiki/%D0%A0%D0%BE%D0%B7%D0%B0%D1%80%D0%B8%D0%B9_(%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F)" title="Розарий (религия)">Розарий</a></li> 
+             <li><a href="/wiki/%D0%9B%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%94%D0%B5%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8" title="Литания Пресвятой Деве Марии">Литания Пресвятой Деве Марии</a></li> 
+             <li><a href="/wiki/%D0%90%D0%B3%D0%BD%D0%B8_%D0%9F%D0%B0%D1%80%D1%84%D0%B5%D0%BD%D0%B5" title="Агни Парфене">Агни Парфене</a></li> 
+             <li><a href="/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82" title="Магнификат">Магнификат</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Католические_молитвы" data-name="Католические молитвы">
+       <table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="colgroup" class="navbox-title" colspan="3"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D1%8B" title="Перейти к шаблону «Католические молитвы»"><img alt="Перейти к шаблону «Католические молитвы»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;</span>
+           <div id="Католические_молитвы" style="font-size:114%;margin:0 5em">
+            Католические молитвы
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">Молитвы <a href="/wiki/%D0%9C%D0%B5%D1%81%D1%81%D0%B0" title="Месса">мессы</a></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%90%D0%B3%D0%BD%D0%B5%D1%86_%D0%91%D0%BE%D0%B6%D0%B8%D0%B9" title="Агнец Божий">Agnus Dei</a></li> 
+             <li><a href="/wiki/Confiteor" title="Confiteor">Confiteor</a></li> 
+             <li><a href="/wiki/Gloria_in_excelsis_Deo" title="Gloria in excelsis Deo">Gloria in Excelsis Deo</a></li> 
+             <li><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%BE%D0%B5_%D1%81%D0%BB%D0%B0%D0%B2%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5" title="Краткое славословие">Gloria Patri</a></li> 
+             <li><a href="/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%B5_%D1%8D%D0%BB%D0%B5%D0%B9%D1%81%D0%BE%D0%BD" title="Кирие элейсон">Kyrie Eleison</a></li> 
+             <li><a href="/wiki/%D0%9E%D1%82%D1%87%D0%B5_%D0%BD%D0%B0%D1%88" title="Отче наш">Pater Noster</a></li> 
+             <li><a href="/wiki/Sanctus" title="Sanctus">Sanctus</a></li> 
+             <li><a href="/wiki/%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%B5_%D0%B7%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5" title="Крестное знамение">Signum Crucis</a></li> 
+             <li><a href="/wiki/%D0%90%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB_%D0%B2%D0%B5%D1%80%D1%8B" title="Апостольский Символ веры">Апостольский Символ веры</a></li> 
+             <li><a href="/wiki/%D0%9B%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B2%D1%81%D0%B5%D0%BC_%D0%A1%D0%B2%D1%8F%D1%82%D1%8B%D0%BC" title="Литания всем Святым">Литания всем Святым</a></li> 
+             <li><a href="/wiki/%D0%9D%D0%B8%D0%BA%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB_%D0%B2%D0%B5%D1%80%D1%8B" title="Никейский Символ веры">Никейский Символ веры</a></li>
+            </ul> 
+           </div></td>
+          <td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 7px">
+           <div>
+            <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Emblem_of_the_Papacy_SE.svg" class="image" title="Emblem of the Papacy"><img alt="Emblem of the Papacy" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_the_Papacy_SE.svg/100px-Emblem_of_the_Papacy_SE.svg.png" decoding="async" width="100" height="136" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_the_Papacy_SE.svg/150px-Emblem_of_the_Papacy_SE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Emblem_of_the_Papacy_SE.svg/200px-Emblem_of_the_Papacy_SE.svg.png 2x" data-file-width="815" data-file-height="1105"></a>
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">Молитвы к <a href="/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B0" title="Богородица">Деве Марии</a></th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BD%D1%82%D0%B8%D1%84%D0%BE%D0%BD%D1%8B#Alma_Redemptoris_Mater" title="Богородичные антифоны">Alma Redemptoris Mater</a></li> 
+             <li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%B5%D0%BB_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B5%D0%BD%D1%8C_(%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%B0)" title="Ангел Господень (молитва)">Angelus</a></li> 
+             <li><a class="mw-selflink selflink">Ave Maria</a></li> 
+             <li><a href="/w/index.php?title=Ave_Maris_Stella&amp;action=edit&amp;redlink=1" class="new" title="Ave Maris Stella (страница отсутствует)">Ave Maris Stella</a></li> 
+             <li><a href="/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BD%D1%82%D0%B8%D1%84%D0%BE%D0%BD%D1%8B#Ave_Regina_Caelorum" title="Богородичные антифоны">Ave Regina Caelorum</a></li> 
+             <li><a href="/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82" title="Магнификат">Magnificat</a></li> 
+             <li><a href="/w/index.php?title=Memorare&amp;action=edit&amp;redlink=1" class="new" title="Memorare (страница отсутствует)">Memorare</a></li> 
+             <li><a href="/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BD%D1%82%D0%B8%D1%84%D0%BE%D0%BD%D1%8B#Regina_cæli" title="Богородичные антифоны">Regina Coeli</a></li> 
+             <li><a href="/wiki/%D0%A0%D0%BE%D0%B7%D0%B0%D1%80%D0%B8%D0%B9_(%D1%80%D0%B5%D0%BB%D0%B8%D0%B3%D0%B8%D1%8F)" title="Розарий (религия)">Розарий</a></li> 
+             <li><a href="/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BD%D1%82%D0%B8%D1%84%D0%BE%D0%BD%D1%8B#Salve,_Regina" title="Богородичные антифоны">Salve Regina</a></li> 
+             <li><a href="/w/index.php?title=Sub_tuum_praesidium&amp;action=edit&amp;redlink=1" class="new" title="Sub tuum praesidium (страница отсутствует)">Sub Tuum Praesidium</a></li> 
+             <li><a href="/wiki/%D0%A2%D1%80%D0%B8_%C2%AB%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F%C2%BB" title="Три «Аве Мария»">Три «Аве Мария»</a></li> 
+             <li><a href="/wiki/%D0%A4%D0%B0%D1%82%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%B0" title="Фатимская молитва">Фатимская молитва</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">Другие молитвы</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/w/index.php?title=Adoro_te_devote&amp;action=edit&amp;redlink=1" class="new" title="Adoro te devote (страница отсутствует)">Adoro te devote</a></li> 
+             <li><a href="/w/index.php?title=Angele_Dei&amp;action=edit&amp;redlink=1" class="new" title="Angele Dei (страница отсутствует)">Angele Dei</a></li> 
+             <li><a href="/wiki/Anima_Christi" title="Anima Christi">Anima Christi</a></li> 
+             <li><a href="/wiki/Ave_verum_corpus" title="Ave verum corpus">Ave Verum Corpus</a></li> 
+             <li><a href="/wiki/%D0%9F%D0%B5%D1%81%D0%BD%D1%8C_%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%B8%D0%B8" title="Песнь Захарии">Benedictus</a></li> 
+             <li><a href="/wiki/%D0%9F%D1%81%D0%B0%D0%BB%D0%BE%D0%BC_129" title="Псалом 129">De Profundis</a></li> 
+             <li><a href="/w/index.php?title=Laudes_Divinae&amp;action=edit&amp;redlink=1" class="new" title="Laudes Divinae (страница отсутствует)">Laudes Divinae</a></li> 
+             <li><a href="/wiki/%D0%9F%D1%81%D0%B0%D0%BB%D0%BE%D0%BC_50" title="Псалом 50">Miserere mei</a></li> 
+             <li><a href="/wiki/Panis_Angelicus" title="Panis Angelicus">Panis Angelicus</a></li> 
+             <li><a href="/wiki/%D0%9F%D0%B5%D1%81%D0%BD%D1%8C_%D0%A1%D0%B8%D0%BC%D0%B5%D0%BE%D0%BD%D0%B0_%D0%91%D0%BE%D0%B3%D0%BE%D0%BF%D1%80%D0%B8%D0%B8%D0%BC%D1%86%D0%B0" title="Песнь Симеона Богоприимца">Nunc Dimittis</a></li> 
+             <li><a href="/w/index.php?title=O_Salutaris_Hostia&amp;action=edit&amp;redlink=1" class="new" title="O Salutaris Hostia (страница отсутствует)">O Salutaris Hostia</a></li> 
+             <li><a href="/wiki/Requiem_%C3%86ternam" title="Requiem Æternam">Requiem Æternam</a></li> 
+             <li><a href="/wiki/Tantum_ergo" title="Tantum ergo">Tantum Ergo</a></li> 
+             <li><a href="/wiki/Te_Deum" title="Te Deum">Te Deum</a></li> 
+             <li><a href="/wiki/Veni_Creator_Spiritus" title="Veni Creator Spiritus">Veni Creator Spiritus</a></li> 
+             <li><a href="/wiki/Veni_Sancte_Spiritus" title="Veni Sancte Spiritus">Veni Sancte Spiritus</a></li> 
+             <li><a href="/wiki/Victimae_paschali" title="Victimae paschali">Victimae paschali</a></li> 
+             <li><a href="/wiki/Lauda_Sion" title="Lauda Sion">Lauda Sion</a></li> 
+             <li><a href="/w/index.php?title=%D0%90%D0%BA%D1%82_%D1%80%D0%B0%D1%81%D0%BA%D0%B0%D1%8F%D0%BD%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Акт раскаяния (страница отсутствует)">Акт раскаяния</a></li> 
+             <li><a href="/wiki/%D0%90%D1%84%D0%B0%D0%BD%D0%B0%D1%81%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB_%D0%B2%D0%B5%D1%80%D1%8B" title="Афанасьевский Символ веры">Афанасьевский Символ веры</a></li> 
+             <li><a href="/wiki/%D0%98%D0%B8%D1%81%D1%83%D1%81%D0%BE%D0%B2%D0%B0_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%B0" title="Иисусова молитва">Иисусова молитва</a></li> 
+             <li><a href="/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D1%83%D1%82%D0%B8" title="Богослужение Крестного пути">Крестный путь</a></li> 
+             <li><a href="/w/index.php?title=%D0%9C%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%B0_%D0%BF%D0%B5%D1%80%D0%B5%D0%B4_%D1%80%D0%B0%D1%81%D0%BF%D1%8F%D1%82%D0%B8%D0%B5%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="Молитва перед распятием (страница отсутствует)">Молитва перед распятием</a></li> 
+             <li><a href="/wiki/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%8F_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%B0" title="Простая молитва">Молитва святого Франциска</a></li> 
+             <li><a href="/w/index.php?title=%D0%9C%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%B0_%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%BC%D1%83_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Молитва святому Михаилу (страница отсутствует)">Молитва святому Михаилу</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td class="navbox-abovebelow" colspan="3">
+           <div> 
+            <ul>
+             <li><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D1%8B" title="Категория:Католические молитвы">Категория</a></b></li> 
+             <li><b><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9A%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D1%86%D0%B8%D0%B7%D0%BC" title="Портал:Католицизм">Портал</a></b></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1439
+Cached time: 20220228191307
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.478 seconds
+Real time usage: 0.608 seconds
+Preprocessor visited node count: 3778/1000000
+Post‐expand include size: 74150/2097152 bytes
+Template argument size: 8217/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 9406/5000000 bytes
+Lua time usage: 0.205/10.000 seconds
+Lua memory usage: 4062073/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  450.471      1 -total
+ 25.09%  113.020      1 Шаблон:Примечания
+ 23.91%  107.693      1 Шаблон:Навигация
+ 16.87%   76.014      1 Шаблон:ВС
+ 13.70%   61.705      4 Шаблон:Cite_web
+ 10.68%   48.128      3 Шаблон:Навигационная_таблица
+  9.68%   43.593      1 Шаблон:Другие_значения
+  9.11%   41.031      1 Шаблон:Другое_значение
+  6.62%   29.816      3 Шаблон:Книга
+  6.56%   29.560      4 Шаблон:Библия
+--> <!-- Saved in parser cache with key ruwiki:pcache:idhash:6261-0!canonical and timestamp 20220228191306 and revision id 119043055. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Аве_Мария&amp;oldid=119043055">https://ru.wikipedia.org/w/index.php?title=Аве_Мария&amp;oldid=119043055</a>
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D1%8B" title="Категория:Католические молитвы">Католические молитвы</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B0" title="Категория:Богородица">Богородица</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%81%D0%BD%D0%B8_%D0%BD%D0%B0_%D0%BB%D0%B0%D1%82%D1%8B%D0%BD%D0%B8" title="Категория:Песни на латыни">Песни на латыни</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5" title="Категория:Благовещение">Благовещение</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Скрытые категории: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C" title="Категория:Статьи со ссылками на Викисловарь">Статьи со ссылками на Викисловарь</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D1%83_%D0%BD%D0%B5%D0%BF%D0%BE%D1%81%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE_%D0%B2_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B5" title="Категория:Википедия:Ссылка на Викитеку непосредственно в статье">Википедия:Ссылка на Викитеку непосредственно в статье</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB" title="Категория:Статьи со ссылками на портал">Статьи со ссылками на портал</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Навигация</h2> 
+   <div id="mw-head"> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"> <label id="p-personal-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Персональные инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage" class="mw-list-item"><span>Вы не представились системе</span></li>
+       <li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li>
+       <li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li>
+       <li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%90%D0%B2%D0%B5+%D0%9C%D0%B0%D1%80%D0%B8%D1%8F" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li>
+       <li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%90%D0%B2%D0%B5+%D0%9C%D0%B0%D1%80%D0%B8%D1%8F" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> <label id="p-namespaces-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Пространства имён</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li>
+        <li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> <label id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading"> <span class="vector-menu-heading-label">русский</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> <label id="p-views-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Просмотры</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;stable=1"><span>Читать</span></a></li>
+        <li id="ca-current" class="collapsible selected mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v"><span>Текущая версия</span></a></li>
+        <li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li>
+        <li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li>
+        <li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" title="Больше возможностей"> 
+      <input type="checkbox" id="p-cactions-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-cactions" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> <label id="p-cactions-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Ещё</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box"> 
+      <div> 
+       <h3> <label for="searchInput">Поиск</label> </h3> 
+       <form action="/w/index.php" id="searchform" class="vector-search-box-form"> 
+        <div id="simpleSearch" class="vector-search-box-inner" data-search-loc="header-navigation"> 
+         <input class="vector-search-box-input" type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"> 
+         <input type="hidden" name="title" value="Служебная:Поиск"> 
+         <input id="mw-searchButton" class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти"> 
+         <input id="searchButton" class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти"> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a> 
+    </div> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> <label id="p-navigation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Навигация</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li>
+       <li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li>
+       <li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li>
+       <li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li>
+       <li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li>
+       <li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"> <label id="p-participation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Участие</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об&nbsp;ошибке</span></a></li>
+       <li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li>
+       <li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li>
+       <li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li>
+       <li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li>
+       <li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li>
+       <li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> <label id="p-tb-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li>
+       <li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li>
+       <li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+       <li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;oldid=119043055" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li>
+       <li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;action=info" title="Подробнее об этой странице"><span>Сведения о&nbsp;странице</span></a></li>
+       <li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;id=119043055&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li>
+       <li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q42203" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> <label id="p-coll-print_export-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Печать/экспорт</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%90%D0%B2%D0%B5+%D0%9C%D0%B0%D1%80%D0%B8%D1%8F" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li>
+       <li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li>
+       <li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> <label id="p-wikibase-otherprojects-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">В других проектах</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Ave_Maria" hreflang="en"><span>Викисклад</span></a></li>
+       <li class="wb-otherproject-link wb-otherproject-sources mw-list-item"><a href="https://wikisource.org/wiki/Hail_Mary" hreflang="en"><span>Многоязычная Викитека</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> <label id="p-lang-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">На других языках</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-als mw-list-item"><a href="https://als.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target"><span>Alemannisch</span></a></li>
+       <li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/Ave_Mar%C3%ADa" title="Ave María — арагонский" lang="an" hreflang="an" class="interlanguage-link-target"><span>Aragonés</span></a></li>
+       <li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85_%D8%B9%D9%84%D9%8A%D9%83_%D9%8A%D8%A7_%D9%85%D8%B1%D9%8A%D9%85" title="السلام عليك يا مريم — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li>
+       <li class="interlanguage-link interwiki-arc mw-list-item"><a href="https://arc.wikipedia.org/wiki/%DC%A8%DC%A0%DC%98%DC%AC%DC%90_%DC%A1%DC%AA%DC%9D%DC%A1%DC%9D%DC%AC%DC%90" title="ܨܠܘܬܐ ܡܪܝܡܝܬܐ — арамейский" lang="arc" hreflang="arc" class="interlanguage-link-target"><span>ܐܪܡܝܐ</span></a></li>
+       <li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Avemar%C3%ADa" title="Avemaría — астурийский" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li>
+       <li class="interlanguage-link interwiki-bar mw-list-item"><a href="https://bar.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target"><span>Boarisch</span></a></li>
+       <li class="interlanguage-link interwiki-bat-smg mw-list-item"><a href="https://bat-smg.wikipedia.org/wiki/Sv%C4%93ka_Mar%C4%97j%C4%97" title="Svēka Marėjė — Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target"><span>Žemaitėška</span></a></li>
+       <li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%90%D0%B2%D1%8D_%D0%9C%D0%B0%D1%80%D1%8B%D1%8F" title="Авэ Марыя — белорусский" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li>
+       <li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F" title="Аве Мария — болгарский" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li>
+       <li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — бретонский" lang="br" hreflang="br" class="interlanguage-link-target"><span>Brezhoneg</span></a></li>
+       <li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Avemaria" title="Avemaria — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li>
+       <li class="interlanguage-link interwiki-cbk-zam mw-list-item"><a href="https://cbk-zam.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — Chavacano" lang="cbk" hreflang="cbk" class="interlanguage-link-target"><span>Chavacano de Zamboanga</span></a></li>
+       <li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Maghimaya_Ka_Maria" title="Maghimaya Ka Maria — себуано" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li>
+       <li class="interlanguage-link interwiki-co mw-list-item"><a href="https://co.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — корсиканский" lang="co" hreflang="co" class="interlanguage-link-target"><span>Corsu</span></a></li>
+       <li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Zdr%C3%A1vas_Maria" title="Zdrávas Maria — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li>
+       <li class="interlanguage-link interwiki-csb mw-list-item"><a href="https://csb.wikipedia.org/wiki/Anielscz%C3%A9_p%C3%B2zdrowieni%C3%A9" title="Anielsczé pòzdrowienié — кашубский" lang="csb" hreflang="csb" class="interlanguage-link-target"><span>Kaszëbsczi</span></a></li>
+       <li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Hil_dig,_Maria" title="Hil dig, Maria — датский" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li>
+       <li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li>
+       <li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%86%CE%B2%CE%B5_%CE%9C%CE%B1%CF%81%CE%AF%CE%B1" title="Άβε Μαρία — греческий" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li>
+       <li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Hail_Mary" title="Hail Mary — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li>
+       <li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — эсперанто" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li>
+       <li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Avemar%C3%ADa" title="Avemaría — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li>
+       <li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — эстонский" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li>
+       <li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Agur_Maria" title="Agur Maria — баскский" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li>
+       <li class="interlanguage-link interwiki-ext mw-list-item"><a href="https://ext.wikipedia.org/wiki/Ave_Mar%C3%ADa" title="Ave María — Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target"><span>Estremeñu</span></a></li>
+       <li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%88%D8%AF_%D8%A8%D8%B1_%D9%85%D8%B1%DB%8C%D9%85" title="درود بر مریم — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li>
+       <li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — финский" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li>
+       <li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Je_vous_salue_Marie" title="Je vous salue Marie — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li>
+       <li class="interlanguage-link interwiki-frp mw-list-item"><a href="https://frp.wikipedia.org/wiki/Av%C3%A8_Maria" title="Avè Maria — Arpitan" lang="frp" hreflang="frp" class="interlanguage-link-target"><span>Arpetan</span></a></li>
+       <li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Is_%C3%A9_do_Bheatha,_a_Mhuire" title="Is é do Bheatha, a Mhuire — ирландский" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li>
+       <li class="interlanguage-link interwiki-gd mw-list-item"><a href="https://gd.wikipedia.org/wiki/F%C3%A0ilte_Mhoire" title="Fàilte Mhoire — гэльский" lang="gd" hreflang="gd" class="interlanguage-link-target"><span>Gàidhlig</span></a></li>
+       <li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Avemar%C3%ADa" title="Avemaría — галисийский" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li>
+       <li class="interlanguage-link interwiki-gn mw-list-item"><a href="https://gn.wikipedia.org/wiki/Maria_maitei" title="Maria maitei — гуарани" lang="gn" hreflang="gn" class="interlanguage-link-target"><span>Avañe'ẽ</span></a></li>
+       <li class="interlanguage-link interwiki-gom mw-list-item"><a href="https://gom.wikipedia.org/wiki/%E0%A4%A8%E0%A4%AE%E0%A4%BE%E0%A4%A8_%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A4%AF%E0%A5%87_%E0%A4%AE%E0%A4%BE%E0%A4%97%E0%A4%A3%E0%A5%87%E0%A4%82" title="नमान मारये मागणें — Goan Konkani" lang="gom" hreflang="gom" class="interlanguage-link-target"><span>गोंयची कोंकणी / Gõychi Konknni</span></a></li>
+       <li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%95%D7%94_%D7%9E%D7%A8%D7%99%D7%94" title="אווה מריה — иврит" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li>
+       <li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Zdravo_Marijo" title="Zdravo Marijo — хорватский" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li>
+       <li class="interlanguage-link interwiki-hsb mw-list-item"><a href="https://hsb.wikipedia.org/wiki/Strowa_sy,_Marija" title="Strowa sy, Marija — верхнелужицкий" lang="hsb" hreflang="hsb" class="interlanguage-link-target"><span>Hornjoserbsce</span></a></li>
+       <li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/%C3%9Cdv%C3%B6zl%C3%A9gy" title="Üdvözlégy — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li>
+       <li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%BE%D5%A5_%D5%84%D5%A1%D6%80%D5%AB%D5%A1" title="Ավե Մարիա — армянский" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li>
+       <li class="interlanguage-link interwiki-ia mw-list-item"><a href="https://ia.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — интерлингва" lang="ia" hreflang="ia" class="interlanguage-link-target"><span>Interlingua</span></a></li>
+       <li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Salam_Maria" title="Salam Maria — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li>
+       <li class="interlanguage-link interwiki-ie mw-list-item"><a href="https://ie.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — интерлингве" lang="ie" hreflang="ie" class="interlanguage-link-target"><span>Interlingue</span></a></li>
+       <li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — идо" lang="io" hreflang="io" class="interlanguage-link-target"><span>Ido</span></a></li>
+       <li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li>
+       <li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B4%E3%82%A7%E3%83%BB%E3%83%9E%E3%83%AA%E3%82%A2" title="アヴェ・マリア — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li>
+       <li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/Sembah_Bekti" title="Sembah Bekti — яванский" lang="jv" hreflang="jv" class="interlanguage-link-target"><span>Jawa</span></a></li>
+       <li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%95%E1%83%94_%E1%83%9B%E1%83%90%E1%83%A0%E1%83%98%E1%83%90" title="ავე მარია — грузинский" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li>
+       <li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%84%B1%EB%AA%A8%EC%86%A1" title="성모송 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li>
+       <li class="interlanguage-link interwiki-ksh mw-list-item"><a href="https://ksh.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — кёльнский" lang="ksh" hreflang="ksh" class="interlanguage-link-target"><span>Ripoarisch</span></a></li>
+       <li class="interlanguage-link interwiki-ku mw-list-item"><a href="https://ku.wikipedia.org/wiki/Silav_li_te_Meryem" title="Silav li te Meryem — курдский" lang="ku" hreflang="ku" class="interlanguage-link-target"><span>Kurdî</span></a></li>
+       <li class="interlanguage-link interwiki-kw mw-list-item"><a href="https://kw.wikipedia.org/wiki/Hayl_Maria" title="Hayl Maria — корнский" lang="kw" hreflang="kw" class="interlanguage-link-target"><span>Kernowek</span></a></li>
+       <li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — латинский" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li>
+       <li class="interlanguage-link interwiki-li mw-list-item"><a href="https://li.wikipedia.org/wiki/Weesgegroetje" title="Weesgegroetje — лимбургский" lang="li" hreflang="li" class="interlanguage-link-target"><span>Limburgs</span></a></li>
+       <li class="interlanguage-link interwiki-lij mw-list-item"><a href="https://lij.wikipedia.org/wiki/Ave_M%C3%A0ia" title="Ave Màia — Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target"><span>Ligure</span></a></li>
+       <li class="interlanguage-link interwiki-lld mw-list-item"><a href="https://lld.wikipedia.org/wiki/Anmaria" title="Anmaria — Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target"><span>Ladin</span></a></li>
+       <li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li>
+       <li class="interlanguage-link interwiki-ln mw-list-item"><a href="https://ln.wikipedia.org/wiki/Maria_Los%C3%A1ko" title="Maria Losáko — лингала" lang="ln" hreflang="ln" class="interlanguage-link-target"><span>Lingála</span></a></li>
+       <li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Sveika,_Marija" title="Sveika, Marija — литовский" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li>
+       <li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Esi_sveicin%C4%81ta,_Marija" title="Esi sveicināta, Marija — латышский" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li>
+       <li class="interlanguage-link interwiki-mh mw-list-item"><a href="https://mh.wikipedia.org/wiki/Yokwe_eok_Maria" title="Yokwe eok Maria — маршалльский" lang="mh" hreflang="mh" class="interlanguage-link-target"><span>Ebon</span></a></li>
+       <li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%A8%E0%B4%A8%E0%B5%8D%E0%B4%AE_%E0%B4%A8%E0%B4%BF%E0%B4%B1%E0%B4%9E%E0%B5%8D%E0%B4%9E%E0%B4%B5%E0%B4%B3%E0%B5%87_%E0%B4%B8%E0%B5%8D%E0%B4%B5%E0%B4%B8%E0%B5%8D%E0%B4%A4%E0%B4%BF_(%E0%B4%AA%E0%B5%81%E0%B4%B8%E0%B5%8D%E0%B4%A4%E0%B4%95%E0%B4%82)" title="നന്മ നിറഞ്ഞവളേ സ്വസ്തി (പുസ്തകം) — малаялам" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li>
+       <li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Salam_Maria" title="Salam Maria — малайский" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li>
+       <li class="interlanguage-link interwiki-na mw-list-item"><a href="https://na.wikipedia.org/wiki/A_kamawireij_uw_Maria" title="A kamawireij uw Maria — науру" lang="na" hreflang="na" class="interlanguage-link-target"><span>Dorerin Naoero</span></a></li>
+       <li class="interlanguage-link interwiki-nah mw-list-item"><a href="https://nah.wikipedia.org/wiki/In_%C4%ABtlahpal%C5%8Dl%C5%8Dcatzin_Mar%C3%ADa" title="In ītlahpalōlōcatzin María — Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target"><span>Nāhuatl</span></a></li>
+       <li class="interlanguage-link interwiki-nds-nl mw-list-item"><a href="https://nds-nl.wikipedia.org/wiki/Wees-egroet" title="Wees-egroet — нижнесаксонский" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target"><span>Nedersaksies</span></a></li>
+       <li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Weesgegroet" title="Weesgegroet — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li>
+       <li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — нюнорск" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li>
+       <li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Hill_deg,_Maria" title="Hill deg, Maria — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li>
+       <li class="interlanguage-link interwiki-nrm mw-list-item"><a href="https://nrm.wikipedia.org/wiki/Ave_Maria_(pryire)" title="Ave Maria (pryire) — Norman" lang="nrf" hreflang="nrf" class="interlanguage-link-target"><span>Nouormand</span></a></li>
+       <li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — окситанский" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li>
+       <li class="interlanguage-link interwiki-pag mw-list-item"><a href="https://pag.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — пангасинан" lang="pag" hreflang="pag" class="interlanguage-link-target"><span>Pangasinan</span></a></li>
+       <li class="interlanguage-link interwiki-pam mw-list-item"><a href="https://pam.wikipedia.org/wiki/Bapu_Maria" title="Bapu Maria — пампанга" lang="pam" hreflang="pam" class="interlanguage-link-target"><span>Kapampangan</span></a></li>
+       <li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Zdrowa%C5%9B_Maryjo" title="Zdrowaś Maryjo — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li>
+       <li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li>
+       <li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/Much%27aykusqayki_Mariya" title="Much'aykusqayki Mariya — кечуа" lang="qu" hreflang="qu" class="interlanguage-link-target"><span>Runa Simi</span></a></li>
+       <li class="interlanguage-link interwiki-rm mw-list-item"><a href="https://rm.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — романшский" lang="rm" hreflang="rm" class="interlanguage-link-target"><span>Rumantsch</span></a></li>
+       <li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — румынский" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li>
+       <li class="interlanguage-link interwiki-roa-rup mw-list-item"><a href="https://roa-rup.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — Aromanian" lang="rup" hreflang="rup" class="interlanguage-link-target"><span>Armãneashti</span></a></li>
+       <li class="interlanguage-link interwiki-roa-tara mw-list-item"><a href="https://roa-tara.wikipedia.org/wiki/%C3%80ve_Marije" title="Àve Marije — Tarantino" lang="nap-x-tara" hreflang="nap-x-tara" class="interlanguage-link-target"><span>Tarandíne</span></a></li>
+       <li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Zdravo_Marijo" title="Zdravo Marijo — сербскохорватский" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li>
+       <li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Hail_Mary" title="Hail Mary — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li>
+       <li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Zdravas%E2%80%99_M%C3%A1ria" title="Zdravas’ Mária — словацкий" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li>
+       <li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Zdrava_Marija" title="Zdrava Marija — словенский" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li>
+       <li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/T%C3%AB_falemi_M%C3%ABria" title="Të falemi Mëria — албанский" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li>
+       <li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D0%BE_%D0%9C%D0%B0%D1%80%D0%B8%D1%98%D0%BE" title="Здраво Маријо — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li>
+       <li class="interlanguage-link interwiki-ss mw-list-item"><a href="https://ss.wikipedia.org/wiki/Yetzi%27_Maria" title="Yetzi' Maria — свази" lang="ss" hreflang="ss" class="interlanguage-link-target"><span>SiSwati</span></a></li>
+       <li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li>
+       <li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Salamu_Maria" title="Salamu Maria — суахили" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li>
+       <li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3_%E0%AE%B5%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%88_%E0%AE%9A%E0%AF%86%E0%AE%AA%E0%AE%AE%E0%AF%8D" title="மங்கள வார்த்தை செபம் — тамильский" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li>
+       <li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C" title="วันทามารีย์ — тайский" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li>
+       <li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Aba_Ginoong_Maria" title="Aba Ginoong Maria — тагалог" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li>
+       <li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li>
+       <li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B4%D1%83%D0%B9%D1%81%D1%8F,_%D0%9C%D0%B0%D1%80%D1%96%D1%94" title="Радуйся, Маріє — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li>
+       <li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%B3%D9%84%D8%A7%D9%85_%D8%A7%DB%92_%D9%85%D8%B1%DB%8C%D9%85" title="سلام اے مریم — урду" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li>
+       <li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wikipedia.org/wiki/Ave_Maria" title="Ave Maria — Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target"><span>Vèneto</span></a></li>
+       <li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Kinh_K%C3%ADnh_M%E1%BB%ABng" title="Kinh Kính Mừng — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li>
+       <li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E5%9C%A3%E6%AF%8D%E7%BB%8F" title="圣母经 — ву" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li>
+       <li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E8%81%96%E6%AF%8D%E7%B6%93" title="聖母經 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+       <li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E8%81%96%E6%AF%8D%E7%B6%93" title="聖母經 — Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q42203#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 2 января 2022 в 13:49.</li> 
+    <li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия. <span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br> Wikipedia®&nbsp;— зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li> 
+    <li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li> 
+    <li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li> 
+    <li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.478","walltime":"0.608","ppvisitednodes":{"value":3778,"limit":1000000},"postexpandincludesize":{"value":74150,"limit":2097152},"templateargumentsize":{"value":8217,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9406,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  450.471      1 -total"," 25.09%  113.020      1 Шаблон:Примечания"," 23.91%  107.693      1 Шаблон:Навигация"," 16.87%   76.014      1 Шаблон:ВС"," 13.70%   61.705      4 Шаблон:Cite_web"," 10.68%   48.128      3 Шаблон:Навигационная_таблица","  9.68%   43.593      1 Шаблон:Другие_значения","  9.11%   41.031      1 Шаблон:Другое_значение","  6.62%   29.816      3 Шаблон:Книга","  6.56%   29.560      4 Шаблон:Библия"]},"scribunto":{"limitreport-timeusage":{"value":"0.205","limit":"10.000"},"limitreport-memusage":{"value":4062073,"limit":52428800}},"cachereport":{"origin":"mw1439","timestamp":"20220228191307","ttl":1814400,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0410\u0432\u0435 \u041c\u0430\u0440\u0438\u044f","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%90%D0%B2%D0%B5_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F","sameAs":"http:\/\/www.wikidata.org\/entity\/Q42203","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q42203","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-06-10T22:44:19Z","dateModified":"2022-01-02T13:49:32Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/aa\/Duccio_di_Buoninsegna_048.jpg","headline":"\u043a\u0430\u0442\u043e\u043b\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043c\u043e\u043b\u0438\u0442\u0432\u0430 \u043a \u0434\u0435\u0432\u0435 \u041c\u0430\u0440\u0438\u0438"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":200,"wgHostname":"mw1455"});});</script>  
+ </body>
+</html>

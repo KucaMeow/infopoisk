@@ -1,0 +1,1006 @@
+<!doctype html>
+<html class="client-nojs" lang="ru" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Власть пса (фильм) — Википедия</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"2eef79e3-d55b-42e9-b97d-e9a00bf25aec","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Власть_пса_(фильм)","wgTitle":"Власть пса (фильм)","wgCurRevisionId":120708211,"wgRevisionId":120708211,"wgArticleId":8486606,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","Фильмы на английском языке","Фильмы по алфавиту","Фильмы 2021 года",
+"Фильмы Джейн Кэмпион","Фильмы — лауреаты премии «Золотой глобус» за лучший фильм — драма","Фильмы — лауреаты премии BAFTA","Фильмы-драмы США","Исторические фильмы о 1920-х годах","Фильмы на тематику мужской гомосексуальности","Фильмы, производство которых было приостановлено из-за пандемии COVID-19"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Власть_пса_(фильм)","wgRelevantArticleId":8486606,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":120708211,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},
+"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q85323337","wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":true,"wgGELinkRecommendationsFrontendEnabled":true};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready",
+"jquery.tablesorter.styles":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks",
+"ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <noscript>
+   <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector">
+  </noscript> 
+  <meta name="generator" content="MediaWiki 1.38.0-wmf.25"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/ru/7/77/The_Power_of_the_Dog.jpg"> 
+  <meta property="og:image:width" content="1200"> 
+  <meta property="og:image:height" content="1778"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/ru/7/77/The_Power_of_the_Dog.jpg"> 
+  <meta property="og:image:width" content="800"> 
+  <meta property="og:image:height" content="1185"> 
+  <meta property="og:image:width" content="640"> 
+  <meta property="og:image:height" content="948"> 
+  <meta property="og:title" content="Власть пса (фильм) — Википедия"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"> 
+  <link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Власть_пса_фильм rootpage-Власть_пса_фильм skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading mw-first-heading">Власть пса (фильм)</h1> 
+   <div id="bodyContent" class="vector-body"> 
+    <div id="siteSub" class="noprint">
+     Материал из Википедии — свободной энциклопедии
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Перейти к навигации</a> <a class="mw-jump-link" href="#searchInput">Перейти к поиску</a> 
+    <div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr">
+     <div class="mw-parser-output">
+      <table class="infobox" style="" data-name="Фильм">
+       <tbody>
+        <tr>
+         <th colspan="2" scope="colgroup" class="infobox-above" style="">Власть пса</th>
+        </tr>
+        <tr>
+         <td colspan="2" class="" style="text-align:center;"><span data-wikidata-property-id="P1476" class="no-wikidata"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&nbsp;<span lang="en" style="font-style:italic;">The Power of the Dog</span></span></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P18" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:The_Power_of_the_Dog.jpg" class="image"><img alt="The Power of the Dog.jpg" src="//upload.wikimedia.org/wikipedia/ru/thumb/7/77/The_Power_of_the_Dog.jpg/202px-The_Power_of_the_Dog.jpg" decoding="async" width="202" height="300" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/7/77/The_Power_of_the_Dog.jpg/304px-The_Power_of_the_Dog.jpg 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/7/77/The_Power_of_the_Dog.jpg/405px-The_Power_of_the_Dog.jpg 2x" data-file-width="640" data-file-height="948"></a></span> </td>
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:7.6em;"><a href="/wiki/%D0%96%D0%B0%D0%BD%D1%80%D1%8B_%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BA%D0%B8%D0%BD%D0%BE" title="Жанры игрового кино">Жанр</a></th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P136" class="no-wikidata"><a href="/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%BD" title="Вестерн">вестерн</a> <br> <a href="/wiki/%D0%9F%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0" title="Психологическая драма">психологическая драма</a></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:7.6em;">Режиссёр</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P57" class="no-wikidata"><a href="/wiki/%D0%9A%D1%8D%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BD" title="Кэмпион, Джейн">Джейн Кэмпион</a></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:7.6em;">Продюсер</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P162" class="no-wikidata">Джейн Кэмпион<br><a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%BD%D0%B8%D0%BD%D0%B3,_%D0%99%D0%B5%D0%BD" title="Каннинг, Йен">Йен Каннинг</a><br><span data-interwiki-lang="en" data-interwiki-article="Roger Frappier"><a href="/w/index.php?title=%D0%A4%D1%80%D0%B0%D0%BF%D0%BF%D1%8C%D0%B5,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Фраппье, Роджер (страница отсутствует)">Роджер Фраппье</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/Roger_Frappier" class="extiw" title="en:Roger Frappier"><span title="Roger Frappier — версия статьи «Фраппье, Роджер» на английском языке">[en]</span></a></sup></span><br><a href="/wiki/%D0%A1%D0%B5%D0%B3%D0%B0%D1%87%D1%8F%D0%BD,_%D0%A2%D0%B0%D0%BD%D1%8F" title="Сегачян, Таня">Таня Сегачян</a><br><span data-interwiki-lang="en" data-interwiki-article="Emile Sherman"><a href="/w/index.php?title=%D0%A8%D0%B5%D1%80%D0%BC%D0%B0%D0%BD,_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C&amp;action=edit&amp;redlink=1" class="new" title="Шерман, Эмиль (страница отсутствует)">Эмиль Шерман</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/Emile_Sherman" class="extiw" title="en:Emile Sherman"><span title="Emile Sherman — версия статьи «Шерман, Эмиль» на английском языке">[en]</span></a></sup></span></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:7.6em;">Автор<br>сценария</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P58" class="no-wikidata">Джейн Кэмпион по роману Томаса Сэвиджа «<a href="/wiki/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)" title="Власть пса (роман)">Власть пса</a>»</span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:7.6em;">В&nbsp;главных<br>ролях</th> 
+         <td class="plainlist"> 
+          <div data-wikidata-property-id="P161" class="no-wikidata"> 
+           <ul>
+            <li><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D0%B5%D1%80%D0%B1%D1%8D%D1%82%D1%87,_%D0%91%D0%B5%D0%BD%D0%B5%D0%B4%D0%B8%D0%BA%D1%82" title="Камбербэтч, Бенедикт">Бенедикт Камбербэтч</a></li> 
+            <li><a href="/wiki/%D0%A1%D0%BC%D0%B8%D1%82-%D0%9C%D0%B0%D0%BA%D1%84%D0%B8,_%D0%9A%D0%BE%D0%B4%D0%B8" title="Смит-Макфи, Коди">Коди Смит-Макфи</a></li> 
+            <li><a href="/wiki/%D0%94%D0%B0%D0%BD%D1%81%D1%82,_%D0%9A%D0%B8%D1%80%D1%81%D1%82%D0%B5%D0%BD" title="Данст, Кирстен">Кирстен Данст</a></li> 
+            <li><a href="/wiki/%D0%9F%D0%BB%D0%B5%D0%BC%D0%BE%D0%BD%D1%81,_%D0%94%D0%B6%D0%B5%D1%81%D1%81%D0%B8" title="Племонс, Джесси">Джесси Племонс</a></li>
+           </ul>
+          </div></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:7.6em;">Оператор</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P344" class="no-wikidata"><span data-interwiki-lang="en" data-interwiki-article="Ari Wegner"><a href="/w/index.php?title=%D0%92%D0%B5%D0%B3%D0%BD%D0%B5%D1%80,_%D0%AD%D1%80%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Вегнер, Эри (страница отсутствует)">Эри Вегнер</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/Ari_Wegner" class="extiw" title="en:Ari Wegner"><span title="Ari Wegner — версия статьи «Вегнер, Эри» на английском языке">[en]</span></a></sup></span></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:7.6em;">Композитор</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P86" class="no-wikidata"><a href="/wiki/%D0%94%D0%B6%D0%BE%D0%BD%D0%BD%D0%B8_%D0%93%D1%80%D0%B8%D0%BD%D0%B2%D1%83%D0%B4" class="mw-redirect" title="Джонни Гринвуд">Джонни Гринвуд</a></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:7.6em;">Художник-постановщик</th> 
+         <td class="plainlist"> <span data-wikidata-claim-id="Q85323337$5bf1e51a-4751-407a-b366-87de40030d1c" class="wikidata-claim" data-wikidata-property-id="P2554"><span class="wikidata-snak wikidata-main-snak"><span class="plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%93%D1%80%D0%B0%D0%BD%D1%82+%D0%9C%D0%B5%D0%B9%D0%B4%D0%B6%D0%BE%D1%80&amp;action=edit&amp;editintro=T:Нет_статьи/editintro&amp;preload=T:Нет_статьи/preload&amp;preloadparams%5B%5D=Q1543185&amp;preloadparams%5B%5D=%D0%93%D1%80%D0%B0%D0%BD%D1%82+%D0%9C%D0%B5%D0%B9%D0%B4%D0%B6%D0%BE%D1%80&amp;preloadparams%5B%5D=Персона"><span style="color: #ba0000; text-decoration: inherit; -moz-text-decoration-color: #ba0000; text-decoration-color: #ba0000;">Грант Мейджор</span></a></span><sup><a href="https://www.wikidata.org/wiki/Q1543185" class="extiw" title="d:Q1543185">[d]</a></sup></span></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:7.6em;">Кинокомпания</th> 
+         <td class="plainlist"> 
+          <div data-wikidata-property-id="P272" class="no-wikidata"> 
+           <ul>
+            <li><span data-interwiki-lang="en" data-interwiki-article="New Zealand Film Commission"><a href="/w/index.php?title=New_Zealand_Film_Commission&amp;action=edit&amp;redlink=1" class="new" title="New Zealand Film Commission (страница отсутствует)">New Zealand Film Commission</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/New_Zealand_Film_Commission" class="extiw" title="en:New Zealand Film Commission"><span title="New Zealand Film Commission — версия статьи «New Zealand Film Commission» на английском языке">[en]</span></a></sup></span></li> 
+            <li><span data-interwiki-lang="en" data-interwiki-article="BBC Film"><a href="/w/index.php?title=BBC_Film&amp;action=edit&amp;redlink=1" class="new" title="BBC Film (страница отсутствует)">BBC Film</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/BBC_Film" class="extiw" title="en:BBC Film"><span title="BBC Film — версия статьи «BBC Film» на английском языке">[en]</span></a></sup></span></li> 
+            <li>Cross City Films</li> 
+            <li><span data-interwiki-lang="en" data-interwiki-article="See-Saw Films"><a href="/w/index.php?title=See-Saw_Films&amp;action=edit&amp;redlink=1" class="new" title="See-Saw Films (страница отсутствует)">See-Saw Films</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/See-Saw_Films" class="extiw" title="en:See-Saw Films"><span title="See-Saw Films — версия статьи «See-Saw Films» на английском языке">[en]</span></a></sup></span></li> 
+            <li>Bad Girl Geek</li> 
+            <li>Max Films</li> 
+            <li>Brightstar</li>
+           </ul>
+          </div></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:7.6em;">Дистрибьютор</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P750" class="no-wikidata"><a href="/wiki/Netflix" title="Netflix">Netflix</a></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:7.6em;">Длительность</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P2047" class="no-wikidata">126 мин.</span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:7.6em;">Бюджет</th> 
+         <td class="plainlist"> <span data-wikidata-claim-id="Q85323337$bfc127ce-4348-24f4-e8ac-b3a57fc8fd3b" class="wikidata-claim" data-wikidata-property-id="P2130"><span class="wikidata-snak wikidata-main-snak">39&nbsp;000&nbsp;000&nbsp;$</span></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:7.6em;">Страна</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P495" class="no-wikidata"><span class="nowrap"><span class="nowrap" data-sort-value="США"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" decoding="async" width="22" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650"></span>&nbsp;<a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки"><span class="wrap">США</span></a></span></span></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:7.6em;">Язык</th> 
+         <td class="plainlist"> <span data-wikidata-claim-id="Q85323337$CC6A05A4-1FDE-4BAB-A452-F38B18C034E8" class="wikidata-claim" data-wikidata-property-id="P364"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">английский</a></span></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:7.6em;">Год</th> 
+         <td class="plainlist"> <a href="/wiki/2021_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="2021 год в кино"><span class="dtstart">2021</span></a></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:7.6em;"><a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">IMDb</a></th> 
+         <td class="plainlist"> <span data-wikidata-claim-id="Q85323337$44eb76e7-4d4c-de69-1dd2-fb44ee7a14d7" class="wikidata-claim" data-wikidata-property-id="P345"><span class="wikidata-snak wikidata-main-snak"><a href="https://www.imdb.com/title/tt10293406/" class="extiw" title="imdbtitle:10293406">ID&nbsp;10293406</a></span></span></td> 
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="Q85323337$89ccb379-4f81-c57e-3cdc-67ddbda5b912" class="wikidata-claim" data-wikidata-property-id="P856"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.netflix.com/title/81127997">Официальный сайт</a></span></span></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="Q85323337$9ff38ea4-49b6-67ee-ad4b-f848fb5e8b60" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><a href="https://commons.wikimedia.org/wiki/Category:The_Power_of_the_Dog_(film)" title="commons:Category:The Power of the Dog (film)"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a>&nbsp;<a href="https://commons.wikimedia.org/wiki/Category:The_Power_of_the_Dog_(film)" class="extiw" title="commons:Category:The Power of the Dog (film)">Медиафайлы на Викискладе</a></span></span></td>
+        </tr> 
+       </tbody>
+      </table> 
+      <table class="infobox noprint" style="width:290px;">
+       <tbody>
+        <tr>
+         <th colspan="2" scope="colgroup" class="infobox-above" style="text-align:left; font-style:normal; font-size:100%; background:#eaecf0;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/1/1a/Silk-film.png" decoding="async" width="16" height="16" data-file-width="16" data-file-height="16"> Внешние видеофайлы</th>
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="text-align:left; flex:0;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/1/1a/Silk-film.png" decoding="async" width="16" height="16" data-file-width="16" data-file-height="16"></th> 
+         <td class="plainlist"> <a href="/wiki/YouTube" title="YouTube"><img alt="Логотип YouTube" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/20px-YouTube_full-color_icon_%282017%29.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/30px-YouTube_full-color_icon_%282017%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/40px-YouTube_full-color_icon_%282017%29.svg.png 2x" data-file-width="159" data-file-height="110"></a>&nbsp;<a rel="nofollow" class="external text" href="https://youtube.com/watch?v=ASrw4T8hVm8">Официальный трейлер</a></td> 
+        </tr> 
+       </tbody>
+      </table> 
+      <p><b>«Власть пса»</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&nbsp;<span lang="en" style="font-style:italic;">The Power of the Dog</span>) — американский фильм режиссёра <a href="/wiki/%D0%9A%D1%8D%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BD" title="Кэмпион, Джейн">Джейн Кэмпион</a>, основанный на <a href="/wiki/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)" title="Власть пса (роман)">одноимённом романе</a> 1967 года американского писателя <a href="/wiki/%D0%A1%D1%8D%D0%B2%D0%B8%D0%B4%D0%B6,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81_(%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C)" title="Сэвидж, Томас (писатель)">Томаса Сэвиджа</a><sup id="cite_ref-variety0519_1-0" class="reference"><a href="#cite_note-variety0519-1">[1]</a></sup>. В главных ролях — <a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D0%B5%D1%80%D0%B1%D1%8D%D1%82%D1%87,_%D0%91%D0%B5%D0%BD%D0%B5%D0%B4%D0%B8%D0%BA%D1%82" title="Камбербэтч, Бенедикт">Бенедикт Камбербэтч</a>, <a href="/wiki/%D0%A1%D0%BC%D0%B8%D1%82-%D0%9C%D0%B0%D0%BA%D1%84%D0%B8,_%D0%9A%D0%BE%D0%B4%D0%B8" title="Смит-Макфи, Коди">Коди Смит-Макфи</a>, <a href="/wiki/%D0%94%D0%B0%D0%BD%D1%81%D1%82,_%D0%9A%D0%B8%D1%80%D1%81%D1%82%D0%B5%D0%BD" title="Данст, Кирстен">Кирстен Данст</a> и <a href="/wiki/%D0%9F%D0%BB%D0%B5%D0%BC%D0%BE%D0%BD%D1%81,_%D0%94%D0%B6%D0%B5%D1%81%D1%81%D0%B8" title="Племонс, Джесси">Джесси Племонс</a><sup id="cite_ref-variety1119_2-0" class="reference"><a href="#cite_note-variety1119-2">[2]</a></sup>. Ограниченный прокат фильма в США состоялся 17 ноября, а 1 декабря 2021 года фильм вышел на <a href="/wiki/Netflix" title="Netflix">Netflix</a>. </p>
+      <p>Название фильма — цитата из <a href="/wiki/%D0%9F%D1%81%D0%B0%D0%BB%D0%BE%D0%BC_21" title="Псалом 21">псалма 21</a> «Deliver my soul from the sword; my darling from the power of the dog» («избавь от меча душу мою и от псов одинокую мою»). </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="ru" dir="ltr">
+        <h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#Сюжет"><span class="tocnumber">1</span> <span class="toctext">Сюжет</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#В_ролях"><span class="tocnumber">2</span> <span class="toctext">В ролях</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Производство"><span class="tocnumber">3</span> <span class="toctext">Производство</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Оценки_критиков"><span class="tocnumber">4</span> <span class="toctext">Оценки критиков</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Награды"><span class="tocnumber">5</span> <span class="toctext">Награды</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Примечания"><span class="tocnumber">6</span> <span class="toctext">Примечания</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Ссылки"><span class="tocnumber">7</span> <span class="toctext">Ссылки</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span id=".D0.A1.D1.8E.D0.B6.D0.B5.D1.82"></span><span class="mw-headline" id="Сюжет">Сюжет</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Сюжет»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;section=1" title="Редактировать раздел «Сюжет»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>В 1925 году в штате <a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D0%B0" title="Монтана">Монтана</a> богатые владельцы ранчо, братья Фил и Джордж Бербанк, во время перегона скота знакомятся со вдовой и владелицей постоялого двора Роуз Гордон. Добросердечный Джордж быстро влюбляется в Роуз, в то время как непостоянный Фил, находящийся под сильным влиянием своего покойного наставника Бронко Генри, насмехается над сыном Роуз Питером из-за его косноязычия и женоподобных манер. </p>
+      <p>Джордж и Роуз вскоре женятся. Роуз использует деньги Джорджа, чтобы отправить сына в колледж изучать медицину и хирургию, а сама переезжает в дом на ранчо Бербанка. Фил недолюбливает её, считая, что она вышла замуж за Джорджа ради денег. Грубые манеры и насмешки Фила раздражают Роуз. Джордж организует званый ужин с участием своих родителей и губернатора, чтобы они могли познакомиться с Роуз и послушать, как она играет на их новом пианино. Роуз может сыграть лишь несколько нот «<a href="/wiki/%D0%9C%D0%B0%D1%80%D1%88_%D0%A0%D0%B0%D0%B4%D0%B5%D1%86%D0%BA%D0%BE%D0%B3%D0%BE" title="Марш Радецкого">Марша Радецкого</a>», Фил унижает её. Роуз начинает употреблять алкоголь, хотя раньше выступала против пьянства. </p>
+      <p>К тому времени, когда Питер приезжает на ранчо на летние каникулы, Роуз становится алкоголичкой. Фил и его люди насмехаются над Питером, и он уединяется в своей комнате, препарируя животных и изучая болезни. На поляне в уединение Фил мастурбирует, используя носовой платок Бронко Генри. Питер заходит на поляну и находит там целый ворох принадлежавших Бронко Генри журналов, на иллюстрациях в которых изображены обнаженные мужчины. Он видит, как Фил купается в пруду с платком на шее; Фил замечает его и прогоняет. </p>
+      <p>Фил начинает проявлять уважение по отношению к Питеру, предлагая сплести ему <a href="/wiki/%D0%9B%D0%B0%D1%81%D1%81%D0%BE" title="Лассо">лассо</a> из <a href="/wiki/%D0%A1%D1%8B%D1%80%D0%BE%D0%BC%D1%8F%D1%82%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%B6%D0%B0" title="Сыромятная кожа">сыромятной кожи</a> и научить ездить на лошади. Однажды Питер отправляется в одиночку и находит мертвую корову, предположительно умершую от <a href="/wiki/%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D1%8F%D0%B7%D0%B2%D0%B0" title="Сибирская язва">сибирской язвы</a>. Он надевает перчатки и срезает с трупа куски шкуры. Во время работы по установке ограды Питер и Фил загоняют и убивают кролика, и Фил ранит щепой руку. После этого Питер рассказывает Филу о том, как нашел тело своего отца-алкоголика, который повесился, и сам вынул его из петли. </p>
+      <p>Видя, как много времени её сын проводит с Филом, Роуз пьёт всё больше. Узнав о том, что Фил сжигает ненужные ему шкуры, Роуз демонстративно отдает их индейцам, которые в знак благодарности дарят ей пару перчаток. Затем она теряет сознание от выпитого алкоголя, и Джордж ухаживает за ней. </p>
+      <p>Оставшись без шкур и не имея возможности закончить лассо для Питера, Фил в отчаянии пытается наброситься на Роуз, но его останавливает Джордж. Питер успокаивает его, предлагая ему шкуру, которую он снял с мертвой коровы, но не упоминает, что животное было больным. Фил тронут и обещает Питеру, что с этого момента их отношения станут намного лучше. Они проводят ночь в сарае, доделывая веревку, и в рану Фила попадает вода, в которой размокает шкура. </p>
+      <p>Фил рассказывает Питеру, как Бронко Генри спас ему жизнь в мороз, лежа с ним тело к телу в спальном мешке. Фил не отвечает, когда Питер спрашивает, были ли они голыми. Затем они вместе закуривают сигарету. На следующий день Фил не приходит на завтрак, и Джордж находит его в постели больным, с инфицированной раной. В беспамятстве Фил ищет Питера, чтобы отдать ему готовое лассо, но Джордж увозит Фила к доктору, прежде чем тот успевает передать ему лассо. Джордж выбирает гроб для брата, а тело Фила готовят к погребению. </p>
+      <p>На похоронах доктор говорит Джорджу, что Фил, скорее всего, умер от сибирской язвы, что озадачивает Джорджа, так как Фил никогда не прикасался к больному скоту. Не поехав на похороны, Питер открывает <a href="/wiki/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0_%D0%BE%D0%B1%D1%89%D0%B8%D1%85_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2" title="Книга общих молитв">Книгу общих молитв</a>, чтобы прочитать обряд погребения, а затем читает <a href="/wiki/%D0%9F%D1%81%D0%B0%D0%BB%D0%BE%D0%BC_21" title="Псалом 21">Псалом 22</a>:21: «Избавь от меча душу мою и от псов одинокую мою». Позже он руками в перчатках кладет готовое лассо под кровать. Проходя по коридору, он останавливается у окна и смотрит, как Джордж и Роуз возвращаются домой и обнимаются. Он отворачивается и улыбается. </p> 
+      <h2><span id=".D0.92_.D1.80.D0.BE.D0.BB.D1.8F.D1.85"></span><span class="mw-headline" id="В_ролях">В ролях</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «В ролях»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;section=2" title="Редактировать раздел «В ролях»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D0%B5%D1%80%D0%B1%D1%8D%D1%82%D1%87,_%D0%91%D0%B5%D0%BD%D0%B5%D0%B4%D0%B8%D0%BA%D1%82" title="Камбербэтч, Бенедикт">Бенедикт Камбербэтч</a> — <i>Фил Бербэнк</i></li> 
+       <li><a href="/wiki/%D0%94%D0%B0%D0%BD%D1%81%D1%82,_%D0%9A%D0%B8%D1%80%D1%81%D1%82%D0%B5%D0%BD" title="Данст, Кирстен">Кирстен Данст</a> — <i>Роуз Гордон</i></li> 
+       <li><a href="/wiki/%D0%9F%D0%BB%D0%B5%D0%BC%D0%BE%D0%BD%D1%81,_%D0%94%D0%B6%D0%B5%D1%81%D1%81%D0%B8" title="Племонс, Джесси">Джесси Племонс</a> — <i>Джордж Бербэнк</i></li> 
+       <li><a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%BA%D0%B5%D0%BD%D0%B7%D0%B8,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81%D0%B8%D0%BD" title="Маккензи, Томасин">Томасин Маккензи</a> — <i>Лола</i></li> 
+       <li><a href="/wiki/%D0%A1%D0%BC%D0%B8%D1%82-%D0%9C%D0%B0%D0%BA%D1%84%D0%B8,_%D0%9A%D0%BE%D0%B4%D0%B8" title="Смит-Макфи, Коди">Коди Смит-Макфи</a> — <i>Питер Гордон</i></li> 
+       <li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%80%D0%BE%D0%B9,_%D0%A4%D1%80%D1%8D%D0%BD%D1%81%D0%B8%D1%81" title="Конрой, Фрэнсис">Фрэнсис Конрой</a> — <i>миссис Бербанк</i></li> 
+       <li><a href="/wiki/%D0%9A%D1%8D%D1%80%D1%80%D0%B0%D0%B4%D0%B0%D0%B9%D0%BD,_%D0%9A%D0%B8%D1%82" title="Кэррадайн, Кит">Кит Кэррадайн</a> — <i>губернатор Эдвард</i></li> 
+       <li><span data-interwiki-lang="en" data-interwiki-article="Peter Carroll (actor)"><a href="/w/index.php?title=%D0%9A%D1%8D%D1%80%D1%80%D0%BE%D0%BB%D0%BB,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Кэрролл, Питер (страница отсутствует)">Питер Кэрролл</a></span><span class="noprint" style="font-style:normal; font-weight:normal;"><sup><a href="https://en.wikipedia.org/wiki/Peter_Carroll_(actor)" class="extiw" title="en:Peter Carroll (actor)"><span title="Peter Carroll (actor) — версия статьи «Кэрролл, Питер» на английском языке">[en]</span></a></sup></span> — <i>мистер Бербанк</i></li> 
+       <li><a href="/wiki/%D0%91%D0%B8%D1%87,_%D0%90%D0%B4%D0%B0%D0%BC" title="Бич, Адам">Адам Бич</a> — <i>Эдвард Наппо</i></li>
+      </ul> 
+      <h2><span id=".D0.9F.D1.80.D0.BE.D0.B8.D0.B7.D0.B2.D0.BE.D0.B4.D1.81.D1.82.D0.B2.D0.BE"></span><span class="mw-headline" id="Производство">Производство</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Производство»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;section=3" title="Редактировать раздел «Производство»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>В мае 2019 года было объявлено, что <a href="/wiki/%D0%9A%D1%8D%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BD" title="Кэмпион, Джейн">Джейн Кэмпион</a> станет режиссёром и сценаристом фильма «Власть пса», главные роли в котором сыграют <a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D0%B5%D1%80%D0%B1%D1%8D%D1%82%D1%87,_%D0%91%D0%B5%D0%BD%D0%B5%D0%B4%D0%B8%D0%BA%D1%82" title="Камбербэтч, Бенедикт">Бенедикт Камбербэтч</a> и <a href="/wiki/%D0%9C%D0%BE%D1%81%D1%81,_%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82" title="Мосс, Элизабет">Элизабет Мосс</a><sup id="cite_ref-variety0519_1-1" class="reference"><a href="#cite_note-variety0519-1">[1]</a></sup><sup id="cite_ref-deadline_3-0" class="reference"><a href="#cite_note-deadline-3">[3]</a></sup>. Позднее стало известно, что Мосс не сыграет в фильме из-за съёмок в сериале «<a href="/wiki/%D0%A0%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7_%D1%81%D0%BB%D1%83%D0%B6%D0%B0%D0%BD%D0%BA%D0%B8_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Рассказ служанки (телесериал)">Рассказ служанки</a>», и её заменит <a href="/wiki/%D0%94%D0%B0%D0%BD%D1%81%D1%82,_%D0%9A%D0%B8%D1%80%D1%81%D1%82%D0%B5%D0%BD" title="Данст, Кирстен">Кирстен Данст</a><sup id="cite_ref-variety1019_4-0" class="reference"><a href="#cite_note-variety1019-4">[4]</a></sup>. <a href="/wiki/%D0%94%D0%B0%D0%BD%D0%BE,_%D0%9F%D0%BE%D0%BB" title="Дано, Пол">Пол Дано</a> должен был сыграть ещё одну из главных ролей<sup id="cite_ref-variety1019_4-1" class="reference"><a href="#cite_note-variety1019-4">[4]</a></sup>, но впоследствии также вышел из проекта в связи с участием в съёмках в фильме «<a href="/wiki/%D0%91%D1%8D%D1%82%D0%BC%D0%B5%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2022)" title="Бэтмен (фильм, 2022)">Бэтмен</a>»; его заменил <a href="/wiki/%D0%9F%D0%BB%D0%B5%D0%BC%D0%BE%D0%BD%D1%81,_%D0%94%D0%B6%D0%B5%D1%81%D1%81%D0%B8" title="Племонс, Джесси">Джесси Племонс</a><sup id="cite_ref-variety1119_2-1" class="reference"><a href="#cite_note-variety1119-2">[2]</a></sup>. В феврале 2020 года было объявлено, что в фильме также сыграют <a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%BA%D0%B5%D0%BD%D0%B7%D0%B8,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81%D0%B8%D0%BD" title="Маккензи, Томасин">Томасин Маккензи</a>, <a href="/wiki/%D0%A1%D0%BC%D0%B8%D1%82-%D0%9C%D0%B0%D0%BA%D1%84%D0%B8,_%D0%9A%D0%BE%D0%B4%D0%B8" title="Смит-Макфи, Коди">Коди Смит-Макфи</a>, <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%80%D0%BE%D0%B9,_%D0%A4%D1%80%D1%8D%D0%BD%D1%81%D0%B8%D1%81" title="Конрой, Фрэнсис">Фрэнсис Конрой</a>, <a href="/wiki/%D0%9A%D1%8D%D1%80%D1%80%D0%B0%D0%B4%D0%B0%D0%B9%D0%BD,_%D0%9A%D0%B8%D1%82" title="Кэррадайн, Кит">Кит Кэррадайн</a>, Питер Кэрролл и <a href="/wiki/%D0%91%D0%B8%D1%87,_%D0%90%D0%B4%D0%B0%D0%BC" title="Бич, Адам">Адам Бич</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>. </p>
+      <p>Съёмки начались в январе 2020 года в <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%97%D0%B5%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F" title="Новая Зеландия">Новой Зеландии</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>. 2 апреля съёмки были приостановлены в связи с ограничениями, введёнными из-за <a href="/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_COVID-19_%D0%B2_%D0%9D%D0%BE%D0%B2%D0%BE%D0%B9_%D0%97%D0%B5%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8" title="Распространение COVID-19 в Новой Зеландии">распространения COVID-19</a><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>. В конце июня 2020 года съёмки возобновились<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>. </p> 
+      <h2><span id=".D0.9E.D1.86.D0.B5.D0.BD.D0.BA.D0.B8_.D0.BA.D1.80.D0.B8.D1.82.D0.B8.D0.BA.D0.BE.D0.B2"></span><span class="mw-headline" id="Оценки_критиков">Оценки критиков</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Оценки критиков»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;section=4" title="Редактировать раздел «Оценки критиков»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>На <a href="/wiki/%D0%90%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D0%BE%D1%80_%D1%80%D0%B5%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D0%B9" title="Агрегатор рецензий">сайте-агрегаторе</a> <i><a href="/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></i> фильм имеет рейтинг 94&nbsp;% на основании 331 рецензии критиков со средним баллом 8,4 из 10. «Консенсус критиков» сформулирован так: «Воплощённый звёздным ансамблем во главе с Бенедиктом Камбербэтчем, „Власть пса“ подтверждает, что автор сценария и режиссёр Джейн Кэмпион является одним из лучших режиссёров своего поколения»<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup>. </p>
+      <p>На сайте-агрегаторе <i><a href="/wiki/Metacritic" title="Metacritic">Metacritic</a></i> рейтинг фильма составляет 89 баллов из 100 возможных на основании 58 рецензий критиков, что означает «всеобщее признание»<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup>. </p>
+      <p>По итогам 2021 года многие издания, в частности <i><a href="/wiki/Empire_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)" title="Empire (журнал)">Empire</a></i><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup>, <i><a href="/wiki/Esquire" title="Esquire">Esquire</a></i><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup>, <i><a href="/wiki/GamesRadar" title="GamesRadar">GamesRadar</a></i><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup>, <i><a href="/wiki/Men%E2%80%99s_Health" title="Men’s Health">Men’s Health</a></i><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>, <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>, <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">[17]</a></sup>, <i><a href="/wiki/Time_Out" title="Time Out">Time Out</a></i><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">[18]</a></sup>, <i><a href="/wiki/Vogue" title="Vogue">Vogue</a></i><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">[19]</a></sup>, <i><a href="/wiki/Vulture" class="mw-redirect" title="Vulture">Vulture</a></i><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">[20]</a></sup>, <i><a href="/wiki/Wired" title="Wired">Wired</a></i><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">[21]</a></sup>, «<a href="/wiki/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%B8%D1%81%D0%BA" title="Кинопоиск">Кинопоиск</a>»<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">[22]</a></sup> включили «Власть пса» в свои списки лучших фильмов. <i>IndieWire</i><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">[23]</a></sup>, <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">[24]</a></sup>, <i><a href="/wiki/Time" title="Time">Time</a></i><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">[25]</a></sup> назвали его лучшим фильмом года. По подсчётам агрегатора <i>Metacritic</i>, именно этот фильм чаще всего включали в списки лучших за 2021 год<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">[26]</a></sup>. </p> 
+      <h2><span id=".D0.9D.D0.B0.D0.B3.D1.80.D0.B0.D0.B4.D1.8B"></span><span class="mw-headline" id="Награды">Награды</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Награды»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;section=5" title="Редактировать раздел «Награды»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="wikitable plainrowheaders sortable"> 
+       <tbody>
+        <tr> 
+         <th scope="col" style="width:20%;">Награда </th> 
+         <th scope="col" style="width:10%;">Дата вручения </th> 
+         <th scope="col" style="width:25%;">Категория </th> 
+         <th scope="col" style="width:35%;">Номинанты и получатели </th> 
+         <th scope="col" style="width:5%;">Результат </th> 
+         <th class="unsortable" scope="col"><style data-mw-deduplicate="TemplateStyles:r113275842">.mw-parser-output .ts-comment-commentedText{border-bottom:1px dotted;cursor:help}@media(hover:none){.mw-parser-output .ts-comment-commentedText:not(.rt-commentedText){border-bottom:0;cursor:auto}}</style><span class="ts-comment-commentedText" title="Источники">Ист.</span> </th>
+        </tr> 
+        <tr> 
+         <td rowspan="2"><a href="/wiki/78-%D0%B9_%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B8%D0%BD%D0%BE%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C" title="78-й Венецианский кинофестиваль">Венецианский кинофестиваль</a> </td> 
+         <td rowspan="2"><a href="/wiki/78-%D0%B9_%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B8%D0%BD%D0%BE%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C" title="78-й Венецианский кинофестиваль">11 сентября 2021</a> </td> 
+         <td><a href="/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%BB%D0%B5%D0%B2" title="Золотой лев">Золотой лев</a> </td> 
+         <td><i>Власть пса</i> </td> 
+         <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Номинация </td> 
+         <td rowspan="2" style="text-align:center;"><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">[27]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D1%8B%D0%B9_%D0%BB%D0%B5%D0%B2" title="Серебряный лев">Серебряный лев за лучшую режиссёрскую работу</a> </td> 
+         <td><a href="/wiki/%D0%9A%D1%8D%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BD" title="Кэмпион, Джейн">Джейн Кэмпион</a> </td> 
+         <td style="background: #98FB98; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Победа </td>
+        </tr> 
+        <tr> 
+         <td rowspan="7"><a href="/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%B3%D0%BB%D0%BE%D0%B1%D1%83%D1%81_(%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F,_2022)" title="Золотой глобус (премия, 2022)">Премия «Золотой глобус»</a> </td> 
+         <td rowspan="7">9 января 2022 </td> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%B3%D0%BB%D0%BE%D0%B1%D1%83%D1%81%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC_%E2%80%94_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0" title="Премия «Золотой глобус» за лучший фильм — драма">Лучший фильм — драма</a> </td> 
+         <td><i>Власть пса</i> </td> 
+         <td style="background: #98FB98; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Победа </td> 
+         <td rowspan="7" style="text-align:center;"><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">[28]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%B3%D0%BB%D0%BE%D0%B1%D1%83%D1%81%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D1%83%D1%8E_%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80%D1%81%D0%BA%D1%83%D1%8E_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83" title="Премия «Золотой глобус» за лучшую режиссёрскую работу">Лучший режиссер</a> </td> 
+         <td>Джейн Кэмпион </td> 
+         <td style="background: #98FB98; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Победа </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%B3%D0%BB%D0%BE%D0%B1%D1%83%D1%81%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D1%83%D1%8E_%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D1%83%D1%8E_%D1%80%D0%BE%D0%BB%D1%8C_%E2%80%94_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0" title="Премия «Золотой глобус» за лучшую мужскую роль — драма">Лучший актёр в драматическом фильме</a> </td> 
+         <td><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D0%B5%D1%80%D0%B1%D1%8D%D1%82%D1%87,_%D0%91%D0%B5%D0%BD%D0%B5%D0%B4%D0%B8%D0%BA%D1%82" title="Камбербэтч, Бенедикт">Бенедикт Камбербэтч</a> </td> 
+         <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Номинация </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%B3%D0%BB%D0%BE%D0%B1%D1%83%D1%81%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D1%83%D1%8E_%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D1%83%D1%8E_%D1%80%D0%BE%D0%BB%D1%8C_%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0_%E2%80%94_%D0%9A%D0%B8%D0%BD%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" class="mw-redirect" title="Премия «Золотой глобус» за лучшую мужскую роль второго плана — Кинофильм">Лучший актёр второго плана</a> </td> 
+         <td><a href="/wiki/%D0%A1%D0%BC%D0%B8%D1%82-%D0%9C%D0%B0%D0%BA%D1%84%D0%B8,_%D0%9A%D0%BE%D0%B4%D0%B8" title="Смит-Макфи, Коди">Коди Смит-Макфи</a> </td> 
+         <td style="background: #98FB98; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Победа </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%B3%D0%BB%D0%BE%D0%B1%D1%83%D1%81%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D1%83%D1%8E_%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D1%83%D1%8E_%D1%80%D0%BE%D0%BB%D1%8C_%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0_%E2%80%94_%D0%BA%D0%B8%D0%BD%D0%BE%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" title="Премия «Золотой глобус» за лучшую женскую роль второго плана — кинофильм">Лучшая актриса второго плана</a> </td> 
+         <td><a href="/wiki/%D0%94%D0%B0%D0%BD%D1%81%D1%82,_%D0%9A%D0%B8%D1%80%D1%81%D1%82%D0%B5%D0%BD" title="Данст, Кирстен">Кирстен Данст</a> </td> 
+         <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Номинация </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%B3%D0%BB%D0%BE%D0%B1%D1%83%D1%81%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9" title="Премия «Золотой глобус» за лучший сценарий">Лучший сценарий</a> </td> 
+         <td>Джейн Кэмпион </td> 
+         <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Номинация </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%B3%D0%BB%D0%BE%D0%B1%D1%83%D1%81%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D1%83%D1%8E_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D1%83_%D0%BA_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%83" title="Премия «Золотой глобус» за лучшую музыку к фильму">Лучшая музыка к фильму</a> </td> 
+         <td><a href="/wiki/%D0%93%D1%80%D0%B8%D0%BD%D0%B2%D1%83%D0%B4,_%D0%94%D0%B6%D0%BE%D0%BD%D0%BD%D0%B8" title="Гринвуд, Джонни">Джонни Гринвуд</a> </td> 
+         <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Номинация </td>
+        </tr> 
+        <tr> 
+         <td rowspan="8"><a href="/wiki/BAFTA_(%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F,_2022)" title="BAFTA (премия, 2022)">BAFTA</a> </td> 
+         <td rowspan="8">13 марта 2022 </td> 
+         <td>Лучший фильм </td> 
+         <td><i>«Власть пса»</i> </td> 
+         <td style="background: #98FB98; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Победа </td> 
+         <td rowspan="8" style="text-align:center;"><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">[29]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td>Лучшая режиссура </td> 
+         <td>Джейн Кэмпион </td> 
+         <td style="background: #98FB98; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Победа </td>
+        </tr> 
+        <tr> 
+         <td>Лучшая мужская роль </td> 
+         <td>Бенедикт Камбербэтч </td> 
+         <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Номинация </td>
+        </tr> 
+        <tr> 
+         <td rowspan="2">Лучшая мужская роль второго плана </td> 
+         <td><a href="/wiki/%D0%94%D0%B6%D0%B5%D1%81%D1%81%D0%B8_%D0%9F%D0%BB%D0%B5%D0%BC%D0%BE%D0%BD%D1%81" class="mw-redirect" title="Джесси Племонс">Джесси Племонс</a> </td> 
+         <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Номинация </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%9A%D0%BE%D0%B4%D0%B8_%D0%A1%D0%BC%D0%B8%D1%82-%D0%9C%D0%B0%D0%BA%D1%84%D0%B8" class="mw-redirect" title="Коди Смит-Макфи">Коди Смит-Макфи</a> </td> 
+         <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Номинация </td>
+        </tr> 
+        <tr> 
+         <td>Лучший адаптированный сценарий </td> 
+         <td>Джейн Кэмпион </td> 
+         <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Номинация </td>
+        </tr> 
+        <tr> 
+         <td>Лучшая музыка к фильму </td> 
+         <td>Джонни Гринвуд </td> 
+         <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Номинация </td>
+        </tr> 
+        <tr> 
+         <td>Лучшая операторская работа </td> 
+         <td>Ари Вегнер </td> 
+         <td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Номинация </td>
+        </tr> 
+        <tr> 
+         <td rowspan="12"><a href="/wiki/%D0%9E%D1%81%D0%BA%D0%B0%D1%80_(%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F,_2022)" title="Оскар (кинопремия, 2022)">«Оскар»</a> </td> 
+         <td rowspan="12">27 марта 2022 </td> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%9E%D1%81%D0%BA%D0%B0%D1%80%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" title="Премия «Оскар» за лучший фильм">Лучший фильм</a> </td> 
+         <td><i>«Власть пса»</i> </td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Ожидается </td> 
+         <td rowspan="12" style="text-align:center;"><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">[30]</a></sup> </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%9E%D1%81%D0%BA%D0%B0%D1%80%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D1%83%D1%8E_%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80%D1%81%D0%BA%D1%83%D1%8E_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83" class="mw-redirect" title="Премия «Оскар» за лучшую режиссёрскую работу">Лучшая режиссура</a> </td> 
+         <td>Джейн Кэмпион </td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Ожидается </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%9E%D1%81%D0%BA%D0%B0%D1%80%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D1%83%D1%8E_%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D1%83%D1%8E_%D1%80%D0%BE%D0%BB%D1%8C" title="Премия «Оскар» за лучшую мужскую роль">Лучший актёр</a> </td> 
+         <td>Бенедикт Камбербэтч </td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Ожидается </td>
+        </tr> 
+        <tr> 
+         <td rowspan="2"><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%9E%D1%81%D0%BA%D0%B0%D1%80%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D1%83%D1%8E_%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D1%83%D1%8E_%D1%80%D0%BE%D0%BB%D1%8C_%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0" title="Премия «Оскар» за лучшую мужскую роль второго плана">Лучший актёр второго плана</a> </td> 
+         <td><a href="/wiki/%D0%9F%D0%BB%D0%B5%D0%BC%D0%BE%D0%BD%D1%81,_%D0%94%D0%B6%D0%B5%D1%81%D1%81%D0%B8" title="Племонс, Джесси">Джесси Племонс</a> </td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Ожидается </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%A1%D0%BC%D0%B8%D1%82-%D0%9C%D0%B0%D0%BA%D1%84%D0%B8,_%D0%9A%D0%BE%D0%B4%D0%B8" title="Смит-Макфи, Коди">Коди Смит-Макфи</a> </td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Ожидается </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%9E%D1%81%D0%BA%D0%B0%D1%80%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D1%83%D1%8E_%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D1%83%D1%8E_%D1%80%D0%BE%D0%BB%D1%8C_%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BB%D0%B0%D0%BD%D0%B0" title="Премия «Оскар» за лучшую женскую роль второго плана">Лучшая актриса второго плана</a> </td> 
+         <td>Кирстен Данст </td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Ожидается </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%9E%D1%81%D0%BA%D0%B0%D1%80%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D0%B0%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9" title="Премия «Оскар» за лучший адаптированный сценарий">Лучший адаптированный сценарий</a> </td> 
+         <td>Джейн Кэмпион </td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Ожидается </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%9E%D1%81%D0%BA%D0%B0%D1%80%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D1%83%D1%8E_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D1%83_%D0%BA_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%83" title="Премия «Оскар» за лучшую музыку к фильму">Лучшая музыка к фильму</a> </td> 
+         <td>Джонни Гринвуд </td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Ожидается </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%9E%D1%81%D0%BA%D0%B0%D1%80%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6" title="Премия «Оскар» за лучший монтаж">Лучший монтаж</a> </td> 
+         <td>Питер Шиберрас </td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Ожидается </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%9E%D1%81%D0%BA%D0%B0%D1%80%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D1%83%D1%8E_%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%81%D0%BA%D1%83%D1%8E_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83" title="Премия «Оскар» за лучшую операторскую работу">Лучшая операторская работа</a> </td> 
+         <td>Ари Вегнер </td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Ожидается </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%9E%D1%81%D0%BA%D0%B0%D1%80%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D1%83%D1%8E_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%B0" title="Премия «Оскар» за лучшую работу художника-постановщика">Лучшая работа художника</a> </td> 
+         <td>Грант Мэйджор и Эмбер Ричардс </td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Ожидается </td>
+        </tr> 
+        <tr> 
+         <td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%9E%D1%81%D0%BA%D0%B0%D1%80%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D0%B7%D0%B2%D1%83%D0%BA" title="Премия «Оскар» за лучший звук">Лучший звук</a> </td> 
+         <td>Ричард Флинн, Роберт Маккензи и Тара Уэбб </td> 
+         <td style="background: #FFD; color: black; vertical-align: middle; text-align: center;" class="partial table-partial">Ожидается </td>
+        </tr>
+       </tbody>
+      </table> 
+      <h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;section=6" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist columns" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap mw-references-columns">
+        <ol class="references"> 
+         <li id="cite_note-variety0519-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-variety0519_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-variety0519_1-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://variety.com/2019/film/news/benedict-cumberbatch-elisabeth-moss-jane-campion-power-of-the-dog-1203205974/">Benedict Cumberbatch, Elisabeth Moss to Star in Jane Campion’s New Film (EXCLUSIVE)</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. Variety.com (6 мая 2019).</span></span></span> </li> 
+         <li id="cite_note-variety1119-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-variety1119_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-variety1119_2-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://variety.com/2019/film/news/jesse-plemons-benedict-cumberbatch-power-of-the-dog-jane-campion-1203412172/">Jesse Plemons Joins Benedict Cumberbatch in Jane Campion’s ‘Power of the Dog’ (EXCLUSIVE)</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. Variety.com (21 ноября 2019).</span></span></span> </li> 
+         <li id="cite_note-deadline-3"><span class="mw-cite-backlink"><a href="#cite_ref-deadline_3-0">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://deadline.com/2019/05/the-power-of-the-dog-netflix-deal-benedict-cumberbatch-elisabeth-moss-jane-campion-1202624507/">Jane Campion’s ‘The Power Of The Dog’ With Benedict Cumberbatch And Elisabeth Moss Leashed By Netflix</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. Deadline.com (30 мая 2019).</span></span></span> </li> 
+         <li id="cite_note-variety1019-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-variety1019_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-variety1019_4-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://variety.com/2019/film/news/kirsten-dunst-benedict-cumberbatch-power-of-the-dog-1203363622/">Kirsten Dunst to Replace Elisabeth Moss in Benedict Cumberbatch’s ‘Power of the Dog’ (EXCLUSIVE)</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. Variety.com (8 октября 2019).</span></span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://deadline.com/2020/02/the-power-of-the-dog-thomasin-mckenzie-kodi-smit-mcphee-benedict-cumberbatch-netflix-drama-1202852770/">‘The Power Of The Dog’: ‘Jojo Rabbit’s Thomasin McKenzie, Kodi Smit-McPhee &amp; More Join Benedict Cumberbatch In Netflix Drama</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. Deadline.com (12 февраля 2020).</span></span></span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://www.odt.co.nz/regions/central-otago/work-starts-netflix-drama-maniototo">Work starts on Netflix drama in Maniototo</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. Otago Daily Times (10 января 2020).</span></span></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://www.odt.co.nz/news/dunedin/campion-film-set-arrives-dunedin">Campion film set arrives in Dunedin</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. Otago Daily Times (6 марта 2020).</span></span></span> </li> 
+         <li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://www.if.com.au/see-saw-films-emile-sherman-ponders-the-post-pandemic-future/">See-Saw Films’ Emile Sherman ponders the post-pandemic future</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. If Magazine (2 апреля 2020).</span></span></span> </li> 
+         <li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://i.stuff.co.nz/entertainment/film/121865693/jane-campion-movie-starring-cumberbatch-dunst-is-second-film-allowed-in">Jane Campion movie starring Cumberbatch, Dunst is second film allowed in</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. Stuff (18 июня 2020).</span></span></span> </li> 
+         <li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://www.rottentomatoes.com/m/the_power_of_the_dog">The Power of the Dog</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. Rotten Tomatoes.</span></span></span> </li> 
+         <li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://www.metacritic.com/movie/the-power-of-the-dog">The Power of the Dog</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>. Metacritic.com.</span></span></span> </li> 
+         <li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.empireonline.com/movies/features/best-movies-2021/">The Best Movies Of 2021 | Movies | Empire</a></span> </li> 
+         <li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.esquire.com/entertainment/movies/g34589333/best-movies-of-2021/">65 Best Movies of 2021 - Top New 2021 Films to Stream Now</a></span> </li> 
+         <li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.gamesradar.com/best-movies-2021/">The 25 best movies of 2021, as chosen by Total Film | GamesRadar</a></span> </li> 
+         <li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.menshealth.com/entertainment/g35256582/best-new-movies-2021/">27 Best Movies 2021 - 29 Most Anticipated Movies of the Year</a></span> </li> 
+         <li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.nytimes.com/2021/12/06/movies/best-movies.html">https://www.nytimes.com/2021/12/06/movies/best-movies.html</a></span> </li> 
+         <li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.rollingstone.com/movies/movie-lists/20-best-movies-of-2021-1253282/the-power-of-the-dog-2-1267300/">20 Best Movies of 2021 - Rolling Stone</a></span> </li> 
+         <li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.timeout.com/movies/best-movies-2021">The 20 best movies of 2021</a></span> </li> 
+         <li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.vogue.com/article/best-movies-of-2021-according-to-vogue-editors">The Best Movies of 2021, According to Vogue Editors | Vogue</a></span> </li> 
+         <li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.vulture.com/article/best-movies-2021.html">The Best Movies of 2021</a></span> </li> 
+         <li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.wired.com/story/best-movies-2021/">The Best Movies of 2021—and Where to Stream Them | WIRED</a></span> </li> 
+         <li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.kinopoisk.ru/media/article/4005539/">Лучшие фильмы — 2021: выбор редакции Кинопоиска — Статьи на Кинопоиске</a></span> </li> 
+         <li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.indiewire.com/gallery/50-best-movies-2021-critics-poll/mcdpoof-zx034/">The 50 Best Movies of 2021, According to 187 Film Critics | IndieWire</a></span> </li> 
+         <li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.theguardian.com/film/series/best-films-of-2021">Best films of 2021 | Film | The Guardian</a></span> </li> 
+         <li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://time.com/6125959/best-movies-2021/">The 10 Best Movies of 2021 | Time</a></span> </li> 
+         <li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.metacritic.com/feature/film-critics-pick-10-best-movies-of-2021?ref=hp">Film Critic Top 10 Lists - Best Movies of 2021</a> - Metacritic</span> </li> 
+         <li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.rbc.ru/society/11/09/2021/613cfabc9a79473e1f05f40e">Главную награду Венецианского кинофестиваля получил фильм "Событие"</a></span><span class="hidden-ref" style="display:none"><b>&nbsp;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>. <small>Дата обращения: 13 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.goldenglobes.com/articles/golden-globes-2022-nominations-79th-golden-globes-were-announced">Golden Globes 2022: Nominations for the 79th Golden Globes Have Been Announced</a></span><span class="hidden-ref" style="display:none"><b>&nbsp;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>. <small>Дата обращения: 13 декабря 2021.</small></span></span></span> </li> 
+         <li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://deadline.com/2022/02/bafta-film-awards-nominations-dune-the-power-of-the-dog-lead-the-way-1234925706/">BAFTA Film Awards: ‘Dune’ &amp; ‘The Power Of The Dog’ Lead Nominations</a></span><span class="hidden-ref" style="display:none"><b>&nbsp;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>. <small>Дата обращения: 13 марта 2022.</small></span></span></span> </li> 
+         <li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Дина Касимова.</i> <span lang="und"><a rel="nofollow" class="external text" href="https://kg-portal.ru/comments/103398-oskar-2022-polnyj-spisok-nominantov/">«Оскар 2022» — полный список номинантов</a></span><span class="hidden-ref" style="display:none"><b>&nbsp;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>. <i>КГ-Портал</i> (February 8, 2022). <small>Дата обращения: 18 февраля 2022.</small></span></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;section=7" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="https://www.netflix.com/ru/title/81127997">Фильм</a> на сайте <a href="/wiki/Netflix" title="Netflix">Netflix</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://www.imdb.com/title/tt10293406/">Фильм</a> на сайте <a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">Internet Movie Database</a></li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-label="Навигационный шаблон" data-name="External links">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">
+           <div style="padding: 0 35px 0 0; width: 100%;">
+            <div style="float: left;">
+             <a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;&nbsp;<a href="https://www.wikidata.org/wiki/Q85323337#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a>
+            </div>&nbsp;&nbsp;Тематические сайты
+           </div></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a rel="nofollow" class="external text" href="https://www.allocine.fr/film/fichefilm_gen_cfilm=274038.html">AlloCiné</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://www.csfd.cz/film/722182">ČSFD</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://www.filmaffinity.com/en/film315057.html">FilmAffinity</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://www.imdb.com/title/tt10293406">Internet Movie Database</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://www.metacritic.com/movie/the-power-of-the-dog">Metacritic</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://www.rottentomatoes.com/m/the_power_of_the_dog">Rotten Tomatoes</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Фильмы_Джейн_Кэмпион" data-name="Фильмы Джейн Кэмпион">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%94%D0%B6%D0%B5%D0%B9%D0%BD_%D0%9A%D1%8D%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD" title="Перейти к шаблону «Фильмы Джейн Кэмпион»"><img alt="Перейти к шаблону «Фильмы Джейн Кэмпион»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;</span>
+           <div id="Фильмы_Джейн_Кэмпион" style="font-size:114%;margin:0 5em">
+            Фильмы <a href="/wiki/%D0%9A%D1%8D%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BD" title="Кэмпион, Джейн">Джейн Кэмпион</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="NavContent"> 
+             <ul>
+              <li><a href="/wiki/%D0%94%D1%83%D1%88%D0%B5%D1%87%D0%BA%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1989)" title="Душечка (фильм, 1989)">Душечка</a> (1989)</li> 
+              <li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%B5%D0%BB_%D0%B7%D0%B0_%D0%BC%D0%BE%D0%B8%D0%BC_%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%BC" title="Ангел за моим столом">Ангел за моим столом</a> (1990)</li> 
+              <li><a href="/wiki/%D0%9F%D0%B8%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Пианино (фильм)">Пианино</a> (1993)</li> 
+              <li><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%BB%D0%B5%D0%B4%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Портрет леди (фильм)">Портрет леди</a> (1996)</li> 
+              <li><a href="/wiki/%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D1%8B%D0%BC_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Священный дым (фильм)">Священный дым</a> (1999)</li> 
+              <li><a href="/wiki/%D0%A2%D1%91%D0%BC%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D1%81%D1%82%D0%B8" title="Тёмная сторона страсти">Тёмная сторона страсти</a> (2003)</li> 
+              <li><a href="/wiki/%D0%AF%D1%80%D0%BA%D0%B0%D1%8F_%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0" title="Яркая звезда">Яркая звезда</a> (2009)</li> 
+              <li><a class="mw-selflink selflink">Власть пса</a> (2021)</li>
+             </ul> 
+            </div>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Премия_BAFTA_за_лучший_фильм" data-name="Премия BAFTA за лучший фильм">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_BAFTA_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" title="Перейти к шаблону «Премия BAFTA за лучший фильм»"><img alt="Перейти к шаблону «Премия BAFTA за лучший фильм»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;</span>
+           <div id="Премия_BAFTA_за_лучший_фильм" style="font-size:114%;margin:0 5em">
+            <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_BAFTA_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" title="Премия BAFTA за лучший фильм">Премия BAFTA за лучший фильм</a>
+           </div></th>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">Лучший фильм</th>
+          <td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B_%D0%BD%D0%B0%D1%88%D0%B5%D0%B9_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8" title="Лучшие годы нашей жизни">Лучшие годы нашей жизни</a> (1948)</li> 
+             <li><a href="/wiki/%D0%93%D0%B0%D0%BC%D0%BB%D0%B5%D1%82_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1948)" title="Гамлет (фильм, 1948)">Гамлет</a> (1949)</li> 
+             <li><a href="/wiki/%D0%9F%D0%BE%D1%85%D0%B8%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%BE%D0%B2" title="Похитители велосипедов">Похитители велосипедов</a> (1950)</li> 
+             <li><a href="/wiki/%D0%92%D1%81%D1%91_%D0%BE_%D0%95%D0%B2%D0%B5" title="Всё о Еве">Всё о Еве</a> (1951)</li> 
+             <li><a href="/wiki/%D0%9A%D0%B0%D1%80%D1%83%D1%81%D0%B5%D0%BB%D1%8C_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1950)" title="Карусель (фильм, 1950)">Карусель</a> (1952)</li> 
+             <li><a href="/wiki/%D0%97%D0%B2%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B1%D0%B0%D1%80%D1%8C%D0%B5%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Звуковой барьер (фильм)">Звуковой барьер</a> (1953)</li> 
+             <li><a href="/wiki/%D0%97%D0%B0%D0%BF%D1%80%D0%B5%D1%89%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B" title="Запрещённые игры">Запрещённые игры</a> (1954)</li> 
+             <li><a href="/wiki/%D0%9F%D0%BB%D0%B0%D1%82%D0%B0_%D0%B7%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D1%85" title="Плата за страх">Плата за страх</a> (1955)</li> 
+             <li><a href="/wiki/%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4_III_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1955)" title="Ричард III (фильм, 1955)">Ричард III</a> (1956)</li> 
+             <li><a href="/wiki/%D0%96%D0%B5%D1%80%D0%B2%D0%B5%D0%B7%D0%B0" title="Жервеза">Жервеза</a> (1957)</li> 
+             <li><a href="/wiki/%D0%9C%D0%BE%D1%81%D1%82_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D1%80%D0%B5%D0%BA%D1%83_%D0%9A%D0%B2%D0%B0%D0%B9" title="Мост через реку Квай">Мост через реку Квай</a> (1958)</li> 
+             <li><a href="/wiki/%D0%9F%D1%83%D1%82%D1%8C_%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Путь наверх (фильм)">Путь наверх</a> (1959)</li> 
+             <li><a href="/wiki/%D0%91%D0%B5%D0%BD-%D0%93%D1%83%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1959)" title="Бен-Гур (фильм, 1959)">Бен-Гур</a> (1960)</li> 
+             <li><a href="/wiki/%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1960)" title="Квартира (фильм, 1960)">Квартира</a> (1961)</li> 
+             <li><a href="/wiki/%D0%91%D0%B0%D0%BB%D0%BB%D0%B0%D0%B4%D0%B0_%D0%BE_%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D0%B5" title="Баллада о солдате">Баллада о солдате</a> / <a href="/wiki/%D0%9C%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1961)" title="Мошенник (фильм, 1961)">Мошенник</a> (1962)</li> 
+             <li><a href="/wiki/%D0%9B%D0%BE%D1%83%D1%80%D0%B5%D0%BD%D1%81_%D0%90%D1%80%D0%B0%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Лоуренс Аравийский (фильм)">Лоуренс Аравийский</a> (1963)</li> 
+             <li><a href="/wiki/%D0%A2%D0%BE%D0%BC_%D0%94%D0%B6%D0%BE%D0%BD%D1%81_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Том Джонс (фильм)">Том Джонс</a> (1964)</li> 
+             <li><a href="/wiki/%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80_%D0%A1%D1%82%D1%80%D0%B5%D0%B9%D0%BD%D0%B4%D0%B6%D0%BB%D0%B0%D0%B2,_%D0%B8%D0%BB%D0%B8_%D0%9A%D0%B0%D0%BA_%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B0%D0%BB_%D0%B1%D0%BE%D1%8F%D1%82%D1%8C%D1%81%D1%8F_%D0%B8_%D0%BF%D0%BE%D0%BB%D1%8E%D0%B1%D0%B8%D0%BB_%D0%B1%D0%BE%D0%BC%D0%B1%D1%83" title="Доктор Стрейнджлав, или Как я перестал бояться и полюбил бомбу">Доктор Стрейнджлав, или Как я перестал бояться и полюбил бомбу</a> (1965)</li> 
+             <li><a href="/wiki/%D0%9C%D0%BE%D1%8F_%D0%BF%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D0%BB%D0%B5%D0%B4%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Моя прекрасная леди (фильм)">Моя прекрасная леди</a> (1966)</li> 
+             <li><a href="/wiki/%D0%9A%D1%82%D0%BE_%D0%B1%D0%BE%D0%B8%D1%82%D1%81%D1%8F_%D0%92%D0%B8%D1%80%D0%B4%D0%B6%D0%B8%D0%BD%D0%B8%D0%B8_%D0%92%D1%83%D0%BB%D1%84%3F_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Кто боится Вирджинии Вулф? (фильм)">Кто боится Вирджинии Вулф?</a> (1967)</li> 
+             <li><a href="/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA_%D0%BD%D0%B0_%D0%B2%D1%81%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0" title="Человек на все времена">Человек на все времена</a> (1968)</li> 
+             <li><a href="/wiki/%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Выпускник (фильм)">Выпускник</a> (1969)</li> 
+             <li><a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%83%D0%BD%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%B2%D0%B1%D0%BE%D0%B9" title="Полуночный ковбой">Полуночный ковбой</a> (1970)</li> 
+             <li><a href="/wiki/%D0%91%D1%83%D1%82%D1%87_%D0%9A%D1%8D%D1%81%D1%81%D0%B8%D0%B4%D0%B8_%D0%B8_%D0%A1%D0%B0%D0%BD%D0%B4%D0%B5%D0%BD%D1%81_%D0%9A%D0%B8%D0%B4" title="Бутч Кэссиди и Санденс Кид">Бутч Кэссиди и Санденс Кид</a> (1971)</li> 
+             <li><a href="/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%8C%D0%B5,_%D0%BF%D1%80%D0%BE%D0%BA%D0%BB%D1%8F%D1%82%D0%BE%D0%B5_%D0%B2%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%8C%D0%B5" title="Воскресенье, проклятое воскресенье">Воскресенье, проклятое воскресенье</a> (1972)</li> 
+             <li><a href="/wiki/%D0%9A%D0%B0%D0%B1%D0%B0%D1%80%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Кабаре (фильм)">Кабаре</a> (1973)</li> 
+             <li><a href="/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%BE%D1%87%D1%8C" title="Американская ночь">Американская ночь</a> (1974)</li> 
+             <li><a href="/wiki/%D0%9B%D0%B0%D0%BA%D0%BE%D0%BC%D0%B1_%D0%9B%D1%8E%D1%81%D1%8C%D0%B5%D0%BD" title="Лакомб Люсьен">Лакомб Люсьен</a> (1975)</li> 
+             <li><a href="/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_%D0%B7%D0%B4%D0%B5%D1%81%D1%8C_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5_%D0%BD%D0%B5_%D0%B6%D0%B8%D0%B2%D1%91%D1%82" title="Алиса здесь больше не живёт">Алиса здесь больше не живёт</a> (1976)</li> 
+             <li><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B4_%D0%B3%D0%BD%D0%B5%D0%B7%D0%B4%D0%BE%D0%BC_%D0%BA%D1%83%D0%BA%D1%83%D1%88%D0%BA%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Пролетая над гнездом кукушки (фильм)">Пролетая над гнездом кукушки</a> (1977)</li> 
+             <li><a href="/wiki/%D0%AD%D0%BD%D0%BD%D0%B8_%D0%A5%D0%BE%D0%BB%D0%BB" title="Энни Холл">Энни Холл</a> (1978)</li> 
+             <li><a href="/wiki/%D0%94%D0%B6%D1%83%D0%BB%D0%B8%D1%8F_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1977)" title="Джулия (фильм, 1977)">Джулия</a> (1979)</li> 
+             <li><a href="/wiki/%D0%9C%D0%B0%D0%BD%D1%85%D1%8D%D1%82%D1%82%D0%B5%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Манхэттен (фильм)">Манхэттен</a> (1980)</li> 
+             <li><a href="/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA-%D1%81%D0%BB%D0%BE%D0%BD" title="Человек-слон">Человек-слон</a> (1981)</li> 
+             <li><a href="/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BE%D0%BB%D0%B5%D1%81%D0%BD%D0%B8%D1%86%D1%8B" title="Огненные колесницы">Огненные колесницы</a> (1982)</li> 
+             <li><a href="/wiki/%D0%93%D0%B0%D0%BD%D0%B4%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Ганди (фильм)">Ганди</a> (1983)</li> 
+             <li><a href="/wiki/%D0%92%D0%BE%D1%81%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B5_%D0%A0%D0%B8%D1%82%D1%8B" title="Воспитание Риты">Воспитание Риты</a> (1984)</li> 
+             <li><a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8F_%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Поля смерти (фильм)">Поля смерти</a> (1985)</li> 
+             <li><a href="/wiki/%D0%9F%D1%83%D1%80%D0%BF%D1%83%D1%80%D0%BD%D0%B0%D1%8F_%D1%80%D0%BE%D0%B7%D0%B0_%D0%9A%D0%B0%D0%B8%D1%80%D0%B0" title="Пурпурная роза Каира">Пурпурная роза Каира</a> (1986)</li> 
+             <li><a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%B0_%D1%81_%D0%B2%D0%B8%D0%B4%D0%BE%D0%BC_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1985)" title="Комната с видом (фильм, 1985)">Комната с видом</a> (1987)</li> 
+             <li><a href="/wiki/%D0%96%D0%B0%D0%BD_%D0%B4%D0%B5_%D0%A4%D0%BB%D0%BE%D1%80%D0%B5%D1%82%D1%82" title="Жан де Флоретт">Жан де Флоретт</a> (1988)</li> 
+             <li><a href="/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80" title="Последний император">Последний император</a> (1989)</li> 
+             <li><a href="/wiki/%D0%9E%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%BC%D1%91%D1%80%D1%82%D0%B2%D1%8B%D1%85_%D0%BF%D0%BE%D1%8D%D1%82%D0%BE%D0%B2" title="Общество мёртвых поэтов">Общество мёртвых поэтов</a> (1990)</li> 
+             <li><a href="/wiki/%D0%A1%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B0%D1%80%D0%BD%D0%B8" title="Славные парни">Славные парни</a> (1991)</li> 
+             <li><a href="/wiki/%D0%93%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%C2%AB%D0%9A%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BC%D0%B5%D0%BD%D1%82%D1%81%C2%BB" title="Группа «Коммитментс»">Группа «Коммитментс»</a> (1992)</li> 
+             <li><a href="/wiki/%D0%93%D0%BE%D0%B2%D0%B0%D1%80%D0%B4%D1%81_%D0%AD%D0%BD%D0%B4" class="mw-redirect" title="Говардс Энд">Говардс Энд</a> (1993)</li> 
+             <li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%A8%D0%B8%D0%BD%D0%B4%D0%BB%D0%B5%D1%80%D0%B0" title="Список Шиндлера">Список Шиндлера</a> (1994)</li> 
+             <li><a href="/wiki/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D0%B5_%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D1%8B_%D0%B8_%D0%BE%D0%B4%D0%BD%D0%B8_%D0%BF%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D1%8B" title="Четыре свадьбы и одни похороны">Четыре свадьбы и одни похороны</a> (1995)</li> 
+             <li><a href="/wiki/%D0%A0%D0%B0%D0%B7%D1%83%D0%BC_%D0%B8_%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1995)" title="Разум и чувства (фильм, 1995)">Разум и чувства</a> (1996)</li> 
+             <li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%86%D0%B8%D0%B5%D0%BD%D1%82_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Английский пациент (фильм)">Английский пациент</a> (1997)</li> 
+             <li><a href="/wiki/%D0%9C%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9_%D1%81%D1%82%D1%80%D0%B8%D0%BF%D1%82%D0%B8%D0%B7_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Мужской стриптиз (фильм)">Мужской стриптиз</a> (1998)</li> 
+             <li><a href="/wiki/%D0%92%D0%BB%D1%8E%D0%B1%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80" title="Влюблённый Шекспир">Влюблённый Шекспир</a> (1999)</li> 
+             <li><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B0_%D0%BF%D0%BE-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8" title="Красота по-американски">Красота по-американски</a> (2000)</li> 
+             <li><a href="/wiki/%D0%93%D0%BB%D0%B0%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2000)" title="Гладиатор (фильм, 2000)">Гладиатор</a> (2001)</li> 
+             <li><a href="/wiki/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%B8%D0%BD_%D0%BA%D0%BE%D0%BB%D0%B5%D1%86:_%D0%91%D1%80%D0%B0%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%9A%D0%BE%D0%BB%D1%8C%D1%86%D0%B0" title="Властелин колец: Братство Кольца">Властелин колец: Братство Кольца</a> (2002)</li> 
+             <li><a href="/wiki/%D0%9F%D0%B8%D0%B0%D0%BD%D0%B8%D1%81%D1%82_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Пианист (фильм)">Пианист</a> (2003)</li> 
+             <li><a href="/wiki/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%B8%D0%BD_%D0%BA%D0%BE%D0%BB%D0%B5%D1%86:_%D0%92%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8F" title="Властелин колец: Возвращение короля">Властелин колец: Возвращение короля</a> (2004)</li> 
+             <li><a href="/wiki/%D0%90%D0%B2%D0%B8%D0%B0%D1%82%D0%BE%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2004)" title="Авиатор (фильм, 2004)">Авиатор</a> (2005)</li> 
+             <li><a href="/wiki/%D0%93%D0%BE%D1%80%D0%B1%D0%B0%D1%82%D0%B0%D1%8F_%D0%B3%D0%BE%D1%80%D0%B0" title="Горбатая гора">Горбатая гора</a> (2006)</li> 
+             <li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Королева (фильм)">Королева</a> (2007)</li> 
+             <li><a href="/wiki/%D0%98%D1%81%D0%BA%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2007)" title="Искупление (фильм, 2007)">Искупление</a> (2008)</li> 
+             <li><a href="/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD%D0%B5%D1%80_%D0%B8%D0%B7_%D1%82%D1%80%D1%83%D1%89%D0%BE%D0%B1" title="Миллионер из трущоб">Миллионер из трущоб</a> (2009)</li> 
+             <li><a href="/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%B1%D1%83%D1%80%D0%B8" title="Повелитель бури">Повелитель бури</a> (2010)</li> 
+             <li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82!" title="Король говорит!">Король говорит!</a> (2011)</li> 
+             <li><a href="/wiki/%D0%90%D1%80%D1%82%D0%B8%D1%81%D1%82_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Артист (фильм)">Артист</a> (2012)</li> 
+             <li><a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%C2%AB%D0%90%D1%80%D0%B3%D0%BE%C2%BB" title="Операция «Арго»">Операция «Арго»</a> (2013)</li> 
+             <li><a href="/wiki/12_%D0%BB%D0%B5%D1%82_%D1%80%D0%B0%D0%B1%D1%81%D1%82%D0%B2%D0%B0" title="12 лет рабства">12 лет рабства</a> (2014)</li> 
+             <li><a href="/wiki/%D0%9E%D1%82%D1%80%D0%BE%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Отрочество (фильм)">Отрочество</a> (2015)</li> 
+             <li><a href="/wiki/%D0%92%D1%8B%D0%B6%D0%B8%D0%B2%D1%88%D0%B8%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2015)" title="Выживший (фильм, 2015)">Выживший</a> (2016)</li> 
+             <li><a href="/wiki/%D0%9B%D0%B0-%D0%9B%D0%B0_%D0%9B%D0%B5%D0%BD%D0%B4" title="Ла-Ла Ленд">Ла-Ла Ленд</a> (2017)</li> 
+             <li><a href="/wiki/%D0%A2%D1%80%D0%B8_%D0%B1%D0%B8%D0%BB%D0%B1%D0%BE%D1%80%D0%B4%D0%B0_%D0%BD%D0%B0_%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B5_%D0%AD%D0%B1%D0%B1%D0%B8%D0%BD%D0%B3%D0%B0,_%D0%9C%D0%B8%D1%81%D1%81%D1%83%D1%80%D0%B8" title="Три билборда на границе Эббинга, Миссури">Три билборда на границе Эббинга, Миссури</a> (2018)</li> 
+             <li><a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Рома (фильм)">Рома</a> (2019)</li> 
+             <li><a href="/wiki/1917_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="1917 (фильм)">1917</a> (2020)</li> 
+             <li><a class="mw-selflink selflink">Власть пса</a> (2021)</li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">Лучший<br>британский фильм</th>
+          <td class="navbox-list navbox-even hlist hlist-items-nowrap" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%92%D1%8B%D0%B1%D1%8B%D0%B2%D1%88%D0%B8%D0%B9_%D0%B8%D0%B7_%D0%B8%D0%B3%D1%80%D1%8B" title="Выбывший из игры">Выбывший из игры</a> (1948)</li> 
+             <li><a href="/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D1%80%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B8%D0%B4%D0%BE%D0%BB" title="Поверженный идол">Поверженный идол</a> (1949)</li> 
+             <li><a href="/wiki/%D0%A2%D1%80%D0%B5%D1%82%D0%B8%D0%B9_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA" title="Третий человек">Третий человек</a> (1950)</li> 
+             <li><a href="/wiki/%D0%A1%D0%B8%D0%BD%D1%8F%D1%8F_%D0%BB%D0%B0%D0%BC%D0%BF%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Синяя лампа (фильм)">Синяя лампа</a> (1951)</li> 
+             <li><a href="/wiki/%D0%91%D0%B0%D0%BD%D0%B4%D0%B0_%D1%81_%D0%9B%D0%B0%D0%B2%D0%B5%D0%BD%D0%B4%D0%B5%D1%80_%D0%A5%D0%B8%D0%BB%D0%BB" title="Банда с Лавендер Хилл">Банда с Лавендер Хилл</a> (1952)</li> 
+             <li><a href="/wiki/%D0%97%D0%B2%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B1%D0%B0%D1%80%D1%8C%D0%B5%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Звуковой барьер (фильм)">Звуковой барьер</a> (1953)</li> 
+             <li><a href="/wiki/%D0%96%D0%B5%D0%BD%D0%B5%D0%B2%D1%8C%D0%B5%D0%B2%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Женевьева (фильм)">Женевьева</a> (1954)</li> 
+             <li><a href="/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80_%D0%A5%D0%BE%D0%B1%D1%81%D0%BE%D0%BD%D0%B0" title="Выбор Хобсона">Выбор Хобсона</a> (1955)</li> 
+             <li><a href="/wiki/%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4_III_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1955)" title="Ричард III (фильм, 1955)">Ричард III</a> (1956)</li> 
+             <li><a href="/wiki/%D0%94%D0%BE%D1%81%D1%82%D0%B8%D1%87%D1%8C_%D0%BD%D0%B5%D0%B1%D0%B5%D1%81" title="Достичь небес">Достичь небес</a> (1957)</li> 
+             <li><a href="/wiki/%D0%9C%D0%BE%D1%81%D1%82_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D1%80%D0%B5%D0%BA%D1%83_%D0%9A%D0%B2%D0%B0%D0%B9" title="Мост через реку Квай">Мост через реку Квай</a> (1958)</li> 
+             <li><a href="/wiki/%D0%9F%D1%83%D1%82%D1%8C_%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Путь наверх (фильм)">Путь наверх</a> (1959)</li> 
+             <li><a href="/wiki/%D0%A1%D0%B0%D0%BF%D1%84%D0%B8%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Сапфир (фильм)">Сапфир</a> (1960)</li> 
+             <li><a href="/wiki/%D0%92_%D1%81%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D1%83_%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%BC,_%D0%B2_%D0%B2%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%8C%D0%B5_%D1%83%D1%82%D1%80%D0%BE%D0%BC" title="В субботу вечером, в воскресенье утром">В субботу вечером, в воскресенье утром</a> (1961)</li> 
+             <li><a href="/wiki/%D0%92%D0%BA%D1%83%D1%81_%D0%BC%D1%91%D0%B4%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Вкус мёда (фильм)">Вкус мёда</a> (1962)</li> 
+             <li><a href="/wiki/%D0%9B%D0%BE%D1%83%D1%80%D0%B5%D0%BD%D1%81_%D0%90%D1%80%D0%B0%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Лоуренс Аравийский (фильм)">Лоуренс Аравийский</a> (1963)</li> 
+             <li><a href="/wiki/%D0%A2%D0%BE%D0%BC_%D0%94%D0%B6%D0%BE%D0%BD%D1%81_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Том Джонс (фильм)">Том Джонс</a> (1964)</li> 
+             <li><a href="/wiki/%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80_%D0%A1%D1%82%D1%80%D0%B5%D0%B9%D0%BD%D0%B4%D0%B6%D0%BB%D0%B0%D0%B2,_%D0%B8%D0%BB%D0%B8_%D0%9A%D0%B0%D0%BA_%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B0%D0%BB_%D0%B1%D0%BE%D1%8F%D1%82%D1%8C%D1%81%D1%8F_%D0%B8_%D0%BF%D0%BE%D0%BB%D1%8E%D0%B1%D0%B8%D0%BB_%D0%B1%D0%BE%D0%BC%D0%B1%D1%83" title="Доктор Стрейнджлав, или Как я перестал бояться и полюбил бомбу">Доктор Стрейнджлав, или Как я перестал бояться и полюбил бомбу</a> (1965)</li> 
+             <li><a href="/wiki/%D0%94%D0%BE%D1%81%D1%8C%D0%B5_%C2%AB%D0%98%D0%BF%D0%BA%D1%80%D0%B5%D1%81%D1%81%C2%BB_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Досье «Ипкресс» (фильм)">Досье «Ипкресс»</a> (1966)</li> 
+             <li><a href="/wiki/%D0%A8%D0%BF%D0%B8%D0%BE%D0%BD,_%D0%BF%D1%80%D0%B8%D1%88%D0%B5%D0%B4%D1%88%D0%B8%D0%B9_%D1%81_%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Шпион, пришедший с холода (фильм)">Шпион, пришедший с холода</a> (1967)</li> 
+             <li><a href="/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA_%D0%BD%D0%B0_%D0%B2%D1%81%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0" title="Человек на все времена">Человек на все времена</a> (1968)</li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Премия_«Выбор_критиков»_за_лучший_фильм" data-name="Премия «Выбор критиков» за лучший фильм">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%92%D1%8B%D0%B1%D0%BE%D1%80_%D0%BA%D1%80%D0%B8%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" title="Перейти к шаблону «Премия «Выбор критиков» за лучший фильм»"><img alt="Перейти к шаблону «Премия «Выбор критиков» за лучший фильм»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;</span>
+           <div id="Премия_«Выбор_критиков»_за_лучший_фильм" style="font-size:114%;margin:0 5em">
+            <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%92%D1%8B%D0%B1%D0%BE%D1%80_%D0%BA%D1%80%D0%B8%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" title="Премия «Выбор критиков» за лучший фильм">Премия «Выбор критиков» за лучший фильм</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%A0%D0%B0%D0%B7%D1%83%D0%BC_%D0%B8_%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1995)" title="Разум и чувства (фильм, 1995)">Разум и чувства</a> (1995)</li> 
+             <li><a href="/wiki/%D0%A4%D0%B0%D1%80%D0%B3%D0%BE_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Фарго (фильм)">Фарго</a> (1996)</li> 
+             <li><a href="/wiki/%D0%A1%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D1%8B_%D0%9B%D0%BE%D1%81-%D0%90%D0%BD%D0%B4%D0%B6%D0%B5%D0%BB%D0%B5%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Секреты Лос-Анджелеса (фильм)">Секреты Лос-Анджелеса</a> (1997)</li> 
+             <li><a href="/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D1%82%D0%B8_%D1%80%D1%8F%D0%B4%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%A0%D0%B0%D0%B9%D0%B0%D0%BD%D0%B0" title="Спасти рядового Райана">Спасти рядового Райана</a> (1998)</li> 
+             <li><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B0_%D0%BF%D0%BE-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8" title="Красота по-американски">Красота по-американски</a> (1999)</li> 
+             <li><a href="/wiki/%D0%93%D0%BB%D0%B0%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2000)" title="Гладиатор (фильм, 2000)">Гладиатор</a> (2000)</li> 
+             <li><a href="/wiki/%D0%98%D0%B3%D1%80%D1%8B_%D1%80%D0%B0%D0%B7%D1%83%D0%BC%D0%B0" title="Игры разума">Игры разума</a> (2001)</li> 
+             <li><a href="/wiki/%D0%A7%D0%B8%D0%BA%D0%B0%D0%B3%D0%BE_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2002)" title="Чикаго (фильм, 2002)">Чикаго</a> (2002)</li> 
+             <li><a href="/wiki/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%B8%D0%BD_%D0%BA%D0%BE%D0%BB%D0%B5%D1%86:_%D0%92%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8F" title="Властелин колец: Возвращение короля">Властелин колец: Возвращение короля</a> (2003)</li> 
+             <li><a href="/wiki/%D0%9D%D0%B0_%D0%BE%D0%B1%D0%BE%D1%87%D0%B8%D0%BD%D0%B5" title="На обочине">На обочине</a> (2004)</li> 
+             <li><a href="/wiki/%D0%93%D0%BE%D1%80%D0%B1%D0%B0%D1%82%D0%B0%D1%8F_%D0%B3%D0%BE%D1%80%D0%B0" title="Горбатая гора">Горбатая гора</a> (2005)</li> 
+             <li><a href="/wiki/%D0%9E%D1%82%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%B8%D0%BA%D0%B8" title="Отступники">Отступники</a> (2006)</li> 
+             <li><a href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D0%BA%D0%B0%D0%BC_%D1%82%D1%83%D1%82_%D0%BD%D0%B5_%D0%BC%D0%B5%D1%81%D1%82%D0%BE_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Старикам тут не место (фильм)">Старикам тут не место</a> (2007)</li> 
+             <li><a href="/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD%D0%B5%D1%80_%D0%B8%D0%B7_%D1%82%D1%80%D1%83%D1%89%D0%BE%D0%B1" title="Миллионер из трущоб">Миллионер из трущоб</a> (2008)</li> 
+             <li><a href="/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%B1%D1%83%D1%80%D0%B8" title="Повелитель бури">Повелитель бури</a> (2009)</li> 
+             <li><a href="/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Социальная сеть (фильм)">Социальная сеть</a> (2010)</li> 
+             <li><a href="/wiki/%D0%90%D1%80%D1%82%D0%B8%D1%81%D1%82_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Артист (фильм)">Артист</a> (2011)</li> 
+             <li><a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%C2%AB%D0%90%D1%80%D0%B3%D0%BE%C2%BB" title="Операция «Арго»">Операция «Арго»</a> (2012)</li> 
+             <li><a href="/wiki/12_%D0%BB%D0%B5%D1%82_%D1%80%D0%B0%D0%B1%D1%81%D1%82%D0%B2%D0%B0" title="12 лет рабства">12 лет рабства</a> (2013)</li> 
+             <li><a href="/wiki/%D0%9E%D1%82%D1%80%D0%BE%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Отрочество (фильм)">Отрочество</a> (2014)</li> 
+             <li><a href="/wiki/%D0%92_%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B5_%D0%B2%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="В центре внимания">В центре внимания</a> (2015)</li> 
+             <li><a href="/wiki/%D0%9B%D0%B0-%D0%9B%D0%B0_%D0%9B%D0%B5%D0%BD%D0%B4" title="Ла-Ла Ленд">Ла-Ла Ленд</a> (2016)</li> 
+             <li><a href="/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0_%D0%B2%D0%BE%D0%B4%D1%8B" title="Форма воды">Форма воды</a> (2017)</li> 
+             <li><a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Рома (фильм)">Рома</a> (2018)</li> 
+             <li><a href="/wiki/%D0%9E%D0%B4%D0%BD%D0%B0%D0%B6%D0%B4%D1%8B_%D0%B2_%D0%93%D0%BE%D0%BB%D0%BB%D0%B8%D0%B2%D1%83%D0%B4%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2019)" title="Однажды в Голливуде (фильм, 2019)">Однажды в Голливуде</a> (2019)</li> 
+             <li><a href="/wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F_%D0%BA%D0%BE%D1%87%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Земля кочевников">Земля кочевников</a> (2020)</li> 
+             <li><a class="mw-selflink selflink">Власть пса</a> (2021)</li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-labelledby="Премия_«Золотой_глобус»_за_лучший_фильм_—_драма" data-name="Премия «Золотой глобус» за лучший фильм — драма">
+       <table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%B3%D0%BB%D0%BE%D0%B1%D1%83%D1%81%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC_%E2%80%94_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0" title="Перейти к шаблону «Премия «Золотой глобус» за лучший фильм — драма»"><img alt="Перейти к шаблону «Премия «Золотой глобус» за лучший фильм — драма»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;</span>
+           <div id="Премия_«Золотой_глобус»_за_лучший_фильм_—_драма" style="font-size:114%;margin:0 5em">
+            <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%B3%D0%BB%D0%BE%D0%B1%D1%83%D1%81%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC_%E2%80%94_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0" title="Премия «Золотой глобус» за лучший фильм — драма">Премия «Золотой глобус» за лучший фильм — драма</a>
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-list navbox-odd hlist hlist-items-nowrap" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a href="/wiki/%D0%9F%D0%B5%D1%81%D0%BD%D1%8F_%D0%91%D0%B5%D1%80%D0%BD%D0%B0%D0%B4%D0%B5%D1%82%D1%82_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Песня Бернадетт (фильм)">Песня Бернадетт</a> <small>(1943)</small></li> 
+             <li><a href="/wiki/%D0%98%D0%B4%D1%82%D0%B8_%D1%81%D0%B2%D0%BE%D0%B8%D0%BC_%D0%BF%D1%83%D1%82%D1%91%D0%BC" title="Идти своим путём">Идти своим путём</a> <small>(1944)</small></li> 
+             <li><a href="/wiki/%D0%9F%D0%BE%D1%82%D0%B5%D1%80%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%B8%D0%BA%D1%8D%D0%BD%D0%B4_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Потерянный уикэнд (фильм)">Потерянный уикэнд</a> <small>(1945)</small></li> 
+             <li><a href="/wiki/%D0%9B%D1%83%D1%87%D1%88%D0%B8%D0%B5_%D0%B3%D0%BE%D0%B4%D1%8B_%D0%BD%D0%B0%D1%88%D0%B5%D0%B9_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8" title="Лучшие годы нашей жизни">Лучшие годы нашей жизни</a> <small>(1946)</small></li> 
+             <li><a href="/wiki/%D0%94%D0%B6%D0%B5%D0%BD%D1%82%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Джентльменское соглашение (фильм)">Джентльменское соглашение</a> <small>(1947)</small></li> 
+             <li><a href="/wiki/%D0%94%D0%B6%D0%BE%D0%BD%D0%BD%D0%B8_%D0%91%D0%B5%D0%BB%D0%B8%D0%BD%D0%B4%D0%B0" title="Джонни Белинда">Джонни Белинда</a> /</li> 
+             <li><a href="/wiki/%D0%A1%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%B8%D1%89%D0%B0_%D0%A1%D1%8C%D0%B5%D1%80%D1%80%D0%B0-%D0%9C%D0%B0%D0%B4%D1%80%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Сокровища Сьерра-Мадре (фильм)">Сокровища Сьерра-Мадре</a> <small>(1948)</small></li> 
+             <li><a href="/wiki/%D0%92%D1%81%D1%8F_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D1%82%D1%8C_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1949)" title="Вся королевская рать (фильм, 1949)">Вся королевская рать</a> <small>(1949)</small></li> 
+             <li><a href="/wiki/%D0%91%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%A1%D0%B0%D0%BD%D1%81%D0%B5%D1%82_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Бульвар Сансет (фильм)">Бульвар Сансет</a> <small>(1950)</small></li> 
+             <li><a href="/wiki/%D0%9C%D0%B5%D1%81%D1%82%D0%BE_%D0%BF%D0%BE%D0%B4_%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5%D0%BC_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1951)" title="Место под солнцем (фильм, 1951)">Место под солнцем</a> <small>(1951)</small></li> 
+             <li><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D1%87%D0%B0%D0%B9%D1%88%D0%B5%D0%B5_%D1%88%D0%BE%D1%83_%D0%BC%D0%B8%D1%80%D0%B0" title="Величайшее шоу мира">Величайшее шоу мира</a> <small>(1952)</small></li> 
+             <li><a href="/wiki/%D0%9F%D0%BB%D0%B0%D1%89%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Плащаница (фильм)">Плащаница</a> <small>(1953)</small></li> 
+             <li><a href="/wiki/%D0%92_%D0%BF%D0%BE%D1%80%D1%82%D1%83" title="В порту">В порту</a> <small>(1954)</small></li> 
+             <li><a href="/wiki/%D0%9A_%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D1%83_%D0%BE%D1%82_%D1%80%D0%B0%D1%8F_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="К востоку от рая (фильм)">К востоку от рая</a> <small>(1955)</small></li> 
+             <li><a href="/wiki/%D0%92%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D1%81%D0%B2%D0%B5%D1%82%D0%B0_%D0%B7%D0%B0_80_%D0%B4%D0%BD%D0%B5%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1956)" title="Вокруг света за 80 дней (фильм, 1956)">Вокруг света за 80 дней</a> <small>(1956)</small></li> 
+             <li><a href="/wiki/%D0%9C%D0%BE%D1%81%D1%82_%D1%87%D0%B5%D1%80%D0%B5%D0%B7_%D1%80%D0%B5%D0%BA%D1%83_%D0%9A%D0%B2%D0%B0%D0%B9" title="Мост через реку Квай">Мост через реку Квай</a> <small>(1957)</small></li> 
+             <li><a href="/wiki/%D0%9D%D0%B5_%D1%81%D0%BA%D0%BB%D0%BE%D0%BD%D0%B8%D0%B2%D1%88%D0%B8%D0%B5_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B" title="Не склонившие головы">Не склонившие головы</a> <small>(1958)</small></li> 
+             <li><a href="/wiki/%D0%91%D0%B5%D0%BD-%D0%93%D1%83%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1959)" title="Бен-Гур (фильм, 1959)">Бен-Гур</a> <small>(1959)</small></li> 
+             <li><a href="/wiki/%D0%A1%D0%BF%D0%B0%D1%80%D1%82%D0%B0%D0%BA_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1960)" title="Спартак (фильм, 1960)">Спартак</a> <small>(1960)</small></li> 
+             <li><a href="/wiki/%D0%9F%D1%83%D1%88%D0%BA%D0%B8_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%9D%D0%B0%D0%B2%D0%B0%D1%80%D0%BE%D0%BD" title="Пушки острова Наварон">Пушки острова Наварон</a> <small>(1961)</small></li> 
+             <li><a href="/wiki/%D0%9B%D0%BE%D1%83%D1%80%D0%B5%D0%BD%D1%81_%D0%90%D1%80%D0%B0%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Лоуренс Аравийский (фильм)">Лоуренс Аравийский</a> <small>(1962)</small></li> 
+             <li><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BB_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;redlink=1" class="new" title="Кардинал (фильм) (страница отсутствует)">Кардинал</a> <small>(1963)</small></li> 
+             <li><a href="/wiki/%D0%91%D0%B5%D0%BA%D0%B5%D1%82_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Бекет (фильм)">Бекет</a> <small>(1964)</small></li> 
+             <li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Избранная статья"><img alt="✯" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Small_Skew_Star_SVG.svg/14px-Small_Skew_Star_SVG.svg.png" decoding="async" width="14" height="15" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Small_Skew_Star_SVG.svg/21px-Small_Skew_Star_SVG.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Small_Skew_Star_SVG.svg/28px-Small_Skew_Star_SVG.svg.png 2x" data-file-width="14" data-file-height="15"></a> <a href="/wiki/%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80_%D0%96%D0%B8%D0%B2%D0%B0%D0%B3%D0%BE_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1965)" title="Доктор Живаго (фильм, 1965)">Доктор Живаго</a> <small>(1965)</small></li> 
+             <li><a href="/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA_%D0%BD%D0%B0_%D0%B2%D1%81%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0" title="Человек на все времена">Человек на все времена</a> <small>(1966)</small></li> 
+             <li><a href="/wiki/%D0%94%D1%83%D1%88%D0%BD%D0%BE%D0%B9_%D1%8E%D0%B6%D0%BD%D0%BE%D0%B9_%D0%BD%D0%BE%D1%87%D1%8C%D1%8E" title="Душной южной ночью">Душной южной ночью</a> <small>(1967)</small></li> 
+             <li><a href="/wiki/%D0%9B%D0%B5%D0%B2_%D0%B7%D0%B8%D0%BC%D0%BE%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1968)" title="Лев зимой (фильм, 1968)">Лев зимой</a> <small>(1968)</small></li> 
+             <li><a href="/wiki/%D0%A2%D1%8B%D1%81%D1%8F%D1%87%D0%B0_%D0%B4%D0%BD%D0%B5%D0%B9_%D0%90%D0%BD%D0%BD%D1%8B" title="Тысяча дней Анны">Тысяча дней Анны</a> <small>(1969)</small></li> 
+             <li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1970)" title="История любви (фильм, 1970)">История любви</a> <small>(1970)</small></li> 
+             <li><a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B2%D1%8F%D0%B7%D0%BD%D0%BE%D0%B9" title="Французский связной">Французский связной</a> <small>(1971)</small></li> 
+             <li><a href="/wiki/%D0%9A%D1%80%D1%91%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D0%BE%D1%82%D0%B5%D1%86_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Крёстный отец (фильм)">Крёстный отец</a> <small>(1972)</small></li> 
+             <li><a href="/wiki/%D0%98%D0%B7%D0%B3%D0%BE%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D0%B9_%D0%B4%D1%8C%D1%8F%D0%B2%D0%BE%D0%BB%D0%B0" title="Изгоняющий дьявола">Изгоняющий дьявола</a> <small>(1973)</small></li> 
+             <li><a href="/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B0%D0%BB_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Китайский квартал (фильм)">Китайский квартал</a> <small>(1974)</small></li> 
+             <li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Хорошая статья"><img alt="✰" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/13px-Blue_star_unboxed.svg.png" decoding="async" width="13" height="13" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/20px-Blue_star_unboxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/26px-Blue_star_unboxed.svg.png 2x" data-file-width="13" data-file-height="13"></a> <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B5%D1%82%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B4_%D0%B3%D0%BD%D0%B5%D0%B7%D0%B4%D0%BE%D0%BC_%D0%BA%D1%83%D0%BA%D1%83%D1%88%D0%BA%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Пролетая над гнездом кукушки (фильм)">Пролетая над гнездом кукушки</a> <small>(1975)</small></li> 
+             <li><a href="/wiki/%D0%A0%D0%BE%D0%BA%D0%BA%D0%B8" title="Рокки">Рокки</a> <small>(1976)</small></li> 
+             <li><a href="/wiki/%D0%9F%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D1%83%D0%BD%D0%BA%D1%82_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1977)" title="Поворотный пункт (фильм, 1977)">Поворотный пункт</a> <small>(1977)</small></li> 
+             <li><a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%83%D0%BD%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D1%8D%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81" title="Полуночный экспресс">Полуночный экспресс</a> <small>(1978)</small></li> 
+             <li><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%BC%D0%B5%D1%80_%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2_%D0%9A%D1%80%D0%B0%D0%BC%D0%B5%D1%80%D0%B0" title="Крамер против Крамера">Крамер против Крамера</a> <small>(1979)</small></li> 
+             <li><a href="/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BB%D1%8E%D0%B4%D0%B8" title="Обыкновенные люди">Обыкновенные люди</a> <small>(1980)</small></li> 
+             <li><a href="/wiki/%D0%9D%D0%B0_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%BC_%D0%BE%D0%B7%D0%B5%D1%80%D0%B5" title="На золотом озере">На золотом озере</a> <small>(1981)</small></li> 
+             <li><a href="/wiki/%D0%98%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D1%8F%D0%BD%D0%B8%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Инопланетянин (фильм)">Инопланетянин</a> <small>(1982)</small></li> 
+             <li><a href="/wiki/%D0%AF%D0%B7%D1%8B%D0%BA_%D0%BD%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Язык нежности">Язык нежности</a> <small>(1983)</small></li> 
+             <li><a href="/wiki/%D0%90%D0%BC%D0%B0%D0%B4%D0%B5%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Амадей (фильм)">Амадей</a> <small>(1984)</small></li> 
+             <li><a href="/wiki/%D0%98%D0%B7_%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B8" title="Из Африки">Из Африки</a> <small>(1985)</small></li> 
+             <li><a href="/wiki/%D0%92%D0%B7%D0%B2%D0%BE%D0%B4_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Взвод (фильм)">Взвод</a> <small>(1986)</small></li> 
+             <li><a href="/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80" title="Последний император">Последний император</a> <small>(1987)</small></li> 
+             <li><a href="/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA_%D0%B4%D0%BE%D0%B6%D0%B4%D1%8F" title="Человек дождя">Человек дождя</a> <small>(1988)</small></li> 
+             <li><a href="/wiki/%D0%A0%D0%BE%D0%B6%D0%B4%D1%91%D0%BD%D0%BD%D1%8B%D0%B9_%D1%87%D0%B5%D1%82%D0%B2%D1%91%D1%80%D1%82%D0%BE%D0%B3%D0%BE_%D0%B8%D1%8E%D0%BB%D1%8F" title="Рождённый четвёртого июля">Рождённый четвёртого июля</a> <small>(1989)</small></li> 
+             <li><a href="/wiki/%D0%A2%D0%B0%D0%BD%D1%86%D1%83%D1%8E%D1%89%D0%B8%D0%B9_%D1%81_%D0%B2%D0%BE%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Танцующий с волками">Танцующий с волками</a> <small>(1990)</small></li> 
+             <li><a href="/wiki/%D0%91%D0%B0%D0%B3%D1%81%D0%B8" title="Багси">Багси</a> <small>(1991)</small></li> 
+             <li><a href="/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D1%85_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D1%8B_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1992)" title="Запах женщины (фильм, 1992)">Запах женщины</a> <small>(1992)</small></li> 
+             <li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%A8%D0%B8%D0%BD%D0%B4%D0%BB%D0%B5%D1%80%D0%B0" title="Список Шиндлера">Список Шиндлера</a> <small>(1993)</small></li> 
+             <li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Хорошая статья"><img alt="✰" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/13px-Blue_star_unboxed.svg.png" decoding="async" width="13" height="13" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/20px-Blue_star_unboxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/26px-Blue_star_unboxed.svg.png 2x" data-file-width="13" data-file-height="13"></a> <a href="/wiki/%D0%A4%D0%BE%D1%80%D1%80%D0%B5%D1%81%D1%82_%D0%93%D0%B0%D0%BC%D0%BF" title="Форрест Гамп">Форрест Гамп</a> <small>(1994)</small></li> 
+             <li><a href="/wiki/%D0%A0%D0%B0%D0%B7%D1%83%D0%BC_%D0%B8_%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1995)" title="Разум и чувства (фильм, 1995)">Разум и чувства</a> <small>(1995)</small></li> 
+             <li><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%86%D0%B8%D0%B5%D0%BD%D1%82_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Английский пациент (фильм)">Английский пациент</a> <small>(1996)</small></li> 
+             <li><a href="/wiki/%D0%A2%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%BA_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1997)" title="Титаник (фильм, 1997)">Титаник</a> <small>(1997)</small></li> 
+             <li><a href="/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D1%82%D0%B8_%D1%80%D1%8F%D0%B4%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%A0%D0%B0%D0%B9%D0%B0%D0%BD%D0%B0" title="Спасти рядового Райана">Спасти рядового Райана</a> <small>(1998)</small></li> 
+             <li><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B0_%D0%BF%D0%BE-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8" title="Красота по-американски">Красота по-американски</a> <small>(1999)</small></li> 
+             <li><a href="/wiki/%D0%93%D0%BB%D0%B0%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2000)" title="Гладиатор (фильм, 2000)">Гладиатор</a> <small>(2000)</small></li> 
+             <li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Хорошая статья"><img alt="✰" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/13px-Blue_star_unboxed.svg.png" decoding="async" width="13" height="13" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/20px-Blue_star_unboxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/26px-Blue_star_unboxed.svg.png 2x" data-file-width="13" data-file-height="13"></a> <a href="/wiki/%D0%98%D0%B3%D1%80%D1%8B_%D1%80%D0%B0%D0%B7%D1%83%D0%BC%D0%B0" title="Игры разума">Игры разума</a> <small>(2001)</small></li> 
+             <li><a href="/wiki/%D0%A7%D0%B0%D1%81%D1%8B_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Часы (фильм)">Часы</a> <small>(2002)</small></li> 
+             <li><a href="/wiki/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D0%B8%D0%BD_%D0%BA%D0%BE%D0%BB%D0%B5%D1%86:_%D0%92%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8F" title="Властелин колец: Возвращение короля">Властелин колец: Возвращение короля</a> <small>(2003)</small></li> 
+             <li><a href="/wiki/%D0%90%D0%B2%D0%B8%D0%B0%D1%82%D0%BE%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2004)" title="Авиатор (фильм, 2004)">Авиатор</a> <small>(2004)</small></li> 
+             <li><a href="/wiki/%D0%93%D0%BE%D1%80%D0%B1%D0%B0%D1%82%D0%B0%D1%8F_%D0%B3%D0%BE%D1%80%D0%B0" title="Горбатая гора">Горбатая гора</a> <small>(2005)</small></li> 
+             <li><a href="/wiki/%D0%92%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2006)" title="Вавилон (фильм, 2006)">Вавилон</a> <small>(2006)</small></li> 
+             <li><a href="/wiki/%D0%98%D1%81%D0%BA%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2007)" title="Искупление (фильм, 2007)">Искупление</a> <small>(2007)</small></li> 
+             <li><a href="/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B8%D0%BE%D0%BD%D0%B5%D1%80_%D0%B8%D0%B7_%D1%82%D1%80%D1%83%D1%89%D0%BE%D0%B1" title="Миллионер из трущоб">Миллионер из трущоб</a> <small>(2008)</small></li> 
+             <li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Избранная статья"><img alt="✯" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Small_Skew_Star_SVG.svg/14px-Small_Skew_Star_SVG.svg.png" decoding="async" width="14" height="15" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Small_Skew_Star_SVG.svg/21px-Small_Skew_Star_SVG.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Small_Skew_Star_SVG.svg/28px-Small_Skew_Star_SVG.svg.png 2x" data-file-width="14" data-file-height="15"></a> <a href="/wiki/%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2009)" title="Аватар (фильм, 2009)">Аватар</a> <small>(2009)</small></li> 
+             <li><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Хорошая статья"><img alt="✰" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/13px-Blue_star_unboxed.svg.png" decoding="async" width="13" height="13" style="vertical-align: baseline" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/20px-Blue_star_unboxed.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_star_unboxed.svg/26px-Blue_star_unboxed.svg.png 2x" data-file-width="13" data-file-height="13"></a> <a href="/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Социальная сеть (фильм)">Социальная сеть</a> <small>(2010)</small></li> 
+             <li><a href="/wiki/%D0%9F%D0%BE%D1%82%D0%BE%D0%BC%D0%BA%D0%B8" title="Потомки">Потомки</a> <small>(2011)</small></li> 
+             <li><a href="/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%C2%AB%D0%90%D1%80%D0%B3%D0%BE%C2%BB" title="Операция «Арго»">Операция «Арго»</a> <small>(2012)</small></li> 
+             <li><a href="/wiki/12_%D0%BB%D0%B5%D1%82_%D1%80%D0%B0%D0%B1%D1%81%D1%82%D0%B2%D0%B0" title="12 лет рабства">12 лет рабства</a> <small>(2013)</small></li> 
+             <li><a href="/wiki/%D0%9E%D1%82%D1%80%D0%BE%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Отрочество (фильм)">Отрочество</a> <small>(2014)</small></li> 
+             <li><a href="/wiki/%D0%92%D1%8B%D0%B6%D0%B8%D0%B2%D1%88%D0%B8%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2015)" title="Выживший (фильм, 2015)">Выживший</a> <small>(2015)</small></li> 
+             <li><a href="/wiki/%D0%9B%D1%83%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%B2%D0%B5%D1%82_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2016)" title="Лунный свет (фильм, 2016)">Лунный свет</a> <small>(2016)</small></li> 
+             <li><a href="/wiki/%D0%A2%D1%80%D0%B8_%D0%B1%D0%B8%D0%BB%D0%B1%D0%BE%D1%80%D0%B4%D0%B0_%D0%BD%D0%B0_%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B5_%D0%AD%D0%B1%D0%B1%D0%B8%D0%BD%D0%B3%D0%B0,_%D0%9C%D0%B8%D1%81%D1%81%D1%83%D1%80%D0%B8" title="Три билборда на границе Эббинга, Миссури">Три билборда на границе Эббинга, Миссури</a> <small>(2017)</small></li> 
+             <li><a href="/wiki/%D0%91%D0%BE%D0%B3%D0%B5%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%BF%D1%81%D0%BE%D0%B4%D0%B8%D1%8F_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Богемская рапсодия (фильм)">Богемская рапсодия</a> <small>(2018)</small></li> 
+             <li><a href="/wiki/1917_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="1917 (фильм)">1917</a> <small>(2019)</small></li> 
+             <li><a href="/wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F_%D0%BA%D0%BE%D1%87%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Земля кочевников">Земля кочевников</a> <small>(2020)</small></li> 
+             <li><a class="mw-selflink selflink">Власть пса</a> <small>(2021)</small></li>
+            </ul> 
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1428
+Cached time: 20220317120952
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.811 seconds
+Real time usage: 0.959 seconds
+Preprocessor visited node count: 8642/1000000
+Post‐expand include size: 150499/2097152 bytes
+Template argument size: 30818/2097152 bytes
+Highest expansion depth: 22/100
+Expensive parser function count: 26/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 17655/5000000 bytes
+Lua time usage: 0.440/10.000 seconds
+Lua memory usage: 11636522/52428800 bytes
+Number of Wikibase entities loaded: 19/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  814.496      1 -total
+ 55.75%  454.091      1 Шаблон:Фильм
+ 54.01%  439.870      2 Шаблон:Карточка
+ 21.18%  172.503      1 Шаблон:Примечания
+ 18.48%  150.500     15 Шаблон:Cite_web
+ 11.65%   94.894      5 Шаблон:Wikidata
+ 10.02%   81.609      1 Шаблон:Внешние_ссылки
+  6.00%   48.841      1 Шаблон:Карточка/оригинал_названия_произведения
+  5.16%   42.067     18 Шаблон:Str_≠_len
+  4.06%   33.081     10 Шаблон:HumanizeDate
+--> <!-- Saved in parser cache with key ruwiki:pcache:idhash:8486606-0!canonical and timestamp 20220317120953 and revision id 120708211. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Власть_пса_(фильм)&amp;oldid=120708211">https://ru.wikipedia.org/w/index.php?title=Власть_пса_(фильм)&amp;oldid=120708211</a>
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%BD%D0%B0_%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5" title="Категория:Фильмы на английском языке">Фильмы на английском языке</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Фильмы по алфавиту">Фильмы по алфавиту</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_2021_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Фильмы 2021 года">Фильмы 2021 года</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%94%D0%B6%D0%B5%D0%B9%D0%BD_%D0%9A%D1%8D%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD" title="Категория:Фильмы Джейн Кэмпион">Фильмы Джейн Кэмпион</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%E2%80%94_%D0%BB%D0%B0%D1%83%D1%80%D0%B5%D0%B0%D1%82%D1%8B_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B8_%C2%AB%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%B3%D0%BB%D0%BE%D0%B1%D1%83%D1%81%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC_%E2%80%94_%D0%B4%D1%80%D0%B0%D0%BC%D0%B0" title="Категория:Фильмы — лауреаты премии «Золотой глобус» за лучший фильм — драма">Фильмы — лауреаты премии «Золотой глобус» за лучший фильм — драма</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%E2%80%94_%D0%BB%D0%B0%D1%83%D1%80%D0%B5%D0%B0%D1%82%D1%8B_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B8_BAFTA" title="Категория:Фильмы — лауреаты премии BAFTA">Фильмы — лауреаты премии BAFTA</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B-%D0%B4%D1%80%D0%B0%D0%BC%D1%8B_%D0%A1%D0%A8%D0%90" title="Категория:Фильмы-драмы США">Фильмы-драмы США</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%BE_1920-%D1%85_%D0%B3%D0%BE%D0%B4%D0%B0%D1%85" title="Категория:Исторические фильмы о 1920-х годах">Исторические фильмы о 1920-х годах</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%BD%D0%B0_%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D1%83_%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9_%D0%B3%D0%BE%D0%BC%D0%BE%D1%81%D0%B5%D0%BA%D1%81%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Категория:Фильмы на тематику мужской гомосексуальности">Фильмы на тематику мужской гомосексуальности</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B,_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D1%85_%D0%B1%D1%8B%D0%BB%D0%BE_%D0%BF%D1%80%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE_%D0%B8%D0%B7-%D0%B7%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8_COVID-19" title="Категория:Фильмы, производство которых было приостановлено из-за пандемии COVID-19">Фильмы, производство которых было приостановлено из-за пандемии COVID-19</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Скрытая категория: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Навигация</h2> 
+   <div id="mw-head"> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"> <label id="p-personal-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Персональные инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage" class="mw-list-item"><span>Вы не представились системе</span></li>
+       <li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li>
+       <li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li>
+       <li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C+%D0%BF%D1%81%D0%B0+%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li>
+       <li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C+%D0%BF%D1%81%D0%B0+%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> <label id="p-namespaces-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Пространства имён</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li>
+        <li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> <label id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading"> <span class="vector-menu-heading-label">русский</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> <label id="p-views-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Просмотры</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"><span>Читать</span></a></li>
+        <li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li>
+        <li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li>
+        <li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" title="Больше возможностей"> 
+      <input type="checkbox" id="p-cactions-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-cactions" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> <label id="p-cactions-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Ещё</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box"> 
+      <div> 
+       <h3> <label for="searchInput">Поиск</label> </h3> 
+       <form action="/w/index.php" id="searchform" class="vector-search-box-form"> 
+        <div id="simpleSearch" class="vector-search-box-inner" data-search-loc="header-navigation"> 
+         <input class="vector-search-box-input" type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"> 
+         <input type="hidden" name="title" value="Служебная:Поиск"> 
+         <input id="mw-searchButton" class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти"> 
+         <input id="searchButton" class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти"> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a> 
+    </div> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> <label id="p-navigation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Навигация</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li>
+       <li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li>
+       <li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li>
+       <li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li>
+       <li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li>
+       <li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"> <label id="p-participation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Участие</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об&nbsp;ошибке</span></a></li>
+       <li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li>
+       <li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li>
+       <li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li>
+       <li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li>
+       <li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li>
+       <li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> <label id="p-tb-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li>
+       <li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li>
+       <li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+       <li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;oldid=120708211" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li>
+       <li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о&nbsp;странице</span></a></li>
+       <li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%29&amp;id=120708211&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li>
+       <li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q85323337" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> <label id="p-coll-print_export-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Печать/экспорт</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C+%D0%BF%D1%81%D0%B0+%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%29" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li>
+       <li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_%28%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%29&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li>
+       <li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> <label id="p-wikibase-otherprojects-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">В других проектах</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:The_Power_of_the_Dog_(film)" hreflang="en"><span>Викисклад</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> <label id="p-lang-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">На других языках</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/The_Power_of_the_Dog" title="The Power of the Dog — африкаанс" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li>
+       <li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%82%D9%88%D8%A9_%D8%A7%D9%84%D9%83%D9%84%D8%A8" title="قوة الكلب — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li>
+       <li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D9%82%D9%88%D9%87_%D8%A7%D9%84%D9%83%D9%84%D8%A8" title="قوه الكلب — Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li>
+       <li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/The_Power_of_the_Dog" title="The Power of the Dog — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li>
+       <li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/S%C3%ADla_psa" title="Síla psa — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li>
+       <li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/The_Power_of_the_Dog_(Film)" title="The Power of the Dog (Film) — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li>
+       <li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/The_Power_of_the_Dog_(film)" title="The Power of the Dog (film) — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li>
+       <li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/El_poder_del_perro" title="El poder del perro — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li>
+       <li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/The_Power_of_the_Dog_(filma)" title="The Power of the Dog (filma) — баскский" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li>
+       <li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%82%D8%AF%D8%B1%D8%AA_%D8%B3%DA%AF_(%D9%81%DB%8C%D9%84%D9%85_%DB%B2%DB%B0%DB%B2%DB%B1)" title="قدرت سگ (فیلم ۲۰۲۱) — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li>
+       <li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/The_Power_of_the_Dog" title="The Power of the Dog — финский" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li>
+       <li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/The_Power_of_the_Dog" title="The Power of the Dog — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li>
+       <li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/The_Power_of_the_Dog_(filme)" title="The Power of the Dog (filme) — галисийский" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li>
+       <li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%9B%D7%95%D7%97%D7%95_%D7%A9%D7%9C_%D7%94%D7%9B%D7%9C%D7%91" title="כוחו של הכלב — иврит" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li>
+       <li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/A_kutya_karmai_k%C3%B6zt_(film)" title="A kutya karmai közt (film) — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li>
+       <li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/The_Power_of_the_Dog" title="The Power of the Dog — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li>
+       <li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Il_potere_del_cane_(film)" title="Il potere del cane (film) — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li>
+       <li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B6%E3%83%BB%E3%83%89%E3%83%83%E3%82%B0" title="パワー・オブ・ザ・ドッグ — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li>
+       <li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9B%8C_%EC%98%A4%EB%B8%8C_%EB%8F%84%EA%B7%B8" title="파워 오브 도그 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li>
+       <li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/The_Power_of_the_Dog" title="The Power of the Dog — латышский" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li>
+       <li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/The_Power_of_the_Dog" title="The Power of the Dog — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li>
+       <li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/The_Power_of_the_Dog" title="The Power of the Dog — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li>
+       <li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/The_Power_of_the_Dog_(movie)" title="The Power of the Dog (movie) — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li>
+       <li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%9C%D0%BE%D1%9B_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D0%BC)" title="Моћ пса (филм) — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li>
+       <li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B3%E0%B8%99%E0%B8%B2%E0%B8%88%E0%B8%9A%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94%E0%B9%81%E0%B8%84%E0%B9%89%E0%B8%99" title="อำนาจบาดเลือดแค้น — тайский" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li>
+       <li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/The_Power_of_the_Dog_(film)" title="The Power of the Dog (film) — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li>
+       <li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A3_%D1%80%D1%83%D0%BA%D0%B0%D1%85_%D0%BF%D1%81%D0%B0_(%D1%84%D1%96%D0%BB%D1%8C%D0%BC)" title="У руках пса (фільм) — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li>
+       <li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/The_Power_of_the_Dog_(phim)" title="The Power of the Dog (phim) — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li>
+       <li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E7%8A%AC%E5%B1%B1%E8%A8%98" title="犬山記 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q85323337#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 17 марта 2022 в 12:09.</li> 
+    <li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия. <span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br> Wikipedia®&nbsp;— зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li> 
+    <li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li> 
+    <li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li> 
+    <li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.811","walltime":"0.959","ppvisitednodes":{"value":8642,"limit":1000000},"postexpandincludesize":{"value":150499,"limit":2097152},"templateargumentsize":{"value":30818,"limit":2097152},"expansiondepth":{"value":22,"limit":100},"expensivefunctioncount":{"value":26,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":17655,"limit":5000000},"entityaccesscount":{"value":19,"limit":400},"timingprofile":["100.00%  814.496      1 -total"," 55.75%  454.091      1 Шаблон:Фильм"," 54.01%  439.870      2 Шаблон:Карточка"," 21.18%  172.503      1 Шаблон:Примечания"," 18.48%  150.500     15 Шаблон:Cite_web"," 11.65%   94.894      5 Шаблон:Wikidata"," 10.02%   81.609      1 Шаблон:Внешние_ссылки","  6.00%   48.841      1 Шаблон:Карточка/оригинал_названия_произведения","  5.16%   42.067     18 Шаблон:Str_≠_len","  4.06%   33.081     10 Шаблон:HumanizeDate"]},"scribunto":{"limitreport-timeusage":{"value":"0.440","limit":"10.000"},"limitreport-memusage":{"value":11636522,"limit":52428800},"limitreport-logs":"Loaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P162 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P161 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P344 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P2554 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P1809 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P272 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P750 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P2047 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P2130 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P2142 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P364 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P155 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P156 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P345 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw1428","timestamp":"20220317120952","ttl":1814400,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0412\u043b\u0430\u0441\u0442\u044c \u043f\u0441\u0430 (\u0444\u0438\u043b\u044c\u043c)","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%92%D0%BB%D0%B0%D1%81%D1%82%D1%8C_%D0%BF%D1%81%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q85323337","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q85323337","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2020-09-05T05:26:52Z","dateModified":"2022-03-17T12:09:51Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/ru\/7\/77\/The_Power_of_the_Dog.jpg","headline":"\u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0444\u0438\u043b\u044c\u043c \u0440\u0435\u0436\u0438\u0441\u0441\u0451\u0440\u0430 \u0414\u0436\u0435\u0439\u043d \u041a\u044d\u043c\u043f\u0438\u043e\u043d"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":128,"wgHostname":"mw1389"});});</script>  
+ </body>
+</html>

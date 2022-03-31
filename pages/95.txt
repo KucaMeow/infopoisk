@@ -1,0 +1,1066 @@
+<!doctype html>
+<html class="client-nojs" lang="ru" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Падуя — Википедия</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"9c7e2293-a078-468b-807b-556170b3b936","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Падуя","wgTitle":"Падуя","wgCurRevisionId":118733309,"wgRevisionId":118733309,"wgArticleId":136508,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","Страницы, использующие волшебные ссылки ISBN","Википедия:Статьи со сложным входом в Модуль:URL",
+"ПРО:Города:Последняя правка: в прошлом году","Статьи со ссылками на Викисклад","Статьи со ссылками на Викигид","Википедия:Страницы с картами","Населённые пункты по алфавиту","Коммуны провинции Падуя","Падуя","Города Италии","Места паломничества"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Падуя","wgRelevantArticleId":136508,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":118544967,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":
+false,"wgWMEPageLength":30000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgCoordinates":{"lat":45.41667,"lon":11.86667},"wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q617","wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":true,"wgGELinkRecommendationsFrontendEnabled":true};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.kartographer.style":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.kartographer.link","ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <noscript>
+   <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector">
+  </noscript> 
+  <meta name="generator" content="MediaWiki 1.38.0-wmf.25"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Padua_-_Prato_della_Valle.jpg/1200px-Padua_-_Prato_della_Valle.jpg"> 
+  <meta property="og:image:width" content="1200"> 
+  <meta property="og:image:height" content="801"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Padua_-_Prato_della_Valle.jpg/800px-Padua_-_Prato_della_Valle.jpg"> 
+  <meta property="og:image:width" content="800"> 
+  <meta property="og:image:height" content="534"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Padua_-_Prato_della_Valle.jpg/640px-Padua_-_Prato_della_Valle.jpg"> 
+  <meta property="og:image:width" content="640"> 
+  <meta property="og:image:height" content="427"> 
+  <meta property="og:title" content="Падуя — Википедия"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F"> 
+  <link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Падуя rootpage-Падуя skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+    <div id="mw-indicator-0-coord" class="mw-indicator">
+     <span class="coordinates plainlinks nourlexpansion" data-param="45_25_0_N_11_52_0_E_scale:100000_region:IT_type:city"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw="interface" data-style="osm-tegola" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/12/45.41667/11.86667/ru" data-zoom="12" data-lat="45.41667" data-lon="11.86667" data-lang="ru" data-overlays="[&quot;_950530832d548c3b04a05e4682cf1d77fdcfa575&quot;]">45°25′&nbsp;с.&nbsp;ш. 11°52′&nbsp;в.&nbsp;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="//geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;params=45_25_0_N_11_52_0_E_scale:100000_region:IT_type:city"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="//maps.google.com/maps?ll=45.41667,11.86667&amp;q=45.41667,11.86667&amp;spn=0.1,0.1&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="//yandex.ru/maps/?ll=11.86667,45.41667&amp;pt=11.86667,45.41667&amp;spn=0.1,0.1&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=45.41667&amp;mlon=11.86667&amp;zoom=12"><span>O</span></a></span></sup></span>
+    </div> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading mw-first-heading">Падуя</h1> 
+   <div id="bodyContent" class="vector-body"> 
+    <div id="siteSub" class="noprint">
+     Материал из Википедии — свободной энциклопедии
+    </div> 
+    <div id="contentSub">
+     <div id="mw-fr-reviewnotice" class="plainlinks flaggedrevs_preview">
+      Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;stable=1">версии</a>, проверенной 10 декабря 2021; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;oldid=118544967&amp;diff=cur&amp;diffonly=0">2 правки</a>.
+     </div>
+     <div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint">
+      <div class="flaggedrevs_short_basic">
+       <span title="Текущая версия" class="flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget"></span><span id="mw-fr-revisiontoggle" title="показать/скрыть подробности" class="fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget"></span>
+      </div> 
+      <div id="mw-fr-revisiondetails-wrapper" style="position:relative;">
+       <div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">
+        Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;stable=1">версии</a>, проверенной 10 декабря 2021; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;oldid=118544967&amp;diff=cur&amp;diffonly=0">2 правки</a>.
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Перейти к навигации</a> <a class="mw-jump-link" href="#searchInput">Перейти к поиску</a> 
+    <div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable noprint dabhide">
+       У этого термина существуют и другие значения, см. <a href="/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F_(%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)" class="mw-disambig" title="Падуя (значения)">Падуя (значения)</a>.
+      </div> 
+      <table class="infobox" style="" data-name="НП">
+       <tbody>
+        <tr>
+         <td colspan="2" class="" style="text-align:center;">Населённый пункт</td>
+        </tr>
+        <tr>
+         <th colspan="2" scope="colgroup" class="infobox-above" style="">Падуя</th>
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-image" style=""> <span data-wikidata-claim-id="Q617$d1d0bcf4-4b6e-a42c-f6f4-9fb9c3c88880" class="wikidata-claim" data-wikidata-property-id="P18"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Padua_-_Prato_della_Valle.jpg" class="image"><img alt="Padua - Prato della Valle.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Padua_-_Prato_della_Valle.jpg/290px-Padua_-_Prato_della_Valle.jpg" decoding="async" width="290" height="194" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Padua_-_Prato_della_Valle.jpg/435px-Padua_-_Prato_della_Valle.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Padua_-_Prato_della_Valle.jpg/580px-Padua_-_Prato_della_Valle.jpg 2x" data-file-width="7360" data-file-height="4912"></a></span></span> </td>
+        </tr> 
+        <tr> 
+         <td colspan="2" class="plainlist" style="text-align:center;width:60%;padding:0;"> 
+          <table role="presentation" style="background:inherit; border-collapse:collapse; width:100%; display:table; text-align:center;"> 
+           <tbody>
+            <tr> 
+             <td style="vertical-align: middle"><span data-wikidata-property-id="P41" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Bologna.svg" class="image"><img alt="Флаг" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Bologna.svg/160px-Flag_of_Bologna.svg.png" decoding="async" width="160" height="96" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Bologna.svg/240px-Flag_of_Bologna.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Bologna.svg/320px-Flag_of_Bologna.svg.png 2x" data-file-width="800" data-file-height="480"></a></span></td> 
+             <td style="vertical-align: middle"><span data-wikidata-claim-id="Q617$6c11840f-405b-1cc2-c5d3-39a26141693d" class="wikidata-claim" data-wikidata-property-id="P94"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:CoA_Padova.svg" class="image"><img alt="Герб" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CoA_Padova.svg/90px-CoA_Padova.svg.png" decoding="async" width="90" height="109" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CoA_Padova.svg/135px-CoA_Padova.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CoA_Padova.svg/180px-CoA_Padova.svg.png 2x" data-file-width="719" data-file-height="870"></a></span></span></td> 
+            </tr> 
+            <tr> 
+             <td>Флаг</td> 
+             <td>Герб</td> 
+            </tr>
+           </tbody>
+          </table></td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" class="plainlist" style="text-align:center;width:60%;text-align: center; padding-bottom:0.25em;"> <span class="coordinates plainlinks nourlexpansion" data-param="45_25_0_N_11_52_0_E_scale:100000_region:IT_type:city"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw="interface" data-style="osm-tegola" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/12/45.41667/11.86667/ru" data-zoom="12" data-lat="45.41667" data-lon="11.86667" data-lang="ru" data-overlays="[&quot;_950530832d548c3b04a05e4682cf1d77fdcfa575&quot;]">45°25′&nbsp;с.&nbsp;ш. 11°52′&nbsp;в.&nbsp;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="//geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;params=45_25_0_N_11_52_0_E_scale:100000_region:IT_type:city"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="//maps.google.com/maps?ll=45.41667,11.86667&amp;q=45.41667,11.86667&amp;spn=0.1,0.1&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="//yandex.ru/maps/?ll=11.86667,45.41667&amp;pt=11.86667,45.41667&amp;spn=0.1,0.1&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=45.41667&amp;mlon=11.86667&amp;zoom=12"><span>O</span></a></span></sup></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:40%;">Страна</th> 
+         <td class="plainlist" style="width:60%;"> <span data-wikidata-property-id="P17" class="no-wikidata"><span class="nowrap" data-sort-value="Италия"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/22px-Flag_of_Italy.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/33px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/44px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000"></span>&nbsp;<a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" title="Италия"><span class="wrap">Италия</span></a></span></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D0%B8" title="Административное деление Италии">область</a></th> 
+         <td class="plainlist" style="width:60%;"> <a href="/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D1%8F_(%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)" title="Венеция (область)">Венеция</a></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F_(%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F)" class="mw-redirect" title="Провинция (Италия)">Провинция</a></th> 
+         <td class="plainlist" style="width:60%;"> <a href="/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Падуя (провинция)">Падуя</a></td> 
+        </tr> 
+        <tr> 
+         <th colspan="2" scope="colgroup" class="infobox-header" style="">История и география</th> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:40%;">Площадь</th> 
+         <td class="plainlist" style="width:60%;"> <span data-wikidata-property-id="P2046" class="no-wikidata">93,03 км²</span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%92%D1%8B%D1%81%D0%BE%D1%82%D0%B0_%D0%BD%D0%B0%D0%B4_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B5%D0%BC_%D0%BC%D0%BE%D1%80%D1%8F" title="Высота над уровнем моря">Высота центра</a></th> 
+         <td class="plainlist" style="width:60%;"> <span data-wikidata-property-id="P2044" class="no-wikidata">12 м</span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" title="Часовой пояс">Часовой пояс</a></th> 
+         <td class="plainlist" style="width:60%;"> <span data-wikidata-property-id="P421" class="no-wikidata"><a href="/wiki/UTC%2B1:00" title="UTC+1:00">UTC+1:00</a>, <a href="/wiki/%D0%9B%D0%B5%D1%82%D0%BD%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F" title="Летнее время">летом</a> <a href="/wiki/UTC%2B2:00" title="UTC+2:00">UTC+2:00</a></span></td> 
+        </tr> 
+        <tr> 
+         <th colspan="2" scope="colgroup" class="infobox-header" style="">Население</th> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:40%;">Население</th> 
+         <td class="plainlist" style="width:60%;"> 
+          <div data-wikidata-property-id="P1082" class="no-wikidata"> 
+           <p><span class="nowrap">212 224 </span></p> <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>&nbsp;человек (<span data-wikidata-qualifier-id="P585">2019</span>)
+          </div></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:40%;">Плотность</th> 
+         <td class="plainlist" style="width:60%;"> 2281,24&nbsp;чел./км²</td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%BE%D0%B9%D0%BA%D0%BE%D0%BD%D0%B8%D0%BC" class="mw-redirect" title="Катойконим">Катойконим</a></th> 
+         <td class="plainlist" style="width:60%;"> падуа́нец, падуа́нка, падуа́нцы<sup id="cite_ref-этнохороним_2-0" class="reference"><a href="#cite_note-этнохороним-2">[2]</a></sup></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:40%;">Официальный язык</th> 
+         <td class="plainlist" style="width:60%;"> <span data-wikidata-property-id="P37" class="no-wikidata"><a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Итальянский язык">итальянский</a></span></td> 
+        </tr> 
+        <tr> 
+         <th colspan="2" scope="colgroup" class="infobox-header" style="">Цифровые идентификаторы</th> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BB%D0%B0%D0%BD_%D0%BD%D1%83%D0%BC%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Телефонный план нумерации">Телефонный код</a></th> 
+         <td class="plainlist" style="width:60%;"> +39&nbsp;049</td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%9F%D0%BE%D1%87%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81" title="Почтовый индекс">Почтовый индекс</a></th> 
+         <td class="plainlist" style="width:60%;"> <span data-wikidata-property-id="P281" class="no-wikidata">35121-35143</span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80" title="Автомобильный номер">Автомобильный код</a></th> 
+         <td class="plainlist" style="width:60%;"> <span data-wikidata-claim-id="Q617$BFA423C5-AB06-4CC1-8904-FA75DCB14B7F" class="wikidata-claim" data-wikidata-property-id="P395"><span class="wikidata-snak wikidata-main-snak">PD</span></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/ISTAT" title="ISTAT">ISTAT</a></th> 
+         <td class="plainlist" style="width:60%;"> 028060</td> 
+        </tr> 
+        <tr> 
+         <th colspan="2" scope="colgroup" class="infobox-header" style="">Прочее</th> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist" style="width:40%;">День коммуны</th> 
+         <td class="plainlist" style="width:60%;"> <a href="/wiki/13_%D0%B8%D1%8E%D0%BD%D1%8F" title="13 июня">13 июня</a></td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" class="nomobile plainlist" style="text-align:center;width:60%;"> 
+          <hr></td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" class="plainlist" style="text-align:center;width:60%;"> <span data-wikidata-property-id="P856" class="no-wikidata"><span style="word-break:break-word;"><a rel="nofollow" class="external text" href="http://www.comune.padova.it">comune.padova.it</a></span> <span style="margin-left:-0.25em;">&nbsp;<small class="ref-info" style="cursor:help;" title="на итальянском языке">(итал.)</small></span></span></td> 
+        </tr> 
+        <tr> 
+         <td colspan="2" class="plainlist" style="text-align:center;width:60%;padding: 0 1px 1px 0;"> <style data-mw-deduplicate="TemplateStyles:r117334243">.mw-parser-output .ts-ПозКарта-метка{font-size:88%;line-height:1.2em;position:absolute;z-index:2}.mw-parser-output .ts-ПозКарта-метка-точка{position:relative;float:left;line-height:0}.mw-parser-output .ts-ПозКарта-метка-ссылка{position:absolute;width:156px;top:-0.5em}</style>
+          <div class="location-map" style="width:290px; ;;margin:0 auto">
+           <div class="">
+            <div class="thumbimage" style="overflow:hidden;max-width:100%;width:290px;position:relative; ;">
+             <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Italy_location_map.svg" class="image" title="Падуя на карте"><img alt="Падуя на карте" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Italy_location_map.svg/290px-Italy_location_map.svg.png" decoding="async" width="290" height="365" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Italy_location_map.svg/435px-Italy_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Italy_location_map.svg/580px-Italy_location_map.svg.png 2x" data-file-width="1030" data-file-height="1295"></a>
+             <div class="ts-ПозКарта-метка" style="left:44.29%; top:16.33%">
+              <div class="ts-ПозКарта-метка-точка" style="left:-4px; top:-4px;">
+               <img alt="Падуя" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Red_pog.png/9px-Red_pog.png" decoding="async" title="Падуя" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Red_pog.png/14px-Red_pog.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Red_pog.png/18px-Red_pog.png 2x" data-file-width="64" data-file-height="64">
+              </div>
+              <div class="ts-ПозКарта-метка-ссылка" style="text-align: left; left: 6.5px">
+               Падуя
+              </div>
+             </div>
+            </div>
+           </div>
+          </div></td> 
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="q617$9649E68F-75A3-4A08-9C22-28E625A1E823" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><a href="https://commons.wikimedia.org/wiki/Category:Padua" title="commons:Category:Padua"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a>&nbsp;<a href="https://commons.wikimedia.org/wiki/Category:Padua" class="extiw" title="commons:Category:Padua">Медиафайлы на Викискладе</a></span></span></td>
+        </tr> 
+       </tbody>
+      </table> 
+      <p><b>Па́дуя</b> (также <b>Па́дова</b>; <a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Итальянский язык">итал.</a>&nbsp;<span lang="it" style="font-style:italic;">Padova</span> <span class="IPA"><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82" title="Международный фонетический алфавит">[ˈpaːdova]</a></span>, <a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%BE-%D0%B2%D0%B5%D0%BD%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Итало-венетский язык">вен.</a> <span lang="vec" style="font-style:italic;">Pàdova</span>, реже <i>Pàdoa</i>, <a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык">лат.</a>&nbsp;<span lang="la" style="font-style:italic;">Patavium</span>, истор. <a href="/wiki/%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Немецкий язык">нем.</a>&nbsp;<span lang="de" style="font-style:italic;">Esten</span>)&nbsp;— <a href="/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4" title="Город">город</a> в <a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" title="Италия">итальянской</a> области <a href="/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D1%8F_(%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)" title="Венеция (область)">Венеция (Венето)</a>, <a href="/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80" title="Административный центр">административный центр</a> <a href="/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Падуя (провинция)">одноимённой провинции</a>. </p>
+      <p>Падуя расположена на восточной окраине <a href="/wiki/%D0%9F%D0%B0%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D0%BD%D0%B0" class="mw-redirect" title="Паданская равнина">Паданской равнины</a> около 10&nbsp;км к северу от <a href="/w/index.php?title=%D0%AD%D0%B2%D0%B3%D0%B0%D0%BD%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D1%85%D0%BE%D0%BB%D0%BC%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Эвганейские холмы (страница отсутствует)">Эвганейских холмов</a> и около 20&nbsp;км к западу от <a href="/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B0%D0%B3%D1%83%D0%BD%D0%B0" title="Венецианская лагуна">Венецианской лагуны</a>. Городская территория занимает 92 км². Это равнина, через которую между реками <a href="/wiki/%D0%91%D1%80%D0%B5%D0%BD%D1%82%D0%B0" title="Брента">Брента</a> и <a href="/wiki/%D0%91%D0%B0%D0%BA%D0%BA%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD%D0%B5" title="Баккильоне">Баккильоне</a> проложено множество каналов. Каналы города были основой экономики средневековой Падуи, благодаря наличию большого количества <a href="/wiki/%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0" title="Мельница">мельниц</a>, а также благодаря прямой доступности по воде к <a href="/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D1%8F" title="Венеция">Венеции</a>&nbsp;— путь по реке Брента занимал чуть более трёх часов. Система каналов Падуи защищает город от наводнений по сей день.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> </p>
+      <p>Покровителями города считаются <a href="/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%B9_%D0%9F%D0%B0%D0%B4%D1%83%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9" title="Антоний Падуанский">Св. Антоний</a> и <a href="/wiki/%D0%9B%D1%83%D0%BA%D0%B0_(%D0%B5%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D1%81%D1%82)" title="Лука (евангелист)">евангелист Лука</a>, святой апостол, чьи мощи находятся в падуанской базилике Св. Иустины. День города отмечается <a href="/wiki/13_%D0%B8%D1%8E%D0%BD%D1%8F" title="13 июня">13 июня</a>. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="ru" dir="ltr">
+        <h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Архитектура_и_живопись"><span class="tocnumber">2</span> <span class="toctext">Архитектура и живопись</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Религия"><span class="tocnumber">3</span> <span class="toctext">Религия</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Экономика"><span class="tocnumber">4</span> <span class="toctext">Экономика</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Транспорт"><span class="tocnumber">5</span> <span class="toctext">Транспорт</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Климат"><span class="tocnumber">6</span> <span class="toctext">Климат</span></a></li> 
+        <li class="toclevel-1 tocsection-7"><a href="#Известные_жители"><span class="tocnumber">7</span> <span class="toctext">Известные жители</span></a></li> 
+        <li class="toclevel-1 tocsection-8"><a href="#Города-побратимы"><span class="tocnumber">8</span> <span class="toctext">Города-побратимы</span></a></li> 
+        <li class="toclevel-1 tocsection-9"><a href="#Примечания"><span class="tocnumber">9</span> <span class="toctext">Примечания</span></a></li> 
+        <li class="toclevel-1 tocsection-10"><a href="#Ссылки"><span class="tocnumber">10</span> <span class="toctext">Ссылки</span></a></li> 
+        <li class="toclevel-1 tocsection-11"><a href="#Видеоматериалы"><span class="tocnumber">11</span> <span class="toctext">Видеоматериалы</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «История»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=edit&amp;section=1" title="Редактировать раздел «История»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>По данным археологии, первые поселения людей на данной территории появились примерно в XI—X веках до&nbsp;н.&nbsp;э. </p>
+      <p>В римскую эпоху Падуя называлась Патавий (Patavium) и была населена <a href="/wiki/%D0%90%D0%B4%D1%80%D0%B8%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%B5%D0%BD%D0%B5%D1%82%D1%8B" title="Адриатические венеты">венетами</a>. Традиция, связывающая основание Падуи с Антенором&nbsp;— принцем, спасшимся после разрушения Трои, восходит к «Энеиде» Вергилия: <style data-mw-deduplicate="TemplateStyles:r117903712">.mw-parser-output .ts-Начало_цитаты-quote{padding:0.25em 1em}.mw-parser-output .ts-Начало_цитаты-source{margin:1em 0 0 5%}.mw-parser-output .ts-Начало_цитаты-quote .ts-oq{margin:0 -1em -0.25em}body.skin-minerva .mw-parser-output .ts-Начало_цитаты-quote .ts-oq{margin-left:0}.mw-parser-output .ts-Начало_цитаты-quote .ts-oq .ts-oq-header.ts-oq-header,.mw-parser-output .ts-Начало_цитаты-quote .ts-oq .ts-oq-content{padding-left:1.052632em;padding-right:1.052632em}</style> </p> 
+      <blockquote class="ts-Начало_цитаты-quote"> 
+       <div class="poem"> 
+        <p>Мог ведь герой <a href="/wiki/%D0%90%D0%BD%D1%82%D0%B5%D0%BD%D0%BE%D1%80" title="Антенор">Антенор</a>, ускользнув из рук у ахейцев,<br> В бухты Иллирии, в глубь Либурнского царства проникнуть<br> И без вреда перейти бурливый Источник Тимава<br> Там, где, сквозь девять горл из глубин горы вырываясь,<br> Он попирает поля, многошумному морю подобен.<br> Там Антенор основал <b>Патавий</b>&nbsp;— убежище тевкров,<br> Имя племени дал и оружье Трои повесил; </p> 
+       </div> 
+       <style data-mw-deduplicate="TemplateStyles:r113287791">.mw-parser-output .ts-Конец_цитаты-source{margin:0.357143em 2em 0 0;text-align:right}</style>
+       <div class="ts-Конец_цитаты-source">
+        — <cite><a href="/wiki/%D0%AD%D0%BD%D0%B5%D0%B8%D0%B4%D0%B0" title="Энеида">Энеида</a>, I 242-248, Вергилия, перев. С. Ошерова.</cite>
+       </div>
+      </blockquote> 
+      <p>В Средние века вера в эту легенду была столь сильна, что найденные в 1274 году останки мужчины со шпагой и золотыми монетами были идентифицированы падуанским поэтом <a href="/w/index.php?title=%D0%9B%D0%BE%D0%B2%D0%B0%D1%82%D0%BE_%D0%9B%D0%BE%D0%B2%D0%B0%D1%82%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Ловато Ловати (страница отсутствует)">Ловато Ловати</a> как останки принца Антенора и перезахоронены в специально выстроенной для них <a href="/wiki/%D0%AD%D0%B4%D0%B8%D0%BA%D1%83%D0%BB%D0%B0" title="Эдикула">эдикуле</a>&nbsp;— т.&nbsp;н. гробнице Антенора. </p>
+      <p>Начиная с 226 года до&nbsp;н.&nbsp;э. город вступил в союз с Римом против <a href="/wiki/%D0%A6%D0%B8%D0%B7%D0%B0%D0%BB%D1%8C%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%B0%D0%BB%D0%BB%D0%B8%D1%8F" title="Цизальпийская Галлия">Цизальпийской Галлии</a>. Во II веке до&nbsp;н.&nbsp;э. он был сделан <a href="/wiki/%D0%9C%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B8%D0%B8_%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D0%BE_%D0%A0%D0%B8%D0%BC%D0%B0" class="mw-redirect" title="Муниципии Древнего Рима">муниципией</a> и вскоре вырос в один из наиболее значительных городов Верхней Италии, став важным транспортным центром и разбогатев благодаря производству шерстяных изделий, шерсть для которых поставлялась с Альп. Падуя&nbsp;— место рождения <a href="/wiki/%D0%A2%D0%B8%D1%82_%D0%9B%D0%B8%D0%B2%D0%B8%D0%B9" title="Тит Ливий">Тита Ливия</a>. </p>
+      <p>После падения <a href="/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Западная Римская империя">Западной Римской империи</a> Падуя попала во власть <a href="/wiki/%D0%93%D0%BE%D1%82%D1%8B" title="Готы">готов</a> и была разрушена <a href="/wiki/%D0%A2%D0%BE%D1%82%D0%B8%D0%BB%D0%B0" title="Тотила">Тотилой</a>. <a href="/wiki/%D0%9D%D0%B0%D1%80%D1%81%D0%B5%D1%81" title="Нарсес">Нарсес</a> восстановил город, который долгое время сопротивлялся <a href="/wiki/%D0%9B%D0%B0%D0%BD%D0%B3%D0%BE%D0%B1%D0%B0%D1%80%D0%B4%D1%8B" title="Лангобарды">лангобардам</a> и был завоёван и сожжён королём <a href="/wiki/%D0%90%D0%B3%D0%B8%D0%BB%D1%83%D0%BB%D1%8C%D1%84" title="Агилульф">Агилульфом</a> в 610 году. В эпоху <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%B8" title="Франки">франков</a> Падуя была провозглашена главным городом графства. В 1087 году император <a href="/wiki/%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85_IV_(%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8)" title="Генрих IV (император Священной Римской империи)">Генрих IV</a> даровал городу <a href="/wiki/%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4" title="Имперский город">привилегию</a>. В XII веке Падуя получила муниципальное самоуправление, а в 1222 году был основан <a href="/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Падуанский университет">Падуанский университет</a>. </p>
+      <p>Стоявшие во главе города <a href="/wiki/%D0%9F%D0%BE%D0%B4%D0%B5%D1%81%D1%82%D0%B0" title="Подеста">подеста</a> с конца XII века часто тиранически управляли городом (особенно известен <a href="/wiki/%D0%AD%D1%86%D1%86%D0%B5%D0%BB%D0%B8%D0%BD%D0%BE_III_%D0%B4%D0%B0_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE" title="Эццелино III да Романо">Эццелино III да Романо</a>, 1237—1256). В 1256 году Падуя завоевана <a href="/wiki/%D0%93%D0%B2%D0%B5%D0%BB%D1%8C%D1%84%D1%8B" class="mw-redirect" title="Гвельфы">гвельфами</a>. В течение XIV века, исключая короткий промежуток 1329—1337&nbsp;гг., когда город был подчинён <a href="/wiki/%D0%A1%D0%BA%D0%B0%D0%BB%D0%B8%D0%B3%D0%B5%D1%80%D1%8B" title="Скалигеры">роду Скала</a>, во главе его стоял <a href="/wiki/%D0%9A%D0%B0%D1%80%D1%80%D0%B0%D1%80%D0%B5%D0%B7%D0%B8" title="Каррарези">дом Каррара</a> (<a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Итальянский язык">итал.</a>&nbsp;<span lang="it" style="font-style:italic;">Carraresi</span>), отстаивавший Падую от <a href="/wiki/%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85_VII_(%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8)" title="Генрих VII (император Священной Римской империи)">Генриха VII</a>. Но могущество Каррара было сломлено <a href="/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Венецианская республика">Венецией</a>. Франческо I Каррара, первоначально вступивший в союз со <a href="/wiki/%D0%A1%D1%84%D0%BE%D1%80%D1%86%D0%B0" title="Сфорца">Сфорца</a> против Венеции, впоследствии был схвачен миланцами, перешедшими на сторону Венеции, и умер в заточении. Его сына <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%BE_II_%D0%B4%D0%B0_%D0%9A%D0%B0%D1%80%D1%80%D0%B0%D1%80%D0%B0" title="Франческо II да Каррара">Франческо II</a> и внуков венецианцы лишили владений в 1405 и казнили в 1406 году. </p>
+      <p>В 1405 году Падуя стала частью <a href="/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Венецианская республика">Венецианской республики</a>, после чего утратила былую политическую важность, превратившись в главный образовательный (университетский) центр республики. В 1509 году в ходе так называемой <a href="/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%9A%D0%B0%D0%BC%D0%B1%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%BB%D0%B8%D0%B3%D0%B8" title="Война Камбрейской лиги">войны Камбрейской лиги</a> Падуя подверглась нападению, <a href="/wiki/%D0%9E%D1%81%D0%B0%D0%B4%D0%B0_%D0%9F%D0%B0%D0%B4%D1%83%D0%B8" title="Осада Падуи">город был осаждён</a>, но атаку удалось отразить. После этого городские стены были значительно укреплены и в этом виде сохранились до наших дней. </p>
+      <p>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r117903712"> </p> 
+      <blockquote class="ts-Начало_цитаты-quote">
+       <p> Падва&nbsp;— место гораздо велико, однако ж малолюдно, только наполняется приезжими людми, которые в Падву со всех стран приезжают для наук. Будучи в Падве, иноземцу, приезжему человеку, потребно жить остерегательно и в ночи поздно ходить одному из дому в дом не надобно для того, что в Падве от студентов бывает приезжим обида, а временем и убивство, однако ж с оружием ходят и поздно, кому есть какая потреба.
+        <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113287791"></p>
+       <div class="ts-Конец_цитаты-source">
+        — <cite>Путевой дневник <a href="/wiki/%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9,_%D0%9F%D1%91%D1%82%D1%80_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Толстой, Пётр Андреевич">П. А. Толстого</a> (1697)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></cite>
+       </div>
+      </blockquote> 
+      <p>В 1797 году, когда Венецианская республика прекратила существование, французы заняли Падую и по <a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%BF%D0%BE-%D0%A4%D0%BE%D1%80%D0%BC%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80" title="Кампо-Формийский мир">Кампо-Формийскому миру</a> передали её <a href="/wiki/%D0%93%D0%B0%D0%B1%D1%81%D0%B1%D1%83%D1%80%D0%B3%D0%B8" title="Габсбурги">Габсбургам</a>. По <a href="/wiki/%D0%9F%D1%80%D0%B5%D1%81%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80" title="Пресбургский мир">Пресбургскому миру</a> (1805) <a href="/wiki/%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD" class="mw-redirect" title="Наполеон">Наполеон</a> присоединил Падую к созданному им <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%BE_%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F_(%D0%BD%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5)" class="mw-redirect" title="Королевство Италия (наполеоновское)">итальянскому королевству</a>. По <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80_(1814)" title="Парижский мирный договор (1814)">Первому Парижскому миру</a> (1814) Падуя опять отошла к Австрии. В 1848 году в городе вспыхнуло восстание, подавленное австрийцами; университет был закрыт до 1850 года. По венскому миру 1866 года Падуя вместе с Венецией переданы вновь созданному <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D1%82%D0%B2%D0%BE_%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F_(1861%E2%80%941946)" title="Королевство Италия (1861—1946)">Итальянскому королевству</a>. </p>
+      <p>В 1893 году в честь города был назван астероид <a href="/wiki/(363)_%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="(363) Падуя">(363) Падуя</a>. </p>
+      <p>В течение <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Первая мировая война">Первой мировой войны</a> Падуя была важным местом расположения военных гарнизонов Италии. </p>
+      <p>Во время <a href="/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B0%D1%8F_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Вторая мировая война">Второй мировой войны</a> в Падуе было организовано партизанское движение против <a href="/wiki/%D0%A4%D0%B0%D1%88%D0%B8%D0%B7%D0%BC" title="Фашизм">фашизма</a>. В движении сопротивления участвовали студенты и преподаватели университета; впоследствии Падуанский университет был награждён золотой медалью за воинскую доблесть. </p>
+      <p>Послевоенные годы стали для Падуи периодом развития экономики и строительства. Она становится городом, где сильны рабочие организации. Но вместе с тем в ней действуют неофашистские организации, такие как «Новый порядок» и «Роза ветров» (итал. Ordine Nuovo, Rosa dei venti). </p> 
+      <h2><span id=".D0.90.D1.80.D1.85.D0.B8.D1.82.D0.B5.D0.BA.D1.82.D1.83.D1.80.D0.B0_.D0.B8_.D0.B6.D0.B8.D0.B2.D0.BE.D0.BF.D0.B8.D1.81.D1.8C"></span><span class="mw-headline" id="Архитектура_и_живопись">Архитектура и живопись</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Архитектура и живопись»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=edit&amp;section=2" title="Редактировать раздел «Архитектура и живопись»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Palazzo_della_Ragione_Padua_Saal.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Palazzo_della_Ragione_Padua_Saal.jpg/220px-Palazzo_della_Ragione_Padua_Saal.jpg" decoding="async" width="220" height="137" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Palazzo_della_Ragione_Padua_Saal.jpg/330px-Palazzo_della_Ragione_Padua_Saal.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Palazzo_della_Ragione_Padua_Saal.jpg/440px-Palazzo_della_Ragione_Padua_Saal.jpg 2x" data-file-width="966" data-file-height="600"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Palazzo_della_Ragione_Padua_Saal.jpg" class="internal" title="Увеличить"></a>
+         </div>Зал палаццо-делла-Раджоне.
+        </div>
+       </div>
+      </div>
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Abbazia_di_Santa_Giustina2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Abbazia_di_Santa_Giustina2.jpg/220px-Abbazia_di_Santa_Giustina2.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Abbazia_di_Santa_Giustina2.jpg/330px-Abbazia_di_Santa_Giustina2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Abbazia_di_Santa_Giustina2.jpg/440px-Abbazia_di_Santa_Giustina2.jpg 2x" data-file-width="7360" data-file-height="4912"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Abbazia_di_Santa_Giustina2.jpg" class="internal" title="Увеличить"></a>
+         </div>Прато-делла-Валле и базилика Св. Иустины
+        </div>
+       </div>
+      </div> 
+      <p>Исторический центр города окружён неплохо сохранившимися стенами XVI века, выстроенными <a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%BE%D1%82%D1%8C%D0%B5%D1%80" title="Кондотьер">кондотьером</a> <a href="/wiki/%D0%91%D0%B0%D1%80%D1%82%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BE_%D0%B4%E2%80%99%D0%90%D0%BB%D1%8C%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE" title="Бартоломео д’Альвиано">Бартоломео д’Альвиано</a> взамен стен, разрушенных во время <a href="/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%9A%D0%B0%D0%BC%D0%B1%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%BB%D0%B8%D0%B3%D0%B8" title="Война Камбрейской лиги">войны Камбрейской лиги</a>. Частично сохранились стены и башни XIII века. </p>
+      <p>Центром города служат <span data-interwiki-lang="it" data-interwiki-article="Piazza delle Erbe (Padova)"><a href="/w/index.php?title=%D0%9F%D1%8C%D1%8F%D1%86%D1%86%D0%B0_%D0%B4%D0%B5%D0%BB%D1%8C_%D0%AD%D1%80%D0%B1%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Пьяцца дель Эрбе (страница отсутствует)">площадь Трав</a></span><span class="noprint" style="white-space: nowrap; font-size: 85%;"> (<a href="https://it.wikipedia.org/wiki/Piazza_delle_Erbe_(Padova)" class="extiw" title="it:Piazza delle Erbe (Padova)"><span title="Piazza delle Erbe (Padova) — версия статьи «Пьяцца дель Эрбе» на итальянском языке">итал.</span></a>)</span> и <span data-interwiki-lang="it" data-interwiki-article="Piazza della Frutta (Padova)"><a href="/w/index.php?title=%D0%9F%D1%8C%D1%8F%D1%86%D1%86%D0%B0_%D0%B4%D0%B5%D0%BB%D0%BB%D0%B0_%D0%A4%D1%80%D1%83%D1%82%D1%82%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Пьяцца делла Фрутта (страница отсутствует)">площадь Фруктов</a></span><span class="noprint" style="white-space: nowrap; font-size: 85%;"> (<a href="https://it.wikipedia.org/wiki/Piazza_della_Frutta_(Padova)" class="extiw" title="it:Piazza della Frutta (Padova)"><span title="Piazza della Frutta (Padova) — версия статьи «Пьяцца делла Фрутта» на итальянском языке">итал.</span></a>)</span>, на которых издревле размещается падуанский рынок. Эти площади разделены <a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86%D1%86%D0%BE_%D0%B4%D0%B5%D0%BB%D0%BB%D0%B0_%D0%A0%D0%B0%D0%B4%D0%B6%D0%BE%D0%BD%D0%B5_(%D0%9F%D0%B0%D0%B4%D1%83%D1%8F)" title="Палаццо делла Раджоне (Падуя)">палаццо делла Раджоне</a>, первоначально служившим местом заседаний городского суда. Внутри палаццо размещается внушительных размеров зал, служивший местом городских собраний. Особый интерес представляют фрески XV&nbsp;в. на астрологические сюжеты. К нему примыкает палаццо дель Муничипио (XVI век, значительно перестроен в 1904 году). </p>
+      <p>Расположенный по соседству <a href="/wiki/%D0%9A%D0%B0%D1%84%D0%B5%D0%B4%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9F%D0%B0%D0%B4%D1%83%D1%8F)" class="mw-redirect" title="Кафедральный собор (Падуя)">кафедральный собор</a> был начат в стиле Возрождения в 1551 году, однако строительные работы затянулись вплоть до 1754 года. Фасад остался незаконченным. При соборе имеется <a href="/wiki/%D0%91%D0%B0%D0%BF%D1%82%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B9" title="Баптистерий">баптистерий</a> XII&nbsp;в. с фресками <a href="/wiki/%D0%94%D0%B6%D1%83%D1%81%D1%82%D0%BE_%D0%B4%D0%B5_%D0%9C%D0%B5%D0%BD%D0%B0%D0%B1%D1%83%D0%BE%D0%B8" title="Джусто де Менабуои">Джусто де Менабуои</a> (1375—1376&nbsp;гг.). </p>
+      <p>Среди площадей города следует выделить одну из самых больших площадей Европы <a href="/wiki/%D0%9F%D1%80%D0%B0%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%BB%D0%B0-%D0%92%D0%B0%D0%BB%D0%BB%D0%B5" title="Прато-делла-Валле">Прато-делла-Валле</a>, обустроенную по проекту <a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B0_%D0%9C%D0%B5%D0%BC%D0%BC%D0%BE" class="mw-redirect" title="Андреа Меммо">Андреа Меммо</a> 1775 года. Конфигурация площади эллиптическая, вокруг центральной части располагается канал с двойным кольцом статуй, изображающих знаменитых жителей Падуи. Первая статуя была установлена в 1775 году, последняя&nbsp;— в 1833 году. Согласно специально разработанным правилам, статуи не должны изображать людей ещё живущих, святых, все эти лица должны быть связаны с городом. Большей частью скульптуры изображают профессоров университета, деятелей искусств, полководцев и бывших правителей города. Всего их было 88, но при Наполеоне были разбиты шесть статуй, изображающих <a href="/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%B6" title="Венецианский дож">венецианских дожей</a>. В настоящее время площадь используется как место для городского рынка, для проведения концертов и праздников. На площадь выходит <a href="/wiki/%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%BA%D0%B0_%D0%A1%D0%B0%D0%BD%D1%82%D0%B0-%D0%94%D0%B6%D1%83%D1%81%D1%82%D0%B8%D0%BD%D0%B0" class="mw-redirect" title="Базилика Санта-Джустина">базилика Св. Иустины,</a> построенная по плану Риччо (1521—32) с великолепным куполом в стиле <a href="/wiki/%D0%92%D0%BE%D0%B7%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Возрождение">Возрождения</a>. Алтарь и хоры работы <a href="/wiki/%D0%9F%D0%B0%D0%BE%D0%BB%D0%BE_%D0%92%D0%B5%D1%80%D0%BE%D0%BD%D0%B5%D0%B7%D0%B5" title="Паоло Веронезе">Паоло Веронезе</a>. </p>
+      <p>Наиболее известным храмом города является <a href="/wiki/%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%BA%D0%B0_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D1%8F" title="Базилика Святого Антония">церковь Святого Антония Падуанского</a> с её многочисленными капеллами, выходящая на пьяцца-дель-Санто, где установлена медная конная статуя венецианского кондотьера <a href="/wiki/%D0%93%D0%B0%D1%82%D1%82%D0%B0%D0%BC%D0%B5%D0%BB%D0%B0%D1%82%D0%B0" class="mw-redirect" title="Гаттамелата">Гаттамелаты</a> работы <a href="/wiki/%D0%94%D0%BE%D0%BD%D0%B0%D1%82%D0%B5%D0%BB%D0%BB%D0%BE" title="Донателло">Донателло</a> (1453&nbsp;г.). </p>
+      <p>Храм представляет собой трёхнефную базилику длиной в 195&nbsp;м с семью куполами, начатую в 1235 году; на фасаде&nbsp;— фреска <a href="/wiki/%D0%9C%D0%B0%D0%BD%D1%82%D0%B5%D0%BD%D1%8C%D1%8F,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B0" title="Мантенья, Андреа">Мантеньи</a>; в левой части капеллы дель Санто&nbsp;— великолепное произведение эпохи Возрождения (1500—1533&nbsp;гг.) с мраморными барельефами Антонио и <a href="/wiki/%D0%9B%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%BE,_%D0%A2%D1%83%D0%BB%D0%BB%D0%B8%D0%BE" title="Ломбардо, Туллио">Туллио Ломбардо</a> и <a href="/wiki/%D0%A1%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B8%D0%BD%D0%BE,_%D0%AF%D0%BA%D0%BE%D0%BF%D0%BE" title="Сансовино, Якопо">Сансовино</a>; в алтаре бронзовый барельеф работы <a href="/wiki/%D0%94%D0%BE%D0%BD%D0%B0%D1%82%D0%B5%D0%BB%D0%BB%D0%BE" title="Донателло">Донателло</a> и знаменитый бронзовый канделябр Андреа Риччо (1507) высотой в 3,5&nbsp;м; в <span data-interwiki-lang="it" data-interwiki-article="Cappella di San Giacomo"><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BF%D0%B5%D0%BB%D0%BB%D0%B0_%D0%A1%D0%B0%D0%BD_%D0%A4%D0%B5%D0%BB%D0%B8%D1%87%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Капелла Сан Феличе (страница отсутствует)">капелле Сан Феличе</a></span><span class="noprint" style="white-space: nowrap; font-size: 85%;"> (<a href="https://it.wikipedia.org/wiki/Cappella_di_San_Giacomo" class="extiw" title="it:Cappella di San Giacomo"><span title="Cappella di San Giacomo — версия статьи «Капелла Сан Феличе» на итальянском языке">итал.</span></a>)</span> (1372&nbsp;г.)&nbsp;— фрески <a href="/wiki/%D0%90%D0%BB%D1%8C%D1%82%D0%B8%D0%BA%D1%8C%D0%B5%D1%80%D0%BE_%D0%B4%D0%B0_%D0%94%D0%B7%D0%B5%D0%B2%D0%B8%D0%BE" title="Альтикьеро да Дзевио">Альтикьеро</a> и <a href="/wiki/%D0%90%D0%B2%D0%B0%D0%BD%D1%86%D0%BE,_%D0%AF%D0%BA%D0%BE%D0%BF%D0%BE" title="Аванцо, Якопо">Аванци</a>. Здесь же находится <a href="/wiki/%D0%9A%D0%B0%D0%BF%D0%B5%D0%BB%D0%BB%D0%B0_%D0%A1%D0%B0%D0%BD-%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6%D0%BE" title="Капелла Сан-Джорджо">капелла Сан Джорджо</a> (1377), украшенная фресками тех же художников, и знаменитый ораторий <span data-interwiki-lang="it" data-interwiki-article="Scuola del Santo"><a href="/w/index.php?title=%D0%A1%D0%BA%D1%83%D0%BE%D0%BB%D0%B0_%D0%B4%D0%B5%D0%BB%D1%8C_%D0%A1%D0%B0%D0%BD%D1%82%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Скуола дель Санто (страница отсутствует)">Скуола дель Санто</a></span><span class="noprint" style="white-space: nowrap; font-size: 85%;"> (<a href="https://it.wikipedia.org/wiki/Scuola_del_Santo" class="extiw" title="it:Scuola del Santo"><span title="Scuola del Santo — версия статьи «Скуола дель Санто» на итальянском языке">итал.</span></a>)</span> 1460&nbsp;г. с 16 фресками <a href="/wiki/%D0%A2%D0%B8%D1%86%D0%B8%D0%B0%D0%BD" title="Тициан">Тициана</a> и его учеников, изображающими легенду о св. Антонии. </p>
+      <p>Художественными произведениями знаменитых итальянских живописцев и скульпторов украшены и другие церкви Падуи: так, <span data-interwiki-lang="it" data-interwiki-article="Cappella Ovetari"><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BF%D0%B5%D0%BB%D0%BB%D0%B0_%D0%9E%D0%B2%D0%B5%D1%82%D0%B0%D1%80%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Капелла Оветари (страница отсутствует)">капелла Оветари</a></span><span class="noprint" style="white-space: nowrap; font-size: 85%;"> (<a href="https://it.wikipedia.org/wiki/Cappella_Ovetari" class="extiw" title="it:Cappella Ovetari"><span title="Cappella Ovetari — версия статьи «Капелла Оветари» на итальянском языке">итал.</span></a>)</span> церкви дельи Эремитани знаменита фресками <a href="/wiki/%D0%9C%D0%B0%D0%BD%D1%82%D0%B5%D0%BD%D1%8C%D1%8F,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B0" title="Мантенья, Андреа">Мантеньи</a> 1448&nbsp;г.; <a href="/wiki/%D0%9A%D0%B0%D0%BF%D0%B5%D0%BB%D0%BB%D0%B0_%D0%A1%D0%BA%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%D0%B8" title="Капелла Скровеньи">капелла Скровеньи</a> (1303)&nbsp;— фресками <a href="/wiki/%D0%94%D0%B6%D0%BE%D1%82%D1%82%D0%BE" class="mw-redirect" title="Джотто">Джотто</a>; ораторий <span data-interwiki-lang="it" data-interwiki-article="Basilica del Carmine (Padova)"><a href="/w/index.php?title=%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D0%B0%D1%80%D0%BC%D0%B8%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Церковь дель Кармине (страница отсутствует)">церкви дель Кармине</a></span><span class="noprint" style="white-space: nowrap; font-size: 85%;"> (<a href="https://it.wikipedia.org/wiki/Basilica_del_Carmine_(Padova)" class="extiw" title="it:Basilica del Carmine (Padova)"><span title="Basilica del Carmine (Padova) — версия статьи «Церковь дель Кармине» на итальянском языке">итал.</span></a>)</span>&nbsp;— фресками Тициана (пострадал во время бомбардировки 1944 года). В XV веке в городе сложилась своеобразная падуанская школа живописи, основателем которой считается <a href="/wiki/%D0%A1%D0%BA%D0%B2%D0%B0%D1%80%D1%87%D0%BE%D0%BD%D0%B5,_%D0%A4%D1%80%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%BE" title="Скварчоне, Франческо">Франческо Скварчоне</a>, а наибоее яркими представителями <a href="/wiki/%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6%D0%BE_%D0%A1%D0%BA%D1%8C%D1%8F%D0%B2%D0%BE%D0%BD%D0%B5" title="Джорджо Скьявоне">Джорджо Скьявоне</a>, <a href="/wiki/%D0%9F%D0%B8%D1%86%D1%86%D0%BE%D0%BB%D0%BE,_%D0%9D%D0%B8%D0%BA%D0%BA%D0%BE%D0%BB%D0%BE" class="mw-redirect" title="Пиццоло, Никколо">Никколо Пиццоло</a> и <a href="/wiki/%D0%94%D0%B7%D0%BE%D0%BF%D0%BF%D0%BE,_%D0%9C%D0%B0%D1%80%D0%BA%D0%BE" title="Дзоппо, Марко">Марко Дзоппо</a>. </p> 
+      <table class="graytable"> 
+       <caption>
+        Фрески капелл Падуи. 
+       </caption> 
+       <tbody>
+        <tr> 
+         <td width="20%">
+          <div class="center">
+           <div class="floatnone">
+            <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Scrovegni.JPG" class="image"><img alt="Scrovegni.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Scrovegni.JPG/200px-Scrovegni.JPG" decoding="async" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Scrovegni.JPG/300px-Scrovegni.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Scrovegni.JPG/400px-Scrovegni.JPG 2x" data-file-width="2048" data-file-height="1536"></a>
+           </div>
+          </div> </td> 
+         <td width="20%">
+          <div class="center">
+           <div class="floatnone">
+            <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Padova,_basilica_del_santo,_crocefissione_di_altichiero.JPG" class="image"><img alt="Padova, basilica del santo, crocefissione di altichiero.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Padova%2C_basilica_del_santo%2C_crocefissione_di_altichiero.JPG/200px-Padova%2C_basilica_del_santo%2C_crocefissione_di_altichiero.JPG" decoding="async" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Padova%2C_basilica_del_santo%2C_crocefissione_di_altichiero.JPG/300px-Padova%2C_basilica_del_santo%2C_crocefissione_di_altichiero.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Padova%2C_basilica_del_santo%2C_crocefissione_di_altichiero.JPG/400px-Padova%2C_basilica_del_santo%2C_crocefissione_di_altichiero.JPG 2x" data-file-width="1600" data-file-height="1200"></a>
+           </div>
+          </div> </td> 
+         <td width="20%">
+          <div class="center">
+           <div class="floatnone">
+            <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Altichiero,_oratorio_di_san_giorgio,_parete_dell%27altare_02.JPG" class="image"><img alt="Altichiero, oratorio di san giorgio, parete dell'altare 02.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Altichiero%2C_oratorio_di_san_giorgio%2C_parete_dell%27altare_02.JPG/200px-Altichiero%2C_oratorio_di_san_giorgio%2C_parete_dell%27altare_02.JPG" decoding="async" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Altichiero%2C_oratorio_di_san_giorgio%2C_parete_dell%27altare_02.JPG/300px-Altichiero%2C_oratorio_di_san_giorgio%2C_parete_dell%27altare_02.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Altichiero%2C_oratorio_di_san_giorgio%2C_parete_dell%27altare_02.JPG/400px-Altichiero%2C_oratorio_di_san_giorgio%2C_parete_dell%27altare_02.JPG 2x" data-file-width="1600" data-file-height="1200"></a>
+           </div>
+          </div> </td> 
+         <td width="20%">
+          <div class="center">
+           <div class="floatnone">
+            <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ovetari,_san_cristorforo_05-06,_Martirio_e_trasporto_del_corpo_decapitato_di_san_Cristoforo_di_Andrea_Mantegna.jpg" class="image"><img alt="Ovetari, san cristorforo 05-06, Martirio e trasporto del corpo decapitato di san Cristoforo di Andrea Mantegna.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ovetari%2C_san_cristorforo_05-06%2C_Martirio_e_trasporto_del_corpo_decapitato_di_san_Cristoforo_di_Andrea_Mantegna.jpg/260px-Ovetari%2C_san_cristorforo_05-06%2C_Martirio_e_trasporto_del_corpo_decapitato_di_san_Cristoforo_di_Andrea_Mantegna.jpg" decoding="async" width="260" height="155" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ovetari%2C_san_cristorforo_05-06%2C_Martirio_e_trasporto_del_corpo_decapitato_di_san_Cristoforo_di_Andrea_Mantegna.jpg/390px-Ovetari%2C_san_cristorforo_05-06%2C_Martirio_e_trasporto_del_corpo_decapitato_di_san_Cristoforo_di_Andrea_Mantegna.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ovetari%2C_san_cristorforo_05-06%2C_Martirio_e_trasporto_del_corpo_decapitato_di_san_Cristoforo_di_Andrea_Mantegna.jpg/520px-Ovetari%2C_san_cristorforo_05-06%2C_Martirio_e_trasporto_del_corpo_decapitato_di_san_Cristoforo_di_Andrea_Mantegna.jpg 2x" data-file-width="1277" data-file-height="759"></a>
+           </div>
+          </div> </td> 
+         <td width="20%">
+          <div class="center">
+           <div class="floatnone">
+            <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Scuola_del_santo,_interno.JPG" class="image"><img alt="Scuola del santo, interno.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Scuola_del_santo%2C_interno.JPG/200px-Scuola_del_santo%2C_interno.JPG" decoding="async" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Scuola_del_santo%2C_interno.JPG/300px-Scuola_del_santo%2C_interno.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Scuola_del_santo%2C_interno.JPG/400px-Scuola_del_santo%2C_interno.JPG 2x" data-file-width="1600" data-file-height="1200"></a>
+           </div>
+          </div> </td>
+        </tr> 
+        <tr> 
+         <td align="center">Фрески <a href="/wiki/%D0%94%D0%B6%D0%BE%D1%82%D1%82%D0%BE" class="mw-redirect" title="Джотто">Джотто</a> в <a href="/wiki/%D0%9A%D0%B0%D0%BF%D0%B5%D0%BB%D0%BB%D0%B0_%D0%A1%D0%BA%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C%D0%B8" title="Капелла Скровеньи">капелле Скровеньи</a>, 1303&nbsp;г. </td> 
+         <td align="center">Фрески <a href="/wiki/%D0%90%D0%BB%D1%8C%D1%82%D0%B8%D0%BA%D1%8C%D0%B5%D1%80%D0%BE_%D0%B4%D0%B0_%D0%94%D0%B7%D0%B5%D0%B2%D0%B8%D0%BE" title="Альтикьеро да Дзевио">Альтикьеро</a> и <a href="/wiki/%D0%90%D0%B2%D0%B0%D0%BD%D1%86%D0%BE,_%D0%AF%D0%BA%D0%BE%D0%BF%D0%BE" title="Аванцо, Якопо">Аванци</a> в капелле Сан Феличе, 1372&nbsp;г. </td> 
+         <td align="center">Фрески <a href="/wiki/%D0%90%D0%BB%D1%8C%D1%82%D0%B8%D0%BA%D1%8C%D0%B5%D1%80%D0%BE_%D0%B4%D0%B0_%D0%94%D0%B7%D0%B5%D0%B2%D0%B8%D0%BE" title="Альтикьеро да Дзевио">Альтикьеро</a> и <a href="/wiki/%D0%90%D0%B2%D0%B0%D0%BD%D1%86%D0%BE,_%D0%AF%D0%BA%D0%BE%D0%BF%D0%BE" title="Аванцо, Якопо">Аванци</a> в <a href="/wiki/%D0%9A%D0%B0%D0%BF%D0%B5%D0%BB%D0%BB%D0%B0_%D0%A1%D0%B0%D0%BD-%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6%D0%BE" title="Капелла Сан-Джорджо">капелле Сан Джорджио</a>, 1377&nbsp;г. </td> 
+         <td align="center">Фрески <a href="/wiki/%D0%9C%D0%B0%D0%BD%D1%82%D0%B5%D0%BD%D1%8C%D1%8F,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B0" title="Мантенья, Андреа">Мантеньи</a> в капелла Оветари, 1448&nbsp;г. </td> 
+         <td align="center">Фрески <a href="/wiki/%D0%A2%D0%B8%D1%86%D0%B8%D0%B0%D0%BD" title="Тициан">Тициана</a> и его учеников в Скуола дель Санто. </td>
+        </tr>
+       </tbody>
+      </table> 
+      <p>В художественном отношении следует упомянуть следующие здания: </p> 
+      <ul>
+       <li><span data-interwiki-lang="it" data-interwiki-article="Loggia della Gran Guardia"><a href="/w/index.php?title=%D0%9B%D0%BE%D0%B4%D0%B6%D0%B0_%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9A%D0%BE%D0%BD%D1%81%D0%B8%D0%BB%D1%8C%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Лоджа дель Консильо (страница отсутствует)">лоджа дель Консильо</a></span><span class="noprint" style="white-space: nowrap; font-size: 85%;"> (<a href="https://it.wikipedia.org/wiki/Loggia_della_Gran_Guardia" class="extiw" title="it:Loggia della Gran Guardia"><span title="Loggia della Gran Guardia — версия статьи «Лоджа дель Консильо» на итальянском языке">итал.</span></a>)</span>, замечательное произведение раннего Ренессанса (1493—1526);</li> 
+       <li>палаццо Джустиниани (1524).</li>
+      </ul> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:OrtoBotPadova_Fontana_4_stagioni.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/OrtoBotPadova_Fontana_4_stagioni.jpg/220px-OrtoBotPadova_Fontana_4_stagioni.jpg" decoding="async" width="220" height="162" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/OrtoBotPadova_Fontana_4_stagioni.jpg/330px-OrtoBotPadova_Fontana_4_stagioni.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/OrtoBotPadova_Fontana_4_stagioni.jpg/440px-OrtoBotPadova_Fontana_4_stagioni.jpg 2x" data-file-width="1968" data-file-height="1449"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:OrtoBotPadova_Fontana_4_stagioni.jpg" class="internal" title="Увеличить"></a>
+         </div><a href="/wiki/%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4_%D0%9F%D0%B0%D0%B4%D1%83%D0%B8" title="Ботанический сад Падуи">Ботанический сад Падуи</a>
+        </div>
+       </div>
+      </div> 
+      <p>Исторический интерес представляют постройки, связанные с <a href="/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Падуанский университет">Падуанским университетом</a>. В 1493 году факультеты университета, располагавшиеся в разных местах города, были переведены в одно здание&nbsp;— бывшую гостиницу «У вола» (Albergo del Bove). В 1552 году на её месте по проекту Андреа Морони (Andrea Moroni) было начато строительство нового здания, получившего название <span data-interwiki-lang="it" data-interwiki-article="Palazzo del Bo"><a href="/w/index.php?title=%D0%9F%D0%B0%D0%BB%D0%B0%D1%86%D1%86%D0%BE_%D0%B4%D0%B5%D0%BB%D1%8C_%D0%91%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Палаццо дель Бо (страница отсутствует)">Палаццо дель Бо</a></span><span class="noprint" style="white-space: nowrap; font-size: 85%;"> (<a href="https://it.wikipedia.org/wiki/Palazzo_del_Bo" class="extiw" title="it:Palazzo del Bo"><span title="Palazzo del Bo — версия статьи «Палаццо дель Бо» на итальянском языке">итал.</span></a>)</span>. В 1932—1934 годах к нему было пристроено новое крыло и возведена парадная лестница, ведущая в ректорат, по проекту <a href="/wiki/%D0%9F%D0%BE%D0%BD%D1%82%D0%B8,_%D0%94%D0%B6%D0%B8%D0%BE" class="mw-redirect" title="Понти, Джио">Джо Понти</a>. </p>
+      <p>Рядом с базиликой святого Антония расположен старейший в мире постоянно действующий <a href="/wiki/%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4_%D0%9F%D0%B0%D0%B4%D1%83%D0%B8" title="Ботанический сад Падуи">Ботанический сад Падуи</a>, учреждённый в 1545 году решением Венецианского Сената с целью выращивания лечебных трав для медицинского факультета Падуанского университета и занесённый в 1997 году как прототип всех ботанических садов в число памятников Всемирного наследия ЮНЕСКО. </p>
+      <p>В окрестностях Падуи расположено несколько вилл, ранее принадлежавших венецианским <a href="/wiki/%D0%90%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F" title="Аристократия">аристократам</a>: </p> 
+      <ul>
+       <li><a href="/wiki/%D0%92%D0%B8%D0%BB%D0%BB%D0%B0_%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%B8" title="Вилла Контарини">Вилла Контарини</a>, в посёлке Пьяццола-суль-Брента, строительство которой было начато в 1546 году <a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B0_%D0%9F%D0%B0%D0%BB%D0%BB%D0%B0%D0%B4%D0%B8%D0%BE" class="mw-redirect" title="Андреа Палладио">Андреа Палладио</a> и продолжалось несколько веков, является наиболее значимой.</li> 
+       <li><a href="/w/index.php?title=%D0%92%D0%B8%D0%BB%D0%BB%D0%B0_%D0%9C%D0%BE%D0%BB%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Вилла Молин (страница отсутствует)">Вилла Молин</a>, созданная <a href="/wiki/%D0%92%D0%B8%D0%BD%D1%87%D0%B5%D0%BD%D1%86%D0%BE_%D0%A1%D0%BA%D0%B0%D0%BC%D0%BE%D1%86%D1%86%D0%B8" class="mw-redirect" title="Винченцо Скамоцци">Винченцо Скамоцци</a> в 1597 году.</li> 
+       <li><a href="/w/index.php?title=%D0%92%D0%B8%D0%BB%D0%BB%D0%B0_%D0%9C%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%BE%D0%BB%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Вилла Мандриола (страница отсутствует)">Вилла Мандриола</a> (XVII век), в Албиньясего (Albignasego).</li> 
+       <li><a href="/w/index.php?title=%D0%92%D0%B8%D0%BB%D0%BB%D0%B0_%D0%9F%D0%B0%D0%BA%D0%BA%D1%8C%D0%B5%D1%80%D0%BE%D1%82%D1%82%D0%B8-%D0%A2%D1%80%D0%B8%D0%B5%D1%81%D1%82%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Вилла Паккьеротти-Триесте (страница отсутствует)">Вилла Паккьеротти-Триесте</a> (XVII век), в Лимене.</li> 
+       <li><a href="/w/index.php?title=%D0%92%D0%B8%D0%BB%D0%BB%D0%B0_%D0%A7%D0%B8%D1%82%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D0%BB%D0%B0-%D0%92%D0%B8%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D0%B4%D0%B7%D0%B5%D1%80%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Вилла Читтаделла-Вигодардзере (страница отсутствует)">Вилла Читтаделла-Вигодардзере</a> (XIX век), в Саонаре.</li> 
+       <li><a href="/w/index.php?title=%D0%92%D0%B8%D0%BB%D0%BB%D0%B0_%D0%A1%D0%B5%D0%BB%D0%B2%D0%B0%D1%82%D0%B8%D0%BA%D0%BE_%D0%B4%D0%B0_%D0%9F%D0%BE%D1%80%D1%82%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Вилла Селватико да Порта (страница отсутствует)">Вилла Селватико да Порта</a> (XV—XVIII века), в Вигонце (Vigonza)</li> 
+       <li><a href="/w/index.php?title=%D0%92%D0%B8%D0%BB%D0%BB%D0%B0_%D0%9B%D0%BE%D1%80%D0%B5%D0%B4%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Вилла Лоредан (страница отсутствует)">Вилла Лоредан</a>, в Сант-Урбано.</li>
+      </ul> 
+      <h2><span id=".D0.A0.D0.B5.D0.BB.D0.B8.D0.B3.D0.B8.D1.8F"></span><span class="mw-headline" id="Религия">Религия</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Религия»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=edit&amp;section=3" title="Редактировать раздел «Религия»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Veneto_Padova1_tango7174.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Veneto_Padova1_tango7174.jpg/220px-Veneto_Padova1_tango7174.jpg" decoding="async" width="220" height="178" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Veneto_Padova1_tango7174.jpg/330px-Veneto_Padova1_tango7174.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Veneto_Padova1_tango7174.jpg/440px-Veneto_Padova1_tango7174.jpg 2x" data-file-width="800" data-file-height="648"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Veneto_Padova1_tango7174.jpg" class="internal" title="Увеличить"></a>
+         </div><a href="/wiki/%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%BA%D0%B0_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D1%8F" title="Базилика Святого Антония">Базилика Святого Антония</a>, слева&nbsp;— памятник <a href="/wiki/%D0%93%D0%B0%D1%82%D1%82%D0%B0%D0%BC%D0%B5%D0%BB%D0%B0%D1%82%D0%B0" class="mw-redirect" title="Гаттамелата">Гаттамелате</a>.
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:222px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9F%D0%B0%D0%BB%D0%B0%D1%86%D1%86%D0%BE_%D0%B4%D0%B5%D0%BB%D1%8C_%D0%91%D0%BE.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86%D1%86%D0%BE_%D0%B4%D0%B5%D0%BB%D1%8C_%D0%91%D0%BE.jpg/220px-%D0%9F%D0%B0%D0%BB%D0%B0%D1%86%D1%86%D0%BE_%D0%B4%D0%B5%D0%BB%D1%8C_%D0%91%D0%BE.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86%D1%86%D0%BE_%D0%B4%D0%B5%D0%BB%D1%8C_%D0%91%D0%BE.jpg/330px-%D0%9F%D0%B0%D0%BB%D0%B0%D1%86%D1%86%D0%BE_%D0%B4%D0%B5%D0%BB%D1%8C_%D0%91%D0%BE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86%D1%86%D0%BE_%D0%B4%D0%B5%D0%BB%D1%8C_%D0%91%D0%BE.jpg/440px-%D0%9F%D0%B0%D0%BB%D0%B0%D1%86%D1%86%D0%BE_%D0%B4%D0%B5%D0%BB%D1%8C_%D0%91%D0%BE.jpg 2x" data-file-width="640" data-file-height="427"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9F%D0%B0%D0%BB%D0%B0%D1%86%D1%86%D0%BE_%D0%B4%D0%B5%D0%BB%D1%8C_%D0%91%D0%BE.jpg" class="internal" title="Увеличить"></a>
+         </div>Историческая аудитория в <a href="/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Падуанский университет">университете Падуи</a>, одна из первых аудиторий, построенных в виде <a href="/wiki/%D0%90%D0%BC%D1%84%D0%B8%D1%82%D0%B5%D0%B0%D1%82%D1%80" title="Амфитеатр">амфитеатра</a>
+        </div>
+       </div>
+      </div> 
+      <p><a href="/wiki/%D0%91%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D0%BA%D0%B0_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D1%8F" title="Базилика Святого Антония">Базилика Святого Антония</a>&nbsp;— главный центр почитания св. <a href="/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%B9_%D0%9F%D0%B0%D0%B4%D1%83%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9" title="Антоний Падуанский">Антония Падуанского</a>, крупнейшая по размерам и числу <a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%BE%D0%BC%D0%BD%D0%B8%D0%BA" class="mw-redirect" title="Паломник">паломников</a> церковь Падуи. </p>
+      <p>В Падуе, в базилике св. мученицы <a href="/wiki/%D0%98%D1%83%D1%81%D1%82%D0%B8%D0%BD%D0%B0_%D0%9F%D0%B0%D0%B4%D1%83%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F" title="Иустина Падуанская">Иустины</a>, почивают <a href="/wiki/%D0%9C%D0%BE%D1%89%D0%B8" title="Мощи">мощи</a> св. <a href="/wiki/%D0%90%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%BB" class="mw-redirect" title="Апостол">апостола</a> и <a href="/wiki/%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D1%81%D1%82" class="mw-redirect" title="Евангелист">евангелиста</a> <a href="/wiki/%D0%90%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%BB_%D0%9B%D1%83%D0%BA%D0%B0" class="mw-redirect" title="Апостол Лука">Луки</a>. </p> 
+      <h2><span id=".D0.AD.D0.BA.D0.BE.D0.BD.D0.BE.D0.BC.D0.B8.D0.BA.D0.B0"></span><span class="mw-headline" id="Экономика">Экономика</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Экономика»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=edit&amp;section=4" title="Редактировать раздел «Экономика»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Индустриальная зона Падуи была основана в 1946 году. Она занимает площадь около 10 км², на её территории находятся 1.300 промышленных предприятий, где работает в общей сложности 50 тысяч человек. </p>
+      <p>Управляющая государственная организация, в ведении которой находится индустриальная зона, называется «Концерном индустриальной зоны» (итал. Il Consorzio Zona Industriale). Он был основан в 1956 году торговой палатой Падуи (итал. Camera di Commercio di Padova). </p> 
+      <h2><span id=".D0.A2.D1.80.D0.B0.D0.BD.D1.81.D0.BF.D0.BE.D1.80.D1.82"></span><span class="mw-headline" id="Транспорт">Транспорт</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Транспорт»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=edit&amp;section=5" title="Редактировать раздел «Транспорт»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>С 2007 года в Падуе запущен недавно возникший вид городского транспорта&nbsp;— <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9_%D0%BD%D0%B0_%D1%88%D0%B8%D0%BD%D0%B0%D1%85_%D0%9F%D0%B0%D0%B4%D1%83%D0%B8" class="mw-redirect" title="Трамвай на шинах Падуи">трамвай на шинах Падуи</a>. </p> 
+      <h2><span id=".D0.9A.D0.BB.D0.B8.D0.BC.D0.B0.D1.82"></span><span class="mw-headline" id="Климат">Климат</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «Климат»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=edit&amp;section=6" title="Редактировать раздел «Климат»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Климат континентальный, с достаточно прохладной зимой и жарким летом. Повышенная влажность воздуха в осенне-зимний период способствует образованию туманов и приводит к тому, что лето довольно влажное и жаркое. Осадки распределены равномерно в течение года, летом могут быть грозы с градом. Средние температуры в зимний период от 0 до 7&nbsp;°C, в летний от 16 до 27&nbsp;°C. Средняя годовая влажность 72&nbsp;%. </p> 
+      <div style="width:80%"> 
+       <table class="wikitable" style="float:none; margin-left:auto;margin-right:auto;"> 
+        <caption style="text-align:center; font-size:90%;">
+         Климат Падуи (1961 - 1990) 
+        </caption> 
+        <tbody>
+         <tr style="text-align:center; font-size:90%"> 
+          <th scope="col" style="border-bottom-width:medium; width:25%">Показатель </th> 
+          <th scope="col" style="border-bottom-width:medium"><abbr title="Январь">Янв.</abbr> </th> 
+          <th scope="col" style="border-bottom-width:medium"><abbr title="Февраль">Фев.</abbr> </th> 
+          <th scope="col" style="border-bottom-width:medium">Март </th> 
+          <th scope="col" style="border-bottom-width:medium"><abbr title="Апрель">Апр.</abbr> </th> 
+          <th scope="col" style="border-bottom-width:medium">Май </th> 
+          <th scope="col" style="border-bottom-width:medium">Июнь </th> 
+          <th scope="col" style="border-bottom-width:medium">Июль </th> 
+          <th scope="col" style="border-bottom-width:medium"><abbr title="Август">Авг.</abbr> </th> 
+          <th scope="col" style="border-bottom-width:medium"><abbr title="Сентябрь">Сен.</abbr> </th> 
+          <th scope="col" style="border-bottom-width:medium"><abbr title="Октябрь">Окт.</abbr> </th> 
+          <th scope="col" style="border-bottom-width:medium"><abbr title="Ноябрь">Нояб.</abbr> </th> 
+          <th scope="col" style="border-bottom-width:medium"><abbr title="Декабрь">Дек.</abbr> </th> 
+          <th scope="row" style="border-left-width:medium; border-bottom-width:medium;">Год </th>
+         </tr> 
+         <tr> 
+          <th scope="row" style="text-align:left; font-size:90%">Средний максимум, °C </th> 
+          <td style="font-weight:bold; text-align:center; background: #C0FF80; color:#000000; font-size:85%;">5,7 </td> 
+          <td style="font-weight:bold; text-align:center; background: #E0FF80; color:#000000; font-size:85%;">8,8 </td> 
+          <td style="font-weight:bold; text-align:center; background: #FFFF80; color:#000000; font-size:85%;">13,1 </td> 
+          <td style="font-weight:bold; text-align:center; background: #FFE040; color:#000000; font-size:85%;">17,5 </td> 
+          <td style="font-weight:bold; text-align:center; background: #FFD020; color:#000000; font-size:85%;">22,4 </td> 
+          <td style="font-weight:bold; text-align:center; background: #FFB000; color:#000000; font-size:85%;">26,0 </td> 
+          <td style="font-weight:bold; text-align:center; background: #FFB000; color:#000000; font-size:85%;">28,4 </td> 
+          <td style="font-weight:bold; text-align:center; background: #FFB000; color:#000000; font-size:85%;">27,9 </td> 
+          <td style="font-weight:bold; text-align:center; background: #FFC000; color:#000000; font-size:85%;">24,5 </td> 
+          <td style="font-weight:bold; text-align:center; background: #FFE040; color:#000000; font-size:85%;">18,8 </td> 
+          <td style="font-weight:bold; text-align:center; background: #FFFF80; color:#000000; font-size:85%;">11,5 </td> 
+          <td style="font-weight:bold; text-align:center; background: #C0FF80; color:#000000; font-size:85%;">6,5 </td> 
+          <td style="font-weight:bold; text-align:center; background: #FFE040; color:#000000; font-size:85%; border-left-width:medium;">17,6 </td>
+         </tr> 
+         <tr> 
+          <th scope="row" style="text-align:left; font-size:90%">Средний минимум, °C </th> 
+          <td style="font-weight:bold; text-align:center; background: #80FF80; color:#000000; font-size:85%;">−1,4 </td> 
+          <td style="font-weight:bold; text-align:center; background: #80FF80; color:#000000; font-size:85%;">0,5 </td> 
+          <td style="font-weight:bold; text-align:center; background: #A0FF80; color:#000000; font-size:85%;">3,5 </td> 
+          <td style="font-weight:bold; text-align:center; background: #C0FF80; color:#000000; font-size:85%;">7,4 </td> 
+          <td style="font-weight:bold; text-align:center; background: #FFFF80; color:#000000; font-size:85%;">11,6 </td> 
+          <td style="font-weight:bold; text-align:center; background: #FFF060; color:#000000; font-size:85%;">15,3 </td> 
+          <td style="font-weight:bold; text-align:center; background: #FFE040; color:#000000; font-size:85%;">17,5 </td> 
+          <td style="font-weight:bold; text-align:center; background: #FFE040; color:#000000; font-size:85%;">16,9 </td> 
+          <td style="font-weight:bold; text-align:center; background: #FFF060; color:#000000; font-size:85%;">13,8 </td> 
+          <td style="font-weight:bold; text-align:center; background: #E0FF80; color:#000000; font-size:85%;">8,8 </td> 
+          <td style="font-weight:bold; text-align:center; background: #A0FF80; color:#000000; font-size:85%;">3,7 </td> 
+          <td style="font-weight:bold; text-align:center; background: #80FF80; color:#000000; font-size:85%;">−0,4 </td> 
+          <td style="font-weight:bold; text-align:center; background: #E0FF80; color:#000000; font-size:85%; border-left-width:medium;">8,1 </td>
+         </tr> 
+         <tr> 
+          <th scope="row" style="text-align:left; font-size:90%; border-top-width:medium;">Норма осадков, <a href="/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B8%D0%BC%D0%B5%D1%82%D1%80" title="Миллиметр">мм</a> </th> 
+          <td style="font-weight:bold; text-align:center; background: #80C0FF; color:#000000; font-size:85%;; border-top-width:medium;">70,4 </td> 
+          <td style="font-weight:bold; text-align:center; background: #A0E0FF; color:#000000; font-size:85%;; border-top-width:medium;">56,9 </td> 
+          <td style="font-weight:bold; text-align:center; background: #90D0FF; color:#000000; font-size:85%;; border-top-width:medium;">67 </td> 
+          <td style="font-weight:bold; text-align:center; background: #90D0FF; color:#000000; font-size:85%;; border-top-width:medium;">68,1 </td> 
+          <td style="font-weight:bold; text-align:center; background: #80C0FF; color:#000000; font-size:85%;; border-top-width:medium;">78,6 </td> 
+          <td style="font-weight:bold; text-align:center; background: #70B0FF; color:#000000; font-size:85%;; border-top-width:medium;">88 </td> 
+          <td style="font-weight:bold; text-align:center; background: #90D0FF; color:#000000; font-size:85%;; border-top-width:medium;">64,2 </td> 
+          <td style="font-weight:bold; text-align:center; background: #80C0FF; color:#000000; font-size:85%;; border-top-width:medium;">79,8 </td> 
+          <td style="font-weight:bold; text-align:center; background: #A0E0FF; color:#000000; font-size:85%;; border-top-width:medium;">58,2 </td> 
+          <td style="font-weight:bold; text-align:center; background: #90D0FF; color:#000000; font-size:85%;; border-top-width:medium;">65,5 </td> 
+          <td style="font-weight:bold; text-align:center; background: #70B0FF; color:#000000; font-size:85%;; border-top-width:medium;">86,7 </td> 
+          <td style="font-weight:bold; text-align:center; background: #90D0FF; color:#000000; font-size:85%;; border-top-width:medium;">62,4 </td> 
+          <td style="font-weight:bold; text-align:center; background: #6478FF; color:#000000; font-size:85%; border-left-width:medium; border-top-width:medium;">845,8 </td>
+         </tr> 
+         <tr> 
+          <td colspan="14" style="text-align:center; font-size:90%; border-top-width:medium;"><i>Источник: <a rel="nofollow" class="external text" href="http://clima.meteoam.it/Clino61-90.php">meteoAM</a></i> </td>
+         </tr>
+        </tbody>
+       </table> 
+      </div> 
+      <h2><span id=".D0.98.D0.B7.D0.B2.D0.B5.D1.81.D1.82.D0.BD.D1.8B.D0.B5_.D0.B6.D0.B8.D1.82.D0.B5.D0.BB.D0.B8"></span><span class="mw-headline" id="Известные_жители">Известные жители</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Редактировать раздел «Известные жители»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=edit&amp;section=7" title="Редактировать раздел «Известные жители»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="hatnote navigation-not-searchable">
+       См. также категорию: <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8:%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="Категория:Персоналии:Падуя">Персоналии:Падуя</a>
+      </div> 
+      <h2><span id=".D0.93.D0.BE.D1.80.D0.BE.D0.B4.D0.B0-.D0.BF.D0.BE.D0.B1.D1.80.D0.B0.D1.82.D0.B8.D0.BC.D1.8B"></span><span class="mw-headline" id="Города-побратимы">Города-побратимы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Редактировать раздел «Города-побратимы»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=edit&amp;section=8" title="Редактировать раздел «Города-побратимы»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_United_States.svg" class="image" title="Флаг США"><img alt="Флаг США" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/20px-Flag_of_the_United_States.svg.png" decoding="async" width="20" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/30px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650"></a> <a href="/wiki/%D0%91%D0%BE%D1%81%D1%82%D0%BE%D0%BD" title="Бостон">Бостон</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&nbsp;<span lang="en" style="font-style:italic;">Boston</span>), <a href="/wiki/%D0%9C%D0%B0%D1%81%D1%81%D0%B0%D1%87%D1%83%D1%81%D0%B5%D1%82%D1%81" title="Массачусетс">Массачусетс</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a></li> 
+       <li><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Italy.svg" class="image" title="Флаг Италии"><img alt="Флаг Италии" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/30px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/40px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000"></a> <a href="/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D1%8F%D1%80%D0%B8" title="Кальяри">Кальяри</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&nbsp;<span lang="en" style="font-style:italic;">Cagliari</span>), <a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" title="Италия">Италия</a></li> 
+       <li><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_the_People%27s_Republic_of_China.svg" class="image" title="Флаг Китайской Народной Республики"><img alt="Флаг Китайской Народной Республики" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/20px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/30px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/40px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600"></a> <a href="/wiki/%D0%A5%D0%B0%D0%BD%D1%8C%D0%B4%D0%B0%D0%BD%D1%8C" title="Ханьдань">Ханьдань</a>, <a href="/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9" title="Китай">Китай</a></li> 
+       <li><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Germany.svg" class="image" title="Флаг Германии"><img alt="Флаг Германии" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a> <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%B9%D0%B1%D1%83%D1%80%D0%B3_%D0%B2_%D0%91%D1%80%D0%B0%D0%B9%D1%81%D0%B3%D0%B0%D1%83" class="mw-redirect" title="Фрайбург в Брайсгау">Фрайбург</a> (<a href="/wiki/%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Немецкий язык">нем.</a>&nbsp;<span lang="de" style="font-style:italic;">Freiburg</span>), <a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Германия">Германия</a></li> 
+       <li><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_France_(1794%E2%80%931815,_1830%E2%80%931974,_2020%E2%80%93present).svg" class="image" title="Флаг Франции"><img alt="Флаг Франции" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/20px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/30px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/40px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png 2x" data-file-width="900" data-file-height="600"></a> <a href="/wiki/%D0%9D%D0%B0%D0%BD%D1%81%D0%B8" title="Нанси">Нанси</a> (<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&nbsp;<span lang="fr" style="font-style:italic;">Nancy</span>), <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">Франция</a></li> 
+       <li><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Crimea.svg" class="image" title="Флаг Крыма"><img alt="Флаг Крыма" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Crimea.svg/20px-Flag_of_Crimea.svg.png" decoding="async" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Crimea.svg/30px-Flag_of_Crimea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Crimea.svg/40px-Flag_of_Crimea.svg.png 2x" data-file-width="1200" data-file-height="600"></a> <a href="/wiki/%D0%A1%D0%B8%D0%BC%D1%84%D0%B5%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C" title="Симферополь">Симферополь</a>, <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">Россия</a>/<a href="/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0" title="Украина">Украина</a><sup id="cite_ref-npcrimea_5-0" class="reference"><a href="#cite_note-npcrimea-5">[5]</a></sup> (2016)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup></li> 
+       <li><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Romania.svg" class="image" title="Румыния"><img alt="Румыния" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/22px-Flag_of_Romania.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/33px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/44px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400"></a></span> <a href="/wiki/%D0%AF%D1%81%D1%81%D1%8B" title="Яссы">Яссы</a>, <a href="/wiki/%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D1%8F" title="Румыния">Румыния</a> (1995)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup></li>
+      </ul> 
+      <h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=edit&amp;section=9" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist columns" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="it"><a rel="nofollow" class="external text" href="http://www.padovanet.it/sites/default/files/attachment/La%20demografia%20del%20mese0419.pdf">Демографическая статистика Падуи</a></span>&nbsp;<small class="ref-info" style="cursor:help;" title="на итальянском языке">(итал.)</small>. <small>Дата обращения: 16 октября 2019.</small></span></span></span> </li> 
+         <li id="cite_note-этнохороним-2"><span class="mw-cite-backlink"><a href="#cite_ref-этнохороним_2-0">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Городецкая И. Л., Левашов Е. А.&nbsp;</i> <span data-wikidata-qualifier-id="P248"><a rel="nofollow" class="external text" href="http://books.google.com/books?id=Do8dAQAAMAAJ&amp;dq=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F">Падуя</a></span> // Русские названия жителей: Словарь-справочник.&nbsp;— <abbr title="Москва">М.</abbr>: <a href="/wiki/%D0%90%D0%A1%D0%A2_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="АСТ (издательство)">АСТ</a>, 2003.&nbsp;— С.&nbsp;223.&nbsp;— 363&nbsp;с.&nbsp;— <span class="nowrap">5000 экз.</span>&nbsp;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5170169140" class="internal mw-magiclink-isbn">ISBN 5-17-016914-0</a>.</span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="https://abanoterme.online/kuda-poehat/paduya-italiya-dostoprimechatelnosti/">Достопримечательности Падуи (Италия) ~ лучший путеводитель</a>&nbsp;<small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small>, <i>Всё о Абано Терме</i>&nbsp;(18 января 2018). <small>Дата обращения 19 января 2018.</small></span></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://az.lib.ru/t/tolstoj_p_a/text_0020.shtml">Lib.ru/Классика: Толстой Петр Андреевич. Путешествие стольника П. А. Толстого по Европе (1697—1699)</a></span> </li> 
+         <li id="cite_note-npcrimea-5"><span class="mw-cite-backlink"><a href="#cite_ref-npcrimea_5-0">↑</a></span> <span class="reference-text">Данный населённый пункт расположен на территории <a href="/wiki/%D0%9A%D1%80%D1%8B%D0%BC" title="Крым">Крымского полуострова</a>, бо́льшая часть которого является объектом <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0_%D0%BF%D1%80%D0%B8%D0%BD%D0%B0%D0%B4%D0%BB%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%9A%D1%80%D1%8B%D0%BC%D0%B0" title="Проблема принадлежности Крыма">территориальных разногласий</a> между <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">Россией</a>, контролирующей спорную территорию, и <a href="/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0" title="Украина">Украиной</a>, в пределах <a href="/wiki/%D0%A0%D0%B5%D0%B7%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F_%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%90%D1%81%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D0%B8_%D0%9E%D0%9E%D0%9D_68/262" title="Резолюция Генеральной Ассамблеи ООН 68/262">признанных</a> большинством <a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B0_%E2%80%94_%D1%87%D0%BB%D0%B5%D0%BD%D1%8B_%D0%9E%D0%9E%D0%9D" title="Государства — члены ООН">государств — членов ООН</a> границ которой спорная территория находится. Согласно <a href="/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Федеративное устройство России">федеративному устройству России</a>, на спорной территории Крыма располагаются <a href="/wiki/%D0%A1%D1%83%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Субъекты Российской Федерации">субъекты Российской Федерации</a> — <a href="/wiki/%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9A%D1%80%D1%8B%D0%BC" title="Республика Крым">Республика Крым</a> и <a href="/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE-%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_%D1%84%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8F" title="Административно-территориальное деление города федерального значения Севастополя">город федерального значения Севастополь</a>. Согласно <a href="/wiki/%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5_%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B" title="Административное деление Украины">административному делению Украины</a>, на спорной территории Крыма располагаются регионы Украины — <a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0_%D0%9A%D1%80%D1%8B%D0%BC" title="Автономная Республика Крым">Автономная Республика Крым</a> и <a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D0%B0" class="mw-redirect" title="Севастопольская городская община">город со специальным статусом Севастополь</a>.</span> </li> 
+         <li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.aif.ru/politics/world/simferopol_stal_pobratimom_padui">Симферополь стал побратимом Падуи. </a><a href="/wiki/%D0%90%D1%80%D0%B3%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D0%B8_%D1%84%D0%B0%D0%BA%D1%82%D1%8B" title="Аргументы и факты">АиФ</a></span> </li> 
+         <li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.primaria-iasi.ro/portal-primaria-municipiului-iasi/orase-infratite/1119/relatii-internationale">Orașele înfrățite cu municipiul Iași</a></span><span class="hidden-ref" style="display:none"><b>&nbsp;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>. <i>Primăria Municipiului Iași</i>.</span></span></span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=edit&amp;section=10" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <style data-mw-deduplicate="TemplateStyles:r113275216">.mw-parser-output .ts-Родственные_проекты{width:19em;box-sizing:border-box;margin:0 0 .5em 1em;padding:.4em;background:#f8f9fa;border:1px solid #a2a9b1;font-size:90%}.mw-parser-output .ts-Родственные_проекты-header{margin-bottom:.2em;padding:.2em .6em;font-size:110%}.mw-parser-output .ts-Родственные_проекты-item{display:flex;padding:.2em .6em}.mw-parser-output .ts-Родственные_проекты-image{min-width:24px;display:inline-block;margin-right:.4em;flex:none;vertical-align:top;text-align:center}.mw-parser-output .ts-Родственные_проекты-image img{vertical-align:middle}.mw-parser-output .ts-Родственные_проекты-label{align-self:center}@media(max-width:719px){.mw-parser-output .ts-Родственные_проекты{width:auto;margin-left:0;margin-right:0}}</style>
+      <div class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation" aria-labelledby="В_родственных_проектах">
+       <div class="ts-Родственные_проекты-header" id="В_родственных_проектах">
+        <b>В родственных проектах</b>
+       </div>
+       <ul>
+        <li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" decoding="async" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" data-file-width="30" data-file-height="30"></span><span class="ts-Родственные_проекты-label commons-ref"><a href="https://commons.wikimedia.org/wiki/Category:Padua" class="extiw" title="commons:Category:Padua">Медиафайлы на&nbsp;Викискладе</a></span></li>
+        <li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Notification-icon-Wikivoyage-logo.svg/24px-Notification-icon-Wikivoyage-logo.svg.png" decoding="async" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Notification-icon-Wikivoyage-logo.svg/36px-Notification-icon-Wikivoyage-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Notification-icon-Wikivoyage-logo.svg/48px-Notification-icon-Wikivoyage-logo.svg.png 2x" data-file-width="30" data-file-height="30"></span><span class="ts-Родственные_проекты-label wikivoyage-ref"><a href="https://ru.wikivoyage.org/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" class="extiw" title="voy:Падуя">Путеводитель в&nbsp;Викигиде</a></span></li>
+       </ul>
+      </div> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://www.padovanet.it">padovanet.it</a>&nbsp;<span class="ref-info" style="cursor:help;" title="на итальянском языке">(итал.)</span> — официальный сайт Падуи</li>
+      </ul> 
+      <h2><span id=".D0.92.D0.B8.D0.B4.D0.B5.D0.BE.D0.BC.D0.B0.D1.82.D0.B5.D1.80.D0.B8.D0.B0.D0.BB.D1.8B"></span><span class="mw-headline" id="Видеоматериалы">Видеоматериалы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Редактировать раздел «Видеоматериалы»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=edit&amp;section=11" title="Редактировать раздел «Видеоматериалы»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/YouTube" title="YouTube"><img alt="Логотип YouTube" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/20px-YouTube_full-color_icon_%282017%29.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/30px-YouTube_full-color_icon_%282017%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/40px-YouTube_full-color_icon_%282017%29.svg.png 2x" data-file-width="159" data-file-height="110"></a>&nbsp;<a rel="nofollow" class="external text" href="https://youtube.com/watch?v=E67M6cFnTo8">Видеоролик</a> о речном маршруте от Падуи до Венеции, связывающим Падую с Адриатическим морем и существовавшем ещё во времена Римской Империи.</li>
+      </ul> 
+      <div role="navigation" class="navbox" aria-labelledby="Коммуны_провинции_Падуя_(область_Венеция)" data-name="Провинция Падуя">
+       <table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F_%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="Перейти к шаблону «Провинция Падуя»"><img alt="Перейти к шаблону «Провинция Падуя»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;</span>
+           <div id="Коммуны_провинции_Падуя_(область_Венеция)" style="font-size:114%;margin:0 5em">
+            Коммуны провинции <a href="/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Падуя (провинция)">Падуя</a> (область <a href="/wiki/%D0%92%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D1%8F_(%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)" title="Венеция (область)">Венеция</a>)
+           </div></th>
+         </tr>
+         <tr>
+          <td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <div class="NavContent"> 
+             <ul>
+              <li><a href="/wiki/%D0%90%D0%B1%D0%B0%D0%BD%D0%BE-%D0%A2%D0%B5%D1%80%D0%BC%D0%B5" title="Абано-Терме">Абано-Терме</a></li> 
+              <li><a href="/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B8%D0%BD%D1%8C%D1%8F%D0%B7%D0%B5%D0%B3%D0%BE" title="Альбиньязего">Альбиньязего</a></li> 
+              <li><a href="/wiki/%D0%90%D0%BD%D0%B3%D1%83%D0%B8%D0%BB%D0%B0%D1%80%D0%B0-%D0%92%D0%B5%D0%BD%D0%B5%D1%82%D0%B0" title="Ангуилара-Венета">Ангуилара-Венета</a></li> 
+              <li><a href="/wiki/%D0%90%D0%BD%D1%8C%D1%8F" title="Анья">Анья</a></li> 
+              <li><a href="/wiki/%D0%90%D1%80%D0%BA%D1%83%D0%B0-%D0%9F%D0%B5%D1%82%D1%80%D0%B0%D1%80%D0%BA%D0%B0" title="Аркуа-Петрарка">Аркуа-Петрарка</a></li> 
+              <li><a href="/wiki/%D0%90%D1%80%D1%80%D0%B5" title="Арре">Арре</a></li> 
+              <li><a href="/wiki/%D0%90%D1%80%D1%86%D0%B5%D1%80%D0%B3%D1%80%D0%B0%D0%BD%D0%B4%D0%B5" title="Арцергранде">Арцергранде</a></li> 
+              <li><a href="/wiki/%D0%91%D0%B0%D0%BD%D1%8C%D0%BE%D0%BB%D0%B8-%D0%B4%D0%B8-%D0%A1%D0%BE%D0%BF%D1%80%D0%B0" title="Баньоли-ди-Сопра">Баньоли-ди-Сопра</a></li> 
+              <li><a href="/wiki/%D0%91%D0%B0%D0%BE%D0%BD%D0%B5" title="Баоне">Баоне</a></li> 
+              <li><a href="/wiki/%D0%91%D0%B0%D1%80%D0%B1%D0%BE%D0%BD%D0%B0" title="Барбона">Барбона</a></li> 
+              <li><a href="/wiki/%D0%91%D0%B0%D1%82%D1%82%D0%B0%D0%BB%D1%8C%D1%8F-%D0%A2%D0%B5%D1%80%D0%BC%D0%B5" title="Батталья-Терме">Батталья-Терме</a></li> 
+              <li><a href="/wiki/%D0%91%D0%BE%D0%B0%D1%80%D0%B0-%D0%9F%D0%B8%D0%B7%D0%B0%D0%BD%D0%B8" title="Боара-Пизани">Боара-Пизани</a></li> 
+              <li><a href="/wiki/%D0%91%D0%BE%D0%B2%D0%BE%D0%BB%D0%B5%D0%BD%D1%82%D0%B0_(%D0%BA%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D0%B0)" title="Боволента (коммуна)">Боволента</a></li> 
+              <li><a href="/wiki/%D0%91%D0%BE%D1%80%D0%B3%D0%BE%D1%80%D0%B8%D0%BA%D0%BA%D0%BE" title="Боргорикко">Боргорикко</a></li> 
+              <li><a href="/wiki/%D0%91%D1%80%D1%83%D0%B4%D0%B6%D0%B8%D0%BD%D0%B5" title="Бруджине">Бруджине</a></li> 
+              <li><a href="/wiki/%D0%92%D0%B5%D0%B4%D0%B6%D0%B0%D0%BD%D0%BE" title="Веджано">Веджано</a></li> 
+              <li><a href="/wiki/%D0%92%D0%B5%D1%81%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%B0" title="Вескована">Вескована</a></li> 
+              <li><a href="/wiki/%D0%92%D0%B8%D0%B3%D0%B8%D1%86%D1%86%D0%BE%D0%BB%D0%BE-%D0%B4%27%D0%AD%D1%81%D1%82%D0%B5" class="mw-redirect" title="Вигиццоло-д'Эсте">Вигиццоло-д'Эсте</a></li> 
+              <li><a href="/wiki/%D0%92%D0%B8%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%86%D0%B5%D1%80%D0%B5" title="Вигодарцере">Вигодарцере</a></li> 
+              <li><a href="/wiki/%D0%92%D0%B8%D0%B3%D0%BE%D0%BD%D1%86%D0%B0" title="Вигонца">Вигонца</a></li> 
+              <li><a href="/wiki/%D0%92%D0%B8%D0%BB%D0%BB%D0%B0-%D0%B4%D0%B5%D0%BB%D1%8C-%D0%9A%D0%BE%D0%BD%D1%82%D0%B5" title="Вилла-дель-Конте">Вилла-дель-Конте</a></li> 
+              <li><a href="/wiki/%D0%92%D0%B8%D0%BB%D0%BB%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0-%D0%B4%D0%B8-%D0%9A%D0%B0%D0%BC%D0%BF%D0%BE%D0%B7%D0%B0%D0%BC%D0%BF%D1%8C%D0%B5%D1%80%D0%BE" class="mw-redirect" title="Вилланова-ди-Кампозампьеро">Вилланова-ди-Кампозампьеро</a></li> 
+              <li><a href="/wiki/%D0%92%D0%B8%D0%BB%D0%BB%D0%B0%D1%84%D1%80%D0%B0%D0%BD%D0%BA%D0%B0-%D0%9F%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B0" title="Виллафранка-Падована">Виллафранка-Падована</a></li> 
+              <li><a href="/wiki/%D0%92%D0%B8%D0%BB%D0%BB%D0%B0-%D0%AD%D1%81%D1%82%D0%B5%D0%BD%D1%81%D0%B5" title="Вилла-Эстенсе">Вилла-Эстенсе</a></li> 
+              <li><a href="/wiki/%D0%92%D0%BE_(%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F)" title="Во (Италия)">Во</a></li> 
+              <li><a href="/wiki/%D0%93%D0%B0%D0%BB%D0%BB%D1%8C%D0%B5%D1%80%D0%B0-%D0%92%D0%B5%D0%BD%D0%B5%D1%82%D0%B0" title="Галльера-Венета">Галльера-Венета</a></li> 
+              <li><a href="/wiki/%D0%93%D0%B0%D0%BB%D1%8C%D1%86%D0%B8%D0%BD%D1%8C%D1%8F%D0%BD%D0%BE-%D0%A2%D0%B5%D1%80%D0%BC%D0%B5" title="Гальциньяно-Терме">Гальциньяно-Терме</a></li> 
+              <li><a href="/wiki/%D0%93%D0%B0%D1%86%D1%86%D0%BE" title="Гаццо">Гаццо</a></li> 
+              <li><a href="/wiki/%D0%93%D1%80%D0%B0%D0%BD%D1%82%D0%BE%D1%80%D1%82%D0%BE" title="Гранторто">Гранторто</a></li> 
+              <li><a href="/wiki/%D0%93%D1%80%D0%B0%D0%BD%D1%86%D0%B5" title="Гранце">Гранце</a></li> 
+              <li><a href="/wiki/%D0%94%D1%83%D1%8D-%D0%9A%D0%B0%D1%80%D1%80%D0%B0%D1%80%D0%B5" title="Дуэ-Карраре">Дуэ-Карраре</a></li> 
+              <li><a href="/wiki/%D0%9A%D0%B0%D0%B4%D0%BE%D0%BD%D0%B5%D0%B3%D0%B5" title="Кадонеге">Кадонеге</a></li> 
+              <li><a href="/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BB%D0%B5-%D0%B4%D0%B8-%D0%A1%D0%BA%D0%BE%D0%B4%D0%BE%D0%B7%D0%B8%D1%8F" title="Казале-ди-Скодозия">Казале-ди-Скодозия</a></li> 
+              <li><a href="/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BB%D1%8C%D1%81%D0%B5%D1%80%D1%83%D0%B3%D0%BE" title="Казальсеруго">Казальсеруго</a></li> 
+              <li><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D0%B5%D0%B3%D0%BE" title="Камподарсего">Камподарсего</a></li> 
+              <li><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%BF%D0%BE%D0%B4%D0%BE%D1%80%D0%BE" title="Камподоро">Камподоро</a></li> 
+              <li><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%BF%D0%BE%D1%81%D0%B0%D0%BC%D0%BF%D1%8C%D0%B5%D1%80%D0%BE" title="Кампосампьеро">Кампосампьеро</a></li> 
+              <li><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%BF%D0%BE-%D0%A1%D0%B0%D0%BD-%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BE" title="Кампо-Сан-Мартино">Кампо-Сан-Мартино</a></li> 
+              <li><a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B0%D0%BD%D0%B0" title="Кандиана">Кандиана</a></li> 
+              <li><a href="/wiki/%D0%9A%D0%B0%D1%80%D0%BC%D0%B8%D0%BD%D1%8C%D1%8F%D0%BD%D0%BE-%D0%B4%D0%B8-%D0%91%D1%80%D0%B5%D0%BD%D1%82%D0%B0" title="Карминьяно-ди-Брента">Карминьяно-ди-Брента</a></li> 
+              <li><a href="/wiki/%D0%9A%D0%B0%D1%80%D1%82%D1%83%D1%80%D0%B0" title="Картура">Картура</a></li> 
+              <li><a href="/wiki/%D0%9A%D0%B0%D1%80%D1%87%D0%B5%D1%80%D0%B8" title="Карчери">Карчери</a></li> 
+              <li><a href="/wiki/%D0%9A%D0%B0%D1%81%D1%82%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0%D0%BB%D1%8C%D0%B4%D0%BE" title="Кастельбальдо">Кастельбальдо</a></li> 
+              <li><a href="/wiki/%D0%9A%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D0%B3%D0%BE" title="Кодевиго">Кодевиго</a></li> 
+              <li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D0%B5%D0%BB%D1%8C%D0%B2%D0%B5" title="Консельве">Консельве</a></li> 
+              <li><a href="/wiki/%D0%9A%D0%BE%D1%80%D1%80%D0%B5%D1%86%D1%86%D0%BE%D0%BB%D0%B0" title="Корреццола">Корреццола</a></li> 
+              <li><a href="/wiki/%D0%9A%D1%83%D1%80%D1%82%D0%B0%D1%80%D0%BE%D0%BB%D0%BE" title="Куртароло">Куртароло</a></li> 
+              <li><a href="/wiki/%D0%9B%D0%B5%D0%BD%D1%8C%D1%8F%D1%80%D0%BE" title="Леньяро">Леньяро</a></li> 
+              <li><a href="/wiki/%D0%9B%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0" title="Лимена">Лимена</a></li> 
+              <li><a href="/wiki/%D0%9B%D0%BE%D1%80%D0%B5%D0%B4%D0%B6%D0%B0" title="Лореджа">Лореджа</a></li> 
+              <li><a href="/wiki/%D0%9B%D0%BE%D1%86%D1%86%D0%BE-%D0%90%D1%82%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D0%BE" title="Лоццо-Атестино">Лоццо-Атестино</a></li> 
+              <li><a href="/wiki/%D0%9C%D0%B0%D0%B7%D0%B5%D1%80%D0%B0-%D0%B4%D0%B8-%D0%9F%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0" title="Мазера-ди-Падова">Мазера-ди-Падова</a></li> 
+              <li><a href="/wiki/%D0%9C%D0%B0%D0%B7%D0%B8_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)" title="Мази (город)">Мази</a></li> 
+              <li><a href="/wiki/%D0%9C%D0%B0%D1%81%D1%81%D0%B0%D0%BD%D0%B4%D0%B7%D0%B0%D0%B3%D0%BE" title="Массандзаго">Массандзаго</a></li> 
+              <li><a href="/wiki/%D0%9C%D0%B5%D0%BB%D1%8C%D1%8F%D0%B4%D0%B8%D0%BD%D0%BE-%D0%A1%D0%B0%D0%BD-%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D0%B5" title="Мельядино-Сан-Витале">Мельядино-Сан-Витале</a></li> 
+              <li><a href="/wiki/%D0%9C%D0%B5%D0%BB%D1%8C%D1%8F%D0%B4%D0%B8%D0%BD%D0%BE-%D0%A1%D0%B0%D0%BD-%D0%A4%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%BE" title="Мельядино-Сан-Фиденцио">Мельядино-Сан-Фиденцио</a></li> 
+              <li><a href="/wiki/%D0%9C%D0%B5%D1%80%D0%BB%D0%B0%D1%80%D0%B0" title="Мерлара">Мерлара</a></li> 
+              <li><a href="/wiki/%D0%9C%D0%B5%D1%81%D1%82%D1%80%D0%B8%D0%BD%D0%BE" title="Местрино">Местрино</a></li> 
+              <li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%81%D0%B5%D0%BB%D0%B8%D1%87%D0%B5" title="Монселиче">Монселиче</a></li> 
+              <li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D1%8C%D1%8F%D0%BD%D0%B0" title="Монтаньяна">Монтаньяна</a></li> 
+              <li><a href="/wiki/%D0%9C%D0%BE%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%BE%D1%82%D1%82%D0%BE-%D0%A2%D0%B5%D1%80%D0%BC%D0%B5" title="Монтегротто-Терме">Монтегротто-Терме</a></li> 
+              <li><a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B5%D0%BD%D1%82%D0%B0-%D0%9F%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B0" title="Новента-Падована">Новента-Падована</a></li> 
+              <li><a href="/wiki/%D0%9E%D1%81%D0%BF%D0%B5%D0%B4%D0%B0%D0%BB%D0%B5%D1%82%D1%82%D0%BE-%D0%AD%D1%83%D0%B3%D0%B0%D0%BD%D0%B5%D0%BE" title="Оспедалетто-Эуганео">Оспедалетто-Эуганео</a></li> 
+              <li><a class="mw-selflink selflink">Падуя</a></li> 
+              <li><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%BD%D1%83%D0%BC%D0%B8%D1%8F" title="Пернумия">Пернумия</a></li> 
+              <li><a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B2%D0%B5%D1%80%D0%B0%D1%80%D0%B0" title="Польверара">Польверара</a></li> 
+              <li><a href="/wiki/%D0%9F%D0%BE%D0%BD%D1%81%D0%BE" title="Понсо">Понсо</a></li> 
+              <li><a href="/wiki/%D0%9F%D0%BE%D0%BD%D1%82%D0%B5%D0%BB%D0%BE%D0%BD%D0%B3%D0%BE" title="Понтелонго">Понтелонго</a></li> 
+              <li><a href="/wiki/%D0%9F%D0%BE%D0%BD%D1%82%D0%B5-%D0%A1%D0%B0%D0%BD-%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE" title="Понте-Сан-Николо">Понте-Сан-Николо</a></li> 
+              <li><a href="/wiki/%D0%9F%D0%BE%D1%86%D1%86%D0%BE%D0%BD%D0%BE%D0%B2%D0%BE" title="Поццоново">Поццоново</a></li> 
+              <li><a href="/wiki/%D0%9F%D1%8C%D0%BE%D0%B2%D0%B5-%D0%B4%D0%B8-%D0%A1%D0%B0%D0%BA%D0%BA%D0%BE" title="Пьове-ди-Сакко">Пьове-ди-Сакко</a></li> 
+              <li><a href="/wiki/%D0%9F%D1%8C%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%BE-%D0%94%D0%B5%D0%B7%D0%B5" title="Пьомбино-Дезе">Пьомбино-Дезе</a></li> 
+              <li><a href="/wiki/%D0%9F%D1%8C%D1%8F%D1%86%D1%86%D0%BE%D0%BB%D0%B0-%D1%81%D1%83%D0%BB%D1%8C-%D0%91%D1%80%D0%B5%D0%BD%D1%82%D0%B0" title="Пьяццола-суль-Брента">Пьяццола-суль-Брента</a></li> 
+              <li><a href="/wiki/%D0%9F%D1%8C%D1%8F%D1%87%D0%B5%D0%BD%D1%86%D0%B0-%D0%B4%27%D0%90%D0%B4%D0%B8%D0%B4%D0%B6%D0%B5" class="mw-redirect" title="Пьяченца-д'Адидже">Пьяченца-д'Адидже</a></li> 
+              <li><a href="/wiki/%D0%A0%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BD" title="Роволон">Роволон</a></li> 
+              <li><a href="/wiki/%D0%A0%D1%83%D0%B1%D0%B0%D0%BD%D0%BE" title="Рубано">Рубано</a></li> 
+              <li><a href="/wiki/%D0%A1%D0%B0%D0%BA%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%B3%D0%BE" title="Сакколонго">Сакколонго</a></li> 
+              <li><a href="/wiki/%D0%A1%D0%B0%D0%BB%D0%B5%D1%82%D1%82%D0%BE" title="Салетто">Салетто</a></li> 
+              <li><a href="/wiki/%D0%A1%D0%B0%D0%BD-%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6%D0%BE-%D0%B4%D0%B5%D0%BB%D0%BB%D0%B5-%D0%9F%D0%B5%D1%80%D1%82%D0%B8%D1%87%D0%B5" title="Сан-Джорджо-делле-Пертиче">Сан-Джорджо-делле-Пертиче</a></li> 
+              <li><a href="/wiki/%D0%A1%D0%B0%D0%BD-%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6%D0%BE-%D0%B8%D0%BD-%D0%91%D0%BE%D1%81%D0%BA%D0%BE" title="Сан-Джорджо-ин-Боско">Сан-Джорджо-ин-Боско</a></li> 
+              <li><a href="/wiki/%D0%A1%D0%B0%D0%BD-%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BE-%D0%B4%D0%B8-%D0%9B%D1%83%D0%BF%D0%B0%D1%80%D0%B8" title="Сан-Мартино-ди-Лупари">Сан-Мартино-ди-Лупари</a></li> 
+              <li><a href="/wiki/%D0%A1%D0%B0%D0%BD-%D0%9F%D1%8C%D0%B5%D1%82%D1%80%D0%BE-%D0%92%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D1%80%D0%B8%D0%BE" title="Сан-Пьетро-Виминарио">Сан-Пьетро-Виминарио</a></li> 
+              <li><a href="/wiki/%D0%A1%D0%B0%D0%BD-%D0%9F%D1%8C%D0%B5%D1%82%D1%80%D0%BE-%D0%B8%D0%BD-%D0%93%D1%83" title="Сан-Пьетро-ин-Гу">Сан-Пьетро-ин-Гу</a></li> 
+              <li><a href="/wiki/%D0%A1%D0%B0%D0%BD%D1%82%D0%B0-%D0%94%D0%B6%D1%83%D1%81%D1%82%D0%B8%D0%BD%D0%B0-%D0%B8%D0%BD-%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5" title="Санта-Джустина-ин-Колле">Санта-Джустина-ин-Колле</a></li> 
+              <li><a href="/wiki/%D0%A1%D0%B0%D0%BD%D1%82%D0%B0-%D0%9C%D0%B0%D1%80%D0%B3%D0%B5%D1%80%D0%B8%D1%82%D0%B0-%D0%B4%27%D0%90%D0%B4%D0%B8%D0%B4%D0%B6%D0%B5" class="mw-redirect" title="Санта-Маргерита-д'Адидже">Санта-Маргерита-д'Адидже</a></li> 
+              <li><a href="/wiki/%D0%A1%D0%B0%D0%BD%D1%82-%D0%90%D0%BD%D0%B4%D0%B6%D0%B5%D0%BB%D0%BE-%D0%B4%D0%B8-%D0%9F%D1%8C%D0%BE%D0%B2%D0%B5-%D0%B4%D0%B8-%D0%A1%D0%B0%D0%BA%D0%BA%D0%BE" title="Сант-Анджело-ди-Пьове-ди-Сакко">Сант-Анджело-ди-Пьове-ди-Сакко</a></li> 
+              <li><a href="/wiki/%D0%A1%D0%B0%D0%BD%D1%82%D0%BE-%D0%A7%D0%B5%D1%80%D0%B2%D0%B0%D1%80%D0%B5%D0%B7%D0%B5-%D0%9A%D1%80%D0%BE%D1%87%D0%B5" title="Санто-Черварезе-Кроче">Санто-Черварезе-Кроче</a></li> 
+              <li><a href="/wiki/%D0%A1%D0%B0%D0%BD%D1%82-%D0%A3%D1%80%D0%B1%D0%B0%D0%BD%D0%BE" title="Сант-Урбано">Сант-Урбано</a></li> 
+              <li><a href="/wiki/%D0%A1%D0%B0%D0%BD%D1%82-%D0%AD%D0%BB%D0%B5%D0%BD%D0%B0" title="Сант-Элена">Сант-Элена</a></li> 
+              <li><a href="/wiki/%D0%A1%D0%B0%D0%BE%D0%BD%D0%B0%D1%80%D0%B0" title="Саонара">Саонара</a></li> 
+              <li><a href="/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D0%B2%D0%B0%D1%86%D1%86%D0%B0%D0%BD%D0%BE-%D0%94%D0%B5%D0%BD%D1%82%D1%80%D0%BE" title="Сельваццано-Дентро">Сельваццано-Дентро</a></li> 
+              <li><a href="/wiki/%D0%A1%D0%BE%D0%BB%D0%B5%D0%B7%D0%B8%D0%BD%D0%BE" title="Солезино">Солезино</a></li> 
+              <li><a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%BB%D0%B0" title="Стангелла">Стангелла</a></li> 
+              <li><a href="/wiki/%D0%A2%D0%B5%D0%BE%D0%BB%D0%BE" title="Теоло">Теоло</a></li> 
+              <li><a href="/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B0%D1%81%D1%81%D0%B0-%D0%9F%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B0" title="Террасса-Падована">Террасса-Падована</a></li> 
+              <li><a href="/wiki/%D0%A2%D0%BE%D0%BC%D0%B1%D0%BE%D0%BB%D0%BE" title="Томболо">Томболо</a></li> 
+              <li><a href="/wiki/%D0%A2%D0%BE%D1%80%D1%80%D0%B5%D0%BB%D1%8C%D1%8F_(%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F)" title="Торрелья (Италия)">Торрелья</a></li> 
+              <li><a href="/wiki/%D0%A2%D1%80%D0%B5%D0%B1%D0%B0%D0%B7%D0%B5%D0%BB%D0%B5%D0%B3%D0%B5" title="Требазелеге">Требазелеге</a></li> 
+              <li><a href="/wiki/%D0%A2%D1%80%D0%B8%D0%B1%D0%B0%D0%BD%D0%BE" title="Трибано">Трибано</a></li> 
+              <li><a href="/wiki/%D0%A3%D1%80%D0%B1%D0%B0%D0%BD%D0%B0" title="Урбана">Урбана</a></li> 
+              <li><a href="/wiki/%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D0%B8%D0%B2%D0%B0" title="Фонтанива">Фонтанива</a></li> 
+              <li><a href="/wiki/%D0%A7%D0%B8%D0%BD%D1%82%D0%BE-%D0%AD%D1%83%D0%B3%D0%B0%D0%BD%D0%B5%D0%BE" title="Чинто-Эуганео">Чинто-Эуганео</a></li> 
+              <li><a href="/wiki/%D0%A7%D0%B8%D1%82%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D0%BB%D0%B0" title="Читтаделла">Читтаделла</a></li> 
+              <li><a href="/wiki/%D0%AD%D1%81%D1%82%D0%B5_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)" title="Эсте (город)">Эсте</a></li>
+             </ul> 
+            </div>
+           </div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> 
+      <div role="navigation" class="navbox" aria-label="Навигационный шаблон" data-name="External links">
+       <table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+        <tbody>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">
+           <div style="padding: 0 35px 0 0; width: 100%;">
+            <div style="float: left;">
+             <a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14"></a>&nbsp;&nbsp;<a href="https://www.wikidata.org/wiki/Q617#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a>
+            </div>&nbsp;&nbsp;В социальных сетях
+           </div></th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a rel="nofollow" class="external text" href="https://twitter.com/comunepadova">Твиттер</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://www.facebook.com/Comune.Padova">Facebook</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">Фото, видео и аудио</th>
+          <td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a rel="nofollow" class="external text" href="https://www.instagram.com/comunepadova/">Instagram</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://www.youtube.com/channel/UCxtuZgkyyTiBoS9zihQBuhQ">YouTube</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <th scope="row" class="navbox-group" style="width:1px">Словари и энциклопедии</th>
+          <td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+           <div style="padding:0em 0.25em"> 
+            <ul>
+             <li><a class="external text" href="https://wikidata-externalid-url.toolforge.org/?p=8313&amp;url_prefix=https://denstoredanske.lex.dk/&amp;id=Padova">Большая датская</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://www.enciclopedia.cat/enciclopèdies/gran-enciclopèdia-catalana/EC-GEC-0048170.xml">Большая каталанская</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://snl.no/Padova">Большая норвежская</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://bigenc.ru/text/2312676">Большая российская</a></li> 
+             <li><a href="https://ru.wikisource.org/wiki/%D0%91%D0%A1%D0%AD1/%D0%9F%D0%B0%D0%B4%D1%83%D0%B0" class="extiw" title="s:БСЭ1/Падуа">Большая советская (1 изд.)</a></li> 
+             <li><a href="https://ru.wikisource.org/wiki/%D0%91%D0%AD%D0%AE/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F,_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4" class="extiw" title="s:БЭЮ/Падуя, город">Большая Южакова</a></li> 
+             <li><a href="https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F,_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4" class="extiw" title="s:ЭСБЕ/Падуя, город">Брокгауза и Ефрона</a></li> 
+             <li><a href="https://ru.wikisource.org/wiki/%D0%92%D0%AD/%D0%92%D0%A2/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" class="extiw" title="s:ВЭ/ВТ/Падуя">Военная Сытина</a></li> 
+             <li><a href="https://ru.wikisource.org/wiki/%D0%95%D0%AD%D0%91%D0%95/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" class="extiw" title="s:ЕЭБЕ/Падуя">Еврейская Брокгауза и Ефрона</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://eleven.co.il/article/13125">Краткая еврейская</a></li> 
+             <li><a href="https://ru.wikisource.org/wiki/%D0%9C%D0%AD%D0%A1%D0%91%D0%95/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" class="extiw" title="s:МЭСБЕ/Падуя">Малый Брокгауза и Ефрона</a></li> 
+             <li><a href="https://ru.wikisource.org/wiki/%D0%A0%D0%A1%D0%9A%D0%94/Patavium" class="extiw" title="s:РСКД/Patavium">Реальный словарь классических древностей</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://www.britannica.com/place/Padua-Italy">Britannica (онлайн)</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://brockhaus.de/ecs/enzy/article/padua-20">Brockhaus</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://www.treccani.it/enciclopedia/padova">Treccani</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://www.universalis.fr/encyclopedie/padoue/">Universalis</a></li> 
+             <li><a rel="nofollow" class="external text" href="https://www.hls-dhs-dss.ch/textes/f/F006603.php">Швейцарский исторический</a></li>
+            </ul> 
+           </div></td>
+         </tr>
+         <tr>
+          <td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+           <div style="padding:0em 0.25em">
+            <style data-mw-deduplicate="TemplateStyles:r113287755">.mw-parser-output .ts-navbox-plaintitle{font-size:100%!important;margin:0 6em!important}</style>
+           </div>
+           <table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0;text-align: left;">
+            <tbody>
+             <tr>
+              <th scope="colgroup" class="navbox-title" colspan="2">
+               <div id="В_библиографических_каталогах" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em">
+                В&nbsp;библиографических каталогах
+               </div></th>
+             </tr>
+             <tr>
+              <td class="navbox-list navbox-odd" style="width:100%;padding:0px">
+               <div style="padding:0em 0.25em"> 
+                <ul>
+                 <li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Национальная библиотека Франции">BNF</a>: <a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb119330068">119330068</a></li> 
+                 <li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4044295-0">4044295-0</a></li> 
+                 <li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n79027122">n79027122</a></li> 
+                 <li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A7%D0%B5%D1%88%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8" title="Национальная библиотека Чешской Республики">NKC</a>: <a rel="nofollow" class="external text" href="http://aut.nkp.cz/ge130358">ge130358</a></li> 
+                 <li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/137588063">137588063</a></li> 
+                 <li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/137588063">137588063</a></li>
+                </ul> 
+               </div></td>
+             </tr>
+            </tbody>
+           </table>
+           <div></div></td>
+         </tr>
+        </tbody>
+       </table>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1342
+Cached time: 20220314215958
+Cache expiry: 86400
+Reduced expiry: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.214 seconds
+Real time usage: 1.510 seconds
+Preprocessor visited node count: 8263/1000000
+Post‐expand include size: 130539/2097152 bytes
+Template argument size: 19337/2097152 bytes
+Highest expansion depth: 27/100
+Expensive parser function count: 18/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 10432/5000000 bytes
+Lua time usage: 0.518/10.000 seconds
+Lua memory usage: 7181743/52428800 bytes
+Number of Wikibase entities loaded: 3/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1233.937      1 -total
+ 40.62%  501.179      1 Шаблон:НП
+ 35.25%  434.929      1 Шаблон:Карточка
+ 23.28%  287.310     41 Шаблон:Wikidata
+ 12.99%  160.280      1 Шаблон:ВС
+ 11.82%  145.831      1 Шаблон:Примечания
+  9.27%  114.378      2 Шаблон:Wikidata-coords
+  7.78%   96.006      1 Шаблон:Климат_города
+  7.34%   90.527      1 Шаблон:Карточка/оригинал_названия
+  5.26%   64.955      1 Шаблон:Навигация
+--> <!-- Saved in parser cache with key ruwiki:pcache:idhash:136508-0!canonical and timestamp 20220314215956 and revision id 118733309. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Падуя&amp;oldid=118733309">https://ru.wikipedia.org/w/index.php?title=Падуя&amp;oldid=118733309</a>
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D1%81%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Населённые пункты по алфавиту">Населённые пункты по алфавиту</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BC%D1%83%D0%BD%D1%8B_%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D0%B8_%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="Категория:Коммуны провинции Падуя">Коммуны провинции Падуя</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="Категория:Падуя">Падуя</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D0%B8" title="Категория:Города Италии">Города Италии</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D0%B5%D1%81%D1%82%D0%B0_%D0%BF%D0%B0%D0%BB%D0%BE%D0%BC%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0" title="Категория:Места паломничества">Места паломничества</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Скрытые категории: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%BC_%D0%B2%D1%85%D0%BE%D0%B4%D0%BE%D0%BC_%D0%B2_%D0%9C%D0%BE%D0%B4%D1%83%D0%BB%D1%8C:URL" title="Категория:Википедия:Статьи со сложным входом в Модуль:URL">Википедия:Статьи со сложным входом в Модуль:URL</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B0:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:Города:Последняя правка: в прошлом году">ПРО:Города:Последняя правка: в прошлом году</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D0%B3%D0%B8%D0%B4" title="Категория:Статьи со ссылками на Викигид">Статьи со ссылками на Викигид</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Страницы с картами">Википедия:Страницы с картами</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Навигация</h2> 
+   <div id="mw-head"> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"> <label id="p-personal-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Персональные инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage" class="mw-list-item"><span>Вы не представились системе</span></li>
+       <li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li>
+       <li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li>
+       <li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li>
+       <li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> <label id="p-namespaces-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Пространства имён</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li>
+        <li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> <label id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading"> <span class="vector-menu-heading-label">русский</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> <label id="p-views-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Просмотры</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;stable=1"><span>Читать</span></a></li>
+        <li id="ca-current" class="collapsible selected mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v"><span>Текущая версия</span></a></li>
+        <li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li>
+        <li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li>
+        <li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" title="Больше возможностей"> 
+      <input type="checkbox" id="p-cactions-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-cactions" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> <label id="p-cactions-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Ещё</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box"> 
+      <div> 
+       <h3> <label for="searchInput">Поиск</label> </h3> 
+       <form action="/w/index.php" id="searchform" class="vector-search-box-form"> 
+        <div id="simpleSearch" class="vector-search-box-inner" data-search-loc="header-navigation"> 
+         <input class="vector-search-box-input" type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"> 
+         <input type="hidden" name="title" value="Служебная:Поиск"> 
+         <input id="mw-searchButton" class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти"> 
+         <input id="searchButton" class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти"> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a> 
+    </div> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> <label id="p-navigation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Навигация</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li>
+       <li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li>
+       <li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li>
+       <li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li>
+       <li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li>
+       <li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"> <label id="p-participation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Участие</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об&nbsp;ошибке</span></a></li>
+       <li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li>
+       <li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li>
+       <li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li>
+       <li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li>
+       <li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li>
+       <li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> <label id="p-tb-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li>
+       <li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li>
+       <li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+       <li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;oldid=118733309" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li>
+       <li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=info" title="Подробнее об этой странице"><span>Сведения о&nbsp;странице</span></a></li>
+       <li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;id=118733309&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li>
+       <li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q617" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> <label id="p-coll-print_export-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Печать/экспорт</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li>
+       <li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li>
+       <li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> <label id="p-wikibase-otherprojects-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">В других проектах</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Padova" hreflang="en"><span>Викисклад</span></a></li>
+       <li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" hreflang="ru"><span>Викиновости</span></a></li>
+       <li class="wb-otherproject-link wb-otherproject-wikivoyage mw-list-item"><a href="https://ru.wikivoyage.org/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" hreflang="ru"><span>Викигид</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> <label id="p-lang-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">На других языках</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Padua" title="Padua — африкаанс" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li>
+       <li class="interlanguage-link interwiki-als mw-list-item"><a href="https://als.wikipedia.org/wiki/Padua" title="Padua — Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target"><span>Alemannisch</span></a></li>
+       <li class="interlanguage-link interwiki-an mw-list-item"><a href="https://an.wikipedia.org/wiki/Padua" title="Padua — арагонский" lang="an" hreflang="an" class="interlanguage-link-target"><span>Aragonés</span></a></li>
+       <li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D8%AF%D9%88%D9%81%D8%A7" title="بادوفا — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li>
+       <li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%A8%D8%A7%D8%AF%D9%88%DA%A4%D8%A7" title="بادوڤا — Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li>
+       <li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Padua" title="Padua — астурийский" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li>
+       <li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Padua" title="Padua — азербайджанский" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li>
+       <li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D9%BE%D8%A7%D8%AF%D9%88%D9%88%D8%A7" title="پادووا — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li>
+       <li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="Падуя — белорусский" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li>
+       <li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="Падуя — Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li>
+       <li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D0%B0" title="Падуа — болгарский" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li>
+       <li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="পাদোয়া — бенгальский" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li>
+       <li class="interlanguage-link interwiki-br mw-list-item"><a href="https://br.wikipedia.org/wiki/Padova" title="Padova — бретонский" lang="br" hreflang="br" class="interlanguage-link-target"><span>Brezhoneg</span></a></li>
+       <li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Padova" title="Padova — боснийский" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li>
+       <li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/P%C3%A0dua" title="Pàdua — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li>
+       <li class="interlanguage-link interwiki-ce mw-list-item"><a href="https://ce.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="Падуя — чеченский" lang="ce" hreflang="ce" class="interlanguage-link-target"><span>Нохчийн</span></a></li>
+       <li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Padova_(munisipyo)" title="Padova (munisipyo) — себуано" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li>
+       <li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D9%BE%D8%A7%D8%AF%DB%86%DA%A4%D8%A7" title="پادۆڤا — сорани" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li>
+       <li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Padova" title="Padova — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li>
+       <li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="Падуя — чувашский" lang="cv" hreflang="cv" class="interlanguage-link-target"><span>Чӑвашла</span></a></li>
+       <li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/Padova" title="Padova — валлийский" lang="cy" hreflang="cy" class="interlanguage-link-target"><span>Cymraeg</span></a></li>
+       <li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Padova" title="Padova — датский" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li>
+       <li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Padua" title="Padua — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li>
+       <li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%A0%CE%AC%CE%BD%CF%84%CE%BF%CE%B2%CE%B1" title="Πάντοβα — греческий" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li>
+       <li class="interlanguage-link interwiki-eml mw-list-item"><a href="https://eml.wikipedia.org/wiki/P%C3%A8dva" title="Pèdva — Emiliano-Romagnolo" lang="egl" hreflang="egl" class="interlanguage-link-target"><span>Emiliàn e rumagnòl</span></a></li>
+       <li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Padua" title="Padua — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li>
+       <li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Padovo" title="Padovo — эсперанто" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li>
+       <li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Padua" title="Padua — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li>
+       <li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Padova" title="Padova — эстонский" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li>
+       <li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Padua" title="Padua — баскский" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li>
+       <li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%AF%D9%88%D9%88%D8%A7" title="پادووا — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li>
+       <li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Padova" title="Padova — финский" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li>
+       <li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Padoue" title="Padoue — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li>
+       <li class="interlanguage-link interwiki-fur mw-list-item"><a href="https://fur.wikipedia.org/wiki/Padue" title="Padue — фриульский" lang="fur" hreflang="fur" class="interlanguage-link-target"><span>Furlan</span></a></li>
+       <li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Padua" title="Padua — ирландский" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li>
+       <li class="interlanguage-link interwiki-gd mw-list-item"><a href="https://gd.wikipedia.org/wiki/Padova" title="Padova — гэльский" lang="gd" hreflang="gd" class="interlanguage-link-target"><span>Gàidhlig</span></a></li>
+       <li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Padua" title="Padua — галисийский" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li>
+       <li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%93%D7%95%D7%91%D7%94" title="פדובה — иврит" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li>
+       <li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Padova" title="Padova — хорватский" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li>
+       <li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Padova" title="Padova — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li>
+       <li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%8A%D5%A1%D5%A4%D5%B8%D5%BE%D5%A1" title="Պադովա — армянский" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li>
+       <li class="interlanguage-link interwiki-hyw mw-list-item"><a href="https://hyw.wikipedia.org/wiki/%D5%93%D5%A1%D5%BF%D5%B8%D6%82%D5%A1" title="Փատուա — Western Armenian" lang="hyw" hreflang="hyw" class="interlanguage-link-target"><span>Արեւմտահայերէն</span></a></li>
+       <li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Padova" title="Padova — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li>
+       <li class="interlanguage-link interwiki-io mw-list-item"><a href="https://io.wikipedia.org/wiki/Padova" title="Padova — идо" lang="io" hreflang="io" class="interlanguage-link-target"><span>Ido</span></a></li>
+       <li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Pad%C3%BAa" title="Padúa — исландский" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li>
+       <li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Padova" title="Padova — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li>
+       <li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%89%E3%83%B4%E3%82%A1" title="パドヴァ — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li>
+       <li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%9E%E1%83%90%E1%83%93%E1%83%A3%E1%83%90" title="პადუა — грузинский" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li>
+       <li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="Падуя — казахский" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li>
+       <li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%ED%8C%8C%EB%8F%84%EB%B0%94" title="파도바 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li>
+       <li class="interlanguage-link interwiki-ku mw-list-item"><a href="https://ku.wikipedia.org/wiki/Padova" title="Padova — курдский" lang="ku" hreflang="ku" class="interlanguage-link-target"><span>Kurdî</span></a></li>
+       <li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Patavium" title="Patavium — латинский" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li>
+       <li class="interlanguage-link interwiki-lld mw-list-item"><a href="https://lld.wikipedia.org/wiki/Padua" title="Padua — Ladin" lang="lld" hreflang="lld" class="interlanguage-link-target"><span>Ladin</span></a></li>
+       <li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Padoa" title="Padoa — Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li>
+       <li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Paduja" title="Paduja — литовский" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li>
+       <li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Paduja" title="Paduja — латышский" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li>
+       <li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0" title="Падова — македонский" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li>
+       <li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A5%8B%E0%A4%B5%E0%A5%8D%E0%A4%B9%E0%A4%BE" title="पादोव्हा — маратхи" lang="mr" hreflang="mr" class="interlanguage-link-target"><span>मराठी</span></a></li>
+       <li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Padua" title="Padua — малайский" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li>
+       <li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wikipedia.org/wiki/%E1%80%95%E1%80%AB%E1%80%92%E1%80%B0%E1%80%A1%E1%80%AC" title="ပါဒူအာ — бирманский" lang="my" hreflang="my" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li>
+       <li class="interlanguage-link interwiki-nap mw-list-item"><a href="https://nap.wikipedia.org/wiki/Padova" title="Padova — неаполитанский" lang="nap" hreflang="nap" class="interlanguage-link-target"><span>Napulitano</span></a></li>
+       <li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Padua_(stad)" title="Padua (stad) — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li>
+       <li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Padova" title="Padova — нюнорск" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li>
+       <li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Padova" title="Padova — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li>
+       <li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/P%C3%A0doa" title="Pàdoa — окситанский" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li>
+       <li class="interlanguage-link interwiki-os mw-list-item"><a href="https://os.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="Падуя — осетинский" lang="os" hreflang="os" class="interlanguage-link-target"><span>Ирон</span></a></li>
+       <li class="interlanguage-link interwiki-pap mw-list-item"><a href="https://pap.wikipedia.org/wiki/Padua" title="Padua — папьяменто" lang="pap" hreflang="pap" class="interlanguage-link-target"><span>Papiamentu</span></a></li>
+       <li class="interlanguage-link interwiki-pcd mw-list-item"><a href="https://pcd.wikipedia.org/wiki/Padoa" title="Padoa — Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target"><span>Picard</span></a></li>
+       <li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Padwa" title="Padwa — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li>
+       <li class="interlanguage-link interwiki-pms mw-list-item"><a href="https://pms.wikipedia.org/wiki/P%C3%A0doa" title="Pàdoa — Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target"><span>Piemontèis</span></a></li>
+       <li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/%D9%BE%D8%A7%D8%AF%D9%88%D8%A2" title="پادوآ — Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target"><span>پنجابی</span></a></li>
+       <li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/P%C3%A1dua" title="Pádua — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li>
+       <li class="interlanguage-link interwiki-qu mw-list-item"><a href="https://qu.wikipedia.org/wiki/Padova" title="Padova — кечуа" lang="qu" hreflang="qu" class="interlanguage-link-target"><span>Runa Simi</span></a></li>
+       <li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Padova" title="Padova — румынский" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li>
+       <li class="interlanguage-link interwiki-roa-tara mw-list-item"><a href="https://roa-tara.wikipedia.org/wiki/Padova" title="Padova — Tarantino" lang="nap-x-tara" hreflang="nap-x-tara" class="interlanguage-link-target"><span>Tarandíne</span></a></li>
+       <li class="interlanguage-link interwiki-sa mw-list-item"><a href="https://sa.wikipedia.org/wiki/%E0%A4%AA%E0%A4%A1%E0%A5%81%E0%A4%86" title="पडुआ — санскрит" lang="sa" hreflang="sa" class="interlanguage-link-target"><span>संस्कृतम्</span></a></li>
+       <li class="interlanguage-link interwiki-sc mw-list-item"><a href="https://sc.wikipedia.org/wiki/Padova" title="Padova — сардинский" lang="sc" hreflang="sc" class="interlanguage-link-target"><span>Sardu</span></a></li>
+       <li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wikipedia.org/wiki/P%C3%A0duva" title="Pàduva — сицилийский" lang="scn" hreflang="scn" class="interlanguage-link-target"><span>Sicilianu</span></a></li>
+       <li class="interlanguage-link interwiki-sco mw-list-item"><a href="https://sco.wikipedia.org/wiki/Padua" title="Padua — шотландский" lang="sco" hreflang="sco" class="interlanguage-link-target"><span>Scots</span></a></li>
+       <li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Padova" title="Padova — сербскохорватский" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li>
+       <li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Padua" title="Padua — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li>
+       <li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Padova" title="Padova — словацкий" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li>
+       <li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Padova" title="Padova — словенский" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li>
+       <li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/Padova" title="Padova — албанский" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li>
+       <li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0" title="Падова — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li>
+       <li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Padua" title="Padua — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li>
+       <li class="interlanguage-link interwiki-sw mw-list-item"><a href="https://sw.wikipedia.org/wiki/Padova" title="Padova — суахили" lang="sw" hreflang="sw" class="interlanguage-link-target"><span>Kiswahili</span></a></li>
+       <li class="interlanguage-link interwiki-szl mw-list-item"><a href="https://szl.wikipedia.org/wiki/Padova" title="Padova — Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target"><span>Ślůnski</span></a></li>
+       <li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%B2%E0%B9%82%E0%B8%94%E0%B8%A7%E0%B8%B2" title="ปาโดวา — тайский" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li>
+       <li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Padua" title="Padua — тагалог" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li>
+       <li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Padova" title="Padova — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li>
+       <li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D0%BE%D0%B2%D0%B0" title="Падова — татарский" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча/tatarça</span></a></li>
+       <li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F" title="Падуя — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li>
+       <li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D9%BE%D8%A7%D8%AF%D9%88%D9%88%D8%A7" title="پادووا — урду" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li>
+       <li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Paduya" title="Paduya — узбекский" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha/ўзбекча</span></a></li>
+       <li class="interlanguage-link interwiki-vec mw-list-item"><a href="https://vec.wikipedia.org/wiki/P%C3%A0dova" title="Pàdova — Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target"><span>Vèneto</span></a></li>
+       <li class="interlanguage-link interwiki-vep mw-list-item"><a href="https://vep.wikipedia.org/wiki/Padui" title="Padui — Veps" lang="vep" hreflang="vep" class="interlanguage-link-target"><span>Vepsän kel’</span></a></li>
+       <li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Padova" title="Padova — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li>
+       <li class="interlanguage-link interwiki-vo mw-list-item"><a href="https://vo.wikipedia.org/wiki/Padova" title="Padova — волапюк" lang="vo" hreflang="vo" class="interlanguage-link-target"><span>Volapük</span></a></li>
+       <li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Padua" title="Padua — варай" lang="war" hreflang="war" class="interlanguage-link-target"><span>Winaray</span></a></li>
+       <li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E5%B8%95%E5%A4%9A%E7%93%A6" title="帕多瓦 — ву" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li>
+       <li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%B8%95%E5%A4%9A%E7%93%A6" title="帕多瓦 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+       <li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Padua" title="Padua — Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li>
+       <li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E5%B8%95%E5%A4%9A%E8%8F%AF" title="帕多華 — Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q617#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 19 декабря 2021 в 21:21.</li> 
+    <li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия. <span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br> Wikipedia®&nbsp;— зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li> 
+    <li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li> 
+    <li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li> 
+    <li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D0%B0%D0%B4%D1%83%D1%8F&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.214","walltime":"1.510","ppvisitednodes":{"value":8263,"limit":1000000},"postexpandincludesize":{"value":130539,"limit":2097152},"templateargumentsize":{"value":19337,"limit":2097152},"expansiondepth":{"value":27,"limit":100},"expensivefunctioncount":{"value":18,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10432,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1233.937      1 -total"," 40.62%  501.179      1 Шаблон:НП"," 35.25%  434.929      1 Шаблон:Карточка"," 23.28%  287.310     41 Шаблон:Wikidata"," 12.99%  160.280      1 Шаблон:ВС"," 11.82%  145.831      1 Шаблон:Примечания","  9.27%  114.378      2 Шаблон:Wikidata-coords","  7.78%   96.006      1 Шаблон:Климат_города","  7.34%   90.527      1 Шаблон:Карточка/оригинал_названия","  5.26%   64.955      1 Шаблон:Навигация"]},"scribunto":{"limitreport-timeusage":{"value":"0.518","limit":"10.000"},"limitreport-memusage":{"value":7181743,"limit":52428800},"limitreport-logs":"Loaded datatype external-id of P1397 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P7678 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw1342","timestamp":"20220314215958","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041f\u0430\u0434\u0443\u044f","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9F%D0%B0%D0%B4%D1%83%D1%8F","sameAs":"http:\/\/www.wikidata.org\/entity\/Q617","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q617","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-19T15:43:17Z","dateModified":"2021-12-19T21:21:51Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/73\/Padua_-_Prato_della_Valle.jpg","headline":"\u0433\u043e\u0440\u043e\u0434 \u0432 \u0418\u0442\u0430\u043b\u0438\u0438"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":158,"wgHostname":"mw1456"});});</script>  
+ </body>
+</html>

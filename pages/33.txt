@@ -1,0 +1,1222 @@
+<!doctype html>
+<html class="client-nojs" lang="ru" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Файл:Covid-19 San Salvatore 02.jpg — Википедия</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"5c04866b-e9cc-419d-a4d0-16aa14fcdc96","wgCSPNonce":false,"wgCanonicalNamespace":"File","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":6,"wgPageName":"Файл:Covid-19_San_Salvatore_02.jpg","wgTitle":"Covid-19 San Salvatore 02.jpg","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Файл:Covid-19_San_Salvatore_02.jpg","wgRelevantArticleId":0,"wgIsProbablyEditable":true,
+"wgRelevantPageIsProbablyEditable":true,"wgRestrictionCreate":[],"wgRestrictionUpload":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":0,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":true,"wgGELinkRecommendationsFrontendEnabled":true};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"mediawiki.interface.helpers.styles":"ready","filepage":"ready","mediawiki.action.view.filepage":"ready","skins.vector.styles.legacy":"ready","mediawiki.ui.button":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["mediawiki.action.view.metadata","site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin",
+"ext.popups","ext.uls.compactlinks","ext.uls.interface"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cfilepage%7Cmediawiki.action.view.filepage%7Cmediawiki.interface.helpers.styles%7Cmediawiki.ui.button%7Cskins.vector.styles.legacy&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <link rel="stylesheet" href="https://commons.wikimedia.org/w/index.php?title=MediaWiki:Filepage.css&amp;action=raw&amp;ctype=text/css"> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <noscript>
+   <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector">
+  </noscript> 
+  <meta name="generator" content="MediaWiki 1.38.0-wmf.25"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Covid-19_San_Salvatore_02.jpg/1200px-Covid-19_San_Salvatore_02.jpg"> 
+  <meta property="og:image:width" content="1200"> 
+  <meta property="og:image:height" content="1799"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Covid-19_San_Salvatore_02.jpg/800px-Covid-19_San_Salvatore_02.jpg"> 
+  <meta property="og:image:width" content="800"> 
+  <meta property="og:image:height" content="1199"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Covid-19_San_Salvatore_02.jpg/640px-Covid-19_San_Salvatore_02.jpg"> 
+  <meta property="og:image:width" content="640"> 
+  <meta property="og:image:height" content="960"> 
+  <meta property="og:title" content="Файл:Covid-19 San Salvatore 02.jpg — Википедия"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Covid-19_San_Salvatore_02.jpg"> 
+  <link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Covid-19_San_Salvatore_02.jpg&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://commons.wikimedia.org/wiki/File:Covid-19_San_Salvatore_02.jpg"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-6 ns-subject mw-editable page-Файл_Covid-19_San_Salvatore_02_jpg rootpage-Файл_Covid-19_San_Salvatore_02_jpg skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+    <div id="mw-indicator-commons" class="mw-indicator">
+     <a href="https://commons.wikimedia.org/wiki/File:Covid-19_San_Salvatore_02.jpg?uselang=ru" title="Этот файл находится на Викискладе"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/14px-Commons-logo.svg.png" decoding="async" width="14" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/21px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/28px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a>
+    </div> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading mw-first-heading">Файл:Covid-19 San Salvatore 02.jpg</h1> 
+   <div id="bodyContent" class="vector-body"> 
+    <div id="siteSub" class="noprint">
+     Материал из Википедии — свободной энциклопедии
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Перейти к навигации</a> <a class="mw-jump-link" href="#searchInput">Перейти к поиску</a> 
+    <div id="mw-content-text" class="mw-body-content">
+     <ul id="filetoc">
+      <li><a href="#file">Файл</a></li> 
+      <li><a href="#filehistory">История файла</a></li> 
+      <li><a href="#filelinks">Использование файла</a></li> 
+      <li><a href="#globalusage">Глобальное использование файла</a></li> 
+      <li><a href="#metadata">Метаданные</a></li>
+     </ul>
+     <div class="fullImageLink" id="file">
+      <a href="//upload.wikimedia.org/wikipedia/commons/9/99/Covid-19_San_Salvatore_02.jpg"><img alt="Файл:Covid-19 San Salvatore 02.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Covid-19_San_Salvatore_02.jpg/400px-Covid-19_San_Salvatore_02.jpg" decoding="async" width="400" height="600" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Covid-19_San_Salvatore_02.jpg/600px-Covid-19_San_Salvatore_02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Covid-19_San_Salvatore_02.jpg/800px-Covid-19_San_Salvatore_02.jpg 2x" data-file-width="2652" data-file-height="3976"></a>
+      <div class="mw-filepage-resolutioninfo">
+       Размер при предпросмотре: <a href="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Covid-19_San_Salvatore_02.jpg/400px-Covid-19_San_Salvatore_02.jpg" class="mw-thumbnail-link">400 × 600 пикселей</a>. <span class="mw-filepage-other-resolutions">Другие разрешения: <a href="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Covid-19_San_Salvatore_02.jpg/160px-Covid-19_San_Salvatore_02.jpg" class="mw-thumbnail-link">160 × 240 пикселей</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Covid-19_San_Salvatore_02.jpg/320px-Covid-19_San_Salvatore_02.jpg" class="mw-thumbnail-link">320 × 480 пикселей</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Covid-19_San_Salvatore_02.jpg/512px-Covid-19_San_Salvatore_02.jpg" class="mw-thumbnail-link">512 × 768 пикселей</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Covid-19_San_Salvatore_02.jpg/683px-Covid-19_San_Salvatore_02.jpg" class="mw-thumbnail-link">683 × 1024 пикселей</a> | <a href="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Covid-19_San_Salvatore_02.jpg/1366px-Covid-19_San_Salvatore_02.jpg" class="mw-thumbnail-link">1366 × 2048 пикселей</a> | <a href="//upload.wikimedia.org/wikipedia/commons/9/99/Covid-19_San_Salvatore_02.jpg" class="mw-thumbnail-link">2652 × 3976 пикселей</a>.</span>
+      </div>
+     </div> 
+     <div class="fullMedia">
+      <p><a href="//upload.wikimedia.org/wikipedia/commons/9/99/Covid-19_San_Salvatore_02.jpg" class="internal" title="Covid-19 San Salvatore 02.jpg">Исходный файл</a> ‎<span class="fileInfo">(2652 × 3976 пикселей, размер файла: 3,26 Мб, MIME-тип: <span class="mime-type">image/jpeg</span>)</span> </p>
+     </div>
+     <div class="sharedUploadNotice"> 
+      <table class="plainlinks fmbox fmbox-system" role="presentation">
+       <tbody>
+        <tr>
+         <td class="mbox-image"><a href="https://commons.wikimedia.org/wiki/File:Covid-19_San_Salvatore_02.jpg?uselang=ru" title="Перейти на страницу файла на Викискладе"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/32px-Commons-logo.svg.png" decoding="async" width="32" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/48px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/64px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a></td>
+         <td class="mbox-text">
+          <div class="mbox-text-div">
+           <b><a class="external text" href="https://commons.wikimedia.org/wiki/File:Covid-19_San_Salvatore_02.jpg?uselang=ru"><span title="Перейти на страницу файла на Викискладе">Этот файл находится на Викискладе.</span></a></b> Сведения о нём показаны ниже.
+           <br> <small>Викисклад — централизованное хранилище для свободных файлов, используемых в проектах Викимедиа.</small>
+          </div>
+          <div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"></div></td>
+         <td class="mbox-imageright"><span class="plainlinks ruwiki-addTopicLink" style=""><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85_%E2%80%94_%D1%84%D0%B0%D0%B9%D0%BB%D1%8B_%D1%81_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0&amp;action=edit&amp;section=action=edit&amp;section=new&amp;preloadtitle=%5B%5B:%D0%A4%D0%B0%D0%B9%D0%BB%3ACovid-19+San+Salvatore+02.jpg%7C%D0%A4%D0%B0%D0%B9%D0%BB%3ACovid-19+San+Salvatore+02.jpg%5D%5D"><span class="plainlinks mw-ui-button" style=""><span class="nowrap">Сообщить об ошибке с файлом</span></span></a></span></td>
+        </tr>
+       </tbody>
+      </table> 
+     </div> 
+     <div id="shared-image-desc">
+      <div class="mw-parser-output">
+       <h2><span id=".D0.9A.D1.80.D0.B0.D1.82.D0.BA.D0.BE.D0.B5_.D0.BE.D0.BF.D0.B8.D1.81.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Краткое_описание">Краткое описание</span></h2> 
+       <div class="hproduct commons-file-information-table"> 
+        <table class="fileinfotpl-type-information toccolours vevent mw-content-ltr" style="width: 100%; direction: ltr;" cellpadding="4">
+         <tbody>
+          <tr style="vertical-align: top">
+           <td id="fileinfotpl_desc" class="fileinfo-paramfield" lang="ru">Описание<span class="summary fn" style="display:none">Covid-19 San Salvatore 02.jpg</span></td> 
+           <td class="description"> 
+            <div class="description mw-content-ltr bg" dir="ltr" lang="bg">
+             <span class="language bg" title="болгарский"><b>Български: </b></span> Маргерита Ламбертини – хирург от <a href="https://bg.wikipedia.org/wiki/%D0%BF%D1%8A%D1%80%D0%B2%D0%B0_%D0%BF%D0%BE%D0%BC%D0%BE%D1%89" class="extiw" title="bg:първа помощ">първа помощ</a> в болницата Сан Салваторе в <a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B7%D0%B0%D1%80%D0%BE" class="extiw" title="bg:Пезаро">Пезаро</a>, <a href="https://bg.wikipedia.org/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" class="extiw" title="bg:Италия">Италия</a>; в края на смяната ѝ на 19 март 2020 г., по време на <a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81%D0%BD%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F" class="extiw" title="bg:Коронавирусна пандемия">пандемията от COVID-19</a>.
+            </div> 
+            <div class="description mw-content-ltr en" dir="ltr" lang="en">
+             <span class="language en" title="английский"><b>English: </b></span> These are the doctors and nurses of the San Salvatore Hospital in Pesaro, Italy, the city of my birth and where I once again reside, which from day one has sadly been at the top of the COVID-19 contagion and death charts. I photographed them at the end of their shifts—twelve hours without a break during their fight in an unequal war. In the quiet moments in front of my camera, these embattled individuals are in a state of total abandon, victims of an exhaustion that eats away at the body and the mind, a breathlessness that renders one disoriented, detached from time and space. They would take off their masks, caps, and gloves in front of my lens, remaining motionless, looking for some sort of normalcy amid the hell they were living.
+            </div> 
+            <div class="description mw-content-ltr es" dir="ltr" lang="es">
+             <span class="language es" title="испанский"><b>Español: </b></span> Margherita Lambertini, cirujana de primeros auxilios del Hospital San Salvatore en <a href="https://es.wikipedia.org/wiki/P%C3%A9saro" class="extiw" title="es:Pésaro">Pésaro</a>, Italia, al final de su turno durante la <a href="https://es.wikipedia.org/wiki/Pandemia_de_COVID-19" class="extiw" title="es:Pandemia de COVID-19">pandemia de COVID-19</a>.
+            </div> 
+            <div class="description mw-content-ltr uk" dir="ltr" lang="uk">
+             <span class="language uk" title="украинский"><b>Українська: </b></span> Маргеріта Ламбертіні, хірург першої допомоги лікарні Сан-Сальваторе в <a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B7%D0%B0%D1%80%D0%BE" class="extiw" title="uk:Пезаро">Пезаро</a>, Італія, наприкінці своєї зміни під час <a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B4%D0%B5%D0%BC%D1%96%D1%8F_%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%96%D1%80%D1%83%D1%81%D0%BD%D0%BE%D1%97_%D1%85%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D0%B8_2019" class="extiw" title="uk:Пандемія коронавірусної хвороби 2019">пандемії COVID-19</a>.
+            </div></td> 
+          </tr>
+          <tr style="vertical-align: top">
+           <td id="fileinfotpl_date" class="fileinfo-paramfield" lang="ru">Дата</td> 
+           <td lang="ru"> 19 марта 2020</td> 
+          </tr>
+          <tr style="vertical-align: top">
+           <td id="fileinfotpl_src" class="fileinfo-paramfield" lang="ru">Источник</td> 
+           <td> <span class="int-own-work" lang="ru">собственная работа</span></td> 
+          </tr>
+          <tr style="vertical-align: top">
+           <td id="fileinfotpl_aut" class="fileinfo-paramfield" lang="ru">Автор</td> 
+           <td> <a href="//commons.wikimedia.org/wiki/User:Alberto_Giuliani" title="User:Alberto Giuliani">Alberto Giuliani</a></td> 
+          </tr>
+         </tbody>
+        </table>
+       </div> 
+       <h2><span id=".D0.9E.D1.86.D0.B5.D0.BD.D0.BA.D0.B0"></span><span class="mw-headline" id="Оценка"><span id="Assessment"></span>Оценка</span></h2> 
+       <div id="assessments" dir="ltr" lang="ru"> 
+        <table cellspacing="0" cellpadding="0" style="background:transparent;margin:0.5em auto; width:100%">
+         <tbody>
+          <tr>
+           <td> 
+            <table style="width:100%; box-sizing: border-box; clear:both; margin:0em auto; background-color: #f9f9f9; border: 2px solid #006b33; direction:ltr;">
+             <tbody>
+              <tr>
+               <td>
+                <table style="clear:both;margin:0em auto;width:100%; box-sizing: border-box; border:2px solid #E5D4A1;background-color:#FAF5E6; direction:ltr;">
+                 <tbody>
+                  <tr>
+                   <td> 
+                    <table style="background:transparent; width:100%;">
+                     <tbody>
+                      <tr>
+                       <td style="width:40px;text-align:center;" rowspan="2"> 
+                        <div class="center">
+                         <div class="floatnone">
+                          <a href="//commons.wikimedia.org/wiki/Commons:Picture_of_the_Year/2020" title="POTY"><img alt="POTY" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PODY_3rd_barnstar.svg/40px-PODY_3rd_barnstar.svg.png" decoding="async" width="40" height="40" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PODY_3rd_barnstar.svg/60px-PODY_3rd_barnstar.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PODY_3rd_barnstar.svg/80px-PODY_3rd_barnstar.svg.png 2x" data-file-width="143" data-file-height="142"></a>
+                         </div>
+                        </div><img alt="Featured picture" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/40px-Cscr-featured.svg.png" decoding="async" title="Featured picture" width="40" height="38" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/60px-Cscr-featured.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/80px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438">
+                        <div class="center">
+                         <div class="floatnone">
+                          <img alt="Quality picture" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Quality_images_logo.svg/40px-Quality_images_logo.svg.png" decoding="async" title="Quality picture" width="40" height="35" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Quality_images_logo.svg/60px-Quality_images_logo.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Quality_images_logo.svg/80px-Quality_images_logo.svg.png 2x" data-file-width="164" data-file-height="142">
+                         </div>
+                        </div> </td> 
+                       <td> </td> 
+                       <td style="width:30px;text-align:center;" rowspan="2"> <p><img alt="Wikimedia Commons" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" title="Wikimedia Commons" width="30" height="40" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"><img alt="Wikipedia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/30px-Wikipedia-logo-v2.svg.png" decoding="async" title="Wikipedia" width="30" height="27" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/45px-Wikipedia-logo-v2.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/60px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94"></p> </td>
+                      </tr>
+                      <tr>
+                       <td>Этот файл занял <b>третье место</b> в конкурсе <b><a href="//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Picture_of_the_Year/2020" title="Special:MyLanguage/Commons:Picture of the Year/2020">«Изображение года» 2020</a></b>.<br>Этот файл имеет статус избранного изображения (<a href="//commons.wikimedia.org/wiki/Commons:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" class="mw-redirect" title="Commons:Избранные изображения">Избранные изображения</a>) на Викискладе и в настоящее время <a href="//commons.wikimedia.org/wiki/Commons:Featured_picture_candidates/File:Covid-19_San_Salvatore_02.jpg" title="Commons:Featured picture candidates/File:Covid-19 San Salvatore 02.jpg">признан</a> там одним из лучших изображений.<br>Это <b><a href="//commons.wikimedia.org/wiki/Commons:%D0%9A%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" class="mw-redirect" title="Commons:Качественные изображения">качественное изображение</a></b>, отвечающее требованиям <a href="//commons.wikimedia.org/wiki/Commons:%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D0%BE_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC" title="Commons:Руководство по изображениям">руководства по качественным изображениям</a>.<br>
+                        <hr><img alt="Cscr-featured.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/20px-Cscr-featured.svg.png" decoding="async" width="20" height="19" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/30px-Cscr-featured.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cscr-featured.svg/40px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438">&nbsp;Этот файл имеет статус избранного изображения (<a href="https://en.wikipedia.org/wiki/fa:%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D9%86%DA%AF%D8%A7%D8%B1%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A8%D8%B1%DA%AF%D8%B2%DB%8C%D8%AF%D9%87" class="extiw" title="w:fa:ویکی‌پدیا:نگاره‌های برگزیده">نگاره‌های برگزیده</a>) в Википедии (персидский раздел) и в настоящее время <a href="https://en.wikipedia.org/wiki/fa:%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%DA%AF%D8%B2%DB%8C%D8%AF%D9%86_%D9%86%DA%AF%D8%A7%D8%B1%D9%87_%D8%A8%D8%B1%DA%AF%D8%B2%DB%8C%D8%AF%D9%87/Covid-19_San_Salvatore_02.jpg" class="extiw" title="w:fa:ویکی‌پدیا:گزیدن نگاره برگزیده/Covid-19 San Salvatore 02.jpg">признан</a> там одним из лучших изображений.<br>
+                        <hr><p>Если у вас есть изображение аналогичного качества, которое может быть опубликовано под <a href="//commons.wikimedia.org/wiki/Commons:%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" class="mw-redirect" title="Commons:Лицензирование">свободной лицензией</a>, пожалуйста, <a href="//commons.wikimedia.org/wiki/Special:Upload" title="Special:Upload">загрузите</a> его, <a href="//commons.wikimedia.org/wiki/Commons:%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B_%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D0%B9" class="mw-redirect" title="Commons:Шаблоны лицензий">выберите лицензию</a> и <a href="//commons.wikimedia.org/wiki/Commons:%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%B4%D0%B0%D1%82%D1%8B_%D0%B2_%D0%B8%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" title="Commons:Кандидаты в избранные изображения">номинируйте его</a>.<br></p> </td>
+                      </tr>
+                     </tbody>
+                    </table></td>
+                  </tr>
+                 </tbody>
+                </table></td>
+              </tr>
+             </tbody>
+            </table></td>
+          </tr>
+         </tbody>
+        </table>
+       </div> 
+       <style data-mw-deduplicate="TemplateStyles:r355492908">.mw-parser-output .template-picture-of-the-day{clear:both;width:100%;margin:0.5em auto;border:2px solid #e5d4a1;background-color:#faf5e6;border-spacing:8px}.mw-parser-output .template-picture-of-the-day td{padding:0}.mw-parser-output .template-picture-of-the-day .potd-icon{width:64px;text-align:center}</style>
+       <p class="mw-empty-elt"> </p> 
+       <table id="template-picture-of-the-day" class="template-picture-of-the-day" dir="ltr" role="presentation">
+        <tbody>
+         <tr>
+          <td class="potd-icon"><img alt="Изображение дня" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Potd-logo.svg/64px-Potd-logo.svg.png" decoding="async" title="Изображение дня" width="64" height="64" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Potd-logo.svg/96px-Potd-logo.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Potd-logo.svg/128px-Potd-logo.svg.png 2x" data-file-width="124" data-file-height="124"></td> 
+          <td><span id="field-potd" title="20220317"></span>
+           <div lang="ru">
+            Эта иллюстрация выбрана <b><a href="//commons.wikimedia.org/wiki/Commons:Picture_of_the_day" title="Commons:Picture of the day">изображением дня</a></b> для <a href="//commons.wikimedia.org/wiki/Template:Potd/2022-03#17" title="Template:Potd/2022-03">17 марта 2022 года</a>. У неё следующее описание:
+           </div>
+           <div class="description mw-content-ltr en" dir="ltr" lang="en">
+            <span class="language en" title="английский"><b>English: </b></span> Margherita Lambertini, first aid surgeon of the San Salvatore Hospital in <a href="https://en.wikipedia.org/wiki/Pesaro" class="extiw" title="en:Pesaro">Pesaro</a>, Italy, at the end of her shift during the <a href="https://en.wikipedia.org/wiki/COVID-19_pandemic" class="extiw" title="en:COVID-19 pandemic">COVID-19 pandemic</a>. 19 March 2020.
+           </div>
+           <div class="collapsibletemplate uncollapsed" style="clear:both;"> 
+            <div class="collapsibleheader header" style="display:none; font-weight:bold; background-color:transparent; text-align:start; float:none;font-size:smaller;">
+             <span class="headertext">Другие языки </span>
+            </div> 
+            <div class="body show-on-commons" style="padding:3px; font-weight:normal; background:transparent; text-align:start;"> 
+             <div class="multilingual">
+              <div class="description cs lang-cs" lang="cs" dir="ltr" style="margin:.25em 0;line-height:normal;">
+               <span class="language langlabel-cs" lang="cs" style="font-weight:bold;"><bdi>Čeština</bdi> : </span> Margherita Lambertini, lékařka na oddělení chirurgické první pomoci v nemocnici <i>San Salvatore Hospital</i> v italském městě <a href="https://cs.wikipedia.org/wiki/Pesaro" class="extiw" title="cs:Pesaro">Pesaro</a> po skončení své pracovní směny v počátcích maximálního vzestupu <a href="https://cs.wikipedia.org/wiki/Pandemie_covidu-19" class="extiw" title="cs:Pandemie covidu-19">pandemie covidu-19</a>, dne 19.&nbsp;března roku&nbsp;2020.
+              </div>
+              <div class="description en lang-en" lang="en" dir="ltr" style="margin:.25em 0;line-height:normal;">
+               <span class="language langlabel-en" lang="en" style="font-weight:bold;"><bdi>English</bdi>: </span> Margherita Lambertini, first aid surgeon of the San Salvatore Hospital in <a href="https://en.wikipedia.org/wiki/Pesaro" class="extiw" title="en:Pesaro">Pesaro</a>, Italy, at the end of her shift during the <a href="https://en.wikipedia.org/wiki/COVID-19_pandemic" class="extiw" title="en:COVID-19 pandemic">COVID-19 pandemic</a>. 19 March 2020.
+              </div>
+              <div class="description es lang-es" lang="es" dir="ltr" style="margin:.25em 0;line-height:normal;">
+               <span class="language langlabel-es" lang="es" style="font-weight:bold;"><bdi>Español</bdi> : </span> Margherita Lambertini, cirujana de primeros auxilios del Hospital San Salvatore en <a href="https://es.wikipedia.org/wiki/P%C3%A9saro" class="extiw" title="es:Pésaro">Pésaro</a>, Italia, al final de su turno durante la <a href="https://es.wikipedia.org/wiki/Pandemia_de_COVID-19" class="extiw" title="es:Pandemia de COVID-19">pandemia de COVID-19</a>. 19 de marzo de 2020.
+              </div>
+              <div class="description fr lang-fr" lang="fr" dir="ltr" style="margin:.25em 0;line-height:normal;">
+               <span class="language langlabel-fr" lang="fr" style="font-weight:bold;"><bdi>Français</bdi> : </span> Margherita Lambertini, urgentiste à l'hôpital San Salvatore de <a href="https://fr.wikipedia.org/wiki/Pesaro" class="extiw" title="fr:Pesaro">Pesaro</a> (Italie), à la fin de sa journée de travail le 19 mars 2020 pendant la <a href="https://fr.wikipedia.org/wiki/Pand%C3%A9mie_de_Covid-19_en_Italie" class="extiw" title="fr:Pandémie de Covid-19 en Italie">pandémie de Covid-19</a>.
+              </div>
+              <div class="description hu lang-hu" lang="hu" dir="ltr" style="margin:.25em 0;line-height:normal;">
+               <span class="language langlabel-hu" lang="hu" style="font-weight:bold;"><bdi>Magyar</bdi> : </span> Margherita Lambertini, a <a href="https://hu.wikipedia.org/wiki/Pesaro" class="extiw" title="hu:Pesaro">pesarói</a> San Salvatore kórház elsősegélynyújtó sebésze a műszakja végén a <a href="https://hu.wikipedia.org/wiki/Covid19-pand%C3%A9mia" class="extiw" title="hu:Covid19-pandémia">Covid19-pandémia</a> idején, 2020. március 19-én (<a href="https://hu.wikipedia.org/wiki/Olaszorsz%C3%A1g" class="extiw" title="hu:Olaszország">Olaszország</a>)
+              </div>
+              <div class="description nl lang-nl" lang="nl" dir="ltr" style="margin:.25em 0;line-height:normal;">
+               <span class="language langlabel-nl" lang="nl" style="font-weight:bold;"><bdi>Nederlands</bdi>: </span> <a href="https://nl.wikipedia.org/wiki/Spoedeisende_hulp" class="extiw" title="nl:Spoedeisende hulp">Eerstehulparts</a> in het Italiaanse <a href="https://nl.wikipedia.org/wiki/Pesaro" class="extiw" title="nl:Pesaro">Pesaro</a> in maart 2020, aan het begin van de <a href="https://nl.wikipedia.org/wiki/coronapandemie" class="extiw" title="nl:coronapandemie">coronapandemie</a>
+              </div>
+              <div class="description pt lang-pt" lang="pt" dir="ltr" style="margin:.25em 0;line-height:normal;">
+               <span class="language langlabel-pt" lang="pt" style="font-weight:bold;"><bdi>Português</bdi> : </span> Margherita Lambertini, cirurgiã de primeiros socorros do Hospital San Salvatore em <a href="https://pt.wikipedia.org/wiki/P%C3%A9saro" class="extiw" title="pt:Pésaro">Pésaro</a>, Itália, no final de seu turno durante a <a href="https://pt.wikipedia.org/wiki/pandemia_de_COVID-19" class="extiw" title="pt:pandemia de COVID-19">pandemia de COVID-19</a>. 19 de março de 2020.
+              </div>
+              <div class="description mk lang-mk" lang="mk" dir="ltr" style="margin:.25em 0;line-height:normal;">
+               <span class="language langlabel-mk" lang="mk" style="font-weight:bold;"><bdi>Македонски</bdi> : </span> Маргерита Ламбертини, хирург во итното одделение на болницата „Сан Салваторе“ во <a href="https://en.wikipedia.org/wiki/Pesaro" class="extiw" title="en:Pesaro">Пезаро</a>, Италија на крајто на смената за време на <a href="https://mk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B4%D0%B5%D0%BC%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0_%D0%9A%D0%9E%D0%92%D0%98%D0%94-19" class="extiw" title="mk:Пандемија на КОВИД-19">пандемијата на КОВИД-19</a> на 19 март 2020 г.
+              </div>
+              <div class="description uk lang-uk" lang="uk" dir="ltr" style="margin:.25em 0;line-height:normal;">
+               <span class="language langlabel-uk" lang="uk" style="font-weight:bold;"><bdi>Українська</bdi>: </span> Маргеріта Ламбертіні, хірург першої допомоги лікарні Сан-Сальваторе в <a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B7%D0%B0%D1%80%D0%BE" class="extiw" title="uk:Пезаро">Пезаро</a>, Італія, наприкінці своєї зміни під час <a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%B4%D0%B5%D0%BC%D1%96%D1%8F_%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%96%D1%80%D1%83%D1%81%D0%BD%D0%BE%D1%97_%D1%85%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D0%B8_2019" class="extiw" title="uk:Пандемія коронавірусної хвороби 2019">пандемії COVID-19</a>.
+              </div>
+             </div> 
+            </div>
+           </div> </td>
+         </tr>
+        </tbody>
+       </table>
+       <h2><span id=".D0.9B.D0.B8.D1.86.D0.B5.D0.BD.D0.B7.D0.B8.D1.80.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Лицензирование">Лицензирование</span></h2> 
+       <div style="clear:both; margin:0.5em auto; background-color:#eee; border:2px solid #ddd; padding:8px; direction: ltr;" class="licensetpl_wrapper"> 
+        <div class="center" style="font-weight:bold;">
+         <div lang="ru" dir="ltr" class="description ru" style="display:inline;">
+          Я, владелец авторских прав на это произведение, добровольно публикую его на условиях следующей лицензии:
+         </div>
+        </div> 
+        <table style="width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:#f9f9f9; border:2px solid #e0e0e0; padding: 0; border-spacing: 8px;" class="layouttemplate licensetpl mw-content-ltr" lang="ru">
+         <tbody>
+          <tr>
+           <td style="width:90px;" rowspan="3"><img alt="w:ru:Creative Commons" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/90px-CC_some_rights_reserved.svg.png" decoding="async" title="w:ru:Creative Commons" width="90" height="36" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/135px-CC_some_rights_reserved.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/180px-CC_some_rights_reserved.svg.png 2x" data-file-width="744" data-file-height="300"><br><p><img alt="атрибуция" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/24px-Cc-by_new_white.svg.png" decoding="async" title="атрибуция" width="24" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/36px-Cc-by_new_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/48px-Cc-by_new_white.svg.png 2x" data-file-width="64" data-file-height="64"> <img alt="распространение на тех же условиях" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/24px-Cc-sa_white.svg.png" decoding="async" title="распространение на тех же условиях" width="24" height="24" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/36px-Cc-sa_white.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/48px-Cc-sa_white.svg.png 2x" data-file-width="64" data-file-height="64"></p> </td> 
+           <td lang="ru">Этот файл доступен по лицензии <a href="https://en.wikipedia.org/wiki/ru:Creative_Commons" class="extiw" title="w:ru:Creative Commons">Creative Commons</a> <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">Attribution-Share Alike 4.0 International</a> </td> 
+           <td style="width:90px;" rowspan="3"> </td>
+          </tr>
+          <tr style="text-align:center;">
+           <td style="font-weight:bold;"> </td>
+          </tr>
+          <tr style="text-align:left;" lang="ru">
+           <td> 
+            <dl>
+             <dd>
+              Вы можете свободно: 
+              <ul>
+               <li><b>делиться произведением</b> – копировать, распространять и передавать данное произведение</li> 
+               <li><b>создавать производные</b> – переделывать данное произведение</li>
+              </ul>
+             </dd> 
+             <dd>
+              При соблюдении следующих условий: 
+              <ul>
+               <li><b>атрибуция</b> – Вы должны указать авторство, предоставить ссылку на лицензию и указать, внёс ли автор какие-либо изменения. Это можно сделать любым разумным способом, но не создавая впечатление, что лицензиат поддерживает вас или использование вами данного произведения.</li> 
+               <li><b>распространение на тех же условиях</b> – Если вы изменяете, преобразуете или создаёте иное произведение на основе данного, то обязаны использовать лицензию исходного произведения или <a rel="nofollow" class="external text" href="https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses">лицензию, совместимую с исходной</a>.</li>
+              </ul>
+             </dd>
+            </dl><p><span class="licensetpl_link" style="display:none;">https://creativecommons.org/licenses/by-sa/4.0 </span><span class="licensetpl_short" style="display:none;">CC BY-SA 4.0 </span><span class="licensetpl_long" style="display:none;">Creative Commons Attribution-Share Alike 4.0 </span><span class="licensetpl_link_req" style="display:none;">true</span><span class="licensetpl_attr_req" style="display:none;">true</span> </p> </td>
+          </tr>
+         </tbody>
+        </table>
+       </div> 
+       <table cellspacing="8" cellpadding="0" style="width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #8888aa;" lang="ru" dir="ltr" class="layouttemplate restrictiontemplate mw-content-ltr restriction-personality">
+        <tbody>
+         <tr>
+          <td style="border:none; width:64px;"><a href="//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions" title="Personality rights"><img alt="Personality rights" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dialog-warning-yellow.svg/64px-Dialog-warning-yellow.svg.png" decoding="async" width="64" height="64" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dialog-warning-yellow.svg/96px-Dialog-warning-yellow.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dialog-warning-yellow.svg/128px-Dialog-warning-yellow.svg.png 2x" data-file-width="48" data-file-height="48"></a> </td> 
+          <td style="border:none;"><span class="commons-template-name" style="display:none" id="commons-template-personality-rights">Personality rights</span>
+           <div style="font-size:120%;font-weight:bold;">
+            <a href="//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Photographs_of_identifiable_people" title="Special:MyLanguage/Commons:Photographs of identifiable people">Предупреждение о правах личности</a>
+           </div>Несмотря на то, что это произведение <a href="//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing" title="Special:MyLanguage/Commons:Licensing">доступно по свободной лицензии</a> или находится <a href="https://en.wikipedia.org/wiki/Public_domain" class="extiw" title="en:Public domain">в общественном достоянии</a>, у <a href="//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Photographs_of_identifiable_persons" title="Special:MyLanguage/Commons:Photographs of identifiable persons">изображённых людей</a> могут быть <a href="https://en.wikipedia.org/wiki/personality_rights" class="extiw" title="en:personality rights">права</a>, которые <a href="//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Country_specific_consent_requirements" title="Special:MyLanguage/Commons:Country specific consent requirements">не позволят вам использовать</a> эту работу для некоторых целей. В таком случае вы должны получить <a href="https://ru.wikipedia.org/wiki/%D1%80%D0%B5%D0%BB%D0%B8%D0%B7_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8" class="extiw" title="ru:релиз модели">разрешение от изображённых людей</a>, чтобы защититься от судебных исков. Автор фотоснимка не обязан вам помогать, но вы можете попросить у него совета, как получить такое разрешение. Читайте об этом <a href="//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:General_disclaimer" title="Special:MyLanguage/Commons:General disclaimer">в подробной справке</a>. </td>
+         </tr>
+        </tbody>
+       </table>
+       <table cellspacing="8" cellpadding="0" style="width:100%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:2px solid #66A7CC;">
+        <tbody>
+         <tr>
+          <td style="width:60px"><img alt="WikiDonne User Group" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WikiDonne_User_Group_%28WDG%29_logo.svg/60px-WikiDonne_User_Group_%28WDG%29_logo.svg.png" decoding="async" title="WikiDonne User Group" width="60" height="60" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WikiDonne_User_Group_%28WDG%29_logo.svg/90px-WikiDonne_User_Group_%28WDG%29_logo.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WikiDonne_User_Group_%28WDG%29_logo.svg/120px-WikiDonne_User_Group_%28WDG%29_logo.svg.png 2x" data-file-width="512" data-file-height="512"></td> 
+          <td style="text-align:center;">
+           <div lang="en" dir="ltr" class="description en" style="display:inline;">
+            The upload of this media was supported by <b><a href="https://meta.wikimedia.org/wiki/WikiDonne" class="extiw" title="m:WikiDonne">WikiDonne</a></b>.
+            <br> For all the files concerned, please see the category <a href="//commons.wikimedia.org/wiki/Category:Media_supported_by_WikiDonne_User_Group" title="Category:Media supported by WikiDonne User Group">Media supported by WikiDonne User Group</a>.
+           </div> 
+           <hr><span style="font-size:small;line-height:1.4" class="plainlinks noprint"><a class="external text" href="https://commons.wikimedia.org/wiki/Template:Media_supported_by_WikiDonne_User_Group/en"><bdi class="language lang-en" lang="en">English</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Media_supported_by_WikiDonne_User_Group/mk"><bdi class="language lang-mk" lang="mk">македонски</bdi></a>&nbsp;<b>∙</b> <a class="external text" href="https://commons.wikimedia.org/wiki/Template:Media_supported_by_WikiDonne_User_Group/ml"><bdi class="language lang-ml" lang="ml">മലയാളം</bdi></a>&nbsp;<b>∙</b> <small class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/w/index.php?title=Template:Media_supported_by_WikiDonne_User_Group/lang&amp;action=edit">+/−</a></small></span> </td>
+         </tr>
+        </tbody>
+       </table>
+       <h1 class="mw-slot-header">
+        <mediainfoslotheader></mediainfoslotheader></h1><mediainfoview style="display: none">
+        <mediainfoviewcaptions>
+         <div class="wbmi-entityview-captionsPanel oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed">
+          <h3 class="wbmi-entityview-captions-header">Краткие подписи</h3>
+          <div class="wbmi-entityview-caption oo-ui-layout oo-ui-horizontalLayout">
+           <label class="wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget">русский</label>
+           <div lang="ru" dir="ltr" class="wbmi-caption-value wbmi-entityview-emptyCaption">
+            Добавьте однострочное описание того, что собой представляет этот файл
+           </div>
+          </div>
+          <div class="wbmi-entityview-caption oo-ui-layout oo-ui-horizontalLayout">
+           <label class="wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget">английский</label>
+           <div lang="en" dir="ltr" class="wbmi-caption-value">
+            Margherita Lambertini, First Aid Surgeon
+           </div>
+          </div>
+          <div style="display:none;" class="wbmi-entityview-caption wbmi-entityview-hideable oo-ui-layout oo-ui-horizontalLayout">
+           <label class="wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget">французский</label>
+           <div lang="fr" dir="ltr" class="wbmi-caption-value">
+            Margherita Lambertini, chirurgienne secouriste, après ses douze heures quoitidienne de lutte contre la Covid-19 à l'hopital de Pesaro, Italie, mars 2020.
+           </div>
+          </div>
+          <div style="display:none;" class="wbmi-entityview-caption wbmi-entityview-hideable oo-ui-layout oo-ui-horizontalLayout">
+           <label class="wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget">польский</label>
+           <div lang="pl" dir="ltr" class="wbmi-caption-value">
+            Margherita Lambertini, chirurg pierwszej pomocy
+           </div>
+          </div>
+          <div style="display:none;" class="wbmi-entityview-caption wbmi-entityview-hideable oo-ui-layout oo-ui-horizontalLayout">
+           <label class="wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget">итальянский</label>
+           <div lang="it" dir="ltr" class="wbmi-caption-value">
+            La dottoressa Margherita Lambertini, nell'Ospedale San Salvatore di Pesaro, durante la pandemia di covid-19.
+           </div>
+          </div>
+          <div style="display:none;" class="wbmi-entityview-caption wbmi-entityview-hideable oo-ui-layout oo-ui-horizontalLayout">
+           <label class="wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget">эсперанто</label>
+           <div lang="eo" dir="ltr" class="wbmi-caption-value">
+            Margherita Lambertini, kirurgino ĉe la malsanulejo San Salvatore en Pesaro (Italio), dum la kovim-pandemio
+           </div>
+          </div>
+          <div style="display:none;" class="wbmi-entityview-caption wbmi-entityview-hideable oo-ui-layout oo-ui-horizontalLayout">
+           <label class="wbmi-language-label oo-ui-widget oo-ui-widget-enabled oo-ui-labelElement-label oo-ui-labelElement oo-ui-labelWidget">болгарский</label>
+           <div lang="bg" dir="ltr" class="wbmi-caption-value">
+            Маргерита Ламбертини – хирург от първа помощ в болницата Сан Салваторе в Пезаро, Италия; в края на смяната ѝ на 19 март 2020 г., по време на пандемията от COVID-19.
+           </div>
+          </div>
+         </div>
+        </mediainfoviewcaptions>
+        <mediainfoviewstatements>
+         <div id="P180" data-property="P180" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P180&quot;,&quot;hash&quot;:&quot;ea32e2e0ac50f86a90711165b44ac275f4f93c75&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:96955108,&quot;id&quot;:&quot;Q96955108&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M90590515$61f9c15c-4c6a-28fb-3d3a-63f1644c095f&quot;,&quot;rank&quot;:&quot;preferred&quot;},{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P180&quot;,&quot;hash&quot;:&quot;a0b96b89208b3bd59a442ebe21ccf2db33c94a04&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:161524,&quot;id&quot;:&quot;Q161524&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M90590515$9a66557b-445c-85d9-6675-7bb1c2f2b83b&quot;,&quot;rank&quot;:&quot;normal&quot;},{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P180&quot;,&quot;hash&quot;:&quot;35c28bb33e86dd0085674f287675462518f969e8&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:7434,&quot;id&quot;:&quot;Q7434&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M90590515$e20a0f8d-43cf-a8ae-6144-f6fe029200b2&quot;,&quot;rank&quot;:&quot;normal&quot;},{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P180&quot;,&quot;hash&quot;:&quot;0aae0f4eb37e6801b20ad0ed87edde1482e6d9f9&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:186360,&quot;id&quot;:&quot;Q186360&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M90590515$f063c9d4-49fa-ed51-e803-193673c6d06c&quot;,&quot;rank&quot;:&quot;normal&quot;},{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P180&quot;,&quot;hash&quot;:&quot;493206fec24733e2a24e1cb178091454ebc4900c&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:39631,&quot;id&quot;:&quot;Q39631&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M90590515$6629f827-42b5-081e-7204-d9f483f29112&quot;,&quot;rank&quot;:&quot;normal&quot;},{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P180&quot;,&quot;hash&quot;:&quot;bdac21986ad2ef72e6676ab8c5ac306f66385dd3&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:1088,&quot;id&quot;:&quot;Q1088&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M90590515$1a3f1c73-4735-0480-1ed0-270c9cc2cf95&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:180,\&quot;id\&quot;:\&quot;P180\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P180\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P180\&quot;>\u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0451\u043d\u043d\u044b\u0439 \u043e\u0431\u044a\u0435\u043a\u0442<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0451\u043d\u043d\u044b\u0439 \u043e\u0431\u044a\u0435\u043a\u0442&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:96955108,\&quot;id\&quot;:\&quot;Q96955108\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P180&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q96955108\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q96955108\&quot; lang=\&quot;en\&quot;>Margherita Lambertini<\/a>&amp;nbsp;<sup class=\&quot;wb-language-fallback-indicator\&quot;>\u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439<\/sup>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P180&quot;:&quot;Margherita Lambertini&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:161524,\&quot;id\&quot;:\&quot;Q161524\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P180&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q161524\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q161524\&quot;>\u043c\u0430\u0441\u043a\u0430<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P180&quot;:&quot;\u043c\u0430\u0441\u043a\u0430&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:7434,\&quot;id\&quot;:\&quot;Q7434\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P180&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q7434\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q7434\&quot;>\u0443\u043d\u0438\u0444\u043e\u0440\u043c\u0430<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P180&quot;:&quot;\u0443\u043d\u0438\u0444\u043e\u0440\u043c\u0430&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:186360,\&quot;id\&quot;:\&quot;Q186360\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P180&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q186360\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q186360\&quot;>\u043c\u0435\u0434\u0441\u0435\u0441\u0442\u0440\u0430<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P180&quot;:&quot;\u043c\u0435\u0434\u0441\u0435\u0441\u0442\u0440\u0430&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:39631,\&quot;id\&quot;:\&quot;Q39631\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P180&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q39631\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q39631\&quot;>\u0432\u0440\u0430\u0447<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P180&quot;:&quot;\u0432\u0440\u0430\u0447&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:1088,\&quot;id\&quot;:\&quot;Q1088\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P180&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q1088\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q1088\&quot;>\u0441\u0438\u043d\u0438\u0439<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P180&quot;:&quot;\u0441\u0438\u043d\u0438\u0439&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P180 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed">
+          <div class="wbmi-statements-widget">
+           <div class="wbmi-statement-header">
+            <div class="wbmi-entity-data">
+             <div class="wbmi-entity-title">
+              <h3 class="wbmi-statements-title">Элементы, изображённые на этом файле</h3>
+              <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P180" href="https://www.wikidata.org/wiki/Special:EntityPage/P180">изображённый объект</a></bdi></h4>
+             </div>
+            </div>
+           </div>
+           <div class="wbmi-content-items-group">
+            <div class="wbmi-item wbmi-item-read">
+             <div data-guid="M90590515$61f9c15c-4c6a-28fb-3d3a-63f1644c095f" class="wbmi-item-container">
+              <div class="wbmi-entity-header">
+               <div class="wbmi-entity-data">
+                <div class="wbmi-entity-title">
+                 <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q96955108" href="https://www.wikidata.org/wiki/Special:EntityPage/Q96955108" lang="en">Margherita Lambertini</a>&nbsp;<sup class="wb-language-fallback-indicator">английский</sup></bdi></h4>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="wbmi-item wbmi-item-read">
+             <div data-guid="M90590515$9a66557b-445c-85d9-6675-7bb1c2f2b83b" class="wbmi-item-container">
+              <div class="wbmi-entity-header">
+               <div class="wbmi-entity-data">
+                <div class="wbmi-entity-title">
+                 <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q161524" href="https://www.wikidata.org/wiki/Special:EntityPage/Q161524">маска</a></bdi></h4>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="wbmi-item wbmi-item-read">
+             <div data-guid="M90590515$e20a0f8d-43cf-a8ae-6144-f6fe029200b2" class="wbmi-item-container">
+              <div class="wbmi-entity-header">
+               <div class="wbmi-entity-data">
+                <div class="wbmi-entity-title">
+                 <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q7434" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7434">униформа</a></bdi></h4>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="wbmi-item wbmi-item-read">
+             <div data-guid="M90590515$f063c9d4-49fa-ed51-e803-193673c6d06c" class="wbmi-item-container">
+              <div class="wbmi-entity-header">
+               <div class="wbmi-entity-data">
+                <div class="wbmi-entity-title">
+                 <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q186360" href="https://www.wikidata.org/wiki/Special:EntityPage/Q186360">медсестра</a></bdi></h4>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="wbmi-item wbmi-item-read">
+             <div data-guid="M90590515$6629f827-42b5-081e-7204-d9f483f29112" class="wbmi-item-container">
+              <div class="wbmi-entity-header">
+               <div class="wbmi-entity-data">
+                <div class="wbmi-entity-title">
+                 <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q39631" href="https://www.wikidata.org/wiki/Special:EntityPage/Q39631">врач</a></bdi></h4>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="wbmi-item wbmi-item-read">
+             <div data-guid="M90590515$1a3f1c73-4735-0480-1ed0-270c9cc2cf95" class="wbmi-item-container">
+              <div class="wbmi-entity-header">
+               <div class="wbmi-entity-data">
+                <div class="wbmi-entity-title">
+                 <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q1088" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1088">синий</a></bdi></h4>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="P170" data-property="P170" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;somevalue&quot;,&quot;property&quot;:&quot;P170&quot;,&quot;hash&quot;:&quot;d3550e860f988c6675fff913440993f58f5c40c5&quot;},&quot;type&quot;:&quot;statement&quot;,&quot;qualifiers&quot;:{&quot;P2093&quot;:[{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P2093&quot;,&quot;hash&quot;:&quot;358b37d122185e0e68eeb58e49c7a41ac78126fe&quot;,&quot;datavalue&quot;:{&quot;value&quot;:&quot;Alberto Giuliani&quot;,&quot;type&quot;:&quot;string&quot;}}],&quot;P2699&quot;:[{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P2699&quot;,&quot;hash&quot;:&quot;6b983eaa131b318e9ffeff61d9700d46d0c1bd33&quot;,&quot;datavalue&quot;:{&quot;value&quot;:&quot;https:\/\/commons.wikimedia.org\/wiki\/user:Alberto_Giuliani&quot;,&quot;type&quot;:&quot;string&quot;}}],&quot;P3831&quot;:[{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P3831&quot;,&quot;hash&quot;:&quot;c5e04952fd00011abf931be1b701f93d9e6fa5d7&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:33231,&quot;id&quot;:&quot;Q33231&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}}],&quot;P4174&quot;:[{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P4174&quot;,&quot;hash&quot;:&quot;9d59551dc6e78a089dd2a6abeadfa085576c8d7a&quot;,&quot;datavalue&quot;:{&quot;value&quot;:&quot;Alberto Giuliani&quot;,&quot;type&quot;:&quot;string&quot;}}]},&quot;qualifiers-order&quot;:[&quot;P2093&quot;,&quot;P2699&quot;,&quot;P3831&quot;,&quot;P4174&quot;],&quot;id&quot;:&quot;M90590515$1EE74A03-0FB3-4B6F-9323-A77489927ABA&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:170,\&quot;id\&quot;:\&quot;P170\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P170\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P170\&quot;>\u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u044c<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u044c&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:2093,\&quot;id\&quot;:\&quot;P2093\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P2093\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P2093\&quot;>\u0438\u043c\u044f \u0430\u0432\u0442\u043e\u0440\u0430 (\u0441\u0442\u0440\u043e\u043a\u0430)<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0438\u043c\u044f \u0430\u0432\u0442\u043e\u0440\u0430 (\u0441\u0442\u0440\u043e\u043a\u0430)&quot;}}},&quot;{\&quot;value\&quot;:\&quot;Alberto Giuliani\&quot;,\&quot;type\&quot;:\&quot;string\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P2093&quot;:&quot;Alberto Giuliani&quot;,&quot;P4174&quot;:&quot;<a target=\&quot;_blank\&quot; class=\&quot;wb-external-id external\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:CentralAuth?target=Alberto%20Giuliani\&quot; rel=\&quot;nofollow\&quot;>Alberto Giuliani<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P2093&quot;:&quot;Alberto Giuliani&quot;,&quot;P4174&quot;:&quot;Alberto Giuliani&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:2699,\&quot;id\&quot;:\&quot;P2699\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P2699\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P2699\&quot;>URL<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;URL&quot;}}},&quot;{\&quot;value\&quot;:\&quot;https:\\\/\\\/commons.wikimedia.org\\\/wiki\\\/user:Alberto_Giuliani\&quot;,\&quot;type\&quot;:\&quot;string\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P2699&quot;:&quot;<a target=\&quot;_blank\&quot; rel=\&quot;nofollow\&quot; class=\&quot;external free\&quot; href=\&quot;https:\/\/commons.wikimedia.org\/wiki\/user:Alberto_Giuliani\&quot;>https:\/\/commons.wikimedia.org\/wiki\/user:Alberto_Giuliani<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P2699&quot;:&quot;https:\/\/commons.wikimedia.org\/wiki\/user:Alberto_Giuliani&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:3831,\&quot;id\&quot;:\&quot;P3831\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P3831\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P3831\&quot;>\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0432\u044b\u0441\u0442\u0443\u043f\u0430\u0435\u0442 \u0432 \u0440\u043e\u043b\u0438<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0432\u044b\u0441\u0442\u0443\u043f\u0430\u0435\u0442 \u0432 \u0440\u043e\u043b\u0438&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:33231,\&quot;id\&quot;:\&quot;Q33231\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P3831&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q33231\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q33231\&quot;>\u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P3831&quot;:&quot;\u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:4174,\&quot;id\&quot;:\&quot;P4174\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P4174\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P4174\&quot;>\u043b\u043e\u0433\u0438\u043d \u0432 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u0445 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u043b\u043e\u0433\u0438\u043d \u0432 \u043f\u0440\u043e\u0435\u043a\u0442\u0430\u0445 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P170 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed">
+          <div class="wbmi-statements-widget">
+           <div class="wbmi-statement-header">
+            <div class="wbmi-entity-data">
+             <div class="wbmi-entity-title">
+              <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P170" href="https://www.wikidata.org/wiki/Special:EntityPage/P170">создатель</a></bdi></h4>
+             </div>
+            </div>
+           </div>
+           <div class="wbmi-content-items-group">
+            <div class="wbmi-item wbmi-item-read">
+             <div data-guid="M90590515$1EE74A03-0FB3-4B6F-9323-A77489927ABA" class="wbmi-item-container">
+              <div class="wbmi-entity-header">
+               <div class="wbmi-entity-data">
+                <div class="wbmi-entity-title">
+                 <h4 class="wbmi-entity-label"><bdi>У этого свойства есть некоторое значение без элемента в </bdi></h4>
+                </div>
+               </div>
+              </div>
+              <div class="wbmi-item-qualifiers">
+               <div class="wbmi-snaklist-container">
+                <div class="wbmi-snaklist-content">
+                 <div class="wbmi-snak">
+                  <div class="wbmi-snak-value">
+                   <a target="_blank" title="d:Special:EntityPage/P2093" href="https://www.wikidata.org/wiki/Special:EntityPage/P2093">имя автора (строка)</a><span class="wbmi-snak-value-separator">: </span><span class="wbmi-snak-value--value">Alberto Giuliani</span>
+                  </div>
+                 </div>
+                 <div class="wbmi-snak">
+                  <div class="wbmi-snak-value">
+                   <a target="_blank" title="d:Special:EntityPage/P2699" href="https://www.wikidata.org/wiki/Special:EntityPage/P2699">URL</a><span class="wbmi-snak-value-separator">: </span><span class="wbmi-snak-value--value"><a target="_blank" rel="nofollow" class="external free" href="https://commons.wikimedia.org/wiki/user:Alberto_Giuliani">https://commons.wikimedia.org/wiki/user:Alberto_Giuliani</a></span>
+                  </div>
+                 </div>
+                 <div class="wbmi-snak">
+                  <div class="wbmi-snak-value">
+                   <a target="_blank" title="d:Special:EntityPage/P3831" href="https://www.wikidata.org/wiki/Special:EntityPage/P3831">значение выступает в роли</a><span class="wbmi-snak-value-separator">: </span><span class="wbmi-snak-value--value"><a target="_blank" title="d:Special:EntityPage/Q33231" href="https://www.wikidata.org/wiki/Special:EntityPage/Q33231">фотограф</a></span>
+                  </div>
+                 </div>
+                 <div class="wbmi-snak">
+                  <div class="wbmi-snak-value">
+                   <a target="_blank" title="d:Special:EntityPage/P4174" href="https://www.wikidata.org/wiki/Special:EntityPage/P4174">логин в проектах Викимедиа</a><span class="wbmi-snak-value-separator">: </span><span class="wbmi-snak-value--value"><a target="_blank" class="wb-external-id external" href="https://www.wikidata.org/wiki/Special:CentralAuth?target=Alberto%20Giuliani" rel="nofollow">Alberto Giuliani</a></span>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="P6216" data-property="P6216" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P6216&quot;,&quot;hash&quot;:&quot;5570347fdc76d2a80732f51ea10ee4b144a084e0&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:50423863,&quot;id&quot;:&quot;Q50423863&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M90590515$1EFF3B6F-22E6-4B4C-8697-77F13675695A&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:6216,\&quot;id\&quot;:\&quot;P6216\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P6216\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P6216\&quot;>\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u0430\u0432\u0430<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u0430\u0432\u0430&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:50423863,\&quot;id\&quot;:\&quot;Q50423863\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P6216&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q50423863\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q50423863\&quot;>\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u043c \u043f\u0440\u0430\u0432\u043e\u043c<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P6216&quot;:&quot;\u0437\u0430\u0449\u0438\u0449\u0435\u043d\u043e \u0430\u0432\u0442\u043e\u0440\u0441\u043a\u0438\u043c \u043f\u0440\u0430\u0432\u043e\u043c&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P6216 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed">
+          <div class="wbmi-statements-widget">
+           <div class="wbmi-statement-header">
+            <div class="wbmi-entity-data">
+             <div class="wbmi-entity-title">
+              <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P6216" href="https://www.wikidata.org/wiki/Special:EntityPage/P6216">статус авторского права</a></bdi></h4>
+             </div>
+            </div>
+           </div>
+           <div class="wbmi-content-items-group">
+            <div class="wbmi-item wbmi-item-read">
+             <div data-guid="M90590515$1EFF3B6F-22E6-4B4C-8697-77F13675695A" class="wbmi-item-container">
+              <div class="wbmi-entity-header">
+               <div class="wbmi-entity-data">
+                <div class="wbmi-entity-title">
+                 <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q50423863" href="https://www.wikidata.org/wiki/Special:EntityPage/Q50423863">защищено авторским правом</a></bdi></h4>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="P275" data-property="P275" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P275&quot;,&quot;hash&quot;:&quot;ec6e754c5042e13b53376139e505ebd6708745a4&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:18199165,&quot;id&quot;:&quot;Q18199165&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M90590515$2EF2AF5D-BE04-4810-B27B-9BE99F23C268&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:275,\&quot;id\&quot;:\&quot;P275\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P275\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P275\&quot;>\u043b\u0438\u0446\u0435\u043d\u0437\u0438\u044f<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u043b\u0438\u0446\u0435\u043d\u0437\u0438\u044f&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:18199165,\&quot;id\&quot;:\&quot;Q18199165\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q18199165\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q18199165\&quot;>\u00abAttribution-ShareAlike\u00bb (\u00ab\u0410\u0442\u0440\u0438\u0431\u0443\u0446\u0438\u044f \u2014 \u041d\u0430 \u0442\u0435\u0445 \u0436\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445\u00bb) 4.0 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u0430\u044f<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P275&quot;:&quot;\u00abAttribution-ShareAlike\u00bb (\u00ab\u0410\u0442\u0440\u0438\u0431\u0443\u0446\u0438\u044f \u2014 \u041d\u0430 \u0442\u0435\u0445 \u0436\u0435 \u0443\u0441\u043b\u043e\u0432\u0438\u044f\u0445\u00bb) 4.0 \u0412\u0441\u0435\u043c\u0438\u0440\u043d\u0430\u044f&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P275 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed">
+          <div class="wbmi-statements-widget">
+           <div class="wbmi-statement-header">
+            <div class="wbmi-entity-data">
+             <div class="wbmi-entity-title">
+              <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P275" href="https://www.wikidata.org/wiki/Special:EntityPage/P275">лицензия</a></bdi></h4>
+             </div>
+            </div>
+           </div>
+           <div class="wbmi-content-items-group">
+            <div class="wbmi-item wbmi-item-read">
+             <div data-guid="M90590515$2EF2AF5D-BE04-4810-B27B-9BE99F23C268" class="wbmi-item-container">
+              <div class="wbmi-entity-header">
+               <div class="wbmi-entity-data">
+                <div class="wbmi-entity-title">
+                 <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q18199165" href="https://www.wikidata.org/wiki/Special:EntityPage/Q18199165">«Attribution-ShareAlike» («Атрибуция — На тех же условиях») 4.0 Всемирная</a></bdi></h4>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="P6731" data-property="P6731" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P6731&quot;,&quot;hash&quot;:&quot;00effd845d313cc188e25302a8712c2d48647171&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:63348049,&quot;id&quot;:&quot;Q63348049&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M90590515$1F4A1F40-8085-49FB-A26A-B96EEEDB4BD4&quot;,&quot;rank&quot;:&quot;normal&quot;},{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P6731&quot;,&quot;hash&quot;:&quot;caf86f67082da0e2d10079a79bedf327335b0459&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:63348069,&quot;id&quot;:&quot;Q63348069&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M90590515$7DE643B4-1BCA-40C9-9DB1-826C8CB909F1&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:6731,\&quot;id\&quot;:\&quot;P6731\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P6731\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P6731\&quot;>\u043e\u0446\u0435\u043d\u043a\u0430 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u043d\u0430 \u0412\u0438\u043a\u0438\u0441\u043a\u043b\u0430\u0434\u0435<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u043e\u0446\u0435\u043d\u043a\u0430 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u043d\u0430 \u0412\u0438\u043a\u0438\u0441\u043a\u043b\u0430\u0434\u0435&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:63348049,\&quot;id\&quot;:\&quot;Q63348049\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P6731&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q63348049\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q63348049\&quot;>\u0438\u0437\u0431\u0440\u0430\u043d\u043d\u043e\u0435 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043d\u0430 \u0412\u0438\u043a\u0438\u0441\u043a\u043b\u0430\u0434\u0435<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P6731&quot;:&quot;\u0438\u0437\u0431\u0440\u0430\u043d\u043d\u043e\u0435 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043d\u0430 \u0412\u0438\u043a\u0438\u0441\u043a\u043b\u0430\u0434\u0435&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:63348069,\&quot;id\&quot;:\&quot;Q63348069\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P6731&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q63348069\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q63348069\&quot;>\u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043d\u0430 \u0412\u0438\u043a\u0438\u0441\u043a\u043b\u0430\u0434\u0435<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P6731&quot;:&quot;\u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043d\u0430 \u0412\u0438\u043a\u0438\u0441\u043a\u043b\u0430\u0434\u0435&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P6731 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed">
+          <div class="wbmi-statements-widget">
+           <div class="wbmi-statement-header">
+            <div class="wbmi-entity-data">
+             <div class="wbmi-entity-title">
+              <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P6731" href="https://www.wikidata.org/wiki/Special:EntityPage/P6731">оценка качества на Викискладе</a></bdi></h4>
+             </div>
+            </div>
+           </div>
+           <div class="wbmi-content-items-group">
+            <div class="wbmi-item wbmi-item-read">
+             <div data-guid="M90590515$1F4A1F40-8085-49FB-A26A-B96EEEDB4BD4" class="wbmi-item-container">
+              <div class="wbmi-entity-header">
+               <div class="wbmi-entity-data">
+                <div class="wbmi-entity-title">
+                 <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q63348049" href="https://www.wikidata.org/wiki/Special:EntityPage/Q63348049">избранное изображение на Викискладе</a></bdi></h4>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="wbmi-item wbmi-item-read">
+             <div data-guid="M90590515$7DE643B4-1BCA-40C9-9DB1-826C8CB909F1" class="wbmi-item-container">
+              <div class="wbmi-entity-header">
+               <div class="wbmi-entity-data">
+                <div class="wbmi-entity-title">
+                 <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q63348069" href="https://www.wikidata.org/wiki/Special:EntityPage/Q63348069">качественное изображение на Викискладе</a></bdi></h4>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="P571" data-property="P571" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P571&quot;,&quot;hash&quot;:&quot;6f4026543150c5e602e8825b6e88db632db59aa4&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;time&quot;:&quot;+2020-03-19T00:00:00Z&quot;,&quot;timezone&quot;:0,&quot;before&quot;:0,&quot;after&quot;:0,&quot;precision&quot;:11,&quot;calendarmodel&quot;:&quot;http:\/\/www.wikidata.org\/entity\/Q1985727&quot;},&quot;type&quot;:&quot;time&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M90590515$C35CCC0E-A895-4AE0-9C94-93626EA58570&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:571,\&quot;id\&quot;:\&quot;P571\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P571\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P571\&quot;>\u0434\u0430\u0442\u0430 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u044f \/ \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \/ \u0432\u043e\u0437\u043d\u0438\u043a\u043d\u043e\u0432\u0435\u043d\u0438\u044f<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0434\u0430\u0442\u0430 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u044f \/ \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \/ \u0432\u043e\u0437\u043d\u0438\u043a\u043d\u043e\u0432\u0435\u043d\u0438\u044f&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;time\&quot;:\&quot;+2020-03-19T00:00:00Z\&quot;,\&quot;timezone\&quot;:0,\&quot;before\&quot;:0,\&quot;after\&quot;:0,\&quot;precision\&quot;:11,\&quot;calendarmodel\&quot;:\&quot;http:\\\/\\\/www.wikidata.org\\\/entity\\\/Q1985727\&quot;},\&quot;type\&quot;:\&quot;time\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P571&quot;:&quot;19 \u043c\u0430\u0440\u0442\u0430 2020&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P571&quot;:&quot;19 \u043c\u0430\u0440\u0442\u0430 2020&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P571 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed">
+          <div class="wbmi-statements-widget">
+           <div class="wbmi-statement-header">
+            <div class="wbmi-entity-data">
+             <div class="wbmi-entity-title">
+              <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P571" href="https://www.wikidata.org/wiki/Special:EntityPage/P571">дата основания / создания / возникновения</a></bdi></h4>
+             </div>
+            </div>
+           </div>
+           <div class="wbmi-content-items-group">
+            <div class="wbmi-item wbmi-item-read">
+             <div data-guid="M90590515$C35CCC0E-A895-4AE0-9C94-93626EA58570" class="wbmi-item-container">
+              <div class="wbmi-entity-header">
+               <div class="wbmi-entity-data">
+                <div class="wbmi-entity-title">
+                 <h4 class="wbmi-entity-label"><bdi>19 марта 2020</bdi></h4>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="P4082" data-property="P4082" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P4082&quot;,&quot;hash&quot;:&quot;b32a7964fc3e27f33e15cd539236bbf07f51e93c&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:42421205,&quot;id&quot;:&quot;Q42421205&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M90590515$CF513737-897E-4797-8CFE-EE0F93729DBD&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:4082,\&quot;id\&quot;:\&quot;P4082\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P4082\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P4082\&quot;>\u0441\u043d\u044f\u0442\u043e \u043d\u0430<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0441\u043d\u044f\u0442\u043e \u043d\u0430&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:42421205,\&quot;id\&quot;:\&quot;Q42421205\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P4082&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q42421205\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q42421205\&quot; lang=\&quot;en\&quot;>Sony \u03b17R III<\/a>&amp;nbsp;<sup class=\&quot;wb-language-fallback-indicator\&quot;>\u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439<\/sup>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P4082&quot;:&quot;Sony \u03b17R III&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P4082 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed">
+          <div class="wbmi-statements-widget">
+           <div class="wbmi-statement-header">
+            <div class="wbmi-entity-data">
+             <div class="wbmi-entity-title">
+              <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P4082" href="https://www.wikidata.org/wiki/Special:EntityPage/P4082">снято на</a></bdi></h4>
+             </div>
+            </div>
+           </div>
+           <div class="wbmi-content-items-group">
+            <div class="wbmi-item wbmi-item-read">
+             <div data-guid="M90590515$CF513737-897E-4797-8CFE-EE0F93729DBD" class="wbmi-item-container">
+              <div class="wbmi-entity-header">
+               <div class="wbmi-entity-data">
+                <div class="wbmi-entity-title">
+                 <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q42421205" href="https://www.wikidata.org/wiki/Special:EntityPage/Q42421205" lang="en">Sony α7R III</a>&nbsp;<sup class="wb-language-fallback-indicator">английский</sup></bdi></h4>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="P7482" data-property="P7482" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P7482&quot;,&quot;hash&quot;:&quot;83568a288a8b8b4714a68e7239d8406833762864&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:66458942,&quot;id&quot;:&quot;Q66458942&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M90590515$EE2AF46D-F4EB-40D4-910D-4244D823DB63&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:7482,\&quot;id\&quot;:\&quot;P7482\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P7482\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P7482\&quot;>\u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0444\u0430\u0439\u043b\u0430<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0444\u0430\u0439\u043b\u0430&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:66458942,\&quot;id\&quot;:\&quot;Q66458942\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P7482&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q66458942\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q66458942\&quot;>\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0432\u0448\u0435\u0433\u043e \u0444\u0430\u0439\u043b<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P7482&quot;:&quot;\u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430 \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0432\u0448\u0435\u0433\u043e \u0444\u0430\u0439\u043b&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P7482 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed">
+          <div class="wbmi-statements-widget">
+           <div class="wbmi-statement-header">
+            <div class="wbmi-entity-data">
+             <div class="wbmi-entity-title">
+              <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P7482" href="https://www.wikidata.org/wiki/Special:EntityPage/P7482">источник файла</a></bdi></h4>
+             </div>
+            </div>
+           </div>
+           <div class="wbmi-content-items-group">
+            <div class="wbmi-item wbmi-item-read">
+             <div data-guid="M90590515$EE2AF46D-F4EB-40D4-910D-4244D823DB63" class="wbmi-item-container">
+              <div class="wbmi-entity-header">
+               <div class="wbmi-entity-data">
+                <div class="wbmi-entity-title">
+                 <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q66458942" href="https://www.wikidata.org/wiki/Special:EntityPage/Q66458942">оригинальная работа загрузившего файл</a></bdi></h4>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div id="P793" data-property="P793" data-statements="[{&quot;mainsnak&quot;:{&quot;snaktype&quot;:&quot;value&quot;,&quot;property&quot;:&quot;P793&quot;,&quot;hash&quot;:&quot;90247a886cf18b36cfe38bbc75921b47f8dd6747&quot;,&quot;datavalue&quot;:{&quot;value&quot;:{&quot;entity-type&quot;:&quot;item&quot;,&quot;numeric-id&quot;:81068910,&quot;id&quot;:&quot;Q81068910&quot;},&quot;type&quot;:&quot;wikibase-entityid&quot;}},&quot;type&quot;:&quot;statement&quot;,&quot;id&quot;:&quot;M90590515$0EAF978A-AE92-430D-A894-7E081EDDBA6A&quot;,&quot;rank&quot;:&quot;normal&quot;}]" data-formatvalue="{&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;property\&quot;,\&quot;numeric-id\&quot;:793,\&quot;id\&quot;:\&quot;P793\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/P793\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/P793\&quot;>\u043a\u043b\u044e\u0447\u0435\u0432\u043e\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u0435<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;&quot;:&quot;\u043a\u043b\u044e\u0447\u0435\u0432\u043e\u0435 \u0441\u043e\u0431\u044b\u0442\u0438\u0435&quot;}}},&quot;{\&quot;value\&quot;:{\&quot;entity-type\&quot;:\&quot;item\&quot;,\&quot;numeric-id\&quot;:81068910,\&quot;id\&quot;:\&quot;Q81068910\&quot;},\&quot;type\&quot;:\&quot;wikibase-entityid\&quot;}&quot;:{&quot;text\/html&quot;:{&quot;ru&quot;:{&quot;P793&quot;:&quot;<a target=\&quot;_blank\&quot; title=\&quot;d:Special:EntityPage\/Q81068910\&quot; href=\&quot;https:\/\/www.wikidata.org\/wiki\/Special:EntityPage\/Q81068910\&quot;>\u043f\u0430\u043d\u0434\u0435\u043c\u0438\u044f COVID-19<\/a>&quot;}},&quot;text\/plain&quot;:{&quot;ru&quot;:{&quot;P793&quot;:&quot;\u043f\u0430\u043d\u0434\u0435\u043c\u0438\u044f COVID-19&quot;}}}}" class="wbmi-entityview-statementsGroup wbmi-entityview-statementsGroup-P793 oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-framed">
+          <div class="wbmi-statements-widget">
+           <div class="wbmi-statement-header">
+            <div class="wbmi-entity-data">
+             <div class="wbmi-entity-title">
+              <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/P793" href="https://www.wikidata.org/wiki/Special:EntityPage/P793">ключевое событие</a></bdi></h4>
+             </div>
+            </div>
+           </div>
+           <div class="wbmi-content-items-group">
+            <div class="wbmi-item wbmi-item-read">
+             <div data-guid="M90590515$0EAF978A-AE92-430D-A894-7E081EDDBA6A" class="wbmi-item-container">
+              <div class="wbmi-entity-header">
+               <div class="wbmi-entity-data">
+                <div class="wbmi-entity-title">
+                 <h4 class="wbmi-entity-label"><bdi><a target="_blank" title="d:Special:EntityPage/Q81068910" href="https://www.wikidata.org/wiki/Special:EntityPage/Q81068910">пандемия COVID-19</a></bdi></h4>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </mediainfoviewstatements>
+       </mediainfoview><!-- 
+NewPP limit report
+Parsed by mw1453
+Cached time: 20220315131658
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.646 seconds
+Real time usage: 0.920 seconds
+Preprocessor visited node count: 9788/1000000
+Post‐expand include size: 143590/2097152 bytes
+Template argument size: 36140/2097152 bytes
+Highest expansion depth: 28/100
+Expensive parser function count: 230/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 416/5000000 bytes
+Lua time usage: 0.366/10.000 seconds
+Lua memory usage: 2947831/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+--><!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  864.851      1 -total
+ 57.75%  499.414      8 Template:Autotranslate
+ 49.70%  429.838      1 Template:Picture_of_the_day
+ 48.30%  417.724      1 Template:Picture_of_the_day/layout
+ 43.27%  374.221      1 Template:Hidden
+ 42.92%  371.161      1 Template:Picture_of_the_day/desc
+ 38.98%  337.076      1 Template:Multilingual_description
+ 26.26%  227.077      1 Template:Assessments
+ 10.73%   92.763      1 Template:Information
+  6.98%   60.371      1 Template:Assessments/Blank
+--><!-- Saved in parser cache with key commonswiki:pcache:idhash:90590515-0!userlang=ru!wb=3 and timestamp 20220315131657 and revision id 633297137. Serialized with JSON.
+ -->
+      </div>
+     </div> 
+     <h2 id="filehistory">История файла</h2> 
+     <div id="mw-imagepage-section-filehistory"> 
+      <p>Нажмите на дату/время, чтобы посмотреть файл, который был загружен в тот момент. </p> 
+      <table class="wikitable filehistory"> 
+       <tbody>
+        <tr>
+         <th></th>
+         <th>Дата/время</th>
+         <th>Миниатюра</th>
+         <th>Размеры</th>
+         <th>Участник</th>
+         <th>Примечание</th>
+        </tr> 
+        <tr>
+         <td>текущий</td>
+         <td class="filehistory-selected" style="white-space: nowrap;"><a href="//upload.wikimedia.org/wikipedia/commons/9/99/Covid-19_San_Salvatore_02.jpg">10:12, 4 июня 2020</a></td>
+         <td><a href="//upload.wikimedia.org/wikipedia/commons/9/99/Covid-19_San_Salvatore_02.jpg"><img alt="Миниатюра для версии от 10:12, 4 июня 2020" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Covid-19_San_Salvatore_02.jpg/80px-Covid-19_San_Salvatore_02.jpg" decoding="async" width="80" height="120" data-file-width="2652" data-file-height="3976"></a></td>
+         <td>2652 × 3976 <span style="white-space: nowrap;">(3,26 Мб)</span></td>
+         <td>Alberto Giuliani</td>
+         <td dir="ltr">better resolution</td>
+        </tr> 
+        <tr>
+         <td></td>
+         <td style="white-space: nowrap;"><a href="//upload.wikimedia.org/wikipedia/commons/archive/9/99/20200604101252%21Covid-19_San_Salvatore_02.jpg">08:21, 24 мая 2020</a></td>
+         <td><a href="//upload.wikimedia.org/wikipedia/commons/archive/9/99/20200604101252%21Covid-19_San_Salvatore_02.jpg"><img alt="Миниатюра для версии от 08:21, 24 мая 2020" src="//upload.wikimedia.org/wikipedia/commons/thumb/archive/9/99/20200604101252%21Covid-19_San_Salvatore_02.jpg/80px-Covid-19_San_Salvatore_02.jpg" decoding="async" width="80" height="120" data-file-width="850" data-file-height="1275"></a></td>
+         <td>850 × 1275 <span style="white-space: nowrap;">(718 Кб)</span></td>
+         <td>Alberto Giuliani</td>
+         <td dir="ltr">Uploaded own work with UploadWizard</td>
+        </tr> 
+       </tbody>
+      </table> 
+     </div> 
+     <h2 id="filelinks">Использование файла</h2> 
+     <div id="mw-imagepage-section-linkstoimage"> 
+      <p>Следующие 4 страницы используют данный файл: </p>
+      <ul class="mw-imagepage-linkstoimage"> 
+       <li class="mw-imagepage-linkstoimage-ns4"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BD%D1%8F" title="Википедия:Изображение дня">Википедия:Изображение дня</a></li> 
+       <li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Potd/2022-03" title="Шаблон:Potd/2022-03">Шаблон:Potd/2022-03</a></li> 
+       <li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Potd/CurrentMonth" title="Шаблон:Potd/CurrentMonth">Шаблон:Potd/CurrentMonth</a></li> 
+       <li class="mw-imagepage-linkstoimage-ns10"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Potd/Month" title="Шаблон:Potd/Month">Шаблон:Potd/Month</a></li> 
+      </ul> 
+     </div> 
+     <h2 id="globalusage">Глобальное использование файла</h2> 
+     <div id="mw-imagepage-section-globalusage">
+      <p>Данный файл используется в следующих вики: </p>
+      <ul> 
+       <li class="mw-gu-onwiki-alt_wikipedia_org">Использование в alt.wikipedia.org 
+        <ul> 
+         <li><a class="external" href="https://alt.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D3%B1%D0%BD%D0%BD%D0%B8%D2%A5_%D0%BA%D3%A7%D1%80%D0%B3%D3%B1%D0%B7%D3%B1%D0%B7%D0%B8">Википедия:Кӱнниҥ кӧргӱзӱзи</a></li> 
+         <li><a class="external" href="https://alt.wikipedia.org/wiki/%D3%B0%D0%BB%D0%B5%D0%BA%D0%B5%D1%80:Potd/CurrentMonth">Ӱлекер:Potd/CurrentMonth</a></li> 
+         <li><a class="external" href="https://alt.wikipedia.org/wiki/%D3%B0%D0%BB%D0%B5%D0%BA%D0%B5%D1%80:Potd/Month">Ӱлекер:Potd/Month</a></li> 
+         <li><a class="external" href="https://alt.wikipedia.org/wiki/%D3%B0%D0%BB%D0%B5%D0%BA%D0%B5%D1%80:Potd/2022-03">Ӱлекер:Potd/2022-03</a></li> 
+        </ul></li> 
+       <li class="mw-gu-onwiki-av_wikipedia_org">Использование в av.wikipedia.org 
+        <ul> 
+         <li><a class="external" href="https://av.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BB%D0%B8%D0%BF:Potd/Month">Халип:Potd/Month</a></li> 
+         <li><a class="external" href="https://av.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BB%D0%B8%D0%BF:Potd/2022-03">Халип:Potd/2022-03</a></li> 
+        </ul></li> 
+       <li class="mw-gu-onwiki-bg_wikipedia_org">Использование в bg.wikipedia.org 
+        <ul> 
+         <li><a class="external" href="https://bg.wikipedia.org/wiki/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0/%D0%A2%D0%B5%D1%81%D1%82">Начална страница/Тест</a></li> 
+         <li><a class="external" href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB:Givern">Потребител:Givern</a></li> 
+         <li><a class="external" href="https://bg.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%B4%D0%B5%D0%BD%D1%8F_%D0%B2_%D0%9E%D0%B1%D1%89%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F">Шаблон:Картинка на деня в Общомедия</a></li> 
+         <li><a class="external" href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB:Alesha00/%D0%BF%D0%B5%D1%81%D0%BE%D1%87%D0%BD%D0%B8%D1%86%D0%B0">Потребител:Alesha00/песочница</a></li> 
+         <li><a class="external" href="https://bg.wikipedia.org/wiki/%D0%91%D0%B5%D1%81%D0%B5%D0%B4%D0%B0:%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0/%D0%90%D1%80%D1%85%D0%B8%D0%B2%D0%B8/2008">Беседа:Начална страница/Архиви/2008</a></li> 
+         <li><a class="external" href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB:Stanqo/%D0%9F%D1%8F%D1%81%D1%8A%D1%87%D0%BD%D0%B8%D0%BA/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0">Потребител:Stanqo/Пясъчник/Начална страница</a></li> 
+         <li><a class="external" href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB:Stanqo/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0">Потребител:Stanqo/Начална страница</a></li> 
+         <li><a class="external" href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB:Fadams/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0">Потребител:Fadams/Начална страница</a></li> 
+         <li><a class="external" href="https://bg.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BD%D0%B0_%D0%B4%D0%B5%D0%BD%D1%8F_%D0%B2_%D0%9E%D0%B1%D1%89%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F/doc">Шаблон:Картинка на деня в Общомедия/doc</a></li> 
+         <li><a class="external" href="https://bg.wikipedia.org/wiki/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0">Начална страница</a></li> 
+         <li><a class="external" href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB:Owain_Knight">Потребител:Owain Knight</a></li> 
+        </ul></li> 
+       <li class="mw-gu-onwiki-ca_wikipedia_org">Использование в ca.wikipedia.org 
+        <ul> 
+         <li><a class="external" href="https://ca.wikipedia.org/wiki/Usuari:Eloi/Llista_de_dones_metgesses">Usuari:Eloi/Llista de dones metgesses</a></li> 
+        </ul></li> 
+       <li class="mw-gu-onwiki-cs_wikipedia_org">Использование в cs.wikipedia.org 
+        <ul> 
+         <li><a class="external" href="https://cs.wikipedia.org/wiki/Wikipedie:Obr%C3%A1zek_t%C3%BDdne/2022/03">Wikipedie:Obrázek týdne/2022/03</a></li> 
+         <li><a class="external" href="https://cs.wikipedia.org/wiki/Wikipedie:Obr%C3%A1zek_t%C3%BDdne/2022">Wikipedie:Obrázek týdne/2022</a></li> 
+        </ul></li> 
+       <li class="mw-gu-onwiki-cv_wikipedia_org">Использование в cv.wikipedia.org 
+        <ul> 
+         <li><a class="external" href="https://cv.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Potd/Month">Шаблон:Potd/Month</a></li> 
+         <li><a class="external" href="https://cv.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Potd/2022-03">Шаблон:Potd/2022-03</a></li> 
+        </ul></li> 
+       <li class="mw-gu-onwiki-da_wikipedia_org">Использование в da.wikipedia.org 
+        <ul> 
+         <li><a class="external" href="https://da.wikipedia.org/wiki/Wikipedia:Indhold_p%C3%A5_forsiden_en_uge_frem">Wikipedia:Indhold på forsiden en uge frem</a></li> 
+        </ul></li> 
+       <li class="mw-gu-onwiki-de_wikipedia_org">Использование в de.wikipedia.org 
+        <ul> 
+         <li><a class="external" href="https://de.wikipedia.org/wiki/Wikipedia:Kurier/Ausgabe_11_2021">Wikipedia:Kurier/Ausgabe 11 2021</a></li> 
+        </ul></li> 
+       <li class="mw-gu-onwiki-dv_wikipedia_org">Использование в dv.wikipedia.org 
+        <ul> 
+         <li><a class="external" href="https://dv.wikipedia.org/wiki/%DE%8A%DE%A6%DE%82%DE%B0%DE%88%DE%A6%DE%8C%DE%B0:Featured_picture/2022-01-21">ފަންވަތް:Featured picture/2022-01-21</a></li> 
+        </ul></li> 
+       <li class="mw-gu-onwiki-en_wikipedia_org">Использование в en.wikipedia.org 
+        <ul> 
+         <li><a class="external" href="https://en.wikipedia.org/wiki/Wikipedia:Interwiki_Women_Collaboration/Women_from_Italy_missing_in_itwiki">Wikipedia:Interwiki Women Collaboration/Women from Italy missing in itwiki</a></li> 
+         <li><a class="external" href="https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red/Missing_articles_by_occupation/Physicians">Wikipedia:WikiProject Women in Red/Missing articles by occupation/Physicians</a></li> 
+        </ul></li> 
+       <li class="mw-gu-onwiki-en_wikiversity_org">Использование в en.wikiversity.org 
+        <ul> 
+         <li><a class="external" href="https://en.wikiversity.org/wiki/Motivation_and_emotion/Book/2021/Compassion">Motivation and emotion/Book/2021/Compassion</a></li> 
+        </ul></li> 
+       <li class="mw-gu-onwiki-es_wikipedia_org">Использование в es.wikipedia.org 
+        <ul> 
+         <li><a class="external" href="https://es.wikipedia.org/wiki/Usuario:Rauletemunoz">Usuario:Rauletemunoz</a></li> 
+         <li><a class="external" href="https://es.wikipedia.org/wiki/Usuario:Randomeld%C3%ADos_213">Usuario:Randomeldíos 213</a></li> 
+         <li><a class="external" href="https://es.wikipedia.org/wiki/Usuario:Anthony_Verifica">Usuario:Anthony Verifica</a></li> 
+         <li><a class="external" href="https://es.wikipedia.org/wiki/Usuario:Dimartz">Usuario:Dimartz</a></li> 
+         <li><a class="external" href="https://es.wikipedia.org/wiki/Usuario:Manlleus">Usuario:Manlleus</a></li> 
+        </ul></li> 
+       <li class="mw-gu-onwiki-es_wikinews_org">Использование в es.wikinews.org 
+        <ul> 
+         <li><a class="external" href="https://es.wikinews.org/wiki/Usuario:Jorge_Abell%C3%A1n">Usuario:Jorge Abellán</a></li> 
+         <li><a class="external" href="https://es.wikinews.org/wiki/Usuario:Jorge_Abell%C3%A1n/Contribuciones">Usuario:Jorge Abellán/Contribuciones</a></li> 
+         <li><a class="external" href="https://es.wikinews.org/wiki/Portada">Portada</a></li> 
+         <li><a class="external" href="https://es.wikinews.org/wiki/Usuario:Jorge_Abell%C3%A1n/Portada">Usuario:Jorge Abellán/Portada</a></li> 
+         <li><a class="external" href="https://es.wikinews.org/wiki/Plantilla:IDDC">Plantilla:IDDC</a></li> 
+         <li><a class="external" href="https://es.wikinews.org/wiki/Usuario:Manlleus">Usuario:Manlleus</a></li> 
+         <li><a class="external" href="https://es.wikinews.org/wiki/Usuario:Manlleus/Contribuciones">Usuario:Manlleus/Contribuciones</a></li> 
+        </ul></li> 
+       <li class="mw-gu-onwiki-es_wikivoyage_org">Использование в es.wikivoyage.org 
+        <ul> 
+         <li><a class="external" href="https://es.wikivoyage.org/wiki/Plantilla:IDDC">Plantilla:IDDC</a></li> 
+         <li><a class="external" href="https://es.wikivoyage.org/wiki/Plantilla:IDDC/casos_de_prueba">Plantilla:IDDC/casos de prueba</a></li> 
+        </ul></li> 
+       <li class="mw-gu-onwiki-fa_wikipedia_org">Использование в fa.wikipedia.org 
+        <ul> 
+         <li><a class="external" href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%DA%AF%D8%B2%DB%8C%D8%AF%D9%86_%D9%86%DA%AF%D8%A7%D8%B1%D9%87_%D8%A8%D8%B1%DA%AF%D8%B2%DB%8C%D8%AF%D9%87/%DA%98%D9%88%D8%A6%DB%8C%D9%87-%DB%B2%DB%B0%DB%B2%DB%B0">ویکی‌پدیا:گزیدن نگاره برگزیده/ژوئیه-۲۰۲۰</a></li> 
+         <li><a class="external" href="https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%88%DB%8C%D8%AF_%DB%B1%DB%B9">کووید ۱۹</a></li> 
+         <li><a class="external" href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D9%86%DA%AF%D8%A7%D8%B1%D9%87_%D8%B1%D9%88%D8%B2/%DA%98%D8%A7%D9%86%D9%88%DB%8C%D9%87_%DB%B2%DB%B0%DB%B2%DB%B1">ویکی‌پدیا:نگاره روز/ژانویه ۲۰۲۱</a></li> 
+         <li><a class="external" href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%DA%AF%D8%B2%DB%8C%D8%AF%D9%86_%D9%86%DA%AF%D8%A7%D8%B1%D9%87_%D8%A8%D8%B1%DA%AF%D8%B2%DB%8C%D8%AF%D9%87/Covid-19_San_Salvatore_02.jpg">ویکی‌پدیا:گزیدن نگاره برگزیده/Covid-19 San Salvatore 02.jpg</a></li> 
+         <li><a class="external" href="https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1:Atefeh611/%D8%B5%D9%81%D8%AD%D9%87_%D8%AA%D9%85%D8%B1%DB%8C%D9%86">کاربر:Atefeh611/صفحه تمرین</a></li> 
+         <li><a class="external" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%AF%D9%88:%D9%86%D8%B1/2021-01-07">الگو:نر/2021-01-07</a></li> 
+         <li><a class="external" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%AF%D9%88:%D9%86%D8%B1_%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%AA_%D8%B4%D8%AF%D9%87/2021-01-07">الگو:نر محافظت شده/2021-01-07</a></li> 
+        </ul></li> 
+       <li class="mw-gu-onwiki-fi_wikipedia_org">Использование в fi.wikipedia.org 
+        <ul> 
+         <li><a class="external" href="https://fi.wikipedia.org/wiki/K%C3%A4ytt%C3%A4j%C3%A4:Geohakkeri">Käyttäjä:Geohakkeri</a></li> 
+        </ul></li> 
+      </ul> 
+      <p>Просмотреть <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%93%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/Covid-19_San_Salvatore_02.jpg" title="Служебная:Глобальное использование/Covid-19 San Salvatore 02.jpg">глобальное использование</a> этого файла. </p>
+     </div>
+     <h2 id="metadata">Метаданные</h2> 
+     <div class="mw-imagepage-section-metadata">
+      <p>Файл содержит дополнительные данные, обычно добавляемые цифровыми камерами или сканерами. Если файл после создания редактировался, то некоторые параметры могут не соответствовать текущему изображению.</p>
+      <table id="mw_metadata" class="mw_metadata collapsed"> 
+       <tbody>
+        <tr class="exif-imagedescription">
+         <th>Название изображения</th>
+         <td>
+          <ul class="metadata-langlist">
+           <li class="mw-metadata-lang-default"><span class="mw-metadata-lang-value">DOCTORS AND NURSES OF THE INTENSIVE CARE HOSPITAL, FIGHTING COVID-19 EMERGENCY IN PESARO - ITALY. THEY ARE PORTRAITED AT THE END OF THEIR LONG WORKSHIFT. 12 HOURS WITH NO DRINK AND NO TOILETBREAK, DUE TO THE PROTECTIVE SUIT THEY WEAR. THE SIGNS ON THEIR FACE ARE CAUSED BY THE MASKS THEY HAVE TO WEAR TO PROTECT THEMSELFES FROM COVID VIRUS. IN THE PICTURE: Margherita Lambertini, First Aid Surgeon Doctor</span></li> 
+          </ul></td>
+        </tr>
+        <tr class="exif-make">
+         <th>Производитель камеры</th>
+         <td>SONY</td>
+        </tr>
+        <tr class="exif-model">
+         <th>Модель камеры</th>
+         <td>ILCE-7RM3</td>
+        </tr>
+        <tr class="exif-artist">
+         <th>Автор</th>
+         <td>Alberto Giuliani</td>
+        </tr>
+        <tr class="exif-exposuretime">
+         <th>Время экспозиции</th>
+         <td>1/125 с (0,008)</td>
+        </tr>
+        <tr class="exif-fnumber">
+         <th>Число диафрагмы</th>
+         <td>f/2,5</td>
+        </tr>
+        <tr class="exif-isospeedratings">
+         <th>Светочувствительность ISO</th>
+         <td>1250</td>
+        </tr>
+        <tr class="exif-datetimeoriginal">
+         <th>Оригинальные дата и время</th>
+         <td>20:12, 18 марта 2020</td>
+        </tr>
+        <tr class="exif-focallength">
+         <th>Фокусное расстояние</th>
+         <td>85 мм</td>
+        </tr>
+        <tr class="exif-imagewidth mw-metadata-collapsible">
+         <th>Ширина</th>
+         <td>5304 пикс.</td>
+        </tr>
+        <tr class="exif-imagelength mw-metadata-collapsible">
+         <th>Высота</th>
+         <td>7952 пикс.</td>
+        </tr>
+        <tr class="exif-bitspersample mw-metadata-collapsible">
+         <th>Глубина цвета</th>
+         <td>
+          <ul>
+           <li>8</li> 
+           <li>8</li> 
+           <li>8</li>
+          </ul></td>
+        </tr>
+        <tr class="exif-compression mw-metadata-collapsible">
+         <th>Метод сжатия</th>
+         <td>Несжатый</td>
+        </tr>
+        <tr class="exif-photometricinterpretation mw-metadata-collapsible">
+         <th>Цветовая модель</th>
+         <td>RGB</td>
+        </tr>
+        <tr class="exif-orientation mw-metadata-collapsible">
+         <th>Ориентация кадра</th>
+         <td>Нормальная</td>
+        </tr>
+        <tr class="exif-samplesperpixel mw-metadata-collapsible">
+         <th>Количество цветовых компонентов</th>
+         <td>3</td>
+        </tr>
+        <tr class="exif-xresolution mw-metadata-collapsible">
+         <th>Горизонтальное разрешение</th>
+         <td>150 точек на дюйм</td>
+        </tr>
+        <tr class="exif-yresolution mw-metadata-collapsible">
+         <th>Вертикальное разрешение</th>
+         <td>150 точек на дюйм</td>
+        </tr>
+        <tr class="exif-planarconfiguration mw-metadata-collapsible">
+         <th>Принцип организации данных</th>
+         <td>формат «chunky»</td>
+        </tr>
+        <tr class="exif-software mw-metadata-collapsible">
+         <th>Программное обеспечение</th>
+         <td>Adobe Photoshop 21.1 (Macintosh)</td>
+        </tr>
+        <tr class="exif-datetime mw-metadata-collapsible">
+         <th>Дата и время изменения файла</th>
+         <td>12:11, 31 марта 2020</td>
+        </tr>
+        <tr class="exif-exposureprogram mw-metadata-collapsible">
+         <th>Программа экспозиции</th>
+         <td>Приоритет диафрагмы</td>
+        </tr>
+        <tr class="exif-exifversion mw-metadata-collapsible">
+         <th>Версия Exif</th>
+         <td>2.31</td>
+        </tr>
+        <tr class="exif-datetimedigitized mw-metadata-collapsible">
+         <th>Дата и время оцифровки</th>
+         <td>20:12, 18 марта 2020</td>
+        </tr>
+        <tr class="exif-shutterspeedvalue mw-metadata-collapsible">
+         <th>Выдержка в APEX</th>
+         <td>6,965784</td>
+        </tr>
+        <tr class="exif-aperturevalue mw-metadata-collapsible">
+         <th>Диафрагма в APEX</th>
+         <td>2,643856</td>
+        </tr>
+        <tr class="exif-brightnessvalue mw-metadata-collapsible">
+         <th>Яркость в APEX</th>
+         <td>1,59140625</td>
+        </tr>
+        <tr class="exif-exposurebiasvalue mw-metadata-collapsible">
+         <th>Компенсация экспозиции</th>
+         <td>0</td>
+        </tr>
+        <tr class="exif-maxaperturevalue mw-metadata-collapsible">
+         <th>Минимальное число диафрагмы</th>
+         <td>1,6953125 APEX (f/1,8)</td>
+        </tr>
+        <tr class="exif-meteringmode mw-metadata-collapsible">
+         <th>Режим замера экспозиции</th>
+         <td>Матричный</td>
+        </tr>
+        <tr class="exif-lightsource mw-metadata-collapsible">
+         <th>Источник света</th>
+         <td>Неизвестно</td>
+        </tr>
+        <tr class="exif-flash mw-metadata-collapsible">
+         <th>Статус вспышки</th>
+         <td>Вспышка не срабатывала, подавление заполняющей вспышки</td>
+        </tr>
+        <tr class="exif-colorspace mw-metadata-collapsible">
+         <th>Цветовое пространство</th>
+         <td>Некалиброванное</td>
+        </tr>
+        <tr class="exif-focalplanexresolution mw-metadata-collapsible">
+         <th>Разрешение по X в фокальной плоскости</th>
+         <td>2164,432800293</td>
+        </tr>
+        <tr class="exif-focalplaneyresolution mw-metadata-collapsible">
+         <th>Разрешение по Y в фокальной плоскости</th>
+         <td>2164,432800293</td>
+        </tr>
+        <tr class="exif-focalplaneresolutionunit mw-metadata-collapsible">
+         <th>Единица измерения разрешения в фокальной плоскости</th>
+         <td>3</td>
+        </tr>
+        <tr class="exif-filesource mw-metadata-collapsible">
+         <th>Источник файла</th>
+         <td>Цифровой фотоаппарат</td>
+        </tr>
+        <tr class="exif-scenetype mw-metadata-collapsible">
+         <th>Тип сцены</th>
+         <td>Изображение сфотографировано напрямую</td>
+        </tr>
+        <tr class="exif-customrendered mw-metadata-collapsible">
+         <th>Дополнительная обработка</th>
+         <td>Не производилась</td>
+        </tr>
+        <tr class="exif-exposuremode mw-metadata-collapsible">
+         <th>Режим выбора экспозиции</th>
+         <td>Автоматическая экспозиция</td>
+        </tr>
+        <tr class="exif-whitebalance mw-metadata-collapsible">
+         <th>Баланс белого</th>
+         <td>Автоматический баланс белого</td>
+        </tr>
+        <tr class="exif-digitalzoomratio mw-metadata-collapsible">
+         <th>Коэффициент цифрового увеличения (цифровой зум)</th>
+         <td>1</td>
+        </tr>
+        <tr class="exif-focallengthin35mmfilm mw-metadata-collapsible">
+         <th>Эквивалентное фокусное расстояние (для 35 мм плёнки)</th>
+         <td>85 мм</td>
+        </tr>
+        <tr class="exif-scenecapturetype mw-metadata-collapsible">
+         <th>Тип сцены при съёмке</th>
+         <td>Стандартный</td>
+        </tr>
+        <tr class="exif-contrast mw-metadata-collapsible">
+         <th>Контрастность</th>
+         <td>Нормальная</td>
+        </tr>
+        <tr class="exif-saturation mw-metadata-collapsible">
+         <th>Насыщенность</th>
+         <td>Небольшая насыщенность</td>
+        </tr>
+        <tr class="exif-sharpness mw-metadata-collapsible">
+         <th>Резкость</th>
+         <td>Нормальная</td>
+        </tr>
+        <tr class="exif-lens mw-metadata-collapsible">
+         <th>Использованный объектив</th>
+         <td>FE 85mm F1.8</td>
+        </tr>
+        <tr class="exif-datetimemetadata mw-metadata-collapsible">
+         <th>Дата последнего изменения метаданных</th>
+         <td>14:11, 31 марта 2020</td>
+        </tr>
+        <tr class="exif-rating mw-metadata-collapsible">
+         <th>Оценка (из 5)</th>
+         <td>2</td>
+        </tr>
+        <tr class="exif-originaldocumentid mw-metadata-collapsible">
+         <th>Уникальный идентификатор исходного документа</th>
+         <td>D1C9FAA41C5BC1628CFE58D78A860874</td>
+        </tr>
+        <tr class="exif-contact mw-metadata-collapsible">
+         <th>Контактная информация</th>
+         <td><a rel="nofollow" class="external text" href="mailto:alberto@albertogiuliani.com"><span class="email">alberto@albertogiuliani.com</span></a> <p><span class="url">www.albertogiuliani.com</span> </p> 
+          <div class="adr"> 
+           <p><br> , , </p> 
+          </div> <span class="tel">+393929771062</span></td>
+        </tr>
+        <tr class="exif-iimversion mw-metadata-collapsible">
+         <th>Версия IIM</th>
+         <td>4</td>
+        </tr>
+       </tbody>
+      </table> 
+     </div>
+     <noscript>
+      <img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Источник — <a dir="ltr" href="https://ru.wikipedia.org/wiki/Файл:Covid-19_San_Salvatore_02.jpg">https://ru.wikipedia.org/wiki/Файл:Covid-19_San_Salvatore_02.jpg</a>
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Навигация</h2> 
+   <div id="mw-head"> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"> <label id="p-personal-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Персональные инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage" class="mw-list-item"><span>Вы не представились системе</span></li>
+       <li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li>
+       <li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li>
+       <li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A4%D0%B0%D0%B9%D0%BB%3ACovid-19+San+Salvatore+02.jpg" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li>
+       <li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A4%D0%B0%D0%B9%D0%BB%3ACovid-19+San+Salvatore+02.jpg" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> <label id="p-namespaces-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Пространства имён</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-image" class="selected mw-list-item"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Covid-19_San_Salvatore_02.jpg" title="Страница файла [c]" accesskey="c"><span>Файл</span></a></li>
+        <li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D1%84%D0%B0%D0%B9%D0%BB%D0%B0:Covid-19_San_Salvatore_02.jpg&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> <label id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading"> <span class="vector-menu-heading-label">русский</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> <label id="p-views-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Просмотры</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Covid-19_San_Salvatore_02.jpg"><span>Читать</span></a></li>
+        <li id="ca-view-foreign" class="mw-list-item"><a href="https://commons.wikimedia.org/wiki/File:Covid-19_San_Salvatore_02.jpg"><span>Посмотреть на Викискладе</span></a></li>
+        <li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Covid-19_San_Salvatore_02.jpg&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Создать локально</span></a></li>
+        <li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Covid-19_San_Salvatore_02.jpg&amp;action=edit" title="Эту страницу можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Создать локально как код</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" title="Больше возможностей"> 
+      <input type="checkbox" id="p-cactions-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-cactions" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> <label id="p-cactions-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Ещё</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box"> 
+      <div> 
+       <h3> <label for="searchInput">Поиск</label> </h3> 
+       <form action="/w/index.php" id="searchform" class="vector-search-box-form"> 
+        <div id="simpleSearch" class="vector-search-box-inner" data-search-loc="header-navigation"> 
+         <input class="vector-search-box-input" type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"> 
+         <input type="hidden" name="title" value="Служебная:Поиск"> 
+         <input id="mw-searchButton" class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти"> 
+         <input id="searchButton" class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти"> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a> 
+    </div> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> <label id="p-navigation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Навигация</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li>
+       <li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li>
+       <li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li>
+       <li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li>
+       <li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li>
+       <li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"> <label id="p-participation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Участие</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об&nbsp;ошибке</span></a></li>
+       <li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li>
+       <li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li>
+       <li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li>
+       <li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li>
+       <li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li>
+       <li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> <label id="p-tb-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A4%D0%B0%D0%B9%D0%BB:Covid-19_San_Salvatore_02.jpg" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li>
+       <li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+       <li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+       <li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Covid-19_San_Salvatore_02.jpg&amp;action=info" title="Подробнее об этой странице"><span>Сведения о&nbsp;странице</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export emptyPortlet vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> <label id="p-coll-print_export-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Печать/экспорт</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list"></ul> 
+     </div> 
+    </nav> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> <label id="p-lang-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">На других языках</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list"></ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="uls-after-portlet-link"></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li> 
+    <li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li> 
+    <li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li> 
+    <li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%A4%D0%B0%D0%B9%D0%BB:Covid-19_San_Salvatore_02.jpg&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.003","walltime":"0.004","ppvisitednodes":{"value":3,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":1,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"origin":"mw1365","timestamp":"20220317000330","ttl":1814400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":458,"wgHostname":"mw1365"});});</script>  
+ </body>
+</html>

@@ -1,0 +1,599 @@
+<!doctype html>
+<html class="client-nojs" lang="ru" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Чесменская церковь — Википедия</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"40a3bcf8-e575-409b-97c7-97c3370556ed","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Чесменская_церковь","wgTitle":"Чесменская церковь","wgCurRevisionId":119375041,"wgRevisionId":119375041,"wgArticleId":774523,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Антропогенные географические объекты по алфавиту","ПРО:АГЕО:Последняя правка: в текущем году",
+"Википедия:Статьи с нерабочими ссылками","Википедия:Страницы с картами","Объекты культурного наследия России по алфавиту","Федеральные объекты культурного наследия в Санкт-Петербурге","Культовые сооружения по алфавиту","Появились в 1780 году","Храмы Санкт-Петербурга","Капитульные храмы орденов Российской империи","Храмы Рождества Иоанна Крестителя","Здания и сооружения, заложенные в 1777 году","Храмы, построенные в 1780 году в России","Здания, спроектированные Юрием Фельтеном","Неоготическая архитектура России","1780 год в Санкт-Петербурге"],
+"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Чесменская_церковь","wgRelevantArticleId":774523,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":119375041,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgCoordinates":{"lat":59.8569472,"lon":30.3308389},"wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q1636756",
+"wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":true,"wgGELinkRecommendationsFrontendEnabled":true};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.kartographer.style":"ready","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.kartographer.link","ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs",
+"ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.page.gallery.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <noscript>
+   <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector">
+  </noscript> 
+  <meta name="generator" content="MediaWiki 1.38.0-wmf.25"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Spb_06-2012_Chesme_Church.jpg/1200px-Spb_06-2012_Chesme_Church.jpg"> 
+  <meta property="og:image:width" content="1200"> 
+  <meta property="og:image:height" content="1109"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Spb_06-2012_Chesme_Church.jpg/800px-Spb_06-2012_Chesme_Church.jpg"> 
+  <meta property="og:image:width" content="800"> 
+  <meta property="og:image:height" content="739"> 
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Spb_06-2012_Chesme_Church.jpg/640px-Spb_06-2012_Chesme_Church.jpg"> 
+  <meta property="og:image:width" content="640"> 
+  <meta property="og:image:height" content="591"> 
+  <meta property="og:title" content="Чесменская церковь — Википедия"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C"> 
+  <link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Чесменская_церковь rootpage-Чесменская_церковь skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+    <div id="mw-indicator-0-coord" class="mw-indicator">
+     <span class="coordinates plainlinks nourlexpansion" data-param="59_51_25.01_N_30_19_51.02_E_scale:2000_region:RU_type:landmark"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw="interface" data-style="osm-tegola" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/17/59.8569472/30.3308389/ru" data-zoom="17" data-lat="59.8569472" data-lon="30.3308389" data-lang="ru" data-overlays="[&quot;_3d58201773b830a66f395c24913f07628c1bd8dd&quot;]">59°51′25″&nbsp;с.&nbsp;ш. 30°19′51″&nbsp;в.&nbsp;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="//geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;params=59_51_25.01_N_30_19_51.02_E_scale:2000_region:RU_type:landmark"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="//maps.google.com/maps?ll=59.8569472,30.3308389&amp;q=59.8569472,30.3308389&amp;spn=0.002,0.002&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="//yandex.ru/maps/?ll=30.3308389,59.8569472&amp;pt=30.3308389,59.8569472&amp;spn=0.002,0.002&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=59.8569472&amp;mlon=30.3308389&amp;zoom=17"><span>O</span></a></span></sup></span>
+    </div> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading mw-first-heading">Чесменская церковь</h1> 
+   <div id="bodyContent" class="vector-body"> 
+    <div id="siteSub" class="noprint">
+     Материал из Википедии — свободной энциклопедии
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Перейти к навигации</a> <a class="mw-jump-link" href="#searchInput">Перейти к поиску</a> 
+    <div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr">
+     <div class="mw-parser-output">
+      <table class="infobox" style="" data-name="Культовое сооружение">
+       <tbody>
+        <tr>
+         <td colspan="2" class="" style="text-align:center;">Православный храм</td>
+        </tr>
+        <tr>
+         <th colspan="2" scope="colgroup" class="infobox-above" style="">Чесменская церковь</th>
+        </tr>
+        <tr>
+         <td colspan="2" class="" style="text-align:center;"><span data-wikidata-property-id="P1705" class="no-wikidata">Церковь Рождества Иоанна Предтечи</span></td>
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P18" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Spb_06-2012_Chesme_Church.jpg" class="image" title="Вид на Чесменскую церковь с запада"><img alt="Вид на Чесменскую церковь с запада" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Spb_06-2012_Chesme_Church.jpg/274px-Spb_06-2012_Chesme_Church.jpg" decoding="async" width="274" height="253" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Spb_06-2012_Chesme_Church.jpg/411px-Spb_06-2012_Chesme_Church.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Spb_06-2012_Chesme_Church.jpg/548px-Spb_06-2012_Chesme_Church.jpg 2x" data-file-width="3175" data-file-height="2933"></a><br><span data-wikidata-qualifier-id="P2096" class="media-caption" style="display:block">Вид на Чесменскую церковь с запада</span></span> </td>
+        </tr> 
+        <tr> 
+         <td colspan="2" class="plainlist" style="text-align:center;padding-bottom:0.25em;"> <span class="coordinates plainlinks nourlexpansion" data-param="59_51_25.01_N_30_19_51.02_E_scale:2000_region:RU_type:landmark"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw="interface" data-style="osm-tegola" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/17/59.8569472/30.3308389/ru" data-zoom="17" data-lat="59.8569472" data-lon="30.3308389" data-lang="ru" data-overlays="[&quot;_3d58201773b830a66f395c24913f07628c1bd8dd&quot;]">59°51′25″&nbsp;с.&nbsp;ш. 30°19′51″&nbsp;в.&nbsp;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="//geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;params=59_51_25.01_N_30_19_51.02_E_scale:2000_region:RU_type:landmark"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="//maps.google.com/maps?ll=59.8569472,30.3308389&amp;q=59.8569472,30.3308389&amp;spn=0.002,0.002&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="//yandex.ru/maps/?ll=30.3308389,59.8569472&amp;pt=30.3308389,59.8569472&amp;spn=0.002,0.002&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=59.8569472&amp;mlon=30.3308389&amp;zoom=17"><span>O</span></a></span></sup></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Страна</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P17" class="no-wikidata"><span class="nowrap" data-sort-value="Россия"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/22px-Flag_of_Russia.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/33px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/44px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600"></span>&nbsp;<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия"><span class="wrap">Россия</span></a></span></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Город</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P131" class="no-wikidata"><a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" title="Санкт-Петербург">Санкт-Петербург</a>, <a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%9B%D0%B5%D0%BD%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0" title="Улица Ленсовета">Улица Ленсовета</a>, дом 12</span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist"><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%84%D0%B5%D1%81%D1%81%D0%B8%D1%8F" title="Конфессия">Конфессия</a></th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P140" class="no-wikidata"><a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D0%B5" title="Православие">Православие</a></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist"><a href="/wiki/%D0%95%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D1%8F" title="Епархия">Епархия</a></th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P708" class="no-wikidata"><a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B0%D1%8F_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D1%8F" title="Санкт-Петербургская епархия">Санкт-Петербургская</a></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Орденская принадлежность</th> 
+         <td class="plainlist"> <a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D1%8F" title="Орден Святого Георгия">Орден Святого Георгия</a> в 1780—1917 годах</td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Тип здания</th> 
+         <td class="plainlist"> <a href="/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_(%D1%81%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)" title="Церковь (сооружение)">Церковь</a></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist"><a href="/wiki/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C" title="Архитектурный стиль">Архитектурный стиль</a></th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P149" class="no-wikidata"><a href="/wiki/%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" class="mw-redirect" title="Псевдоготика">псевдоготика</a></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Автор проекта</th> 
+         <td class="plainlist"> <a href="/wiki/%D0%A4%D0%B5%D0%BB%D1%8C%D1%82%D0%B5%D0%BD,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%9C%D0%B0%D1%82%D0%B2%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Фельтен, Юрий Матвеевич">Ю. М. Фельтен</a></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Архитектор</th> 
+         <td class="plainlist"> <span data-wikidata-claim-id="q1636756$250b00a3-4caa-a803-8432-26e3ede374b5" class="wikidata-claim" data-wikidata-property-id="P84"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A4%D0%B5%D0%BB%D1%8C%D1%82%D0%B5%D0%BD,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%9C%D0%B0%D1%82%D0%B2%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Фельтен, Юрий Матвеевич">Юрий Матвеевич Фельтен</a></span></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Основатель</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P112" class="no-wikidata"><a href="/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0_II" title="Екатерина II">Екатерина II</a></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Первое упоминание</th> 
+         <td class="plainlist"> <span data-wikidata-property-id="P1249" class="no-wikidata">1777 год</span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Дата основания</th> 
+         <td class="plainlist"> <span data-wikidata-claim-id="Q1636756$836E3C31-274E-4B21-8928-6E89F4ADEC65" class="wikidata-claim" data-wikidata-property-id="P571"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/1777_%D0%B3%D0%BE%D0%B4" title="1777 год">1777</a></span></span></span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Строительство</th> 
+         <td class="plainlist"> <a href="/wiki/1777_%D0%B3%D0%BE%D0%B4" title="1777 год">1777 год</a> — <a href="/wiki/1780_%D0%B3%D0%BE%D0%B4" title="1780 год">1780 год</a></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Статус</th> 
+         <td class="plainlist"> <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D1%8F_%D0%B2_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B5" title="Объект культурного наследия народов РФ федерального значения"><img alt="Объект культурного наследия народов РФ федерального значения" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Coat_of_Arms_of_the_Russian_Federation_2.svg/20px-Coat_of_Arms_of_the_Russian_Federation_2.svg.png" decoding="async" width="20" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Coat_of_Arms_of_the_Russian_Federation_2.svg/30px-Coat_of_Arms_of_the_Russian_Federation_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Coat_of_Arms_of_the_Russian_Federation_2.svg/40px-Coat_of_Arms_of_the_Russian_Federation_2.svg.png 2x" data-file-width="333" data-file-height="366"></a>&nbsp;<span title="Объект культурного наследия народов РФ" style="margin-left: 0.2em; font-size: 85%;"><a href="/wiki/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Объект культурного наследия России">Объект культурного наследия народов&nbsp;РФ</a> федерального значения. <span class="nowrap"><span data-wikidata-external-id="781510354510006" class="no-wikidata" data-wikidata-property-id="P5381"><a class="external text" href="https://ru-monuments.toolforge.org/get_info.php?id=781510354510006">Рег. № 781510354510006</a></span></span> (<abbr title="Единый государственный реестр объектов культурного наследия">ЕГРОКН</abbr>). <span class="nowrap"><span data-wikidata-claim-id="Q1636756$3413044D-FB6B-436E-957B-D32A80A38150" class="wikidata-claim" data-wikidata-property-id="P1483"><span class="wikidata-snak wikidata-main-snak"><a class="external text" href="https://ru-monuments.toolforge.org/wikivoyage.php?id=7810315000">Объект № 7810315000</a></span></span></span> (БД Викигида)</span></td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Состояние</th> 
+         <td class="plainlist"> Отличное</td> 
+        </tr> 
+        <tr> 
+         <th scope="row" class="plainlist">Сайт</th> 
+         <td class="plainlist"> <span data-wikidata-claim-id="Q1636756$8C6C058F-4C99-41F0-B7C9-7DE3B28A5A5C" class="wikidata-claim" data-wikidata-property-id="P856"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="http://chesma.spb.ru/">chesma.spb.ru</a></span></span></td> 
+        </tr>
+        <tr>
+         <td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="q1636756$13317711-9581-4883-8279-940C3C5E3ABB" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><a href="https://commons.wikimedia.org/wiki/Category:Chesme_Church" title="commons:Category:Chesme Church"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a>&nbsp;<a href="https://commons.wikimedia.org/wiki/Category:Chesme_Church" class="extiw" title="commons:Category:Chesme Church">Медиафайлы на Викискладе</a></span></span></td>
+        </tr> 
+       </tbody>
+      </table> 
+      <p><b>Це́рковь Рождества́ свято́го Иоа́нна Предте́чи (Чесменская)</b> — действующий православный храм в <a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" title="Санкт-Петербург">Санкт-Петербурге</a>, находящийся на <a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%9B%D0%B5%D0%BD%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%B0" title="Улица Ленсовета">улице Ленсовета</a>, <a href="/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA" title="Памятник">памятник</a> архитектуры в стиле <a href="/wiki/%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" class="mw-redirect" title="Псевдоготика">псевдоготики</a>. Здание церкви было построено в ознаменование <a href="/wiki/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Чесменское сражение">победы русского флота над турецким</a> в <a href="/wiki/%D0%A7%D0%B5%D1%88%D0%BC%D0%B5" title="Чешме">Чесменской бухте</a> <a href="/wiki/%D0%AD%D0%B3%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5" title="Эгейское море">Эгейского моря</a> в 1770 году. Вместе с <a href="/wiki/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86" title="Чесменский дворец"><b>Чесменским дворцом</b></a> составлял некогда своеобразный ансамбль, обращённый к <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)" title="Московский проспект (Санкт-Петербург)">бывшему Царскосельскому тракту</a>. Являлась <a href="/wiki/%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%85%D1%80%D0%B0%D0%BC%D1%8B_%D0%BE%D1%80%D0%B4%D0%B5%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8" title="Капитульные храмы орденов Российской империи">капитульным храмом</a> <a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D1%8F" title="Орден Святого Георгия">ордена Святого Георгия</a>. </p>
+      <p>В настоящее время церковь является памятником архитектуры федерального значения. Вблизи церкви расположено <a href="/wiki/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5" title="Чесменское воинское кладбище">Чесменское воинское кладбище</a>. </p>
+      <p>Храм относится к <a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B0%D1%8F_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D1%8F" title="Санкт-Петербургская епархия">Санкт-Петербургской епархии</a> <a href="/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" title="Русская православная церковь">Русской православной церкви</a>, является центром <a href="/w/index.php?title=%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D1%87%D0%B8%D0%BD%D0%B8%D0%B5_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B0%D1%8F_%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D1%8F)&amp;action=edit&amp;redlink=1" class="new" title="Московское благочиние (Санкт-Петербургская епархия) (страница отсутствует)">Московского благочиннического округа</a>. Настоятель — <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%B8%D0%B5%D1%80%D0%B5%D0%B9" title="Протоиерей">протоиерей</a> Алексий Сергеевич Крылов. </p> 
+      <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading">
+       <input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none">
+       <div class="toctitle" lang="ru" dir="ltr">
+        <h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span>
+       </div> 
+       <ul> 
+        <li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a></li> 
+        <li class="toclevel-1 tocsection-2"><a href="#Архитектура,_убранство"><span class="tocnumber">2</span> <span class="toctext">Архитектура, убранство</span></a></li> 
+        <li class="toclevel-1 tocsection-3"><a href="#Настоятели_церкви"><span class="tocnumber">3</span> <span class="toctext">Настоятели церкви</span></a></li> 
+        <li class="toclevel-1 tocsection-4"><a href="#Архитектурные_копии_храма"><span class="tocnumber">4</span> <span class="toctext">Архитектурные копии храма</span></a></li> 
+        <li class="toclevel-1 tocsection-5"><a href="#Примечания"><span class="tocnumber">5</span> <span class="toctext">Примечания</span></a></li> 
+        <li class="toclevel-1 tocsection-6"><a href="#Ссылки"><span class="tocnumber">6</span> <span class="toctext">Ссылки</span></a></li> 
+       </ul> 
+      </div> 
+      <h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «История»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;action=edit&amp;section=1" title="Редактировать раздел «История»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Строительство храма и дворца недалеко от <a href="/wiki/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86" title="Чесменский дворец">Путевого дворца</a> было задумано и одобрено самой <a href="/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0_II" title="Екатерина II">Екатериной II</a>. По преданию, на месте храма императрица получила от курьера известие о победе в <a href="/wiki/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5" title="Чесменское сражение">Чесменском бою</a>. </p>
+      <p>Торжественная закладка храма состоялась <abbr title="по юлианскому календарю">6</abbr>&nbsp;<a href="/wiki/17_%D0%B8%D1%8E%D0%BD%D1%8F" title="17 июня">(17)&nbsp;июня</a>&nbsp;<a href="/wiki/1777_%D0%B3%D0%BE%D0%B4" title="1777 год">1777 года</a> в присутствии Екатерины II, всего двора и шведского короля <a href="/wiki/%D0%93%D1%83%D1%81%D1%82%D0%B0%D0%B2_III" title="Густав III">Густава III</a>, чтобы напомнить ему о военном могуществе России. Храм строился по проекту архитектора <a href="/wiki/%D0%A4%D0%B5%D0%BB%D1%8C%D1%82%D0%B5%D0%BD,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%9C%D0%B0%D1%82%D0%B2%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Фельтен, Юрий Матвеевич">Юрия Фельтена</a>. </p>
+      <p>Возведение храма было завершено к десятой годовщине победы русского флота в Чесменском сражении. Торжественное освящение <abbr title="по юлианскому календарю">24&nbsp;июня</abbr> (<a href="/wiki/5_%D0%B8%D1%8E%D0%BB%D1%8F" title="5 июля">5&nbsp;июля</a>)&nbsp;<a href="/wiki/1780_%D0%B3%D0%BE%D0%B4" title="1780 год">1780 года</a> совершил митрополит <a href="/wiki/%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%B8%D0%BB_(%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2)" title="Гавриил (Петров)">Гавриил (Петров)</a>. На торжестве, вместе с Екатериной II под именем «графа Фалькенштейна» присутствовал император <a href="/wiki/%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Священная Римская империя">Священной Римской империи</a> <a href="/wiki/%D0%98%D0%BE%D1%81%D0%B8%D1%84_II_(%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8)" class="mw-redirect" title="Иосиф II (император Священной Римской империи)">Иосиф II</a>. В память о победе Екатерина II «повелела именовать церковь и дворец Чесменскими». </p>
+      <p>Вскоре после освящения храм был передан капитулу <a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D1%8F" title="Орден Святого Георгия">ордена Святого Георгия Победоносца</a>. В связи с этим некоторое время Чесменскую церковь именовали «<i>Георгиевской</i>». </p>
+      <p>Екатерина II часто посещала храм, в котором для неё находилось <a href="/wiki/%D0%A6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%B5%D1%81%D1%82%D0%BE" title="Царское место">царское место</a>. Церковь была приписана к придворному ведомству. В 1802 году храм был передан в ведение <a href="/wiki/%D0%93%D0%BE%D1%84-%D0%B8%D0%BD%D1%82%D0%B5%D0%BD%D0%B4%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BD%D1%82%D0%BE%D1%80%D0%B0" class="mw-redirect" title="Гоф-интендантская контора">Гоф-интендантской конторы</a>. </p>
+      <p>В связи с тем, что Чесменская церковь была холодной и неотапливаемой, <abbr title="по юлианскому календарю">11</abbr>&nbsp;<a href="/wiki/23_%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F" title="23 декабря">(23)&nbsp;декабря</a>&nbsp;<a href="/wiki/1811_%D0%B3%D0%BE%D0%B4" title="1811 год">1811 года</a> в <a href="/wiki/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86" title="Чесменский дворец">Чесменском дворце</a> был освящён зимний храм Рождества Христова. </p>
+      <p>С передачей дворца Николаевской военной богадельне храм был передан в военное ведомство. </p>
+      <p>Храм был закрыт 1 июня 1919 года, но прихожане и служители храма смогли возобновить службы в новом здании — даче К. К. Вебера на Московском шоссе, 29, — где церковь просуществовала до 17 июля 1924 года. В 1924 году с колокольни были сняты колокола и отправлены на переплавку. Вместо креста на куполе были установлены скульптурные изображения наковальни, клещей и молота. </p>
+      <p>После закрытия лагеря в 1924 году, с 1925 по 1930 год в Чесменской церкви находился архив Главнауки, а с 1930 года — столярные мастерские Автодорожного института. </p>
+      <p>В 1930 году в храме произошёл пожар, в котором погибли интерьеры церкви, в том числе иконостас. В 1941 году здание церкви было передано под склад <a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B0%D1%8D%D1%80%D0%BE%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D0%B8%D0%B1%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F" title="Санкт-Петербургский государственный университет аэрокосмического приборостроения">Авиационно-приборостроительному институту</a>. </p>
+      <p>Здание сильно пострадало в годы <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D1%8F_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Великая Отечественная война">Великой Отечественной войны</a>. В 1947 году была произведена <a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D0%B5%D1%80%D0%B2%D0%B0%D1%86%D0%B8%D1%8F_(%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0)" title="Консервация (архитектура)">консервация</a> здания церкви, позднее было принято решение восстановить её как памятник архитектуры. В 1960-е годы в Чесменской церкви начались крупные реставрационные работы по проекту архитектора А. П. Куликова. Были отремонтированы купола, укреплена кирпичная кладка, восстановлены утраченные элементы; отреставрированы интерьеры. Колокола были отлиты на заводе «Монументскульптура». В декабре 1977 года здесь был открыт музей «Чесменская победа» — филиал <a href="/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9" class="mw-redirect" title="Центральный военно-морской музей">Военно-морского музея</a>. </p>
+      <p>4 января 1991 года была зарегистрирована община, а 7 ноября в церкви начались богослужения. 1 июля 1994 года здание церкви передано Санкт-Петербургской епархии в бессрочное пользование<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>. </p>
+      <p>Работы по восстановлению церкви начались в 1996 году, а в ноябре 1998 года иконостас, возобновлённый по чертежам, обнаруженным в <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D1%80%D1%85%D0%B8%D0%B2" title="Российский государственный военно-исторический архив">Российском государственном военно-историческом архиве</a>, был освящён митрополитом Санкт-Петербургским и Ладожским <a href="/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_(%D0%9A%D0%BE%D1%82%D0%BB%D1%8F%D1%80%D0%BE%D0%B2)" title="Владимир (Котляров)">Владимиром (Котляровым)</a>. </p>
+      <p>Ныне в здании церкви действует <a href="/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%BD%D0%B0%D1%8F_%D1%88%D0%BA%D0%BE%D0%BB%D0%B0" title="Воскресная школа">воскресная школа</a> для детей и подростков. </p> 
+      <h2><span id=".D0.90.D1.80.D1.85.D0.B8.D1.82.D0.B5.D0.BA.D1.82.D1.83.D1.80.D0.B0.2C_.D1.83.D0.B1.D1.80.D0.B0.D0.BD.D1.81.D1.82.D0.B2.D0.BE"></span><span class="mw-headline" id="Архитектура,_убранство">Архитектура, убранство</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Архитектура, убранство»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;action=edit&amp;section=2" title="Редактировать раздел «Архитектура, убранство»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:202px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_(2).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_%282%29.jpg/200px-%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_%282%29.jpg" decoding="async" width="200" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_%282%29.jpg/300px-%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_%282%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_%282%29.jpg/400px-%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_%282%29.jpg 2x" data-file-width="2878" data-file-height="2159"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_(2).jpg" class="internal" title="Увеличить"></a>
+         </div>Вид на церковь в плане
+        </div>
+       </div>
+      </div> 
+      <p>Каменное здание церкви построено в <a href="/wiki/%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BA%D0%B0" class="mw-redirect" title="Псевдоготика">псевдоготическом стиле</a>. </p>
+      <p>Церковь имеет компактный «центрический» план, представляющий собой «четырёхлистник». Основа внутреннего пространства — квадрат, перекрытый куполом. К квадрату с четырёх сторон примыкают <a href="/wiki/%D0%90%D0%BF%D1%81%D0%B8%D0%B4%D1%8B" class="mw-redirect" title="Апсиды">полукруглые помещения</a>. Стрельчатые арки, опираются на 4 пилона и объединяют эти помещения с центральным в единое целое. На храме — узкие вертикальные тяги на красноватом фоне стен, высокие стрельчатые окна. </p>
+      <p><a href="/wiki/%D0%A4%D0%B0%D1%81%D0%B0%D0%B4" title="Фасад">Фасад</a> церкви украшен ажурным белокаменным <a href="/wiki/%D0%9E%D1%80%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%82" title="Орнамент">орнаментом</a>, <a href="/wiki/%D0%91%D0%B0%D1%80%D0%B5%D0%BB%D1%8C%D0%B5%D1%84" title="Барельеф">барельефом</a> на <a href="/wiki/%D0%A4%D1%80%D0%BE%D0%BD%D1%82%D0%BE%D0%BD" title="Фронтон">фронтоне</a>, стрельчатыми арочками, зубчатым <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D0%BF%D0%B5%D1%82" title="Парапет">парапетом</a> и остроконечными башенками (<a href="/w/index.php?title=%D0%9F%D0%B8%D0%BD%D0%B0%D0%BA%D0%BB%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Пинакли (страница отсутствует)">пинаклями</a>). </p> 
+      <div class="thumb tleft" style="max-width: 100%; width: 256px;"> 
+       <div class="thumbinner"> 
+        <div style="float: left; margin: 1px; width: 121px"> 
+         <div class="thumbimage">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chesma_church06.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Chesma_church06.JPG/120px-Chesma_church06.JPG" decoding="async" width="120" height="166" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Chesma_church06.JPG/180px-Chesma_church06.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Chesma_church06.JPG/240px-Chesma_church06.JPG 2x" data-file-width="2195" data-file-height="3035"></a> 
+         </div> 
+         <div class="thumbcaption" style="clear:left">
+          Скульптура «Вера» 
+         </div> 
+        </div>
+        <div style="float: left; margin: 1px; width: 122px"> 
+         <div class="thumbimage">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chesma_church05.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chesma_church05.JPG/120px-Chesma_church05.JPG" decoding="async" width="120" height="161" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chesma_church05.JPG/180px-Chesma_church05.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chesma_church05.JPG/240px-Chesma_church05.JPG 2x" data-file-width="2200" data-file-height="2955"></a> 
+         </div>
+         <div class="thumbcaption" style="clear:left">
+          Скульптура «Надежда» 
+         </div> 
+        </div> 
+        <div style="clear:both"></div> 
+       </div> 
+       <div style="clear:both"></div> 
+      </div> 
+      <p>Пять барабанов заканчиваются небольшими куполами с укрепленными на них миниатюрными шпилями. Каждый шпиль несет яблоко с изящным ажурным крестом. В одном из барабанов был помещён большой колокол весом около 100 кг, остальные 7 малых колоколов укреплены в другой главе. </p>
+      <p>Скульптуры «Вера» и «Надежда», симметрично расположенные над входом, нарушают каноны изображения женщин в православии: обе представлены с распущенными волосами без головных уборов. Кроме того, в правой руке «Веры» находится типичный <a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D1%81%D1%82" title="Латинский крест">латинский крест</a>, форма которого в России среди православных считалась несовершенной, ассоциировалась с католицизмом, и сам этот крест презрительно назывался «<i>крыж</i>» (от <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Польский язык">польск.</a> <span lang="pl" style="font-style:italic;">krzyz</span> — крест). </p>
+      <p>Внутреннее убранство церкви отличается строгостью и простотой. Иконостас — восстановленная копия иконостаса, созданного по рисунку Ю. М. Фельтена. </p>
+      <p>Наибольший интерес до закрытия храма представляли иконы старой итальянской работы: </p> 
+      <ul>
+       <li>«Распятие Спасителя»;</li> 
+       <li>«Умовение ног апостолов Иисусом Христом»;</li> 
+       <li>«Святой царевич Дмитрий»;</li> 
+       <li>«Иоанн Креститель» с видом Чесменского сражения.</li>
+      </ul> 
+      <p>При входе в церковь установлена мраморная доска с надписью: <style data-mw-deduplicate="TemplateStyles:r117903712">.mw-parser-output .ts-Начало_цитаты-quote{padding:0.25em 1em}.mw-parser-output .ts-Начало_цитаты-source{margin:1em 0 0 5%}.mw-parser-output .ts-Начало_цитаты-quote .ts-oq{margin:0 -1em -0.25em}body.skin-minerva .mw-parser-output .ts-Начало_цитаты-quote .ts-oq{margin-left:0}.mw-parser-output .ts-Начало_цитаты-quote .ts-oq .ts-oq-header.ts-oq-header,.mw-parser-output .ts-Начало_цитаты-quote .ts-oq .ts-oq-content{padding-left:1.052632em;padding-right:1.052632em}</style> </p> 
+      <blockquote class="ts-Начало_цитаты-quote">
+       <p> «Сей храм сооружен во имя святого пророка предтечи и крестителя Господня Иоанна в память победы над турецким флотом одержанной при Чесме 1770 года в день его рождества. Заложен в 15-е лето царствования Екатерины II в присутствии короля шведского Густава III под именем графа Гогландского и освящен 1780 года июня 24 дня в присутствии его величества римского императора Иосифа II под именем графа Фалькенштейна».</p>
+      </blockquote> 
+      <ul class="gallery mw-gallery-traditional center"> 
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:30px auto;">
+           <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chesma_church04.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Chesma_church04.JPG/120px-Chesma_church04.JPG" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Chesma_church04.JPG/180px-Chesma_church04.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Chesma_church04.JPG/240px-Chesma_church04.JPG 2x" data-file-width="2844" data-file-height="2132"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p>Восточный фасад </p> 
+         </div> 
+        </div></li> 
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:10_%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8F.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/10_%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8F.jpg/80px-10_%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8F.jpg" decoding="async" width="80" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/10_%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8F.jpg/120px-10_%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8F.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/10_%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8F.jpg/159px-10_%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8F.jpg 2x" data-file-width="1524" data-file-height="2292"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p>Восточная колокольня </p> 
+         </div> 
+        </div></li> 
+       <li class="gallerybox" style="width: 155px">
+        <div style="width: 155px"> 
+         <div class="thumb" style="width: 150px;">
+          <div style="margin:15px auto;">
+           <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:3_%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D1%85%D0%BE%D0%B4.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/3_%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D1%85%D0%BE%D0%B4.jpg/73px-3_%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D1%85%D0%BE%D0%B4.jpg" decoding="async" width="73" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/3_%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D1%85%D0%BE%D0%B4.jpg/109px-3_%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D1%85%D0%BE%D0%B4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/3_%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D1%85%D0%BE%D0%B4.jpg/146px-3_%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B2%D1%85%D0%BE%D0%B4.jpg 2x" data-file-width="708" data-file-height="1166"></a>
+          </div>
+         </div> 
+         <div class="gallerytext"> 
+          <p>Главный вход </p> 
+         </div> 
+        </div></li> 
+      </ul> 
+      <h2><span id=".D0.9D.D0.B0.D1.81.D1.82.D0.BE.D1.8F.D1.82.D0.B5.D0.BB.D0.B8_.D1.86.D0.B5.D1.80.D0.BA.D0.B2.D0.B8"></span><span class="mw-headline" id="Настоятели_церкви">Настоятели церкви</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Настоятели церкви»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;action=edit&amp;section=3" title="Редактировать раздел «Настоятели церкви»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <table class="standard"> 
+       <tbody>
+        <tr> 
+         <th colspan="2">Настоятели церкви </th>
+        </tr> 
+        <tr> 
+         <th>Даты</th> 
+         <th>Настоятель<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup> </th>
+        </tr> 
+        <tr> 
+         <td>1780—1782</td> 
+         <td>священник Василий Семёнов </td>
+        </tr> 
+        <tr> 
+         <td>1782—1787</td> 
+         <td>священник Емилиан Исаев </td>
+        </tr> 
+        <tr> 
+         <td>1787—1790</td> 
+         <td>священник Иоанн Федоров </td>
+        </tr> 
+        <tr> 
+         <td>1790—1793</td> 
+         <td>священник Алексий Алексеев </td>
+        </tr> 
+        <tr> 
+         <td>март 1793—1830</td> 
+         <td>священник Иоанн Яковлев </td>
+        </tr> 
+        <tr> 
+         <td>1830 — <abbr title="по юлианскому календарю">15</abbr>&nbsp;<a href="/wiki/27_%D0%BC%D0%B0%D1%8F" title="27 мая">(27)&nbsp;мая</a>&nbsp;<a href="/wiki/1889_%D0%B3%D0%BE%D0%B4" title="1889 год">1889</a></td> 
+         <td>протоиерей Феодор Степанович Зосимовский (1803—1889) </td>
+        </tr> 
+        <tr> 
+         <td><abbr title="по юлианскому календарю">22&nbsp;мая</abbr> (<a href="/wiki/3_%D0%B8%D1%8E%D0%BD%D1%8F" title="3 июня">3&nbsp;июня</a>)&nbsp;<a href="/wiki/1889_%D0%B3%D0%BE%D0%B4" title="1889 год">1889</a> — 1905</td> 
+         <td>протоиерей Василий Петрович Верещагин (1834—1908) </td>
+        </tr> 
+        <tr> 
+         <td>1905—1908</td> 
+         <td>священник Александр Беляев </td>
+        </tr> 
+        <tr> 
+         <td>1908—1924</td> 
+         <td>священник Иоанн Попов (1857—…) </td>
+        </tr> 
+        <tr> 
+         <td>1924—1991</td> 
+         <td><i>период закрытия прихода</i> </td>
+        </tr> 
+        <tr> 
+         <td>1991 — настоящее время</td> 
+         <td>протоиерей Алексий Сергеевич Крылов (род. 1958) </td>
+        </tr> 
+       </tbody>
+      </table> 
+      <h2><span id=".D0.90.D1.80.D1.85.D0.B8.D1.82.D0.B5.D0.BA.D1.82.D1.83.D1.80.D0.BD.D1.8B.D0.B5_.D0.BA.D0.BE.D0.BF.D0.B8.D0.B8_.D1.85.D1.80.D0.B0.D0.BC.D0.B0"></span><span class="mw-headline" id="Архитектурные_копии_храма">Архитектурные копии храма</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Архитектурные копии храма»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;action=edit&amp;section=4" title="Редактировать раздел «Архитектурные копии храма»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <p>Чесменская церковь стала образом сохранившегося <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B0%D0%BC_(%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B5)" title="Преображенский храм (Красное)">Преображенского храма</a> (1790) в имении Полторацких в селе <a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B5_(%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)" title="Красное (Старицкий район)">Красном</a> <a href="/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%A2%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8#Достопримечательности" class="mw-redirect" title="Старицкий район Тверской области">Старицкого района Тверской области</a> (особенность храма — применение местного белого камня)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup> и утраченной <a href="/wiki/%D0%A5%D1%80%D0%B0%D0%BC_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%8F_%D0%A7%D1%83%D0%B4%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D1%86%D0%B0_(%D0%9F%D0%BE%D1%81%D0%B0%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE)" title="Храм Николая Чудотворца (Посадниково)">Никольской церкви</a> (1781—1788) в усадьбе <a href="/wiki/%D0%9B%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87" title="Ланской, Александр Дмитриевич">Александра Ланского</a> в селе Посадниково <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%80%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8" class="mw-redirect" title="Новоржевский район Псковской области">Новоржевского района Псковской области</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>. Храм в имении Ланского был дополнен высокой колокольней. Сохранились фотографии и обмеры сооружений, выполненные архитектором С. Беляевым в 1901 году<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>. </p> 
+      <h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;action=edit&amp;section=5" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist columns" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">В течение года в алтарной абсиде храма сохранялась большая диорама «Чесменская победа»</span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.katehizis.ru/index.php?option=com_content&amp;task=view&amp;id=2111&amp;Itemid=134">Чесменская церковь</a></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://hramvkrasnom.ru/">Сайт Храма Преображения Господня в селе Красном</a></span> </li> 
+         <li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://arch-heritage.livejournal.com/485003.html?thread=4343435">Усадебные копии Чесменской церкви</a>. Архитектурное наследие — сообщество в Живом Журнале.</span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Архив <a href="/wiki/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B_%D0%A0%D0%90%D0%9D" title="Институт истории материальной культуры РАН">ЛОИА</a>, ф. 1, 1925 г., № 3, 28, 45—47, 1899 г., № 122.</span> </li> 
+        </ol>
+       </div>
+      </div> 
+      <h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;action=edit&amp;section=6" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a rel="nofollow" class="external text" href="http://chesma.spb.ru/">Сайт Чесменской церкви</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://al-spbphoto.narod.ru/okraina/moskovsky_vostok.html">Московский район</a></li> 
+       <li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070929104853/http://sobory.ru/article/index.html?object=1517">Церковь Рождества Иоанна Предтечи</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.enlight.ru/camera/370/index.html">Чесменская церковь на сайте Бродячей камеры</a></li> 
+       <li><a rel="nofollow" class="external text" href="http://www.mitropolia-spb.ru/news_detail.php?ID=1916">Установка креста на Чесменском кладбище</a>&nbsp;<small class="ref-info">(недоступная ссылка)</small></li> 
+       <li><i>Екатерина Косовская.</i> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091227094552/http://www.funeralassociation.ru/ru/newspaper/new/1406/">Отдавшим жизнь за Родину посвящается — воинское мемориальное кладбище Чесменское</a></li>
+      </ul> <!-- 
+NewPP limit report
+Parsed by mw1415
+Cached time: 20220316161746
+Cache expiry: 86400
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.447 seconds
+Real time usage: 0.599 seconds
+Preprocessor visited node count: 2847/1000000
+Post‐expand include size: 59123/2097152 bytes
+Template argument size: 12068/2097152 bytes
+Highest expansion depth: 18/100
+Expensive parser function count: 19/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 8487/5000000 bytes
+Lua time usage: 0.243/10.000 seconds
+Lua memory usage: 5363944/52428800 bytes
+Number of Wikibase entities loaded: 13/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  538.861      1 -total
+ 84.31%  454.310      1 Шаблон:Храм
+ 82.67%  445.488      1 Шаблон:Достопримечательность
+ 72.67%  391.617      1 Шаблон:Карточка
+ 19.38%  104.431     15 Шаблон:Wikidata
+  9.24%   49.789      1 Шаблон:Культурное_наследие_народов_РФ
+  8.63%   46.515      1 Шаблон:Wikidata-coords
+  6.79%   36.591      1 Шаблон:Интервал_даты
+  5.21%   28.073      1 Шаблон:Антропогеокарточки/Общие_проверки
+  5.05%   27.204      1 Шаблон:Карточка/оригинал_названия
+--> <!-- Saved in parser cache with key ruwiki:pcache:idhash:774523-0!canonical and timestamp 20220316161745 and revision id 119375041. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Чесменская_церковь&amp;oldid=119375041">https://ru.wikipedia.org/w/index.php?title=Чесменская_церковь&amp;oldid=119375041</a>
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Объекты культурного наследия России по алфавиту">Объекты культурного наследия России по алфавиту</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D1%8F_%D0%B2_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B5" title="Категория:Федеральные объекты культурного наследия в Санкт-Петербурге">Федеральные объекты культурного наследия в Санкт-Петербурге</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Культовые сооружения по алфавиту">Культовые сооружения по алфавиту</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%8F%D0%B2%D0%B8%D0%BB%D0%B8%D1%81%D1%8C_%D0%B2_1780_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Появились в 1780 году">Появились в 1780 году</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%80%D0%B0%D0%BC%D1%8B_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0" title="Категория:Храмы Санкт-Петербурга">Храмы Санкт-Петербурга</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BF%D0%B8%D1%82%D1%83%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D1%85%D1%80%D0%B0%D0%BC%D1%8B_%D0%BE%D1%80%D0%B4%D0%B5%D0%BD%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D0%B8" title="Категория:Капитульные храмы орденов Российской империи">Капитульные храмы орденов Российской империи</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%80%D0%B0%D0%BC%D1%8B_%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B0_%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%B0_%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%B8%D1%82%D0%B5%D0%BB%D1%8F" title="Категория:Храмы Рождества Иоанна Крестителя">Храмы Рождества Иоанна Крестителя</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B8_%D1%81%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F,_%D0%B7%D0%B0%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_1777_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Здания и сооружения, заложенные в 1777 году">Здания и сооружения, заложенные в 1777 году</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%80%D0%B0%D0%BC%D1%8B,_%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_1780_%D0%B3%D0%BE%D0%B4%D1%83_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Храмы, построенные в 1780 году в России">Храмы, построенные в 1780 году в России</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F,_%D1%81%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%AE%D1%80%D0%B8%D0%B5%D0%BC_%D0%A4%D0%B5%D0%BB%D1%8C%D1%82%D0%B5%D0%BD%D0%BE%D0%BC" title="Категория:Здания, спроектированные Юрием Фельтеном">Здания, спроектированные Юрием Фельтеном</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B5%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Неоготическая архитектура России">Неоготическая архитектура России</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:1780_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B5" title="Категория:1780 год в Санкт-Петербурге">1780 год в Санкт-Петербурге</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Скрытые категории: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%B3%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Антропогенные географические объекты по алфавиту">Антропогенные географические объекты по алфавиту</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%90%D0%93%D0%95%D0%9E:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B5%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:АГЕО:Последняя правка: в текущем году">ПРО:АГЕО:Последняя правка: в текущем году</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Страницы с картами">Википедия:Страницы с картами</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Навигация</h2> 
+   <div id="mw-head"> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"> <label id="p-personal-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Персональные инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage" class="mw-list-item"><span>Вы не представились системе</span></li>
+       <li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li>
+       <li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li>
+       <li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li>
+       <li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> <label id="p-namespaces-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Пространства имён</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li>
+        <li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> <label id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading"> <span class="vector-menu-heading-label">русский</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> <label id="p-views-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Просмотры</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C"><span>Читать</span></a></li>
+        <li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li>
+        <li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li>
+        <li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" title="Больше возможностей"> 
+      <input type="checkbox" id="p-cactions-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-cactions" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> <label id="p-cactions-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Ещё</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box"> 
+      <div> 
+       <h3> <label for="searchInput">Поиск</label> </h3> 
+       <form action="/w/index.php" id="searchform" class="vector-search-box-form"> 
+        <div id="simpleSearch" class="vector-search-box-inner" data-search-loc="header-navigation"> 
+         <input class="vector-search-box-input" type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"> 
+         <input type="hidden" name="title" value="Служебная:Поиск"> 
+         <input id="mw-searchButton" class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти"> 
+         <input id="searchButton" class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти"> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a> 
+    </div> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> <label id="p-navigation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Навигация</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li>
+       <li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li>
+       <li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li>
+       <li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li>
+       <li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li>
+       <li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"> <label id="p-participation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Участие</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об&nbsp;ошибке</span></a></li>
+       <li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li>
+       <li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li>
+       <li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li>
+       <li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li>
+       <li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li>
+       <li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> <label id="p-tb-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li>
+       <li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li>
+       <li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+       <li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;oldid=119375041" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li>
+       <li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;action=info" title="Подробнее об этой странице"><span>Сведения о&nbsp;странице</span></a></li>
+       <li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;id=119375041&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li>
+       <li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1636756" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> <label id="p-coll-print_export-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Печать/экспорт</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F+%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li>
+       <li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li>
+       <li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> <label id="p-wikibase-otherprojects-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">В других проектах</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Chesme_Church" hreflang="en"><span>Викисклад</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> <label id="p-lang-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">На других языках</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%83%D9%86%D9%8A%D8%B3%D8%A9_%D8%B4%D9%8A%D8%B3%D9%85" title="كنيسة شيسم — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li>
+       <li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D9%83%D9%86%D9%8A%D8%B3%D9%87_%D8%B4%D9%8A%D8%B3%D9%85" title="كنيسه شيسم — Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li>
+       <li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/%C3%87esme_kils%C9%99si" title="Çesme kilsəsi — азербайджанский" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li>
+       <li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%A7%D1%8D%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B0%D1%80%D0%BA%D0%B2%D0%B0" title="Чэсменская царква — белорусский" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li>
+       <li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0_%D1%86%D1%8A%D1%80%D0%BA%D0%B2%D0%B0" title="Чесменска църква — болгарский" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li>
+       <li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Chr%C3%A1m_Narozen%C3%AD_svat%C3%A9ho_Jana_K%C5%99titele_(Petrohrad)" title="Chrám Narození svatého Jana Křtitele (Petrohrad) — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li>
+       <li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Tschesmensker_Kirche" title="Tschesmensker Kirche — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li>
+       <li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Chesme_Church" title="Chesme Church — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li>
+       <li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Iglesia_de_Chesme" title="Iglesia de Chesme — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li>
+       <li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/%C3%87e%C5%9Fmen_kirkko" title="Çeşmen kirkko — финский" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li>
+       <li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/%C3%89glise_de_Tchesm%C3%A9" title="Église de Tchesmé — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li>
+       <li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Chiesa_di_Cesme" title="Chiesa di Cesme — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li>
+       <li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%A9%E1%83%94%E1%83%A8%E1%83%9B%E1%83%94%E1%83%A1_%E1%83%94%E1%83%99%E1%83%9A%E1%83%94%E1%83%A1%E1%83%98%E1%83%90" title="ჩეშმეს ეკლესია — грузинский" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li>
+       <li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0_%D1%86%D1%80%D0%BA%D0%B2%D0%B0" title="Чесменска црква — македонский" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li>
+       <li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Tsjesmekerk" title="Tsjesmekerk — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li>
+       <li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Cerkiew_Czesme%C5%84ska" title="Cerkiew Czesmeńska — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li>
+       <li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Igreja_de_Chesme" title="Igreja de Chesme — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li>
+       <li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/%C4%8Cesmensk%C3%BD_chr%C3%A1m" title="Česmenský chrám — словацкий" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li>
+       <li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/%C4%8Cesmenska_cerkev" title="Česmenska cerkev — словенский" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li>
+       <li class="interlanguage-link interwiki-vep mw-list-item"><a href="https://vep.wikipedia.org/wiki/%C4%8Cesmen_jumalanpert%27" title="Česmen jumalanpert' — Veps" lang="vep" hreflang="vep" class="interlanguage-link-target"><span>Vepsän kel’</span></a></li>
+       <li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%88%87%E6%96%AF%E9%A9%AC%E6%95%99%E5%A0%82" title="切斯马教堂 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1636756#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 15 января 2022 в 12:20.</li> 
+    <li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия. <span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br> Wikipedia®&nbsp;— зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li> 
+    <li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li> 
+    <li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li> 
+    <li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.447","walltime":"0.599","ppvisitednodes":{"value":2847,"limit":1000000},"postexpandincludesize":{"value":59123,"limit":2097152},"templateargumentsize":{"value":12068,"limit":2097152},"expansiondepth":{"value":18,"limit":100},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8487,"limit":5000000},"entityaccesscount":{"value":13,"limit":400},"timingprofile":["100.00%  538.861      1 -total"," 84.31%  454.310      1 Шаблон:Храм"," 82.67%  445.488      1 Шаблон:Достопримечательность"," 72.67%  391.617      1 Шаблон:Карточка"," 19.38%  104.431     15 Шаблон:Wikidata","  9.24%   49.789      1 Шаблон:Культурное_наследие_народов_РФ","  8.63%   46.515      1 Шаблон:Wikidata-coords","  6.79%   36.591      1 Шаблон:Интервал_даты","  5.21%   28.073      1 Шаблон:Антропогеокарточки/Общие_проверки","  5.05%   27.204      1 Шаблон:Карточка/оригинал_названия"]},"scribunto":{"limitreport-timeusage":{"value":"0.243","limit":"10.000"},"limitreport-memusage":{"value":5363944,"limit":52428800},"limitreport-logs":"Loaded datatype external-id of P1483 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P5381 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P1483 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P5381 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype commonsMedia of P3311 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P708 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P149 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P84 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P112 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P2048 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P186 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P1397 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P7678 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw1415","timestamp":"20220316161746","ttl":86400,"transientcontent":true}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0427\u0435\u0441\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u0446\u0435\u0440\u043a\u043e\u0432\u044c","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1636756","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1636756","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-08-28T17:13:16Z","dateModified":"2022-01-15T12:20:30Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d7\/Spb_06-2012_Chesme_Church.jpg","headline":"\u043f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u044b\u0439 \u0445\u0440\u0430\u043c \u0432 \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0435 \u043d\u0430 \u0443\u043b\u0438\u0446\u0435 \u041b\u0435\u043d\u0441\u043e\u0432\u0435\u0442\u0430, \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u044b \u0432 \u0441\u0442\u0438\u043b\u0435 \u043f\u0441\u0435\u0432\u0434\u043e\u0433\u043e\u0442\u0438\u043a\u0438"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":142,"wgHostname":"mw1441"});});</script>  
+ </body>
+</html>

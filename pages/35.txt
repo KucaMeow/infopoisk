@@ -1,0 +1,357 @@
+<!doctype html>
+<html class="client-nojs" lang="ru" dir="ltr"> 
+ <head> 
+  <meta charset="UTF-8"> 
+  <title>Яр (ресторан) — Википедия</title> 
+  <script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"bc954340-8ada-41d3-b522-46bda658d834","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Яр_(ресторан)","wgTitle":"Яр (ресторан)","wgCurRevisionId":119273477,"wgRevisionId":119273477,"wgArticleId":2192440,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Страницы, использующие волшебные ссылки ISBN","Рестораны Москвы"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Яр_(ресторан)","wgRelevantArticleId":2192440,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":119273477,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q4538474","wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":true,"wgGELinkRecommendationsFrontendEnabled":true};RLSTATE={"ext.globalCssJs.user.styles":
+"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.popups","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1i9g4",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"> 
+  <script async src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script> 
+  <meta name="ResourceLoaderDynamicStyles" content=""> 
+  <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"> 
+  <noscript>
+   <link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector">
+  </noscript> 
+  <meta name="generator" content="MediaWiki 1.38.0-wmf.25"> 
+  <meta name="referrer" content="origin"> 
+  <meta name="referrer" content="origin-when-crossorigin"> 
+  <meta name="referrer" content="origin-when-cross-origin"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta property="og:title" content="Яр (ресторан) — Википедия"> 
+  <meta property="og:type" content="website"> 
+  <link rel="preconnect" href="//upload.wikimedia.org"> 
+  <link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)"> 
+  <link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)&amp;action=edit"> 
+  <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"> 
+  <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"> 
+  <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"> 
+  <link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"> 
+  <link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"> 
+  <link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)"> 
+  <link rel="dns-prefetch" href="//meta.wikimedia.org"> 
+  <link rel="dns-prefetch" href="//login.wikimedia.org"> 
+ </head> 
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Яр_ресторан rootpage-Яр_ресторан skin-vector action-view skin-vector-legacy">
+  <div id="mw-page-base" class="noprint"></div> 
+  <div id="mw-head-base" class="noprint"></div> 
+  <div id="content" class="mw-body" role="main"> <a id="top"></a> 
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div> 
+   <div class="mw-indicators"> 
+   </div> 
+   <h1 id="firstHeading" class="firstHeading mw-first-heading">Яр (ресторан)</h1> 
+   <div id="bodyContent" class="vector-body"> 
+    <div id="siteSub" class="noprint">
+     Материал из Википедии — свободной энциклопедии
+    </div> 
+    <div id="contentSub"></div> 
+    <div id="contentSub2"></div> 
+    <div id="jump-to-nav"></div> <a class="mw-jump-link" href="#mw-head">Перейти к навигации</a> <a class="mw-jump-link" href="#searchInput">Перейти к поиску</a> 
+    <div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr">
+     <div class="mw-parser-output">
+      <div class="hatnote navigation-not-searchable noprint dabhide">
+       У этого термина существуют и другие значения, см. <a href="/wiki/%D0%AF%D1%80" class="mw-disambig" title="Яр">Яр</a>.
+      </div> 
+      <p><b>«Яр»</b>&nbsp;— название нескольких знаменитых <a href="/wiki/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD" title="Ресторан">ресторанов</a> в <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москве</a> <a href="/wiki/XIX" class="mw-redirect" title="XIX">XIX</a>&nbsp;— начала <a href="/wiki/XX_%D0%B2%D0%B5%D0%BA" title="XX век">XX века</a>. «Яр»&nbsp;пользовался популярностью у представителей <a href="/wiki/%D0%91%D0%BE%D0%B3%D0%B5%D0%BC%D0%B0" title="Богема">богемы</a> и был одним из центров <a href="/wiki/%D0%A6%D1%8B%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0" class="mw-redirect" title="Цыганская музыка">цыганской музыки</a>. В настоящее время одноимённый ресторан работает в здании отеля «<a href="/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_(%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0,_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Советская (гостиница, Москва)">Советский</a>». </p> 
+      <h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «История»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)&amp;action=edit&amp;section=1" title="Редактировать раздел «История»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:282px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0._%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD_%27%D0%AF%D1%80%D1%8A%27_%D0%B2_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5_1898~1900%D0%B3%D0%B3_903117_e1t3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0._%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD_%27%D0%AF%D1%80%D1%8A%27_%D0%B2_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5_1898~1900%D0%B3%D0%B3_903117_e1t3.jpg/280px-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0._%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD_%27%D0%AF%D1%80%D1%8A%27_%D0%B2_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5_1898~1900%D0%B3%D0%B3_903117_e1t3.jpg" decoding="async" width="280" height="183" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0._%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD_%27%D0%AF%D1%80%D1%8A%27_%D0%B2_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5_1898~1900%D0%B3%D0%B3_903117_e1t3.jpg/420px-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0._%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD_%27%D0%AF%D1%80%D1%8A%27_%D0%B2_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5_1898~1900%D0%B3%D0%B3_903117_e1t3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0._%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD_%27%D0%AF%D1%80%D1%8A%27_%D0%B2_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5_1898~1900%D0%B3%D0%B3_903117_e1t3.jpg/560px-%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0._%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD_%27%D0%AF%D1%80%D1%8A%27_%D0%B2_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5_1898~1900%D0%B3%D0%B3_903117_e1t3.jpg 2x" data-file-width="1526" data-file-height="997"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0._%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD_%27%D0%AF%D1%80%D1%8A%27_%D0%B2_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D0%B0%D1%80%D0%BA%D0%B5_1898~1900%D0%B3%D0%B3_903117_e1t3.jpg" class="internal" title="Увеличить"></a>
+         </div>Ресторан «Яр» на Петербургском шоссе до перестройки. 1898~1900&nbsp;гг.
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:282px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Moscow,_Yar_Restaurant,_A.Erichson,_1910.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Moscow%2C_Yar_Restaurant%2C_A.Erichson%2C_1910.jpg/280px-Moscow%2C_Yar_Restaurant%2C_A.Erichson%2C_1910.jpg" decoding="async" width="280" height="264" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Moscow%2C_Yar_Restaurant%2C_A.Erichson%2C_1910.jpg/420px-Moscow%2C_Yar_Restaurant%2C_A.Erichson%2C_1910.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Moscow%2C_Yar_Restaurant%2C_A.Erichson%2C_1910.jpg/560px-Moscow%2C_Yar_Restaurant%2C_A.Erichson%2C_1910.jpg 2x" data-file-width="800" data-file-height="753"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Moscow,_Yar_Restaurant,_A.Erichson,_1910.jpg" class="internal" title="Увеличить"></a>
+         </div>Здание «Яра» на Петербургском шоссе, построенное Адольфом Эрихсоном. 1910—1913&nbsp;гг.
+        </div>
+       </div>
+      </div> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:282px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Moscow_in_XXIII_Century._SPb_Shosse._1914.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Moscow_in_XXIII_Century._SPb_Shosse._1914.jpg/280px-Moscow_in_XXIII_Century._SPb_Shosse._1914.jpg" decoding="async" width="280" height="162" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Moscow_in_XXIII_Century._SPb_Shosse._1914.jpg/420px-Moscow_in_XXIII_Century._SPb_Shosse._1914.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Moscow_in_XXIII_Century._SPb_Shosse._1914.jpg/560px-Moscow_in_XXIII_Century._SPb_Shosse._1914.jpg 2x" data-file-width="2489" data-file-height="1440"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Moscow_in_XXIII_Century._SPb_Shosse._1914.jpg" class="internal" title="Увеличить"></a>
+         </div><a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82" title="Ленинградский проспект">Санкт-Петербургское шоссе</a> с <a href="/wiki/%D0%90%D1%8D%D1%80%D0%BE%D1%81%D0%B0%D0%BD%D0%B8" title="Аэросани">аэросанями</a> в <a href="/wiki/XXIII_%D0%B2%D0%B5%D0%BA" title="XXIII век">XXIII&nbsp;веке</a> на открытке 1914 года из цикла «<a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_%D0%B2_XXIII_%D0%B2%D0%B5%D0%BA%D0%B5" title="Москва в XXIII веке">Москва в XXIII&nbsp;веке</a>». Вид ресторана «Яр»
+        </div>
+       </div>
+      </div> 
+      <p>В канун 1826 года француз Транкиль Яр (<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&nbsp;<span lang="fr" style="font-style:italic;">Tranquille Yard</span>), по имени которого и названо заведение, открыл ресторан в <a href="/wiki/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D1%8B_%D0%B8_%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D0%B0_%C2%AB%D0%AF%D1%80%C2%BB" title="Здание гостиницы и ресторана «Яр»">доме Шавана</a> на <a href="/wiki/%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%9C%D0%BE%D1%81%D1%82_(%D1%83%D0%BB%D0%B8%D1%86%D0%B0)" class="mw-redirect" title="Кузнецкий Мост (улица)">Кузнецком мосту</a>. Газета «<a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%B5%D0%B4%D0%BE%D0%BC%D0%BE%D1%81%D1%82%D0%B8" title="Московские ведомости">Московские ведомости</a>» сообщала, что открылась «ресторация с обеденным и ужинным столом, всякими виноградными винами и ликёрами, десертами, кофием и чаем, при весьма умеренных ценах»<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>. </p>
+      <p>В 1836 году «Яр» открылся в <a href="/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D1%80%D0%BA_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Петровский парк (Москва)">Петровском парке</a> — в деревянном одноэтажном здании возле Петербургского шоссе (ныне <a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%81%D0%BF%D0%B5%D0%BA%D1%82" title="Ленинградский проспект">Ленинградский проспект</a>). </p>
+      <p>Несколько лет&nbsp;— с 1848 по 1851&nbsp;годы&nbsp;— «Яр» работал в саду «Эрмитаж», но не в «<a href="/wiki/%D0%A1%D0%B0%D0%B4_%C2%AB%D0%AD%D1%80%D0%BC%D0%B8%D1%82%D0%B0%D0%B6%C2%BB" title="Сад «Эрмитаж»">современном</a>» на <a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%BA%D0%B0" title="Улица Петровка">Петровке</a>, а в <a href="/wiki/%D0%A1%D0%B0%D0%B4_%C2%AB%D0%AD%D1%80%D0%BC%D0%B8%D1%82%D0%B0%D0%B6%C2%BB_%D0%BD%D0%B0_%D0%91%D0%BE%D0%B6%D0%B5%D0%B4%D0%BE%D0%BC%D0%BA%D0%B5" title="Сад «Эрмитаж» на Божедомке">старом</a>, находившемся на Божедомке. </p>
+      <p>В 1871 году хозяином ресторана стал московский купец <a href="/w/index.php?title=%D0%90%D0%BA%D1%81%D1%91%D0%BD%D0%BE%D0%B2,_%D0%A4%D1%91%D0%B4%D0%BE%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" class="new" title="Аксёнов, Фёдор Иванович (страница отсутствует)">Фёдор&nbsp;Аксёнов</a>. <a href="/wiki/%D0%93%D0%B8%D0%BB%D1%8F%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Гиляровский, Владимир Алексеевич">Владимир Гиляровский</a> писал: «Яр содержал Аксёнов, толстый бритый человек, весьма удачно прозванный „Апельсином“», «… рестораны загородные, из них лучшие&nbsp;— „Яр“ и „Стрельна“»<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>. </p>
+      <p>Эти же рестораны «Яр» и «Стрельна» становятся центрами цыганского пения. В конце XIX&nbsp;— начале XX&nbsp;века в «Яре» работал цыганский хор Ильи Соколова, здесь пели знаменитые цыганские певицы&nbsp;— <a href="/w/index.php?title=%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B0,_%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4%D0%B0_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Фёдорова, Олимпиада Николаевна (страница отсутствует)">Олимпиада Николаевна Фёдорова</a> (Пиша), а позднее&nbsp;— <a href="/wiki/%D0%9F%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0,_%D0%92%D0%B0%D1%80%D0%B2%D0%B0%D1%80%D0%B0_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0" title="Панина, Варвара Васильевна">Варвара Васильевна Панина</a> (Васильева). </p>
+      <p>Здание ресторана неоднократно перестраивалось. В июле 1896 года «Яр» приобрёл бывший официант, выходец из крестьян <a href="/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D1%8F" title="Ярославская губерния">Ярославской губернии</a> <a href="/wiki/%D0%A1%D1%83%D0%B4%D0%B0%D0%BA%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BA%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87" title="Судаков, Алексей Акимович">Алексей Судаков</a>. В 1910 году по его поручению архитектором <a href="/wiki/%D0%AD%D1%80%D0%B8%D1%85%D1%81%D0%BE%D0%BD,_%D0%90%D0%B4%D0%BE%D0%BB%D1%8C%D1%84_%D0%AD%D1%80%D0%BD%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B8%D1%87" title="Эрихсон, Адольф Эрнестович">Адольфом Эрихсоном</a> было выстроено новое здание в стиле <a href="/wiki/%D0%9C%D0%BE%D0%B4%D0%B5%D1%80%D0%BD" title="Модерн">модерн</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>, с большими гранёными куполами, арочными окнами и монументальными металлическими светильниками по фасаду. Внутри были устроены Большой и Малый залы, императорская ложа и <a href="/wiki/%D0%9A%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82_(%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%B0_%D0%B2_%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D0%B5)" title="Кабинет (комната в ресторане)">кабинеты</a>, один из которых получил название «Пушкинский» в память поэта, написавшего о «Яре» на Кузнецком: </p>
+      <p><style data-mw-deduplicate="TemplateStyles:r117903712">.mw-parser-output .ts-Начало_цитаты-quote{padding:0.25em 1em}.mw-parser-output .ts-Начало_цитаты-source{margin:1em 0 0 5%}.mw-parser-output .ts-Начало_цитаты-quote .ts-oq{margin:0 -1em -0.25em}body.skin-minerva .mw-parser-output .ts-Начало_цитаты-quote .ts-oq{margin-left:0}.mw-parser-output .ts-Начало_цитаты-quote .ts-oq .ts-oq-header.ts-oq-header,.mw-parser-output .ts-Начало_цитаты-quote .ts-oq .ts-oq-content{padding-left:1.052632em;padding-right:1.052632em}</style> </p> 
+      <blockquote class="ts-Начало_цитаты-quote"> 
+       <div class="poem"> 
+        <p>Долго ль мне в тоске голодной<br> Пост невольный соблюдать<br> И телятиной холодной<br> Трюфли Яра поминать? </p> 
+       </div>
+      </blockquote> 
+      <p>Вблизи ресторана был построен особняк владельца, до наших дней не дошедший. На торжественном открытии нового здания «Яра» в 1910 году была впервые исполнена песня, сведения об авторе которой противоречивы<sup id="cite_ref-mosnasledie_4-0" class="reference"><a href="#cite_note-mosnasledie-4">[4]</a></sup>: </p>
+      <p>
+       <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r117903712"> </p> 
+      <blockquote class="ts-Начало_цитаты-quote"> 
+       <div class="poem"> 
+        <p>Что так грустно… Взять гитару<br> Запеть песню про любовь<br> Иль поехать лучше к «Яру»<br> Разогреть шампанским кровь?<br> Эй, ямщик, гони-ка к «Яру»!<br> Эх, лошадей, брат, не жалей!<br> Тройку ты запряг&nbsp;— не пару,<br> Так вези, брат, поскорей! </p> 
+       </div>
+      </blockquote> 
+      <p>Владение Судакова включало целый квартал, помимо главного корпуса там находились кухонные флигели, склады, летние беседки и даже две электростанции. В начале ХХ века имущество Судакова оценивалось почти в 300 тысяч рублей.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> </p>
+      <p>Ресторан стал очень популярным среди российской <a href="/wiki/%D0%AD%D0%BB%D0%B8%D1%82%D0%B0" title="Элита">элиты</a>. В числе посетителей «Яра» были <a href="/wiki/%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2,_%D0%A1%D0%B0%D0%B2%D0%B2%D0%B0_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Морозов, Савва Тимофеевич">Савва Морозов</a>, <a href="/wiki/%D0%9F%D0%BB%D0%B5%D0%B2%D0%B0%D0%BA%D0%BE,_%D0%A4%D1%91%D0%B4%D0%BE%D1%80_%D0%9D%D0%B8%D0%BA%D0%B8%D1%84%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Плевако, Фёдор Никифорович">Фёдор Плевако</a>, <a href="/wiki/%D0%A7%D0%B5%D1%85%D0%BE%D0%B2,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Чехов, Антон Павлович">Антон Чехов</a>, <a href="/wiki/%D0%9A%D1%83%D0%BF%D1%80%D0%B8%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Куприн, Александр Иванович">Александр Куприн</a>, <a href="/wiki/%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%B8%D0%B9" title="Максим Горький">Максим Горький</a>, <a href="/wiki/%D0%A8%D0%B0%D0%BB%D1%8F%D0%BF%D0%B8%D0%BD,_%D0%A4%D1%91%D0%B4%D0%BE%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Шаляпин, Фёдор Иванович">Фёдор Шаляпин</a>, <a href="/wiki/%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2" class="mw-redirect" title="Леонид Андреев">Леонид Андреев</a>, <a href="/wiki/%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%BD%D1%82,_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87" title="Бальмонт, Константин Дмитриевич">Константин Бальмонт</a>, а также <a href="/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%83%D1%82%D0%B8%D0%BD,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87" title="Распутин, Григорий Ефимович">Григорий Распутин</a><sup id="cite_ref-mosnasledie_4-1" class="reference"><a href="#cite_note-mosnasledie-4">[4]</a></sup>. </p> 
+      <div class="thumb tright">
+       <div class="thumbinner" style="width:282px;">
+        <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Moscow_Kuznetsky_Most_Street_9.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Moscow_Kuznetsky_Most_Street_9.jpg/280px-Moscow_Kuznetsky_Most_Street_9.jpg" decoding="async" width="280" height="162" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Moscow_Kuznetsky_Most_Street_9.jpg/420px-Moscow_Kuznetsky_Most_Street_9.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Moscow_Kuznetsky_Most_Street_9.jpg/560px-Moscow_Kuznetsky_Most_Street_9.jpg 2x" data-file-width="3504" data-file-height="2026"></a> 
+        <div class="thumbcaption">
+         <div class="magnify">
+          <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Moscow_Kuznetsky_Most_Street_9.jpg" class="internal" title="Увеличить"></a>
+         </div>Старое <a href="/wiki/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D1%8B_%D0%B8_%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D0%B0_%C2%AB%D0%AF%D1%80%C2%BB" title="Здание гостиницы и ресторана «Яр»">здание гостиницы и ресторана «Яр»</a> на углу улиц <a href="/wiki/%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%9C%D0%BE%D1%81%D1%82_(%D1%83%D0%BB%D0%B8%D1%86%D0%B0)" class="mw-redirect" title="Кузнецкий Мост (улица)">Кузнецкий мост</a> и <a href="/wiki/%D0%9D%D0%B5%D0%B3%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0" title="Неглинная улица">Неглинная</a> в <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москве</a>, 2008 год.
+        </div>
+       </div>
+      </div> 
+      <p>После <a href="/wiki/%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F" title="Октябрьская революция">Октябрьской революции</a> ресторан закрыли. Алексей Судаков был арестован, впоследствии вернулся в родную деревню под Ярославлем. Некоторое время в период <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0" title="Новая экономическая политика">НЭПа</a> в здании «Яра» ещё работал ресторан. Позднее здесь размещались <a href="/wiki/%D0%9A%D0%B8%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84_%D0%A1%D0%A1%D0%A1%D0%A0" title="Кинематограф СССР">кинотеатр</a>, <a href="/wiki/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%B7%D0%B0%D0%BB" class="mw-redirect" title="Спортзал">спортзал</a> для бойцов <a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D0%90%D1%80%D0%BC%D0%B8%D1%8F" class="mw-redirect" title="Красная Армия">Красной Армии</a>, <a href="/wiki/%D0%93%D0%BE%D1%81%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D1%8C" title="Госпиталь">госпиталь</a>, с 1925 года&nbsp;— кинотехникум, с 1930&nbsp;года&nbsp;— <a href="/wiki/%D0%92%D0%93%D0%98%D0%9A" class="mw-redirect" title="ВГИК">ВГИК</a>. В 1939 году здание было перестроено под клуб архитектором <a href="/w/index.php?title=%D0%A0%D0%B0%D0%B3%D1%83%D0%BB%D0%B8%D0%BD,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" class="new" title="Рагулин, Павел Николаевич (страница отсутствует)">Павлом&nbsp;Рагулиным</a>, роспись потолка осуществлял художник <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%B8%D0%BD,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87" title="Корин, Павел Дмитриевич">Павел&nbsp;Корин</a>. С конца 1930-х годов здесь размещался Центральный дом ГВФ (<a href="/w/index.php?title=%D0%9A%D0%BB%D1%83%D0%B1_%D0%BB%D1%91%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Клуб лётчиков (страница отсутствует)">Клуб лётчиков</a>), в годы <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D1%8F_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Великая Отечественная война">Великой Отечественной войны</a>&nbsp;— клуб <a href="/wiki/%D0%92%D0%92%D0%A1_%D0%A1%D0%A1%D0%A1%D0%A0" class="mw-redirect" title="ВВС СССР">ВВС</a>. </p>
+      <p>В 1952 году здание было ещё раз перестроено архитекторами <a href="/wiki/%D0%A8%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D1%80,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Штеллер, Павел Павлович">Павлом&nbsp;Штеллером</a>, <a href="/wiki/%D0%9B%D0%BE%D0%B2%D0%B5%D0%B9%D0%BA%D0%BE,_%D0%98%D0%BE%D1%81%D0%B8%D1%84_%D0%98%D0%B3%D0%BD%D0%B0%D1%82%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Ловейко, Иосиф Игнатьевич">Иосифом&nbsp;Ловейко</a> и <a href="/wiki/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Лебедев, Виктор Владимирович">Виктором&nbsp;Лебедевым</a> в стиле <a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%BC%D0%BF%D0%B8%D1%80" title="Сталинский ампир">сталинского ампира</a>, и в нём открылась <a href="/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_(%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0,_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" title="Советская (гостиница, Москва)">гостиница «Советская»</a> с одноимённым рестораном. В этой гостинице проживал <a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%98%D0%BE%D1%81%D0%B8%D1%84%D0%BE%D0%B2%D0%B8%D1%87" title="Сталин, Василий Иосифович">Василий Сталин</a>. Сейчас в его честь названы апартаменты №&nbsp;301 гостиницы. В одном из залов ресторана теперь находится цыганский театр «<a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%86%D1%8B%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_%D0%A0%D0%BE%D0%BC%D1%8D%D0%BD" class="mw-redirect" title="Московский музыкально-драматический цыганский театр Ромэн">Ромэн</a>». С 1998 года ресторан при гостинице вновь называется «Яром»; в здании восстановлены фрагменты интерьера ресторана 1910 года<sup id="cite_ref-mosnasledie_4-2" class="reference"><a href="#cite_note-mosnasledie-4">[4]</a></sup>. </p> 
+      <h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «См. также»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)&amp;action=edit&amp;section=2" title="Редактировать раздел «См. также»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <ul>
+       <li><a href="/wiki/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D1%8B_%D0%B8_%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D0%B0_%C2%AB%D0%AF%D1%80%C2%BB" title="Здание гостиницы и ресторана «Яр»">Здание гостиницы и ресторана «Яр»</a></li>
+      </ul> 
+      <h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)&amp;action=edit&amp;section=3" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2> 
+      <div class="reflist columns" style="list-style-type: decimal;"> 
+       <div class="mw-references-wrap">
+        <ol class="references"> 
+         <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.sovietsky.ru/content/yarrest/legendyar/history/">Сайт отеля «Советский</a></span><span class="hidden-ref" style="display:none"><b>&nbsp;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>&nbsp;<small class="ref-info">(недоступная ссылка)</small>. <small>Дата обращения: 5 января 2010.</small> <small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100110043912/http://www.sovietsky.ru/content/yarrest/legendyar/history/">Архивировано</a> 10&nbsp;января 2010&nbsp;года.</small></span></span></span> </li> 
+         <li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Гиляровский В. А.</i> <a class="external text" href="https://ru.wikisource.org/wiki/Москва_и_москвичи_(Гиляровский)/Трактиры">Москва и москвичи</a>.&nbsp;— 1926.</span></span> </li> 
+         <li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span class="citation"><i>Стародубцева, Лена.</i> <span lang="und"><a rel="nofollow" class="external text" href="http://www.museum.ru/golitsyna/starodubceva.html">Модерн: мечта о красоте.</a></span><span class="hidden-ref" style="display:none"><b>&nbsp;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></b></span>&nbsp;<small class="ref-info">(недоступная ссылка)</small>. <small>Дата обращения: 5 января 2010.</small> <small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120830061654/http://www.museum.ru/golitsyna/starodubceva.html">Архивировано</a> 30&nbsp;августа 2012&nbsp;года.</small></span></span></span> </li> 
+         <li id="cite_note-mosnasledie-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-mosnasledie_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-mosnasledie_4-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-mosnasledie_4-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Зинде Э.</i> <a rel="nofollow" class="external text" href="http://dkn.mos.ru/upload/iblock/767/mn18_.pdf">Воспоминания о еде</a>&nbsp;// <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B5_%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D0%B5" title="Московское наследие">Московское наследие</a>&nbsp;: журнал.&nbsp;— <abbr title="Москва">М.</abbr>: Департамент культурного наследия города Москвы, 2012.&nbsp;— <span class="nowrap">№ 18</span>.&nbsp;— <span class="nowrap">С. 38—39</span>.</span></span> </li> 
+         <li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Ю. Петров.</i> Наемные управляющие в России. Опыт бизнес элит XIX-XX веков. / банк Уралсиб.&nbsp;— Москва: ИД Любимая книга, 2007.&nbsp;— С.&nbsp;105—107.&nbsp;— 160&nbsp;с.&nbsp;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/1932525599" class="internal mw-magiclink-isbn">ISBN 1-932525-59-9</a>.</span></span> </li> 
+        </ol>
+       </div>
+      </div> <!-- 
+NewPP limit report
+Parsed by mw1384
+Cached time: 20220315231129
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.197 seconds
+Real time usage: 0.237 seconds
+Preprocessor visited node count: 2397/1000000
+Post‐expand include size: 10519/2097152 bytes
+Template argument size: 4054/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6810/5000000 bytes
+Lua time usage: 0.026/10.000 seconds
+Lua memory usage: 1607836/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+--> <!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  195.950      1 -total
+ 65.11%  127.576      1 Шаблон:Примечания
+ 29.59%   57.977      1 Шаблон:Статья
+ 22.12%   43.353      2 Шаблон:Бсокр
+ 18.77%   36.780      1 Шаблон:Значения
+ 16.04%   31.432      1 Шаблон:Другое_значение
+ 15.79%   30.932      2 Шаблон:Cite_web
+ 11.50%   22.525      2 Шаблон:Книга
+  9.19%   18.002      2 Шаблон:Начало_цитаты
+  4.23%    8.283      2 Шаблон:Nobr
+--> <!-- Saved in parser cache with key ruwiki:pcache:idhash:2192440-0!canonical and timestamp 20220315231128 and revision id 119273477. Serialized with JSON.
+ --> 
+     </div>
+     <noscript>
+      <img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;">
+     </noscript> 
+     <div class="printfooter">
+      Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Яр_(ресторан)&amp;oldid=119273477">https://ru.wikipedia.org/w/index.php?title=Яр_(ресторан)&amp;oldid=119273477</a>
+     </div>
+    </div> 
+    <div id="catlinks" class="catlinks" data-mw="interface">
+     <div id="mw-normal-catlinks" class="mw-normal-catlinks">
+      <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категория</a>: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D1%8B_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B" title="Категория:Рестораны Москвы">Рестораны Москвы</a></li>
+      </ul>
+     </div>
+     <div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">
+      Скрытая категория: 
+      <ul>
+       <li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li>
+      </ul>
+     </div>
+    </div> 
+   </div> 
+  </div> 
+  <div id="mw-data-after-content"> 
+   <div class="read-more-container"></div> 
+  </div> 
+  <div id="mw-navigation"> 
+   <h2>Навигация</h2> 
+   <div id="mw-head"> 
+    <nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"> <label id="p-personal-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Персональные инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="pt-anonuserpage" class="mw-list-item"><span>Вы не представились системе</span></li>
+       <li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li>
+       <li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li>
+       <li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%AF%D1%80+%28%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li>
+       <li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%AF%D1%80+%28%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <div id="left-navigation"> 
+     <nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation"> <label id="p-namespaces-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Пространства имён</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li>
+        <li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"> 
+      <input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-menu-checkbox" aria-labelledby="p-variants-label"> <label id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading"> <span class="vector-menu-heading-label">русский</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+    </div> 
+    <div id="right-navigation"> 
+     <nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation"> <label id="p-views-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Просмотры</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list">
+        <li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)"><span>Читать</span></a></li>
+        <li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li>
+        <li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li>
+        <li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+       </ul> 
+      </div> 
+     </nav> 
+     <nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation" title="Больше возможностей"> 
+      <input type="checkbox" id="p-cactions-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-cactions" class="vector-menu-checkbox" aria-labelledby="p-cactions-label"> <label id="p-cactions-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Ещё</span> <span class="vector-menu-checkbox-expanded">expanded</span> <span class="vector-menu-checkbox-collapsed">collapsed</span> </label> 
+      <div class="vector-menu-content"> 
+       <ul class="vector-menu-content-list"></ul> 
+      </div> 
+     </nav> 
+     <div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box"> 
+      <div> 
+       <h3> <label for="searchInput">Поиск</label> </h3> 
+       <form action="/w/index.php" id="searchform" class="vector-search-box-form"> 
+        <div id="simpleSearch" class="vector-search-box-inner" data-search-loc="header-navigation"> 
+         <input class="vector-search-box-input" type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"> 
+         <input type="hidden" name="title" value="Служебная:Поиск"> 
+         <input id="mw-searchButton" class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти"> 
+         <input id="searchButton" class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти"> 
+        </div> 
+       </form> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="mw-panel"> 
+    <div id="p-logo" role="banner"> <a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу"></a> 
+    </div> 
+    <nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"> <label id="p-navigation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Навигация</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="home" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li>
+       <li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li>
+       <li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li>
+       <li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" icon="die" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li>
+       <li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li>
+       <li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"> <label id="p-participation-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Участие</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об&nbsp;ошибке</span></a></li>
+       <li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li>
+       <li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li>
+       <li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li>
+       <li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" icon="recentChanges" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li>
+       <li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li>
+       <li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" icon="help" title="Место расположения Справки"><span>Справка</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"> <label id="p-tb-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Инструменты</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li>
+       <li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li>
+       <li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li>
+       <li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)&amp;oldid=119273477" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li>
+       <li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о&nbsp;странице</span></a></li>
+       <li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%AF%D1%80_%28%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%29&amp;id=119273477&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li>
+       <li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4538474" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"> <label id="p-coll-print_export-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">Печать/экспорт</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%AF%D1%80+%28%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%29" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li>
+       <li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%AF%D1%80_%28%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%29&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li>
+       <li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"> <label id="p-wikibase-otherprojects-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">В других проектах</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Yar_(restaurant_on_St._Petersburg_Highway)" hreflang="en"><span>Викисклад</span></a></li>
+       <li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AF%D1%80_(%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)" hreflang="ru"><span>Викиновости</span></a></li>
+      </ul> 
+     </div> 
+    </nav> 
+    <nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"> <label id="p-lang-label" aria-label="" class="vector-menu-heading"> <span class="vector-menu-heading-label">На других языках</span> </label> 
+     <div class="vector-menu-content"> 
+      <ul class="vector-menu-content-list">
+       <li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Yar_(restaurant)" title="Yar (restaurant) — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li>
+       <li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%88%D0%B0%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)" title="Јар (ресторан) — македонский" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li>
+      </ul> 
+      <div class="after-portlet after-portlet-lang">
+       <span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4538474#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span>
+      </div> 
+     </div> 
+    </nav> 
+   </div> 
+  </div> 
+  <footer id="footer" class="mw-footer" role="contentinfo"> 
+   <ul id="footer-info"> 
+    <li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 10 января 2022 в 16:07.</li> 
+    <li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия. <span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br> Wikipedia®&nbsp;— зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li> 
+   </ul> 
+   <ul id="footer-places"> 
+    <li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru" class="extiw" title="m:Privacy policy/ru">Политика конфиденциальности</a></li> 
+    <li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5" title="Википедия:Описание">Описание Википедии</a></li> 
+    <li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Википедия:Отказ от ответственности">Отказ от ответственности</a></li> 
+    <li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li> 
+    <li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li> 
+    <li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Разработчики</a></li> 
+    <li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li> 
+    <li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li> 
+   </ul> 
+   <ul id="footer-icons" class="noprint"> 
+    <li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy"></a></li> 
+    <li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li> 
+   </ul> 
+  </footer> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.197","walltime":"0.237","ppvisitednodes":{"value":2397,"limit":1000000},"postexpandincludesize":{"value":10519,"limit":2097152},"templateargumentsize":{"value":4054,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6810,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  195.950      1 -total"," 65.11%  127.576      1 Шаблон:Примечания"," 29.59%   57.977      1 Шаблон:Статья"," 22.12%   43.353      2 Шаблон:Бсокр"," 18.77%   36.780      1 Шаблон:Значения"," 16.04%   31.432      1 Шаблон:Другое_значение"," 15.79%   30.932      2 Шаблон:Cite_web"," 11.50%   22.525      2 Шаблон:Книга","  9.19%   18.002      2 Шаблон:Начало_цитаты","  4.23%    8.283      2 Шаблон:Nobr"]},"scribunto":{"limitreport-timeusage":{"value":"0.026","limit":"10.000"},"limitreport-memusage":{"value":1607836,"limit":52428800}},"cachereport":{"origin":"mw1384","timestamp":"20220315231129","ttl":1814400,"transientcontent":false}}});});</script> 
+  <script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u042f\u0440 (\u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d)","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%AF%D1%80_(%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4538474","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4538474","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-01-05T16:39:10Z","dateModified":"2022-01-10T16:07:45Z"}</script> 
+  <script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":143,"wgHostname":"mw1403"});});</script>  
+ </body>
+</html>
